@@ -25,11 +25,11 @@ https://tigocloudgen.desdeparaguay.net/unicanal/unicanal_baja/chunklist_w1293458
 #EXTINF:20, TELEFUTURO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://tigocloudtf.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8
+https://tigocloudtf.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8?k=6ac7c5dbfc16b17b15b1d372eb7039633fd3f8484965faefef44cb2972a30c39&exp=1686993936
 #EXTINF:20, LATELE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://tigocloudtf.desdeparaguay.net/latele/latele_py_baja/chunklist_w992144223.m3u8
+https://tigocloudtf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?k=f8219a09953a4e8b50ded4d7f35b06b9c724605402c3b993dea37d300fea565a&exp=1686762332
 #EXTINF:200, ÑANDUTÍ TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -53,7 +53,7 @@ https://59ce1298bfb98.streamlock.net/marianotv/marianotv/playlist.m3u8
 #EXTINF:28, OVIEDO TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/chunklist_w1931071386.m3u8
+https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/playlist.m3u8%20%20
 #EXTINF:27, ESTACIÓN CRISTAL TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -62,11 +62,11 @@ https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
-#EXTINF:30, EDUCANAL
+#EXTINF:0, EDUCANAL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://59ce1298bfb98.streamlock.net/educanal/educanal/chunklist_w92056851.m3u8
-#EXTINF:24, RETROPLUS TV
+#EXTINF:30, RETROPLUS TV
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -75,15 +75,10 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
-#EXTINF:0, RETRO PLUS TV CINE
+#EXTINF:30, RETRO PLUS TV CINE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
-#EXTINF:0, RETROPLUS TV 2
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 #EXTINF:29, RTV CANAL 12
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -92,11 +87,6 @@ https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://59ce1298bfb98.streamlock.net/panambi/panambi/chunklist_w1855680502.m3u8
-#EXTINF:0, STINGRAY CLASSICA
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
 #EXTINF:28, SUCESO TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -116,11 +106,11 @@ https://59ce1298bfb98.streamlock.net/tvaire/tvaire/playlist.m3u8
 #EXTINF:0, CAPIATÁ TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://59ce1298bfb98.streamlock.net/capiatatv16/capiatatv16/chunklist_w1635313830.m3u8
+https://59ce1298bfb98.streamlock.net/capiata16/capiata16/playlist.m3u8
 #EXTINF:0, PARAVISIÓN
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-http://170.83.242.152:5350/play/a021
+https://edge6-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4.m3u8
 #EXTINF:0, SUR
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -200,7 +190,7 @@ https://59ce1298bfb98.streamlock.net/fortaleza/fortaleza/playlist.m3u8
 #EXTINF:0,******************************* ENTRETENIMIENTOS vARIOS **********************************************
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/Gerjules/GerjulTV/main/*******************************%20ENTRETENIMIENTOS%20VARIOS%20**********************************************
-#EXTINF:0, World Poker Tour
+#EXTINF:27, World Poker Tour
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -217,32 +207,63 @@ https://i.mjh.nz/PlutoTV/5fc54366b04b2300072e31af-alt.m3u8
 https://i.mjh.nz/PlutoTV/63a084934734f30007457b2c-alt.m3u8
 #EXTINF:54, tvg-logo="http://x.playerlatino.live/history.png" group-title="España" - Historia (ES)
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/718
-#EXTINF:58, tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" - History Channel
+#EXTINF:59, HISTORRY
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/67
+#EXTINF:60, tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" - H2
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/61
+#EXTINF:60, tvg-logo="http://x.playerlatino.live/discoverycivilization.png" group-title="Cultura" - Discovery Civilization
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/67
-#EXTINF:26, EL HISTONAUTA
+https://v3.playerlatino.live/stream/m3u8/23
+#EXTINF:62, tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" - Discovery Channel
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/22
+#EXTINF:59, tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" - Discovery SCI
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/26
+#EXTINF:60, tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura" - Discovery World
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/187
+#EXTINF:29, EL HISTONAUTA
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
-#EXTINF:25, PLUTO TV HISTORIA
+#EXTINF:25,Service
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18713-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3efb2623-4d66-4ffa-b1f5-4b9d5f63d16c&userId=&serverSideAds=true
-#EXTINF:30,Service
+#EXTINF:25,Service
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/61cd7b49543066000713b620-alt.m3u8
-#EXTINF:25, * Historia
+#EXTINF:25,Service
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -252,20 +273,65 @@ https://i.mjh.nz/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/61cd7b49543066000713b620-alt.m3u8
-#EXTINF:59, tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" - H2
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
+#EXTINF:25, Mundo geek
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/61
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" - H2 Sur
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/PlutoTV/6051201a0aa8a70007c24a2a-alt.m3u8
+#EXTINF:52,Saber Mas
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/760
+#EXTVLCOPT:network-caching=1000
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=6bSLyFJzzvyW_ngsjtWh&channelId=6018913ea15130002b284195
+#EXTINF:60, SABER MÁS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
+#EXTINF:39, HOLA TV
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
+#EXTINF:26, AstroNet
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/PlutoTV/61cd78920b90cb0007e28231-alt.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18713-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3efb2623-4d66-4ffa-b1f5-4b9d5f63d16c&userId=&serverSideAds=true
+#EXTINF:30, CULTURA 24 TV
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+#EXTINF:26, Aventuras TV
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff16001-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4420bd28-3750-4503-ab32-d76a0c1ec97d&userId=&serverSideAds=true
+#EXTINF:0, Ciudadanos por el mundo
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/PlutoTV/622f42b831233300078658cc-alt.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/PlutoTV/5ddc266f80e3550009136843-alt.m3u8
+#EXTINF:0, * Investiga
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/PlutoTV/602ba1cfb386d30007aecbbe-alt.m3u8
 #EXTINF:25, People are Awesome
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
@@ -276,195 +342,27 @@ https://i.mjh.nz/PlutoTV/5f1ac1780e94100007f94b3f-alt.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/61099f2b40d0640007fc5aa2-alt.m3u8
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/fox.png" group-title="Entretenimiento" - Fox Sur
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/750
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/star_life.png" group-title="Entretenimiento" - Fox Life Sur
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/746
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/glitz.png" group-title="Entretenimiento" - Glitz
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/158
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/hchhonduras.png" group-title="Honduras" - HCH
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/779
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/showtime.png" group-title="Peliculas" - Showtime
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/679
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/sony.png" group-title="Entretenimiento" - Sony
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/145
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/tcm.png" group-title="Peliculas" - TCM
+#EXTINF:59, tvg-logo="http://x.playerlatino.live/tcm.png" group-title="Peliculas" - TCM
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/85
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/tlc.png" group-title="Entretenimiento" - TLC
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/87
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/trutv.png" group-title="Entretenimiento" - TruTV
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/96
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento" -  A&E
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/1
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento" -  A&E Sur
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/474
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/aplus.png" group-title="Mexico" -  A+
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/406
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/a3series.png" group-title="España" -  A3Series
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/444
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/adn40.png" group-title="Noticias" -  ADN 40
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/447
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/amc.png" group-title="Entretenimiento" -  AMC
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/183
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/amc.png" group-title="España" -  AMC ES
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/715
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/antena3.png" group-title="España" - Antena 3
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/298
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/axn.png" group-title="Entretenimiento" - AXN
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/146
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/axn.png" group-title="Entretenimiento" - AXN Sur
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/804
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/axn.png" group-title="España" - AXN (ES)
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/713
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/axn.png" group-title="España" - AXN WHITE (ES)
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/714
-#EXTINF:70, tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" - Discovery Channel
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/22
-#EXTINF:58, tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" - Discovery Channel op2
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/639
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" - Discovery Channel Sur
+#EXTINF:59, tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" - Discovery Channel Sur
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/741
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/discoverycivilization.png" group-title="Cultura" - Discovery Civilization
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/23
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" - Discovery H&H
+#EXTINF:60, tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" - Discovery H&H
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/24
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" - Discovery H&H Sur
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/742
 #EXTINF:0, tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" - Discovery Kids
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -472,27 +370,13 @@ https://v3.playerlatino.live/stream/m3u8/742
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/25
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" - Discovery SCI
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/26
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" - Discovery Turbo
+#EXTINF:59, tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" - Discovery Turbo
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/28
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura" - Discovery World
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/187
 #EXTINF:60, tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" - Investigation Discovery
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -500,13 +384,6 @@ https://v3.playerlatino.live/stream/m3u8/187
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/68
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/crimeinvestigation.png" group-title="España" - Crime Investigation (ES)
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/720
 #EXTINF:25, Investiga
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
@@ -517,75 +394,6 @@ https://i.mjh.nz/PlutoTV/5cf96b8f4f1ca3f0629f4bf1-alt.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5dcde27ffae9520009c0c75a-alt.m3u8
-#EXTINF:25, * Investiga
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/602ba1cfb386d30007aecbbe-alt.m3u8
-#EXTINF:0,Saber Mas
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=6bSLyFJzzvyW_ngsjtWh&channelId=6018913ea15130002b284195
-#EXTINF:0, CULTURA 24 TV
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
-#EXTINF:0, HOLA TV
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
-#EXTINF:0, AstroNet
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8
-#EXTINF:0, Pluto TV Documentales
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/61cd78920b90cb0007e28231-alt.m3u8
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento" - FX
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/42
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento" - FX Sur
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/749
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/fxm.png" group-title="Peliculas" - FXM
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/43
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/galatv.png" group-title="Mexico" - Gala TV
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/56
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/gamavision.png" group-title="Ecuador" - Gamavision
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/891
-#EXTINF:0, Mundo geek
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/6051201a0aa8a70007c24a2a-alt.m3u8
 #EXTINF:25, Sony Canal Escape Perfecto
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
@@ -601,21 +409,11 @@ https://i.mjh.nz/PlutoTV/5e46e64dc73db400094b5f0b-alt.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5ed6828192e8b3000743ef61-alt.m3u8
-#EXTINF:0, Aventuras TV
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
-#EXTINF:25,Service
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/5ddc266f80e3550009136843-alt.m3u8
 #EXTINF:25, Mi Extraña Obsesión
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/60e4573c9f963e00077ecf25-alt.m3u8
-#EXTINF:23, Mi obsesión favorita
+#EXTINF:25, Mi obsesión favorita
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -624,30 +422,25 @@ https://i.mjh.nz/PlutoTV/5d93b4d71754e6a4298d086e-alt.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/60218baa464ef900073168c1-alt.m3u8
-#EXTINF:0, Ciudadanos por el mundo
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/622f42b831233300078658cc-alt.m3u8
-#EXTINF:0, MISTERIOS SIN RESOLVER
+#EXTINF:25, MISTERIOS SIN RESOLVER
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c3-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8023daf-3778-41a0-b07f-825852bd1452&userId=&serverSideAds=true
+#EXTINF:25, * Misterios
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/PlutoTV/5dcde2f53449c50009b2b4dc-alt.m3u8
+#EXTINF:25, PLUTO TV MISTERIOS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=143bd56d-49f4-4f1d-af28-384df378b15d&userId=&serverSideAds=true
 #EXTINF:0, Misterios Medicos
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5f230e416b68ff00075b0139-alt.m3u8
-#EXTINF:0, Misterios sin Resolver
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/5f610042272f68000867685b-alt.m3u8
-#EXTINF:0, * Misterios
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/5dcde2f53449c50009b2b4dc-alt.m3u8
-#EXTINF:0, MISTERIOS MÉDICOS
+#EXTINF:26, MISTERIOS MÉDICOS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27173-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25a22310-9312-4b9f-b9e9-92dac7411fe9&userId=&serverSideAds=true
@@ -655,10 +448,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f230e416b68ff00075
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d882d5233170007ee880e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a1155120-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=88135a72-e32e-4ffd-b14e-f345a944ab79&userId=&serverSideAds=true
-#EXTINF:0, PLUTO TV MISTERIOS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=143bd56d-49f4-4f1d-af28-384df378b15d&userId=&serverSideAds=true
 #EXTINF:0, MTV Ridiculousness
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
@@ -669,20 +458,20 @@ https://i.mjh.nz/PlutoTV/5e98a911c881310007d7aae2-alt.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/611b87946b7f420007c22361-alt.m3u8
-#EXTINF:0, MTV En Vivo
+#EXTINF:25, MTV En Vivo
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/6130d6f3f3f7bb0007dbd092-alt.m3u8
-#EXTINF:0, MTV CLASSICS
+#EXTINF:25, MTV CLASSICS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae22-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=660d0b2a-7fb6-45ce-9752-4b5be4f0e398&userId=&serverSideAds=true
-#EXTINF:0, MTV VINTAGE
+#EXTINF:25, MTV VINTAGE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=3eb20d33-c88f-4384-ad85-b2ee2a35575c&deviceLat=-32.0644&deviceLon=-60.6425&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=74.0&includeExtendedEvents=false&sid=945b0b37-ec2d-4eeb-a440-15f271e2e718&userId=&serverSideAds=true
-#EXTINF:25, MTV PRANKS
+#EXTINF:25,Service
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98a911c881310007d7aae2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22352-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1ac7d946-bd48-4171-91bf-2030c4d3b690&userId=&serverSideAds=true
@@ -796,12 +585,12 @@ https://i.mjh.nz/PlutoTV/5de91b7ea86ee60009d89e75-alt.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/6047fabfce6e8e00070bcc9f-alt.m3u8
-#EXTINF:0, MTV Spankin' New
+#EXTINF:25, MTV Spankin' New
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/6047fd723b5bd00007de7092-alt.m3u8
-#EXTINF:25, MTV Shore
+#EXTINF:25,Service
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -861,15 +650,10 @@ https://i.mjh.nz/PlutoTV/5d14fd1a252d35decbc4080c-alt.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5d14fdb8ca91eedee1633117-alt.m3u8
-#EXTINF:0, MTV PLUTO TV
+#EXTINF:25, MTV PLUTO TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a7e64375-725e-11eb-8572-a154f88ef305&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1ae43b29-e0ce-4a28-90a5-107a512d1569&userId=&serverSideAds=true
-#EXTINF:0, MTV *
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/5fab088b3279760007d4e4fd-alt.m3u8
 #EXTINF:0,******************************* PROGRAMAS DE TV**********************************************
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/Gerjules/GerjulTV/main/*******************************%20PROGRAMAS%20DE%20TV%20**********************************************
@@ -907,18 +691,6 @@ https://i.mjh.nz/PlutoTV/5f4d3696d938c900072679fd-alt.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
-#EXTINF:25, SCI-FI
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff29881-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=69952490-17b7-4b2b-92ec-4525b187cbe6&userId=&serverSideAds=true
-#EXTINF:0,SCI-FI (España)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4d2891-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd9d9781-2910-4dd2-9b1f-a1fd662d0cc3&userId=&serverSideAds=true
-#EXTINF:25, Cortos
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/61c49a1b5ec8d40008673251-alt.m3u8
 #EXTINF:30, El Conquistador del Fin
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
@@ -934,7 +706,7 @@ https://i.mjh.nz/PlutoTV/60d356a534f63f000850cdd7-alt.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/61325566b3c86a00078e4819-alt.m3u8
-#EXTINF:0, Clubbing TV
+#EXTINF:25, Clubbing TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/600ad4ad6537680007be2ea6-alt.m3u8
@@ -972,6 +744,10 @@ https://i.mjh.nz/PlutoTV/632b606e12a67b0007c9e371-alt.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/63eb9255c111bc0008fe6ec4-alt.m3u8
+#EXTINF:0, CSI EN ESPAÑOL
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a11f8a50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=38041b3f-c9d2-4524-8784-12dc0b2a0c11&userId=&serverSideAds=true
 #EXTINF:0, NCIS
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
@@ -1109,21 +885,16 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eeb650-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9d68de35-eba9-49ed-8345-3e39294775b8&userId=&serverSideAds=true
 #EXTINF:0, tvg-logo="http://x.playerlatino.live/isat.png" group-title="Peliculas" - I.Sat
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/153
-#EXTINF:62, tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" - Cinemax
+#EXTINF:62, Cinemax
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/20
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" - Cinemax Sur
+#EXTINF:0, CINEMAX SUR
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
@@ -1132,174 +903,122 @@ https://v3.playerlatino.live/stream/m3u8/739
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/paramount.png" group-title="Peliculas" - Paramount
+#EXTINF:60, tvg-logo="http://x.playerlatino.live/paramount.png" group-title="Peliculas" - Paramount
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/200
 #EXTINF:0, tvg-logo="http://x.playerlatino.live/paramount.png" group-title="Peliculas" - Paramount op2
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/647
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/universal.png" group-title="Peliculas" - Universal
+#EXTINF:60, tvg-logo="http://x.playerlatino.live/universal.png" group-title="Peliculas" - Universal
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/137
-#EXTINF:53, tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Entretenimiento" - Warner Channel
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Entretenimiento" - Warner Channel
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/102
-#EXTINF:50, tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas" - HBO
+#EXTINF:59, tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas" - HBO
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/62
 #EXTINF:58, tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas" - HBO 2
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/300
 #EXTINF:60, tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Peliculas" - HBO Family
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/63
 #EXTINF:60, tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas" - HBO Plus
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/64
-#EXTINF:55, tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas" - HBO Xtreme
+#EXTINF:59, tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas" - HBO Xtreme
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/814
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas" - HBO Xtreme
+#EXTINF:62, tvg-logo="http://x.playerlatino.live/golden.png" group-title="Peliculas" - Golden
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/841
-#EXTINF:59, tvg-logo="http://x.playerlatino.live/golden.png" group-title="Peliculas" - Golden
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/57
-#EXTINF:75, tvg-logo="http://x.playerlatino.live/goldenedge.png" group-title="Peliculas" - Golden Edge
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/goldenedge.png" group-title="Peliculas" - Golden Edge
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/58
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/moviemax.png" group-title="Peliculas" - Movie Max
+#EXTINF:60, tvg-logo="http://x.playerlatino.live/moviemax.png" group-title="Peliculas" - Movie Max
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/678
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/movistar_comedia.png" group-title="España" - Movistar Comedia
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/370
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/movistar_xtra.png" group-title="España" - Movistar Xtra
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/372
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/multipremier.png" group-title="Peliculas" - MultiPremier
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/294
 #EXTINF:25,Service
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eedd60-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=05e50493-989d-41b8-b7ad-f17f965c8f4a&userId=&serverSideAds=true
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="Peliculas" - Studio Universal
+#EXTINF:60, tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="Peliculas" - Studio Universal
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/84
-#EXTINF:120, Runtime Peliculas
+#EXTINF:116, Runtime Peliculas
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
+#EXTINF:120, Runtime Crimen
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://run-rucrl.otteravision.com/run/rucrl/rucrl_720.m3u8
 #EXTINF:25,Service
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/syfy.png" group-title="Peliculas" - SyFy
+#EXTINF:59, tvg-logo="http://x.playerlatino.live/syfy.png" group-title="Peliculas" - SyFy
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/151
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/syfy.png" group-title="Peliculas" - SyFy Sur
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
+#EXTINF:30, * Sci-Fi
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/758
-#EXTINF:59, tvg-logo="http://x.playerlatino.live/tnt.png" group-title="Peliculas" - TNT
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/PlutoTV/5f6a38eaa5b68b0007a00e7a-alt.m3u8
+#EXTINF:25, SCI-FI
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff29881-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=69952490-17b7-4b2b-92ec-4525b187cbe6&userId=&serverSideAds=true
+#EXTINF:25,SCI-FI (España)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4d2891-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd9d9781-2910-4dd2-9b1f-a1fd662d0cc3&userId=&serverSideAds=true
+#EXTINF:25, Cortos
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/PlutoTV/61c49a1b5ec8d40008673251-alt.m3u8
+#EXTINF:99, tvg-logo="http://x.playerlatino.live/tnt.png" group-title="Peliculas" - TNT
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/179
-#EXTINF:62, tvg-logo="http://x.playerlatino.live/tnt.png" group-title="España" - TNT (ES)
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/716
-#EXTINF:60, tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="Entretenimiento" - TNT Series
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/90
 #EXTINF:25, CINE ADRENALINA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -1314,93 +1033,64 @@ https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:60, Golden Premier
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/space.png" group-title="Peliculas" - Space
+#EXTINF:60, tvg-logo="http://x.playerlatino.live/space.png" group-title="Peliculas" - Space
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/83
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/space.png" group-title="Peliculas" - Space Sur
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/751
-#EXTINF:49, tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="Peliculas" - Cinecanal
+#EXTINF:79, tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="Peliculas" - Cinecanal
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/18
-#EXTINF:50, tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="Peliculas" - Cinecanal Sur
+#EXTINF:79, tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="Peliculas" - Cinecanal Sur
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/738
-#EXTINF:60, tvg-logo="http://x.playerlatino.live/azclic.png" group-title="Entretenimiento" - Az Clic
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
+#EXTINF:25, Pelis y Popcorn
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/165
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/tbs.png" group-title="Entretenimiento" - TBS Very Funny
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/171
-#EXTINF:100, tvg-logo="http://x.playerlatino.live/azcorazon.png" group-title="Entretenimiento" - Az Corazón
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/166
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="Peliculas" - De Película
+https://i.mjh.nz/PlutoTV/60fb2f47c133270007327375-alt.m3u8
+#EXTINF:60, tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="Peliculas" - De Película
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/21
-#EXTINF:0, * Cine Suspenso
+#EXTINF:25, * Cine Suspenso
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5ddc4e8bcbb9010009b4e84f-alt.m3u8
-#EXTINF:0, * Cine Crimen
+#EXTINF:25, * Cine Crimen
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/624af40c004f8000079b784d-alt.m3u8
-#EXTINF:0, * Sci-Fi
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/5f6a38eaa5b68b0007a00e7a-alt.m3u8
 #EXTINF:25,Service
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/61b793ccf571b80007b7a610-alt.m3u8
-#EXTINF:0, * Thrillers
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:25, * Thrillers
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5f1ac8a87cd38d000745d7cf-alt.m3u8
-#EXTINF:37, tvg-logo="http://x.playerlatino.live/cinelatino.png" group-title="Peliculas" - Cine Latino
+#EXTINF:60, tvg-logo="http://x.playerlatino.live/cinelatino.png" group-title="Peliculas" - Cine Latino
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
@@ -1412,12 +1102,16 @@ https://v3.playerlatino.live/stream/m3u8/295
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/25f414bc-75d2-4b01-b340-576f49ba41b4/4.m3u8
+#EXTINF:0, TU CINE
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 #EXTINF:54, Flou Cine
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-canelatv/playlist.m3u8?device_id=2a54a3cf5226de279654ec88859087d0
-#EXTINF:0, TOP CINE
+#EXTINF:60, TOP CINE
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -1427,6 +1121,10 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/c2ad726d-bf69-4f75-8e5f-1007ef768eb8/4.m3u8
+#EXTINF:25, CINE JAJA!!
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a115c650-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c2c24e3d-01f5-4d23-a4be-a53210dbc21c&userId=&serverSideAds=true
 #EXTINF:25,Service
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
@@ -1437,17 +1135,17 @@ https://i.mjh.nz/PlutoTV/609059dc63be6e0007b4eca6-alt.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5defde6d6c07b50009cf0757-alt.m3u8
-#EXTINF:0, * Vida Real
+#EXTINF:25, * Vida Real
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5df265697ec3510009df1ef0-alt.m3u8
-#EXTINF:0, * Cine Clásico
+#EXTINF:25, * Cine Clásico
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/61373bb45168fe000773eecd-alt.m3u8
-#EXTINF:0, Pluto TV Cine Clásico
+#EXTINF:25, Pluto TV Cine Clásico
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/61373bb45168fe000773eecd-alt.m3u8
@@ -1458,7 +1156,7 @@ https://i.mjh.nz/PlutoTV/61373bb45168fe000773eecd-alt.m3u8
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/32
-#EXTINF:0, * Cine de autor
+#EXTINF:25, * Cine de autor
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -1468,12 +1166,12 @@ https://i.mjh.nz/PlutoTV/60cc807324d60a0007708dc8-alt.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/612ce5214bb5790007ad3016-alt.m3u8
-#EXTINF:0, * Western
+#EXTINF:25, * Western
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/6385e82900ab2e000768a058-alt.m3u8
-#EXTINF:0, * Filmstream
+#EXTINF:25, * Filmstream
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -1527,25 +1225,11 @@ https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
-#EXTINF:60,ViX Cine Club (720p)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
-#EXTINF:60,ViX Familia (720p)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://linear-195.frequency.stream/195/hls/master/playlist.m3u8
 #EXTINF:0,ViX Jajaja (1080p)
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
-#EXTINF:0, PARAMUNT+ PRESENTA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, CINE CLÁSICO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -1554,71 +1238,46 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609059dc63be6e0007b
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0, CINE FAMILIA
+#EXTINF:25, CINE FAMILIA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fa508f20-2870-486b-a716-7a14ab7ab7fb&userId=&serverSideAds=true
-#EXTINF:0, CINE ACCIÓN (España)
+#EXTINF:25, CINE ACCIÓN (España)
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4ba1f1-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2ef6bc3f-95cc-43bd-98df-11ffd10b28fc&userId=&serverSideAds=true
-#EXTINF:0, CINE SUSPENSO
+#EXTINF:25, CINE SUSPENSO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18710-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6602c30d-29cf-40ea-9379-390b2d9b72bb&userId=&serverSideAds=true
-#EXTINF:0, CINE JAJA!!
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a115c650-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c2c24e3d-01f5-4d23-a4be-a53210dbc21c&userId=&serverSideAds=true
-#EXTINF:0, CINE XOXO
+#EXTINF:25, CINE XOXO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a115ed60-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f83ca203-9359-411e-a06a-f401bb16ab3a&userId=&serverSideAds=true
-#EXTINF:0, CINE ROMANCE
+#EXTINF:25, CINE ROMANCE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
-#EXTINF:0,CANELA CLÁSSICOS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
-#EXTINF:0, RAKUTEN TV ACCIÓN
+#EXTINF:36, RAKUTEN TV ACCIÓN
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/playlist.m3u8?ads.wurl_channel%3D427%26ads.wurl_name%3DRakutenActionMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
-#EXTINF:0, RAKUTEN TV FAMILIA
+#EXTINF:36, RAKUTEN TV FAMILIA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel%3D718%26ads.wurl_name%3DRakutenFamily%26ads.coppa%3D1%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7D
-#EXTINF:0, RAKUTEN TV TOP FREE
+#EXTINF:35, RAKUTEN TV TOP FREE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0, CINE REAL
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://cinereal-plex.amagi.tv/CineReal/master.m3u8
-#EXTINF:0, TU CINE
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 #EXTINF:0,CINE JUNTOS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
-#EXTINF:0, CINE SUREÑO
+#EXTINF:60, CINE SUREÑO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
-#EXTINF:0, MI TV CINE
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://162.244.80.176:8081/abr/stream/live/livestream_480p/chunks.m3u8
-#EXTINF:25, Pelis y Popcorn
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/60fb2f47c133270007327375-alt.m3u8
 #EXTINF:25, IGN
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -1628,10 +1287,6 @@ https://i.mjh.nz/PlutoTV/5f1ac118dd7e6000077e31af-alt.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5f1abce155a03d0007718834-alt.m3u8
-#EXTINF:0, CSI EN ESPAÑOL
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a11f8a50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=38041b3f-c9d2-4524-8784-12dc0b2a0c11&userId=&serverSideAds=true
 #EXTINF:0, PLANETA TV MOVIES
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -1640,25 +1295,20 @@ https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae24-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b1c7f116-fa08-488b-a213-5bb1f7ee5ad2&userId=&serverSideAds=true
-#EXTINF:0, CINE 2
+#EXTINF:25, CINE 2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3548ea01-ec9a-4077-95c1-67068b0dfecd&userId=&serverSideAds=true
-#EXTINF:0, Runtime Crimen
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://run-rucrl.otteravision.com/run/rucrl/rucrl_720.m3u8
 #EXTINF:0, Runtime Familia
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
-#EXTINF:0, PLUTOTV THRILLERS
+#EXTINF:25,Service
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId=&serverSideAds=true
-#EXTINF:0, Pluto TV Sci-Fi
+#EXTINF:25, Pluto TV Sci-Fi
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5f6a38eaa5b68b0007a00e7a-alt.m3u8
@@ -1670,21 +1320,17 @@ https://i.mjh.nz/PlutoTV/60cc807324d60a0007708dc8-alt.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/6385e82900ab2e000768a058-alt.m3u8
-#EXTINF:0,PLUTO TV AVENTURA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff16001-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4420bd28-3750-4503-ab32-d76a0c1ec97d&userId=&serverSideAds=true
 #EXTINF:120, Free tv
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
-#EXTINF:27, Cine Accion
+#EXTINF:28, Cine Accion
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:0, Cine Suspenso
+#EXTINF:25, Cine Suspenso
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -1702,11 +1348,11 @@ https://i.mjh.nz/PlutoTV/62568a94ed1f380007b0211f-alt.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0, MY TIME MOVIES 2
+#EXTINF:60, MY TIME MOVIES 2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:0, ESTRELLAS DE ACCIÓN
+#EXTINF:25, ESTRELLAS DE ACCIÓN
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22351-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=988908ef-9cb1-4bfd-9346-d817932e3a37&userId=&serverSideAds=true
@@ -1715,30 +1361,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/61cd78920b90cb0007e28231-alt.m3u8
-#EXTINF:0,ViX Lo Mejor De La Liga MX (720p)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
-#EXTINF:0, Rakuten Viki
+#EXTINF:25, Rakuten Viki
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/60c8a24e17da110007eed4fd-alt.m3u8
-#EXTINF:60, Golden Multiplex
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
-#EXTINF:0, Acción Mexicana
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
-#EXTINF:0, Cine Romántico
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:36, RAKUTEN SPOTLIGHT
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
@@ -1793,7 +1419,7 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:30, Retro
+#EXTINF:27, Retro
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -1835,6 +1461,11 @@ http://tvretropalmares.com:8090/hls/envivo.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+#EXTINF:0, RETROPLUS TV 2
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 #EXTINF:25, REETRO PLAY TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -2128,149 +1759,100 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091
 #EXTINF:0,******************************* DEPORTES **********************************************
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/Gerjules/GerjulTV/main/*******************************%20DEPORTES%20**********************************************
-#EXTINF:59, tvg-logo="http://x.playerlatino.live/tntsports.png" group-title="Deportes" - TNT Sports
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/509
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/tntsports.png" group-title="Deportes" - TNT Sports
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0, DIRECTV SPORTS
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/509
-#EXTINF:121, tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes" - ESPN
+#EXTVLCOPT:network-caching=1000
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73325
+#EXTINF:60, tvg-logo="http://x.playerlatino.live/tntsports.png" group-title="Deportes" - TNT Sports
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/509
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes" - ESPN
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/34
-#EXTINF:97, tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes" - ESPN 2
+#EXTINF:139, tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes" - ESPN 2
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/35
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes" - ESPN 2 MX
+#EXTINF:60, tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes" - ESPN 2 MX
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/531
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes" - ESPN Chile
+#EXTINF:13, tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes" - ESPN Chile
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/842
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes" - ESPN MX
+#EXTINF:60, tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes" - ESPN MX
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/530
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="Deportes" - ESPN Plus
+#EXTINF:58, tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="Deportes" - ESPN Plus
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/37
-#EXTINF:57, tvg-logo="http://x.playerlatino.live/fox.png" group-title="Entretenimiento" - Fox Sur
+#EXTINF:60, tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes" - Fox Sports
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/750
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/star_life.png" group-title="Entretenimiento" - Fox Life Sur
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/746
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes" - Fox Sports
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/52
 #EXTINF:0, tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes" - Fox Sports 2
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/53
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes" - Fox Sports 2 MX
+#EXTINF:60, tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes" - Fox Sports 2 MX
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/528
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Deportes" - Fox Sports 3
+#EXTINF:60, tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Deportes" - Fox Sports 3
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/54
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes" - Fox Sports MX
+#EXTINF:87, tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes" - Fox Sports MX
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/527
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes" - Fox Sports MX Sur
+#EXTINF:91, tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes" - Fox Sports MX Sur
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/748
 #EXTINF:0, tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="Deportes" - Fox Sports Premium
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/512
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes" - Fox Sports Sur
+#EXTINF:59, tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes" - Fox Sports Sur 2
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/402
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes" - Fox Sports Sur 2
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/410
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Deportes" - Fox Sports Sur 3
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/511
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/tycsports.png" group-title="Deportes" - Tyc Sports
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/274
-#EXTINF:0, TIGO SPORTS
+#EXTINF:47, TIGO SPORTS
 #EXTVLCOPT:network-caching=1000
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
-#EXTINF:0, REAL MADRID TV
+#EXTINF:60, REAL MADRID TV
 #EXTVLCOPT:network-caching=1000
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
-#EXTINF:0, Lo Mejor de la Liga MX USA
+#EXTINF:25, BEIN SPORTS XTRA
 #EXTVLCOPT:network-caching=1000
-https://linear-193.frequency.stream/dist/localnow/193/hls/master/playlist.m3u8
-#EXTINF:0, Lo Mejor de la Liga MX
 #EXTVLCOPT:network-caching=1000
-https://linear-452.frequency.stream/452/hls/master/playlist.m3u8
-#EXTINF:0, EVENTOS TyC PLAY 1
+https://i.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
+#EXTINF:120, EVENTOS TyC PLAY 1
 #EXTVLCOPT:network-caching=1000
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
-#EXTINF:0, EVENTOS TyC PLAY 2
+#EXTINF:118, EVENTOS TyC PLAY 2
 #EXTVLCOPT:network-caching=1000
 https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
 #EXTINF:0, EVENTOS TyC PLAY 3
@@ -2300,197 +1882,106 @@ https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/ind
 #EXTINF:0, EVENTOS TyC PLAY 11
 #EXTVLCOPT:network-caching=1000
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/afizzionados.png" group-title="Deportes" -  Afizzionados
+#EXTINF:60, tvg-logo="http://x.playerlatino.live/afizzionados.png" group-title="Deportes" -  Afizzionados
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/878
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/aymsports.png" group-title="Deportes" - AyM Sports
+#EXTINF:13, tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="Deportes" - BeinSports
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/148
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="Deportes" - BeinSports
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/753
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="Deportes" - BeinSports Ñ
+#EXTINF:13, tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="Deportes" - BeinSports Ñ
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/761
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/cdnsportsmax.png" group-title="Deportes" - CDN Sportsmax
+#EXTINF:60, tvg-logo="http://x.playerlatino.live/golperu.png" group-title="Deportes" - Gol Peru
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/206
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/clarosports.png" group-title="Deportes" - Claro Sports
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/328
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/deportv.png" group-title="Deportes" - DeporTV
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/139
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/eurosport.png" group-title="Deportes" - Eurosport
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/39
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/golperu.png" group-title="Deportes" - Gol Peru
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/686
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/goltv.png" group-title="Deportes" - Gol TV
+#EXTINF:60, tvg-logo="http://x.playerlatino.live/goltv.png" group-title="Deportes" - Gol TV
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/287
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/goltv.png" group-title="Deportes" - Gol TV OP2
+#EXTINF:80, tvg-logo="http://x.playerlatino.live/goltv.png" group-title="Deportes" - Gol TV OP2
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/514
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="Deportes" - Liga de Campeones
+#EXTINF:60, tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="Deportes" - Liga de Campeones
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/890
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="Deportes" - Liga de Campeones 2
+#EXTINF:13, tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="Deportes" - Liga de Campeones 2
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/893
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/movistar_deportes.png" group-title="Deportes" - Movistar Deportes
+#EXTINF:59, tvg-logo="http://x.playerlatino.live/movistar_deportes.png" group-title="Deportes" - Movistar Deportes
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/366
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/movistar_deportes2.png" group-title="Deportes" - Movistar Deportes 2
+#EXTINF:60, tvg-logo="http://x.playerlatino.live/movistar_deportes2.png" group-title="Deportes" - Movistar Deportes 2
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/367
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/tigosports.png" group-title="Deportes" - TigoSports Bolivia
+#EXTINF:60, tvg-logo="http://x.playerlatino.live/winsports.png" group-title="Deportes" - Win Sports
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/764
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/tigosports.png" group-title="Deportes" - TigoSports Paraguay
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/843
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/tvcdeportes.png" group-title="Deportes" - TVC Deportes
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/837
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/univisiondeportes.png" group-title="Deportes" - Univisión Deportes
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/373
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/winsports.png" group-title="Deportes" - Win Sports
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/292
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="HD" - Win Sports +
+#EXTINF:60, tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="HD" - Win Sports +
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/881
 #EXTINF:60, Golazo Network
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
-#EXTINF:25, ITV Deportes
+#EXTINF:26, ITV Deportes
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 #EXTINF:60, PAC 12
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 https://pac12-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:0, RED BULL TV
+#EXTINF:90, RED BULL TV
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-#EXTINF:0,Abu Dhabi Sports 1
+#EXTINF:36,Abu Dhabi Sports 2
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:0,Abu Dhabi Sports 2
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:0,Dubai Sports 1
+#EXTINF:60,Dubai Sports 2
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:0,Dubai Sports 2
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
-#EXTINF:0,Dubai Sports 3
+#EXTINF:60,Dubai Sports 3
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#EXTINF:0, TV Turf Movil
+#EXTINF:8, TV Turf Movil
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://janus.tvturf.cl/playlist/stream.m3u8
-#EXTINF:0, Valparaiso Sporting
+#EXTINF:15, Valparaiso Sporting
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:30, AMERICA SPORTS
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 https://ythls.onrender.com/channel/UCnx743KuO_16sCMIbEg7Y7Q.m3u8
-#EXTINF:0, TyC SPORTS Internacional
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://186.96.111.23:8000/play/a016
 #EXTINF:8, Win Sports+
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
@@ -2501,17 +1992,12 @@ http://190.27.253.211:8000/play/a07g/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://ythls.onrender.com/channel/UCavPXO6_Z2cVjT9OVguwXmg.m3u8
-#EXTINF:8, FUTV
+#EXTINF:8,FUTV HD CR
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.254:8000/play/a0t3/index.m3u8
-#EXTINF:0, DIRECTV SPORTS
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73325
-#EXTINF:0, SSIPTV ARG SPORTS 2
+#EXTINF:25, SSIPTV ARG SPORTS 2
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -2526,17 +2012,12 @@ https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/63c6e37e636b7e0007ccb635-alt.m3u8
-#EXTINF:80, CITY SPORTS TV
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
 #EXTINF:8, CLARO SPORTS 2
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.254:8000/play/a0on/index.m3u8
-#EXTINF:29, ALL SPORTS
+#EXTINF:28, ALL SPORTS
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -2561,131 +2042,39 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:120, EVENTOS TyC PLAY 1
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
-#EXTINF:115, EVENTOS TyC PLAY 2
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
-#EXTINF:114, EVENTOS TyC PLAY 3
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
-#EXTINF:0, EVENTOS TyC PLAY 4
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
-#EXTINF:0, EVENTOS TyC PLAY 5
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
-#EXTINF:0, EVENTOS TyC PLAY 6
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
-#EXTINF:0, EVENTOS TyC PLAY 7
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
-#EXTINF:0, EVENTOS TyC PLAY 8
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
-#EXTINF:0, EVENTOS TyC PLAY 9
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
-#EXTINF:0, EVENTOS TyC PLAY 10
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8
-#EXTINF:0, EVENTOS TyC PLAY 11
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
-#EXTINF:120, EVENTOS TyC PLAY 12
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
-#EXTINF:0, BEST CABLE SPORTS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://live.siete.us:19360/bestcablesports/bestcablesports.m3u8
-#EXTINF:0, EL GARAGE TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
-#EXTINF:0, MOTORVISION TV
+#EXTINF:25, MOTORVISION TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0, DEPORTV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
-#EXTINF:0, FÚTBOL PARA FANS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d533-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=04baab3a-5f85-4e2b-9112-e0c2b16014ce&userId=&serverSideAds=true
-#EXTINF:0, COMBATE GLOBAL
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=970&deviceId=5bb1ac3e268cae539bcedb07&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:0, ALL ELITE WRESTLING
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff30db0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99bea8e3-f5b3-42e7-a4e7-081bf207b1bc&userId=&serverSideAds=true
-#EXTINF:0, LUCHA LIBRE AAA
+#EXTINF:27, LUCHA LIBRE AAA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
-#EXTINF:0, LUCHA LIBRE AAA 2
+#EXTINF:25, LUCHA LIBRE AAA 2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7aea60-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e96a0f6-ac42-4164-a333-6f430bfee437&userId=&serverSideAds=true
-#EXTINF:0, ACTION SPORTS
+#EXTINF:25, ACTION SPORTS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d849631-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b6801a0b-53b5-469c-a826-691aadfcdf85&userId=&serverSideAds=true
-#EXTINF:0, ACTION SPORTS 2
+#EXTINF:25, ACTION SPORTS 2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db867744f229f0009266784/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a103ec00-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=05cde875-5856-4889-a846-2559db77631d&userId=&serverSideAds=true
-#EXTINF:0, MLB NETWORK
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:0, MLB CHANNEL
+#EXTINF:25, MLB CHANNEL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d882-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f1832274-98b7-4765-ad8b-c533c4382008&userId=&serverSideAds=true
-#EXTINF:0, RED BULL TV
+#EXTINF:90, RED BULL TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-#EXTINF:0, BEIN SPORTS XTRA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
 #EXTINF:0, MLS TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7d8272-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=83907acb-ee3c-4b1f-8026-c92526fccb6e&userId=&serverSideAds=true
-#EXTINF:0, TENNIS CHANNEL
+#EXTINF:60, TENNIS CHANNEL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
@@ -2769,29 +2158,25 @@ https://i.mjh.nz/PlutoTV/6076c74daa05ac0007d0eb07-alt.m3u8
 #EXTINF:0,******************************* SERIES **********************************************
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/Gerjules/GerjulTV/main/*******************************%20SERIES%20**********************************************
-#EXTINF:30, Retro
+#EXTINF:29, Retro
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://200.48.184.156:1935/eretro/eretro/playlist.m3u8
-#EXTINF:0,Xtrema Series (360p)
+#EXTINF:31,Xtrema Series (360p)
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
-#EXTINF:0, SERIES
+#EXTINF:25, SERIES
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e90-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7937749a-cec8-47cd-b6d9-43b0c4fea6c8&userId=&serverSideAds=true
-#EXTINF:0, SERIES 2
+#EXTINF:25, SERIES 2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a62c0-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=59508532-73e8-480a-a7ac-ca658e672783&userId=&serverSideAds=true
-#EXTINF:0, SERIES 3
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a2b4b1ad8fd000795ac87/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b2616-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0cab4396-5ed7-45d4-8608-8045b2eae51f&userId=&serverSideAds=true
-#EXTINF:0, SERIES LATINAS
+#EXTINF:25, SERIES LATINAS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff138f1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=66035293-500c-4b3d-8f02-dc855d5f476d&userId=&serverSideAds=true
@@ -3543,12 +2928,12 @@ https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8
 #EXTINF:0,******************************* VIDEOS MUSICALES **********************************************
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/Gerjules/GerjulTV/main/*******************************%20VIDEOS%20MUSICALES%20**********************************************
-#EXTINF:0, V2BEAT
+#EXTINF:21, V2BEAT
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:0, XITE
+#EXTINF:30, XITE
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -3815,7 +3200,7 @@ https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
-#EXTINF:0, Recuerdos Retro Radio TV
+#EXTINF:28, Recuerdos Retro Radio TV
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -4358,6 +3743,11 @@ http://siglo21.dnsalias.com:8080/mylive/tvexitos/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
+#EXTINF:0, STINGRAY CLASSICA
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
 #EXTINF:0, ZAPPING MUSIC
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -4800,95 +4190,56 @@ https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
 #EXTINF:0,******************************* CANALES DE AIRE **********************************************
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/Gerjules/GerjulTV/main/*******************************%20CANALES%20DE%20AIRE%20**********************************************
-#EXTINF:0, ESPAÑOL RUN TIME
+#EXTINF:30, TODO NOTICIAS  
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://ythls.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
+#EXTINF:58, tvg-logo="http://x.playerlatino.live/telefe.png" group-title="Argentina" - Telefe
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/771
+#EXTINF:30, LA NACION +
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+#EXTINF:24, CHILEVISIÓN CONTIGO
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62aa5740a47b6c000769f407/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0, CANAL 26 TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:25, ESPAÑOL RUN TIME
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6086d3f420fc8500075f8dbf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=46fe0760-cd6b-11eb-89a0-1911255476a4&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc63e9bf-5ac9-45b2-9ed9-bf287900f7a8&userId=&serverSideAds=true
-#EXTINF:0, CANELA TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://stream-us-east-1.getpublica.com/cl/2aeb03c2-eb6b-4f20-b7e8-e699f48fd580/1280x720_4569479_0.m3u8
 #EXTINF:16, MEGA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-#EXTINF:0, 13 ENTRETENIMIENTOS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
-#EXTINF:0, 13 PRIME
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
-#EXTINF:0, EGM CHANNEL
+#EXTINF:30, EGM CHANNEL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://paneltv.online:1936/8186/8186/chunklist_w217941932.m3u8
-#EXTINF:0, TV COSTA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://hd.chileservidores.cl:1936/tvcosta1/tvcosta1/chunklist_w900700282.m3u8
-#EXTINF:0, TELE 8
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://5eae379fb77bb.streamlock.net/rauleduardo493/rauleduardo493/playlist.m3u8
-#EXTINF:0,5TV LINARES
+#EXTINF:18,5TV LINARES
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
-#EXTINF:0, ZPTV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/chunklist_w929108188.m3u8
-#EXTINF:0, SPECTRUM CHANNEL
+#EXTINF:33, SPECTRUM CHANNEL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://panel.miplay.cl:8081/spectrumchannel/tracks-v3a1/mono.m3u8
-#EXTINF:0, BELEVISIÓN
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://v2.tustreaming.cl/belevision/index.m3u8
-#EXTINF:0, CHILEVISIÓN CONTIGO
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62aa5740a47b6c000769f407/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0, HUASCO TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://paneltv.online:1936/8062/8062/playlist.m3u8
-#EXTINF:0, TEMUCO TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://5eff35271151c.streamlock.net:1936/8038/8038/playlist.m3u8
-#EXTINF:0, CLUB TV
+#EXTINF:30, CLUB TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://paneltv.online:1936/8030/8030/playlist.m3u8
-#EXTINF:0, ENFOQUE DIGITAL
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://Stmv1.zcastbr.com/edtvchile/edtvchile/playlist.m3u8
-#EXTINF:0, QUINTA TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://livefocamundo.com:8081/8164/index.m3u8
-#EXTINF:0, CANAL 74 TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://Stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
-#EXTINF:0, CANAL CLATINO 54
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://190.3.169.119:8080/latina/latina/playlist.m3u8
-#EXTINF:0, SUR VISIÓN ALERCE TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/chunklist_w1568568829.m3u8
-#EXTINF:0, TV MAULE LIVE
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1175212722.m3u8?WebM3UCL
-#EXTINF:0, TELERED
+#EXTINF:30, TELERED
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://59ef525c24caa.streamlock.net/ARBtv/teleplus/playlist.m3u8
@@ -4896,31 +4247,23 @@ https://59ef525c24caa.streamlock.net/ARBtv/teleplus/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://59ef525c24caa.streamlock.net/telesur/telesur/playlist.m3u8
-#EXTINF:0, TICAVISIÓN
+#EXTINF:28,STV El Camal Familiar (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:0, SARAPIQUÍ TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://list.iptvcat.com/my_list/s/e2cdee5e838c70a0a2f888fca8c7a2d4.m3u8
-#EXTINF:0, TELESISTEMA
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:30, TELESISTEMA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
-#EXTINF:0, TV SUR CANAL 9
+#EXTINF:29, TV SUR CANAL 9
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
-#EXTINF:0, TV SUR CANAL 14
+#EXTINF:28, TV SUR CANAL 14
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
-#EXTINF:0, TELE MÁS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://cp.sradiotv.com:1936/8064/8064/chunklist_w989385140.m3u8
-#EXTINF:0, TELE UNO
+#EXTINF:30, TELE UNO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
@@ -5028,15 +4371,7 @@ http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_defa
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1735000.m3u8
-#EXTINF:0, EWTN
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
-#EXTINF:0, ESNE TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=601202c295243c00016e587f&dw=10800&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1611879490%7Eacl%3D%2F*%4044045%2F*%7Ehmac%3D2637aa9afeaaf6b7163d50dbbd0ba206060910b1237ff724e144268c8273c289
-#EXTINF:0, ORBE 21
+#EXTINF:23, ORBE 21
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
@@ -5204,10 +4539,6 @@ http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
-#EXTINF:0, CANAL 26 TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:0, TELEDIARIO TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -5236,35 +4567,7 @@ http://america-crtvg.flumotion.com/crtvg/america_med/chunks.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
-#EXTINF:0, MVS TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
-#EXTINF:0, KBO TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
-#EXTINF:0, PAT
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/playlist.m3u8
-#EXTINF:0, BOLIVIA TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://5f2c1b0d880e5.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDIxIDEyOjQ0OjI5IEFNJmhhc2hfdmFsdWU9dGpDbXZnbSsrWS83aXExdDMrc1ZVUT09JnZhbGlkbWludXRlcz01MCZpZD0=
-#EXTINF:0, FUJI TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://fujitv.mov3.co/hls/fujitv.m3u8
-#EXTINF:0, WAPP TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
-#EXTINF:0, ACEQUIA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
-#EXTINF:0, METRO TV CANAL 12
+#EXTINF:6, METRO TV CANAL 12
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
@@ -5343,38 +4646,16 @@ https://ythls.onrender.com/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
-#EXTINF:30, TODO NOTICIAS  
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://ythls.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
-#EXTINF:30, LA NACION +
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
-#EXTINF:24, CANAL E 
+#EXTINF:30, CANAL E 
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
-#EXTINF:18, RURAL TV
+#EXTINF:16, RURAL TV
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
-#EXTINF:0, GH TELEVISIÓN
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://cloudflare.streamgato.us:3352/live/ghtelevisionhdlive.m3u8
-#EXTINF:0, VEGAVISIÓN CANAL 18
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
-#EXTINF:0, UCV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:0, Te Lo Cuento
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
@@ -5405,7 +4686,7 @@ https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://stream.cvisiontv.com/cvision_stream.m3u8
-#EXTINF:0, SPIKE EXTREMO
+#EXTINF:25,Service
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c804191-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=18c982c0-0d7b-4cf8-bf92-6eaec6a491c2&userId=&serverSideAds=true
@@ -5435,27 +4716,11 @@ https://i.mjh.nz/PlutoTV/60492a1e6361250007679665-alt.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/chunklist_w1419707822_b1013840.m3u8
-#EXTINF:0, CINE CLUB
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://stmv1.zcastbr.com/cineclubtv/cineclubtv/chunklist_w541442211.m3u8
-#EXTINF:0, WMS HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8
-#EXTINF:0, CINE.AR
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1950619080.m3u8
-#EXTINF:0, FLIXTUBE
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://panel.streamingtv-mediacp.online:1936/8054/8054/.m3u8
 #EXTINF:0, WOW TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-#EXTINF:0, COLOSAL TV
+#EXTINF:29, COLOSAL TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w2104890955.m3u8
@@ -5463,23 +4728,7 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w2104890955.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://c054f53413c54c1d9214a6156a264c0d.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-46-AFV_ES-PLEX/df019a29-f1e1-4465-b304-53786ead6b92/0.m3u8
-#EXTINF:0, INFINITA TV PREMIUM
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://rtmp02.portalexpress.es/infinitatv/infinitatv/chunklist_w527562519.m3u8
-#EXTINF:0, ZEE MUNDO
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
-#EXTINF:0, CONFLICTO TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8
-#EXTINF:0, SIN TETAS NO HAY PARAÍSO
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae52e34a3700007000534/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a8e552-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f7a1d9b1-1365-4889-bb27-c286960039b6&userId=&serverSideAds=true
-#EXTINF:0, SIN TETAS NO HAY PARAÍSO 2
+#EXTINF:25, SIN TETAS NO HAY PARAÍSO 2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=25bdaa71-ada8-11eb-a3cb-eb027f348c5f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc5aeb38-8de1-4922-821b-78e2296d5daa&userId=&serverSideAds=true
@@ -5507,14 +4756,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6086d3f420fc8500075
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://stream-us-east-1.getpublica.com/cl/2aeb03c2-eb6b-4f20-b7e8-e699f48fd580/1280x720_4569479_0.m3u8
-#EXTINF:0, LATINOS UP
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1928770453.m3u8
-#EXTINF:0, SABER MÁS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
 #EXTINF:0, ENCUENTRO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -5627,11 +4868,6 @@ https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://59537faa0729a.streamlock.net/canal6mdp/canal6mdp/chunklist_w2001524689.m3u8
-#EXTINF:0, UTNTV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://streaming.arcast.com.ar:1935/utntv/utntv/playlist.m3u8
-#EXTINF:0,iVBORw0KGgoAAAANSUhEUgAAAOEAAADgCAMAAADCMfHtAAABcVBMVEX/////AABpAAD4AAD7AABnAAD2AADxAADWAABtAAD7+/vRAADkAADfAADtAABqAABxAAD5//+JAAD+hob/6Oh+AADoAACOAADNAAD17u6TAACGAAB1AAD0SUl7AACgAAC2AADEAACpAADrhITwvLzx8fGbAABhAADzYWHsk5OtAAC9AABZAAD/OTnTy8vLwsLs39+NZWW+s7OCISKvoKDqPDzuIyPmqKjqS0vi09NFAAA8AABQAAAwAADynp7zamrfxsbWjIy6YWGMPz/jJCXhhYWebG3Zl5i5rKzg3t7gXV6PXV1/RESlkJF0KiqObW3YbW3VRkaVfH15SEndvb3bYmJ1KCiFSkrbKyvppqbbs7PqfX37JCTwOTmnlJTWnp7dPj7ETE2CXV2/n5/FNzjChYVmKiuWHB2uZGRaNDXNZGSCGhqMeXkpAABKIyMWAAC3IyNlUFC7dXaaXFz10tKhSkr/ubmofX1QICCIKyy9oKC+1dfMAAALiklEQVR4nO2ci1vayBbACYkhhFfCFuSlgBpQsJW2vtBWsRatW6ut1d76urqt25fbdnfb297uX3/nkZAJBEGvNcHv/L6vIiHwzc8zmTlnMtTjAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADogO92An42sado1l1Svt6JaW3qwvHJLc7odP43aQ47jhFzm0XVVrAscoTQ4cS0V1WNOR4ytyNfwUqzGuQaDK57rF8RV0RQM+idk1wVRrdyZfLR24VbJv3IM2cce9xnWBcEn5VLrT25d5N3VICuY35BxauMuxYrex/hAVtmcOGfb1FXeIrhOrkGXRbHOtDA0lNmcULt/r2bpoVxpix52VxDVh5ZGClLh7tZal++thQRBaLzVF50wXnBVENUQ1wSf6N+Y7EJSXQ0LPM8bioF1c5ZwlaHnabMhDkc59vxOh0Zqz7Afbzhmt9je7ap+qoVtFNHENqRsnTW41tAsbyoGByesL7sqiskpW0U0uPZvtMuj1TodQ6mjkHvefJ6rguhRZ6btHbl4bvD2LZuxVWvkochR8PU/aT3FVUFEjts79n2V46TCiyfNw862z3KGYtebXWaI0LZ34vaOYt467Kh1gX25tYdS3NVPKer20zaRRMPOphEo7aXlYk39u82nuS+IBCRpH0khkNogvdXaQ0N3DXFZ1pJJTXOnlhV1+1efraQv3/+vyaYeetsUQoo94UfQjp61kbQUEnxq0umW/h9oRy95W0m2h7JjbO3h1CEZcnZGR0ee7uzvD9fHECMOtb8r1lanhTMEc5uWiXIEHcKGKppbF5g/zq5Dre8OtVpvN036ones5yJDwTDcZQwPz1GMOYK898yut0obzVkANiQyuuHo8P7+/gDHHbjdEFF9KjYLljZb2o176dLq7u7MATJEvXsGH1zguOkeMERzoFWRjz5qPWeEOWGGMbzZC4bWtRgueGqXhzYbkkF0oQeuQzRv7Fh7aP6xbR46gqoMNDvU6yJjOMZxU1fb2gtQtVZWQqFNHopiGMfhwmPpHjLcxgeR4cAVtvVCHFkvwXimXd0/ow+b6gE1rOGDyHD2ypp6IdSmHlp+1faexIw+bKpBavhwYHZ2dtrthhXrSuOZeWjDMEwNDfavrLUX4MiafpuVkh27Ik8M5bggvDYNp1x8I0ptWmbM3T6zsXibAvmlUqlo6F8VUatVXTxXrFlKeY7vt5nle5q9ph7q73alv0doWmziyvazfO+iHQusId9ulu9ZtoM8zyiGfrQZQ9W1ickJ+5dcjboUFkXRdBxqrZQo1ZeiKMVe9Fz/1Y59iIZi8LRdlOi9Yz59t1fW13SqUhhhOHK5tmmarK+rJpQ7bc5wJ3IiHo83FMWUzS0XHePmeFhpf44b2QsGg8QRK/qiW21P1Iz5Usz0luFvwSBxJGEMDLa/EbzENWLYU8vCaiIUCplhFENDyitbSfPuv+S/0DYcp9CwYUMROfJioGDedjKpmgm50lvTRS2gKxo91ccLvkT/RvNNUrPuiD52pqUXpkqiGGIHHFEQwuXY80kmVmrjDk28xyYLhFxv7ql43kAqJeaSrDZyulLEZRP+3uvNO53qIO3oRDIc2dmfC2X9+sa3xkjKx1w2V/w+lCtl0286ju/bUmsYsaMQoHvCGtVxIuKuunE7O1Qq5cqn9zqeuWpejYwi7pu+RPTNk8YieMpd44yazQ5hxbf3Ov7h1ZPWAadRboQThmDQZZPhUapAHAtzndu1lpBsBhxesNb+2eUraPY5eJsqIMXsUGqui7r1b0miYZSkeLiNYtjvrqmi2t+fIo6p+S761lqAKgbzxXfPQlTR16QYLCy37JdyktdRXTE6302zTiSJOCbGH3kqq8fxsM8mjL58at09ku/SSBE7Zua7Of0oQBUTRTLlVZYC9hcjylxfXGwT/KVzmo4SxULkfTenVxMB7BiSinqVqNY+hMI+UZ8aWdA02eeCSMppZIgdU/c2uzlfyweoYtE8Xdv7LWQ3ptLtfU6vu2lpQ3G+q0xLLScSxLFo+YNoD1oGHJ1Aet3ZzpqMxahj//3uqvJSgir2vbIcfmY/NWLK/u8/o+Xdggx1xfvd3WTJJTABKfKcPVoJ6gOO3X6p4OC6g6WGFhskiulodzGUywmq6LXEsK5P/3y+HG6VtN8vfEXIpxmqGL3f1W0INNJQw+Jt5qgq6UmcmH6lHR03b2FMOHqPalnBirF0dP6Pbk6vBjDYkF1TPDJy8VARZ2zVunWrRs7RgnglghSRY/ReV/PhTICSsBie6Gs4vlKRuqg1dhO8s6s2r4t+JYMc030fu1keO9EN8+PMZVuVjKoxZl6dqLfqe1ISXkcX3qp9Xj9xjH3sYqhZS+iGuXFmJv9glFTSuKWsWFs6jvvCJ1vOrizKSp834leUTGzuU+ezl/BUiP9lx81ma3m9aowPFS0ySfSa5vzC6UpRV1Q+d0ywjJxNkt6+MY8eSXrVGB+0TCEjwnCSebp7cPPmgX6ZDqBfhy+n/Z2pFfv6iOPgfMexZklPaKSEn5lbSnpFFQqMs1mDepPjvppPNTJPUsMF/Osvl2XQEX8fVfQrnztcidVyXlcsFc0ZrkLLDSkUZLsu2bU3yjytP5wSdUNteurwKg1fF71Y0RtRxj+fOTPLf+bzVFF6y3THJTL0YMUM20nxdsSK9QMGjBiiS/QqDfFYQ8Lozcx9OmtceJArl4ljIFc00zA1H9AV85aRFIVwsekDGMMbV2no+V70emkYlft/tT/t91IOKSLHRGCQKZ2qyI0qFu6xf58D+j0EFscMtUwkojv67//VLsH6O1tCiiSMQ+PMGLlExlasqLAl4wyu8mdvWD7CMUPPP31+QxF1VNtrUX5XoAvHOIyW3ngs6ZTvsRUEzb6Fr+yHOGfo+YLyGt1RKX60KTJq+qIqUcywKWkyYRimmCmShBBvlRXZbTcOGsqnfoSXOPqVuU+PrF218q4fGRbo2ngubal9tw3BQJGdDGfxXKiOWmZEJw09lYiiGGH0Ksr43B+N/zInufcfvNqI11RJGPvfW/SPdMFQ9gV7nCd7g79x3DfmoJOGnm2iaDhGMkpf38b67e8ry+movqCaomGM/tc6QtaNGPot6cI0JyTJnnX2a2qOGnq2UWracPTSTDWDSw6yTEUVU4Vs+n3TFPCA5qmhlKXvYrebI2P0e11jor6t21lDTy2jKEZX9XpJFkcKx1jadCxkWhZV9/Ikncm9sZrLB7Q23EWTEc9xdLxx2NBTOWXCiPDTupFVLNokrpUPKKn5s6UG1NBYw/H4e05ovDmkx0YPfA1DX/zKagsT+YtfYR2bwpiKPbdPW5PVpN1WzOTIV93HSE9V1TyP/f0KqZ362a5qKqKrMa1cj13rez+wVXMYkeTy9fDD1L4MKhG/6RhBw+rd7+dd0k3qyB4Z/dRkS5eU8XEn0arfl5ElKan6Ij9W/lk7/yWzSG9iCGOeffST9x0sMsnNlCA4MMw0IWvVGqK6dsGFpEX9Jg0yNFZNR42/UwU98bn4azPdsbCIHRdHRzzDKAVfHMCKRkE8jJ+4+iv53SH7eBE/DhMbdaFhpZLCavTMN/cESYshWV+j3xzFyxuHHJc84729QbOhKpBkHGU2qKRCugtONu5SaBgKAu2dyAwvaiQFjsc/wk427lJIigKPH4d5nhr+Qg1p+Jpq454kyXNWQz2GqOi4kZRt1hp7DmQo4EfDUOXJdfi1cVdRcNk+4nODDDn8aBguCGQsXTRvnH478/3upxFDARtWxlACgOdFjhNHCZxRNfYsDUNO4HGSyvM7HrI2pS9pHLbc1ug1jF6K8lKce/PiPk5FTa9dJ9YxLpXkwADJYRbQ48Ds4gIRuzEwYAyh8uHAaM+n3wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwDfgfYPhhPrb1zTcAAAAASUVORK5CYII=" group-title="ARGENTINA" -  CANAL 34 SAN JUAN
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
@@ -6179,384 +5415,34 @@ https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://s8.stweb.tv/chacra/live/chunks.m3u8
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/americaperu.png" group-title="Peru" -  America
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/780
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/azteca1.png" group-title="Mexico" - Azteca 1
+#EXTINF:89, tvg-logo="http://x.playerlatino.live/azteca1.png" group-title="Mexico" - Azteca 1
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/4
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/azteca7.png" group-title="Mexico" - Azteca 7
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/5
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/bandamax.png" group-title="Musica" - Bandamax
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/8
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/bolivision.png" group-title="Bolivia" - Bolivision
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/783
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/canal2televicentro.png" group-title="Nicaragua" - Canal 2 Televicentro
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/211
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/canal5.png" group-title="Mexico" - Canal 5
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/14
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/canal5.png" group-title="Honduras" - Canal 5 Honduras
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/773
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="Mexico" - Canal de las Estrellas
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/411
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="Mexico" - Canal de las Estrellas Sur
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/736
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/canalonce.png" group-title="Mexico" - Canal Once
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/15
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/maccion.png" group-title="España" - Canal+ Accion
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/364
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/toros.png" group-title="Deportes" - Canal+ Toros
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/369
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/caracol.png" group-title="Colombia" - Caracol
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/391
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/caracol.png" group-title="Entretenimiento" - Caracol Internacional
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/290
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/cdf.png" group-title="Deportes" - CDF Premium
+#EXTINF:69, tvg-logo="http://x.playerlatino.live/cdf.png" group-title="Deportes" - CDF Premium
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/318
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/cdo.png" group-title="Deportes" - CDO
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/513
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/cdopremium.png" group-title="Deportes" - CDO Premium
+#EXTINF:60, tvg-logo="http://x.playerlatino.live/cdopremium.png" group-title="Deportes" - CDO Premium
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/401
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/chv.png" group-title="Colombia" - CHV Chilevision
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/198
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/play.png" group-title="Chile" - CTNI
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/160
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Peliculas" - DHE
+#EXTINF:60, tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Peliculas" - DHE
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/844
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/cnn.png" group-title="Noticias" - CNN en Español
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/136
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/djing.png" group-title="Musica" - Djing Ibiza
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/277
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/e.png" group-title="Entretenimiento" - E!
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/33
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/ecuavisa.png" group-title="Ecuador" - Ecuavisa
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/319
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/efektotv.png" group-title="Noticias" - Efekto TV
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/275
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/el13argentina.png" group-title="Argentina" - El 13 Argentina
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/239
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/elnueveargentina.png" group-title="Argentina" - El Nueve
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/772
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/eltrecechile.png" group-title="Chile" - El Trece
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/765
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/play.png" group-title="Argentina" - El Trece
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/767
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/play.png" group-title="Religion" - Enlace Juvenil
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/162
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/play.png" group-title="Religion" - Enlace TV
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/161
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/estrellatv.png" group-title="Entretenimiento" - Estrella TV
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/177
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/hittv.png" group-title="Musica" - Hit TV
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/201
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/hola.png" group-title="Entretenimiento" - Hola TV
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/189
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/htv.png" group-title="Musica" - HTV
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/66
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/imagentv.png" group-title="Mexico" - Imagen Television
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/341
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/lasexta.png" group-title="España" - La Sexta
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/326
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="Uruguay" - Latina TV
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/782
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica" - m2o TV
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/203
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/maschic.png" group-title="Entretenimiento" - Más chic
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/180
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/mega.png" group-title="Chile" - Mega
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/766
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/mega.png" group-title="Puerto Rico" - Mega
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/784
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/play.png" group-title="España" - Mega (ES)
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/352
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/play.png" group-title="Entretenimiento" - Miami TV
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/251
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/mlb.png" group-title="Deportes" - MLB Network
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/293
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Entretenimiento" - MTV
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/69
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/mtv.png" group-title="España" - MTV (ES)
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/803
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/mtvlive.png" group-title="Musica" - MTV Live
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/70
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Entretenimiento" - MTV Sur
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/823
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/multimedios.png" group-title="Mexico" - Multimedios
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/155
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica" - Music Now
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/690
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/musictop.png" group-title="Musica" - MusicTop
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/691
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/mvs.png" group-title="Noticias" - MVS Noticias
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/448
 #EXTINF:0, tvg-logo="http://x.playerlatino.live/nba.png" group-title="Deportes" - NBA
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -6564,133 +5450,14 @@ https://v3.playerlatino.live/stream/m3u8/448
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/838
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/neox.png" group-title="España" - Neox (ES)
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/353
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/nfl.png" group-title="Deportes" - NFL Network
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/204
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/nova.png" group-title="España" - Nova (ES)
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/717
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/america_peru.png" group-title="Peru" - PERU: América TV
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/304
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru" - PERU: Antares TV
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/451
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru" - PERU: BHTV
+#EXTINF:30, tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru" - PERU: BHTV
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/399
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru" - PERU: La Luz
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/338
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="Peru" - PERU: Latina
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/317
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru" - PERU: Plus TV
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/337
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru" - PERU: RBC
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/220
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/rpp_peru.png" group-title="Peru" - PERU: RPP
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/336
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru" - PERU: TV Peru
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/306
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru" - PERU: Willax TV
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/334
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/rcn.png" group-title="Colombia" - RCN
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/390
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/rcnnovelas.png" group-title="Colombia" - RCN Novelas
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/279
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/play.png" group-title="Deportes" - Real Madrid TV
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/270
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/retromusic.png" group-title="Musica" - Retro Music
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/692
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/ritmoson.png" group-title="Musica" - Ritmoson Latino
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/154
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/rtp.png" group-title="Bolivia" - RTP
+#EXTINF:13, tvg-logo="http://x.playerlatino.live/rtp.png" group-title="Bolivia" - RTP
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
@@ -6718,13 +5485,6 @@ https://v3.playerlatino.live/stream/m3u8/778
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/320
-#EXTINF:0, tvg-logo="http://x.playerlatino.live/telefe.png" group-title="Argentina" - Telefe
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/771
 #EXTINF:0, tvg-logo="http://x.playerlatino.live/teleformula.png" group-title="Entretenimiento" - TeleFórmula
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -6928,9 +5688,10 @@ https://v3.playerlatino.live/stream/m3u8/321
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/327
-#EXTINF:0,Xtrema Retro Series (360p)
+#EXTINF:30,Xtrema Retro Series (360p)
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+
 
