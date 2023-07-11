@@ -4,13 +4,11 @@
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/Gerjules/GerjulTV/main/**************%20NACIONALES%20*******************
 #EXTINF:3600, ABC TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:108, SNT
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://d1263956mchuq3.cloudfront.net/hls/snt_360.m3u8
 #EXTINF:29, TRECE
@@ -19,13 +17,11 @@ https://d1263956mchuq3.cloudfront.net/hls/snt_360.m3u8
 #EXTVLCOPT:network-caching=1000
 https://tigocloudgen.desdeparaguay.net/trecetv/trecetv_baja/chunklist_w1196893029.m3u8?k=406497d0d8424d72e52021fad7657d49f5887085eb535695f5715b90bad8d2c7&exp=1686070703
 #EXTINF:108, C9N
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://d1263956mchuq3.cloudfront.net/hls/c9n_360.m3u8
 #EXTINF:30, UNICANAL
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://tigocloudgen.desdeparaguay.net/unicanal/unicanal_baja/chunklist_w1293458237.m3u8%20k=1fdd39cac8a419798dbc8b2fff04f8e419a448bd18770a9bd77c31ad235f6c13&exp=1686073943
 #EXTINF:20, TELEFUTURO
@@ -259,7 +255,6 @@ https://v3.playerlatino.live/stream/m3u8/67
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/61
 #EXTINF:60, Discovery Civilization
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -268,11 +263,8 @@ https://v3.playerlatino.live/stream/m3u8/61
 https://v3.playerlatino.live/stream/m3u8/23
 #EXTINF:62,  Discovery Channel
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/22
 #EXTINF:59, Discovery SCI
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -409,24 +401,17 @@ https://i.mjh.nz/PlutoTV/605e479d5b8229000763e697-alt.m3u8
 #EXTINF:0, Minuto Para Ganar
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5e46e64dc73db400094b5f0b-alt.m3u8
 #EXTINF:0, Wipe Out
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5ed6828192e8b3000743ef61-alt.m3u8
 #EXTINF:25, Mi Extraña Obsesión
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/60e4573c9f963e00077ecf25-alt.m3u8
 #EXTINF:25, Mi obsesión favorita
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5d93b4d71754e6a4298d086e-alt.m3u8
 #EXTINF:25, Empeños a lo bestia
@@ -6278,7 +6263,7 @@ https://59ce1298bfb98.streamlock.net/educanal/educanal/chunklist_w92056851.m3u8
 #EXTVLCOPT:network-caching=1000
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:28, RCC
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-cachinç=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
