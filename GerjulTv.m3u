@@ -5,7 +5,7 @@
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://raw.githubusercontent.com/Gerjules/GerjulTV/main/**************%20NACIONALES%20*******************
-#EXTINF:2892, ABC TV
+#EXTINF:3600, ABC TV
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
@@ -1638,10 +1638,6 @@ http://181.189.243.254:8000/play/a0p8/index.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://181.189.243.254:8000/play/a0pa/index.m3u8
-#EXTINF:8,Claro Sports  HD
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://181.189.243.254:8000/play/a0on/index.m3u8
 #EXTINF:8,Color Vision 9 - RD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
@@ -1686,34 +1682,6 @@ http://181.189.243.254:8000/play/a0tc/index.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://181.189.243.254:8000/play/a0pb/index.m3u8
-#EXTINF:8,ESPN
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://181.189.243.254:8000/play/a0se/index.m3u8
-#EXTINF:0,ESPN  +
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://181.189.243.254:8000/play/a0py/index.m3u8
-#EXTINF:0,ESPN 2
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://181.189.243.254:8000/play/a0sf/index.m3u8
-#EXTINF:0,ESPN 2 HD
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://181.189.243.254:8000/play/a0t6/index.m3u8
-#EXTINF:0,ESPN 3
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://181.189.243.254:8000/play/a0rb/index.m3u8
-#EXTINF:0,ESPN 3 HD
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://181.189.243.254:8000/play/a0t5/index.m3u8
-#EXTINF:0,ESPN HD
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://181.189.243.254:8000/play/a0t4/index.m3u8
 #EXTINF:0,EURO Channel
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
@@ -1738,38 +1706,14 @@ http://181.189.243.254:8000/play/a0tu/index.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://181.189.243.254:8000/play/a0sg/index.m3u8
-#EXTINF:0,FOX SPORTS 2 HD
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://181.189.243.254:8000/play/a0sp/index.m3u8
-#EXTINF:0,FOX SPORTS 3 HD
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://181.189.243.254:8000/play/a0t7/index.m3u8
-#EXTINF:0,FOX Sports 2
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://181.189.243.254:8000/play/a0rc/index.m3u8
 #EXTINF:0,FUTV HD CR
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://181.189.243.254:8000/play/a0t3/index.m3u8
-#EXTINF:0,Fox Sport 3
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://181.189.243.254:8000/play/a0pm/index.m3u8
 #EXTINF:0,France24
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://181.189.243.254:8000/play/a0pu/index.m3u8
-#EXTINF:0,Golf Channel
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://181.189.243.254:8000/play/a0o3/index.m3u8
-#EXTINF:0,Golf Channel HD
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://181.189.243.254:8000/play/a0qg/index.m3u8
 #EXTINF:0,Guatevision - GUA
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
@@ -1778,10 +1722,6 @@ http://181.189.243.254:8000/play/a0oz/index.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://181.189.243.254:8000/play/a0rg/index.m3u8
-#EXTINF:0,Latin America Sport
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://181.189.243.254:8000/play/a0rd/index.m3u8
 #EXTINF:8,MTV 00s
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
@@ -1874,10 +1814,6 @@ http://181.189.243.254:8000/play/a0qr/index.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://181.189.243.254:8000/play/a0of/index.m3u8
-#EXTINF:8,Tigo Sports HD
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://181.189.243.254:8000/play/a0sn/index.m3u8
 #EXTINF:0,Tooncast
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
@@ -3057,104 +2993,70 @@ http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73325
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/509
-#EXTINF:0, ESPN
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
+#EXTINF:8,Claro Sports  HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
-https://v3.playerlatino.live/stream/m3u8/34
-#EXTINF:139, ESPN 2
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
+http://181.189.243.254:8000/play/a0on/index.m3u8
+#EXTINF:8,ESPN
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
-https://v3.playerlatino.live/stream/m3u8/35
-#EXTINF:60, ESPN 2 MX
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
+http://181.189.243.254:8000/play/a0se/index.m3u8
+#EXTINF:0,ESPN  +
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
-https://v3.playerlatino.live/stream/m3u8/531
-#EXTINF:13, ESPN Chile
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
+http://181.189.243.254:8000/play/a0py/index.m3u8
+#EXTINF:0,ESPN 2
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
-https://v3.playerlatino.live/stream/m3u8/842
-#EXTINF:60, ESPN MX
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
+http://181.189.243.254:8000/play/a0sf/index.m3u8
+#EXTINF:0,ESPN 2 HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
-https://v3.playerlatino.live/stream/m3u8/530
-#EXTINF:58, ESPN Plus
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
+http://181.189.243.254:8000/play/a0t6/index.m3u8
+#EXTINF:0,ESPN 3
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
-https://v3.playerlatino.live/stream/m3u8/37
-#EXTINF:59, Fox Sports
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
+http://181.189.243.254:8000/play/a0rb/index.m3u8
+#EXTINF:0,ESPN 3 HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
-https://v3.playerlatino.live/stream/m3u8/52
-#EXTINF:60, Fox Sports 2
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
+http://181.189.243.254:8000/play/a0t5/index.m3u8
+#EXTINF:0,ESPN HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
-https://v3.playerlatino.live/stream/m3u8/53
-#EXTINF:60, Fox Sports 2 MX
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
+http://181.189.243.254:8000/play/a0t4/index.m3u8
+#EXTINF:0,FOX SPORTS 2 HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
-https://v3.playerlatino.live/stream/m3u8/528
-#EXTINF:60, Fox Sports 3
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
+http://181.189.243.254:8000/play/a0sp/index.m3u8
+#EXTINF:0,FOX SPORTS 3 HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
-https://v3.playerlatino.live/stream/m3u8/54
-#EXTINF:87, Fox Sports MX
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
+http://181.189.243.254:8000/play/a0t7/index.m3u8
+#EXTINF:0,FOX Sports 2
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
-https://v3.playerlatino.live/stream/m3u8/527
-#EXTINF:91, Fox Sports MX Sur
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
+http://181.189.243.254:8000/play/a0rc/index.m3u8
+#EXTINF:0,Fox Sport 3
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
-https://v3.playerlatino.live/stream/m3u8/748
-#EXTINF:0, Fox Sports Premium
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
+http://181.189.243.254:8000/play/a0pm/index.m3u8
+#EXTINF:0,Golf Channel
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
-https://v3.playerlatino.live/stream/m3u8/512
-#EXTINF:59, Fox Sports Sur 2
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
+http://181.189.243.254:8000/play/a0o3/index.m3u8
+#EXTINF:0,Golf Channel HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
-https://v3.playerlatino.live/stream/m3u8/410
+http://181.189.243.254:8000/play/a0qg/index.m3u8
+#EXTINF:0,Latin America Sport
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+http://181.189.243.254:8000/play/a0rd/index.m3u8
+#EXTINF:8,Tigo Sports HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+http://181.189.243.254:8000/play/a0sn/index.m3u8
 #EXTINF:47, TIGO SPORTS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -9091,7 +8993,6 @@ https://v3.playerlatino.live/stream/m3u8/708
 https://v3.playerlatino.live/stream/m3u8/321
 #EXTINF:0, Wapa PR
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=3000
