@@ -533,6 +533,57 @@ https://v3.playerlatino.live/stream/m3u8/84
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
+#EXTINF:28,Xtrema Animal (360p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+#EXTINF:0,Xtrema Anime (360p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
+#EXTINF:0,Xtrema Cartoons (360p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+#EXTINF:0,Xtrema Cine Acción (268p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:0,Xtrema Cine Asia (268p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
+#EXTINF:0,Xtrema Cine Comedy (344p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+#EXTINF:0,Xtrema Cine Drama (360p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+#EXTINF:0,Xtrema Cine Europa (360p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
+#EXTINF:0,Xtrema Cine Family (274p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+#EXTINF:0,Xtrema Cine Hindi (272p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
+#EXTINF:0,Xtrema Cine Latino (360p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
+#EXTINF:0,Xtrema Cine Suspenso (360p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+#EXTINF:0,Xtrema Cine Terror (270p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
+#EXTINF:0,Xtrema Retro Cartoons (360p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+#EXTINF:0,Xtrema Retro Series (360p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+#EXTINF:0,Xtrema Series (360p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+#EXTINF:0,Xtremo Channel (720p)
+#EXTVLCOPT:network-caching=1000
+https://tv.xtremochannel.com:3730/live/xtremochannellive.m3u8
 #EXTINF:120, Runtime Crimen
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
@@ -2032,6 +2083,453 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/Gerjules/GerjulTV/main/*******************************%20DEPORTES%20**********************************************
+#EXTINF:0,TNT Sports HD (CL)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34675
+#EXTINF:0,TNT Sports FHD (CL)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34676
+#EXTINF:0,TNT Sports 2 SD (CL)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34674
+#EXTINF:0,TNT Sports 2 HD (CL)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/124014
+#EXTINF:0,TNT Sports 3 SD (CL)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/123886
+#EXTINF:0,TNT Sports 3 HD (CL)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/123887
+#EXTINF:0,TNT Sports HD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34683
+#EXTINF:0,TNT Sports FHD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34684
+#EXTINF:0,Directv Sports HD (CL)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/121857
+#EXTINF:0,Directv Sports + HD (CL)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/121856
+#EXTINF:0,Directv Sports 2 HD (CL)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/187724
+#EXTINF:0,Directv Sports HD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/123872
+#EXTINF:0,Directv Sports 2 HD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34612
+#EXTINF:0,Directv Sports + HD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/123871
+#EXTINF:0,Directv Sports + FHD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34616
+#EXTINF:0,Directv Sports HD (CO)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/43430
+#EXTINF:0,Directv Sports 2 HD (CO)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/43431
+#EXTINF:0,Directv Sports + HD (CO)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/123885
+#EXTINF:0,Directv Sports + FHD (CO)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/312886
+#EXTINF:0,ESPN SD (CL)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/157048
+#EXTINF:0,ESPN HD (CL)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/123652
+#EXTINF:0,ESPN 2 SD (CL)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/312850
+#EXTINF:0,ESPN 2 HD (CL)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/123653
+#EXTINF:0,ESPN 3 HD (CL)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/123654
+#EXTINF:0,ESPN 4 SD (CL)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/312851
+#EXTINF:0,ESPN SD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34659
+#EXTINF:0,ESPN HD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34660
+#EXTINF:0,ESPN FHD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34661
+#EXTINF:0,ESPN 2 SD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34662
+#EXTINF:0,ESPN 2 HD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34663
+#EXTINF:0,ESPN 2 FHD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34664
+#EXTINF:0,ESPN 3 SD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34665
+#EXTINF:0,ESPN 3 HD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34666
+#EXTINF:0,ESPN 3 FHD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34667
+#EXTINF:0,ESPN Extra SD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/312846
+#EXTINF:0,ESPN Extra FHD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/312844
+#EXTINF:0,ESPN Premium SD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/312847
+#EXTINF:0,ESPN Premium HD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/123874
+#EXTINF:0,ESPN Premium FHD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34648
+#EXTINF:0,ESPN SD (CO)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/312831
+#EXTINF:0,ESPN HD (CO)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/312830
+#EXTINF:0,ESPN FHD (CO)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/312829
+#EXTINF:0,ESPN 2 SD (CO)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/312834
+#EXTINF:0,ESPN 2 FHD (CO)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/312832
+#EXTINF:0,ESPN 3 FHD (CO)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/312835
+#EXTINF:0,ESPN 4 FHD (CO)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/312838
+#EXTINF:0,ESPN Extra SD (CO)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/312843
+#EXTINF:0,ESPN Extra FHD (CO)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/312841
+#EXTINF:0,ESPN SD (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34652
+#EXTINF:0,ESPN HD (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/302638
+#EXTINF:0,ESPN FHD (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34653
+#EXTINF:0,ESPN 2 HD (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/302639
+#EXTINF:0,ESPN 3 SD (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34657
+#EXTINF:0,ESPN 3 HD (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/302640
+#EXTINF:0,ESPN 3 FHD (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34658
+#EXTINF:0,ESPN Extra SD (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/312828
+#EXTINF:0,ESPN Extra HD (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/302637
+#EXTINF:0,ESPN Deportes HD (US)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/312852
+#EXTINF:0,Fox Sports 1 SD (CL)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34630
+#EXTINF:0,Fox Sports 1 HD (CL)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34631
+#EXTINF:0,Fox Sports 1 FHD (CL)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34632
+#EXTINF:0,Fox Sports 2 SD (CL)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34633
+#EXTINF:0,Fox Sports 2 FHD (CL)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34635
+#EXTINF:0,Fox Sports 3 SD (CL)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34636
+#EXTINF:0,Fox Sports 3 HD (CL)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34637
+#EXTINF:0,Fox Sports 3 FHD (CL)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34638
+#EXTINF:0,Fox Sports SD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34639
+#EXTINF:0,Fox Sports HD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34640
+#EXTINF:0,Fox Sports FHD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34641
+#EXTINF:0,Fox Sports 2 SD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34642
+#EXTINF:0,Fox Sports 2 HD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34643
+#EXTINF:0,Fox Sports 2 FHD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34644
+#EXTINF:0,Fox Sports 3 SD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34645
+#EXTINF:0,Fox Sports 3 HD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34646
+#EXTINF:0,Fox Sports 3 FHD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34647
+#EXTINF:0,Fox Sports HD (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/302652
+#EXTINF:0,Fox Sports 2 SD (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34623
+#EXTINF:0,Fox Sports 2 HD (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/302653
+#EXTINF:0,Fox Sports 2 FHD (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34624
+#EXTINF:0,Fox Sports 3 SD (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34625
+#EXTINF:0,Fox Sports 3 HD (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/302698
+#EXTINF:0,Fox Sports 3 FHD (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34626
+#EXTINF:0,Fox Sports Premium (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/304554
+#EXTINF:0,Fox Sports 2 HD (US)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34650
+#EXTINF:0,Claro Sports HD (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/302690
+#EXTINF:0,Claro Sports SD (LAT)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34617
+#EXTINF:0,Claro Sports FHD (LAT)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34618
+#EXTINF:0,CDO Basico SD (CL)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34678
+#EXTINF:0,CDO Premium SD (CL)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34679
+#EXTINF:0,CDO Premium HD (CL)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/121890
+#EXTINF:0,Teletrak HD (CL)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34680
+#EXTINF:0,Sporting HD (CL)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34681
+#EXTINF:0,TyC Sports  SD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34685
+#EXTINF:0,TyC Sports HD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34686
+#EXTINF:0,TyC Sports Internacional HD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34688
+#EXTINF:0,DeporTV HD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34740
+#EXTINF:0,DeporTV FHD (ARG)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/123873
+#EXTINF:0,Win Sports SD (CO)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34689
+#EXTINF:0,Win Sports FHD (CO)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34690
+#EXTINF:0,Win Sports + FHD (CO)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34691
+#EXTINF:0,Movistar Deportes (PE)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34743
+#EXTINF:0,GolPeru SD (PE)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34744
+#EXTINF:0,GolPeru FHD (PE)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34745
+#EXTINF:0,Gol TV HD (ECU)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34693
+#EXTINF:0,Golf Channel SD (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34695
+#EXTINF:0,Golf Channel HD (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34696
+#EXTINF:0,Adrenalina Sport Network HD (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/302603
+#EXTINF:0,Adrenalina Sport Network FHD (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34699
+#EXTINF:0,NFL Network (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/313027
+#EXTINF:0,TVC Deportes HD (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/302737
+#EXTINF:0,Aym Sports HD (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/302613
+#EXTINF:0,Hi Sports HD (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/313025
+#EXTINF:0,TUDN HD (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/304510
+#EXTINF:0,Afizzionados HD (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/304505
+#EXTINF:0,TVC Deportes SD (MX)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34700
+#EXTINF:0,NBA TV HD (US)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34712
+#EXTINF:0,UFC Fight Pass FHD (US)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34714
+#EXTINF:0,Univision Deportes Network HD (US)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34715
+#EXTINF:0,WWE Network HD  (US)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34716
+#EXTINF:0,Fight Network FHD (CA)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34711
+#EXTINF:0,Canal F1 FHD (ES)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34701
+#EXTINF:0,Barca TV SD (ES)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34702
+#EXTINF:0,b31N LA Liga FHD (ES)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34703
+#EXTINF:0,Movistar Deportes FHD (ES)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34704
+#EXTINF:0,NFL Network HD (US)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34705
+#EXTINF:0,Real Madrid TV FHD (ES)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34706
+#EXTINF:0,EuroSport 1 HQ (ES)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34709
+#EXTINF:0,EuroSport 2 HQ (ES)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34710
+#EXTINF:0,b31N Sports Ñ HQ (ES)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34717
+#EXTINF:0,b31N Sports 7 HQ (AR)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34724
+#EXTINF:0,Sky Sports MotoGP HQ (IT)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34730
+#EXTINF:0,Sky Sports Arena HQ (IT)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34731
+#EXTINF:0,Sky Sports Tennis HQ (IT)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34732
+#EXTINF:0,Sky Sports F1 HQ (IT)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34733
+#EXTINF:0,Sky Sports UNO HQ (IT)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34735
+#EXTINF:0,Sky Sports AEW / WWE HQ (IT)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34736
+#EXTINF:0,Sky Sports NBA HQ (IT)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34737
+#EXTINF:0,Sky Sports Action HQ (IT)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34738
+#EXTINF:0,Sky Sports 24 Premier League HQ (IT)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/34739
+#EXTINF:0,Directv Sports HD (ECU)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/318007
+#EXTINF:0,Directv Sports HD (PE)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/318008
+#EXTINF:0,Directv Sports (uru)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/318009
+#EXTINF:0,Directv Sports 2 (ec)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/318010
+#EXTINF:0,Directv Sports Eventos 2  #EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/318011
+#EXTINF:0,Directv Sports Eventoso 6 #EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/318012
+#EXTINF:0,Directv Sports Fight (arg)
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/318013
+#EXTINF:0,Directv Sports Fight #EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/318014
+#EXTINF:0,Directv Sports Highligths #EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/318015
+#EXTINF:0,Directv Sports Motors
+#EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/318016
+#EXTINF:0,OnDIRECTV (dep) #EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/318017
+#EXTINF:0,OnDIRECTV Andes (dep) #EXTVLCOPT:network-caching=3000
+http://hidra.live:80/xhxedfdb/13tSmnp7S4/318018
 #EXTINF:0, DIRECTV SPORTS
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
@@ -10048,57 +10546,6 @@ https://stream.oursnetworktv.com/latin/encoder73/playlist.m3u8
 #EXTINF:0,XTOTV (404p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
-#EXTINF:28,Xtrema Animal (360p)
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
-#EXTINF:0,Xtrema Anime (360p)
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
-#EXTINF:0,Xtrema Cartoons (360p)
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
-#EXTINF:0,Xtrema Cine Acción (268p)
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:0,Xtrema Cine Asia (268p)
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
-#EXTINF:0,Xtrema Cine Comedy (344p)
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
-#EXTINF:0,Xtrema Cine Drama (360p)
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
-#EXTINF:0,Xtrema Cine Europa (360p)
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
-#EXTINF:0,Xtrema Cine Family (274p)
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
-#EXTINF:0,Xtrema Cine Hindi (272p)
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
-#EXTINF:0,Xtrema Cine Latino (360p)
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
-#EXTINF:0,Xtrema Cine Suspenso (360p)
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
-#EXTINF:0,Xtrema Cine Terror (270p)
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
-#EXTINF:0,Xtrema Retro Cartoons (360p)
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
-#EXTINF:0,Xtrema Retro Series (360p)
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
-#EXTINF:0,Xtrema Series (360p)
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
-#EXTINF:0,Xtremo Channel (720p)
-#EXTVLCOPT:network-caching=1000
-https://tv.xtremochannel.com:3730/live/xtremochannellive.m3u8
 #EXTINF:0,YouDotGov
 #EXTVLCOPT:network-caching=1000
 https://tvsantacruz.secure.footprint.net/egress/bhandler/tvsantacruz/streama/playlist.m3u8
