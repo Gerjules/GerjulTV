@@ -2083,453 +2083,288 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/Gerjules/GerjulTV/main/*******************************%20DEPORTES%20**********************************************
-#EXTINF:0,TNT Sports HD (CL)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34675
-#EXTINF:0,TNT Sports FHD (CL)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34676
-#EXTINF:0,TNT Sports 2 SD (CL)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34674
-#EXTINF:0,TNT Sports 2 HD (CL)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/124014
-#EXTINF:0,TNT Sports 3 SD (CL)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/123886
-#EXTINF:0,TNT Sports 3 HD (CL)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/123887
-#EXTINF:0,TNT Sports HD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34683
-#EXTINF:0,TNT Sports FHD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34684
-#EXTINF:0,Directv Sports HD (CL)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/121857
-#EXTINF:0,Directv Sports + HD (CL)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/121856
-#EXTINF:0,Directv Sports 2 HD (CL)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/187724
-#EXTINF:0,Directv Sports HD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/123872
-#EXTINF:0,Directv Sports 2 HD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34612
-#EXTINF:0,Directv Sports + HD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/123871
-#EXTINF:0,Directv Sports + FHD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34616
-#EXTINF:0,Directv Sports HD (CO)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/43430
-#EXTINF:0,Directv Sports 2 HD (CO)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/43431
-#EXTINF:0,Directv Sports + HD (CO)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/123885
-#EXTINF:0,Directv Sports + FHD (CO)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312886
-#EXTINF:0,ESPN SD (CL)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/157048
-#EXTINF:0,ESPN HD (CL)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/123652
-#EXTINF:0,ESPN 2 SD (CL)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312850
-#EXTINF:0,ESPN 2 HD (CL)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/123653
-#EXTINF:0,ESPN 3 HD (CL)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/123654
-#EXTINF:0,ESPN 4 SD (CL)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312851
-#EXTINF:0,ESPN SD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34659
-#EXTINF:0,ESPN HD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34660
-#EXTINF:0,ESPN FHD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34661
-#EXTINF:0,ESPN 2 SD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34662
-#EXTINF:0,ESPN 2 HD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34663
-#EXTINF:0,ESPN 2 FHD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34664
-#EXTINF:0,ESPN 3 SD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34665
-#EXTINF:0,ESPN 3 HD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34666
-#EXTINF:0,ESPN 3 FHD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34667
-#EXTINF:0,ESPN Extra SD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312846
-#EXTINF:0,ESPN Extra FHD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312844
-#EXTINF:0,ESPN Premium SD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312847
-#EXTINF:0,ESPN Premium HD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/123874
-#EXTINF:0,ESPN Premium FHD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34648
-#EXTINF:0,ESPN SD (CO)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312831
-#EXTINF:0,ESPN HD (CO)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312830
-#EXTINF:0,ESPN FHD (CO)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312829
-#EXTINF:0,ESPN 2 SD (CO)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312834
-#EXTINF:0,ESPN 2 FHD (CO)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312832
-#EXTINF:0,ESPN 3 FHD (CO)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312835
-#EXTINF:0,ESPN 4 FHD (CO)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312838
-#EXTINF:0,ESPN Extra SD (CO)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312843
-#EXTINF:0,ESPN Extra FHD (CO)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312841
-#EXTINF:0,ESPN SD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34652
-#EXTINF:0,ESPN HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/302638
-#EXTINF:0,ESPN FHD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34653
-#EXTINF:0,ESPN 2 HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/302639
-#EXTINF:0,ESPN 3 SD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34657
-#EXTINF:0,ESPN 3 HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/302640
-#EXTINF:0,ESPN 3 FHD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34658
-#EXTINF:0,ESPN Extra SD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312828
-#EXTINF:0,ESPN Extra HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/302637
-#EXTINF:0,ESPN Deportes HD (US)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312852
-#EXTINF:0,Fox Sports 1 SD (CL)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34630
-#EXTINF:0,Fox Sports 1 HD (CL)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34631
-#EXTINF:0,Fox Sports 1 FHD (CL)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34632
-#EXTINF:0,Fox Sports 2 SD (CL)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34633
-#EXTINF:0,Fox Sports 2 FHD (CL)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34635
-#EXTINF:0,Fox Sports 3 SD (CL)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34636
-#EXTINF:0,Fox Sports 3 HD (CL)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34637
-#EXTINF:0,Fox Sports 3 FHD (CL)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34638
-#EXTINF:0,Fox Sports SD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34639
-#EXTINF:0,Fox Sports HD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34640
-#EXTINF:0,Fox Sports FHD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34641
-#EXTINF:0,Fox Sports 2 SD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34642
-#EXTINF:0,Fox Sports 2 HD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34643
-#EXTINF:0,Fox Sports 2 FHD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34644
-#EXTINF:0,Fox Sports 3 SD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34645
-#EXTINF:0,Fox Sports 3 HD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34646
-#EXTINF:0,Fox Sports 3 FHD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34647
-#EXTINF:0,Fox Sports HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/302652
-#EXTINF:0,Fox Sports 2 SD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34623
-#EXTINF:0,Fox Sports 2 HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/302653
-#EXTINF:0,Fox Sports 2 FHD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34624
-#EXTINF:0,Fox Sports 3 SD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34625
-#EXTINF:0,Fox Sports 3 HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/302698
-#EXTINF:0,Fox Sports 3 FHD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34626
-#EXTINF:0,Fox Sports Premium (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/304554
-#EXTINF:0,Fox Sports 2 HD (US)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34650
-#EXTINF:0,Claro Sports HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/302690
-#EXTINF:0,Claro Sports SD (LAT)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34617
-#EXTINF:0,Claro Sports FHD (LAT)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34618
-#EXTINF:0,CDO Basico SD (CL)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34678
-#EXTINF:0,CDO Premium SD (CL)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34679
-#EXTINF:0,CDO Premium HD (CL)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/121890
-#EXTINF:0,Teletrak HD (CL)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34680
-#EXTINF:0,Sporting HD (CL)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34681
-#EXTINF:0,TyC Sports  SD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34685
-#EXTINF:0,TyC Sports HD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34686
-#EXTINF:0,TyC Sports Internacional HD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34688
-#EXTINF:0,DeporTV HD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34740
-#EXTINF:0,DeporTV FHD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/123873
-#EXTINF:0,Win Sports SD (CO)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34689
-#EXTINF:0,Win Sports FHD (CO)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34690
-#EXTINF:0,Win Sports + FHD (CO)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34691
-#EXTINF:0,Movistar Deportes (PE)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34743
-#EXTINF:0,GolPeru SD (PE)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34744
-#EXTINF:0,GolPeru FHD (PE)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34745
-#EXTINF:0,Gol TV HD (ECU)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34693
-#EXTINF:0,Golf Channel SD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34695
-#EXTINF:0,Golf Channel HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34696
-#EXTINF:0,Adrenalina Sport Network HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/302603
-#EXTINF:0,Adrenalina Sport Network FHD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34699
-#EXTINF:0,NFL Network (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/313027
-#EXTINF:0,TVC Deportes HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/302737
-#EXTINF:0,Aym Sports HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/302613
-#EXTINF:0,Hi Sports HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/313025
-#EXTINF:0,TUDN HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/304510
-#EXTINF:0,Afizzionados HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/304505
-#EXTINF:0,TVC Deportes SD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34700
-#EXTINF:0,NBA TV HD (US)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34712
-#EXTINF:0,UFC Fight Pass FHD (US)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34714
-#EXTINF:0,Univision Deportes Network HD (US)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34715
-#EXTINF:0,WWE Network HD  (US)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34716
-#EXTINF:0,Fight Network FHD (CA)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34711
-#EXTINF:0,Canal F1 FHD (ES)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34701
-#EXTINF:0,Barca TV SD (ES)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34702
-#EXTINF:0,b31N LA Liga FHD (ES)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34703
-#EXTINF:0,Movistar Deportes FHD (ES)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34704
-#EXTINF:0,NFL Network HD (US)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34705
-#EXTINF:0,Real Madrid TV FHD (ES)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34706
-#EXTINF:0,EuroSport 1 HQ (ES)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34709
-#EXTINF:0,EuroSport 2 HQ (ES)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34710
-#EXTINF:0,b31N Sports Ñ HQ (ES)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34717
-#EXTINF:0,b31N Sports 7 HQ (AR)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34724
-#EXTINF:0,Sky Sports MotoGP HQ (IT)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34730
-#EXTINF:0,Sky Sports Arena HQ (IT)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34731
-#EXTINF:0,Sky Sports Tennis HQ (IT)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34732
-#EXTINF:0,Sky Sports F1 HQ (IT)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34733
-#EXTINF:0,Sky Sports UNO HQ (IT)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34735
-#EXTINF:0,Sky Sports AEW / WWE HQ (IT)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34736
-#EXTINF:0,Sky Sports NBA HQ (IT)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34737
-#EXTINF:0,Sky Sports Action HQ (IT)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34738
-#EXTINF:0,Sky Sports 24 Premier League HQ (IT)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34739
-#EXTINF:0,Directv Sports HD (ECU)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/318007
-#EXTINF:0,Directv Sports HD (PE)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/318008
-#EXTINF:0,Directv Sports (uru)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/318009
-#EXTINF:0,Directv Sports 2 (ec)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/318010
-#EXTINF:0,Directv Sports Eventos 2  #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/318011
-#EXTINF:0,Directv Sports Eventoso 6 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/318012
-#EXTINF:0,Directv Sports Fight (arg)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/318013
-#EXTINF:0,Directv Sports Fight #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/318014
-#EXTINF:0,Directv Sports Highligths #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/318015
-#EXTINF:0,Directv Sports Motors
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/318016
-#EXTINF:0,OnDIRECTV (dep) #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/318017
-#EXTINF:0,OnDIRECTV Andes (dep) #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/318018
+#EXTINF:36,Abu Dhabi Sports 1 (1080p)
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:0,Abu Dhabi Sports 2 (1080p)
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:0,Abu Dhabi Sports 3 (1080p)
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:0,Abu Dhabi Sports 4 (1080p) [Geo-blocked]
+https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+#EXTINF:0,ACC Network (720p)
+https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
+#EXTINF:0,Adventure Sports Network (720p)
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
+#EXTINF:0,Adventure Sports TV (360p) [Not 24/7]
+https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
+#EXTINF:0,Alfa Sport (1080p) [Not 24/7]
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
+#EXTINF:0,All Sports (720p)
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:0,América Sports (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
+#EXTINF:0,AntenaSport (720p) [Not 24/7]
+https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8
+#EXTINF:0,Arryadia (360p) [Geo-blocked]
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:0,ATG (432p)
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
+#EXTINF:0,Bahrain Sports 1 (720p) [Not 24/7]
+http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8
+#EXTINF:0,Bek Sports East (720p)
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:0,Bek Sports West (360p)
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:0,Best Cable Sports Perú (720p) [Not 24/7]
+https://ca.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
+#EXTINF:0,Canal 11 (720p)
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+#EXTINF:0,Canal Motor (720p)
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:0,Captital OTB Betting (720p) [Not 24/7]
+https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
+#EXTINF:0,CCTV-5http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:0,Channel Fight (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
+#EXTINF:0,Contacto Deportivo (720p) [Not 24/7]
+https://live.obslivestream.com/cdeportivomux/index.m3u8
+#EXTINF:0,CR-TV y Radio (360p)
+https://cp.sradiotv.com:1936/8034/8034/playlist.m3u8
+#EXTINF:0,DD Sports (576p)
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:0,DeporTV (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCSmh3DFxBwFurMttT60PQ1g/live
+#EXTINF:0,DTV Play (Deporte Total) (720p) [Not 24/7]
+https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
+#EXTINF:0,Dubai Racing 3 (1080p)
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:0,Dubai Sports 1 (1080p)
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:0,Dubai Sports 2 (720p)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:0,Dubai Sports 3 (1080p) [Not 24/7]
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:0,EDGESport (1080p)
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+#EXTINF:0,ERT Sports 2 (1080p) [Geo-blocked]
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2.m3u8
+#EXTINF:0,ERT Sports 3 (1080p) [Geo-blocked]
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3.m3u8
+#EXTINF:0,ERT Sports (1080p) [Geo-blocked]
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
+#EXTINF:0,Esport3 (1080p) [Not 24/7]
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
+#EXTINF:0, like Gecko) Mobile/15E148" - like Gecko) Mobile/15E148FightBox HD (480p)
+http://ott-cdn.ucom.am/s86/index.m3u8
+#EXTINF:0,Fite (720p) [Not 24/7]
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+#EXTINF:0,Football Daily (XUMO) (720p)
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-footballdaily/CDN/master.m3u8
+#EXTINF:0,FTF (720p)
+https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Fuel TV (1080p) [Not 24/7]
+http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,GEM Fit (360p)
+http://65.21.196.79/30tv/master.m3u8
+#EXTINF:0,Glory Kickboxing (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
+#EXTINF:0, like Gecko Chrome/96.0.3809.25 Safari/537.36" - like Gecko Chrome/96.0.3809.25 Safari/537.36Golf Channel Thailand (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_golfhd_720p/chunklist.m3u8
+#EXTINF:0,grvty (1080p)
+https://d37j5jg7ob6kji.cloudfront.net/index.m3u8
+#EXTINF:0,Hard Knocks (1080p) [Not 24/7]
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
+#EXTINF:0,http://109.205.166.68/server124/idman_az/index.m3u8
+#EXTINF:0,IMPACT! Wrestling (1080p)
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:0,Insight TV (1080p)
+https://insighttv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:0,KBP Sports (720p) [Not 24/7]
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:60,Lax Sports Network TV (720p)
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:0,MavTV Select (720p)
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,MMA Junkie (720p)
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
+#EXTINF:0,Monterrico TV (1080p) [Not 24/7]
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:0,NESN National (1080p)
+https://bcovlive-a.akamaihd.net/bea11a7dfef34b08be06aaca4a72bcdf/us-east-1/6141518204001/playlist.m3u8
+#EXTINF:0,New Japan Pro Wrestling World (540p)
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
+#EXTINF:0,Nitro Circus (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
+#EXTINF:0,Oman Sports TV (1080p) [Not 24/7]
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:0,One Golf (720p)
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:0,ORF Sport+ (540p) [Geo-blocked]
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
+#EXTINF:0,Ovacion TV (720p) [Not 24/7]
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:0,Pac 12 Insider (1080p) [Not 24/7]
+https://pac12-redbox.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac12-redbox/CDN/playlist.m3u8
+#EXTINF:0,Persiana Varzesh (720p) [Not 24/7]
+http://51.210.199.16/hls/stream.m3u8
+#EXTINF:0,Players TV (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
+#EXTINF:0,Pluto TV Action Sports (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0,Pluto TV All Elite Wrestling (240p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:0,Pluto TV Auto Motor Sport (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f760c3d41aa2d0007bfde19&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&terminate=false&userId=
+#EXTINF:0,Pluto TV Bellator MMA (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0,Pluto TV Boxing (684p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0,Pluto TV Combate World (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bb1ac3e268cae539bcedb07&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=970&terminate=false&userId=
+#EXTINF:0,Pluto TV Deportes (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:0,Pluto TV Fight (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bda9fd87eb3a2717cce0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9bda9fd87eb3a2717cce0&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5c2fb668-242f-4e7f-a025-087099fd0aca&terminate=false&userId=
+#EXTINF:0,Pluto TV FOX Sports (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0,Pluto TV Fútbol Para Fans (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:0,Pluto TV Glory Kickboxing (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9be1be738977e2c312134/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9be1be738977e2c312134&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=f6e88030-d7c8-47c8-8fed-7e24dd0a038a&terminate=false&userId=
+#EXTINF:0,Pluto TV IMPACT Wrestling (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=59b722526996084038c01e1b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=734&terminate=false&userId=
+#EXTINF:0,Pluto TV MLB (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0,Pluto TV MLS (480p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceLat=45.4994&deviceLon=-73.5703&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=76.0.3809.132&serverSideAds=true&sid=d1634607-2892-447a-b316-17a106f905fb&userId=
+#EXTINF:0,Pluto TV NFL Channel (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId=
+#EXTINF:0,Pluto TV PGA TOUR (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
+#EXTINF:0,Pluto TV Pluto Action Sports (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5be1be871843b56328bc3ef1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=8a1b4593-8596-4ff8-8720-2c3271ea36ca&terminate=false&userId=
+#EXTINF:0,Pluto TV Pro Wrestling (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0,Pluto TV Qello Concerts (720p)
+https://siloh.pluto.tv/lilo/production/Qello/ES/master.m3u8
+#EXTINF:0,Pluto TV Qwest TV Jazz & Beyond (720p)
+https://siloh.pluto.tv/lilo/production/QwestJazz/master.m3u8
+#EXTINF:0,Pluto TV SPORT : BeIN Sports Xtra (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.44&includeExtendedEvents=false&serverSideAds=tr&sid=855d6801-c912-428d-b620-ede4dd0c3b15&userId=
+#EXTINF:0,Pluto TV Sports (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf322-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0727f4fb-ea0b-4814-bb58-fdf3c4534220
+#EXTINF:0,Pluto TV Sports (England) (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7677fa2ec536ce1d587eeb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=607&terminate=false&userId=
+#EXTINF:0,Pluto TV Yoga (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60803e541a829e0008e91641/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb570-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ca55bef6-f2a6-488a-be5d-c7ba24d93cdd
+#EXTINF:0,Real Madrid TV
+http://154.62.74.11:1935/live/realmadridnntv/playlist.m3u8
+#EXTINF:0,Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:0,RedBull Batalla de Gallos (720p)
+https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/playlist.m3u8
+#EXTINF:0,Ring of Honor Wrestling (720p)
+https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,San Marino RTV Sport (720p)
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+#EXTINF:0,Ski TV (1080p) [Not 24/7]
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
+#EXTINF:0,SKI TV (1080p) [Not 24/7]
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
+#EXTINF:0,Sky Racing 1 (720p)
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
+#EXTINF:0,Sky Racing 2 (360p)
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
+#EXTINF:0,Snowy Mountains Television (1080p) [Geo-blocked]
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
+#EXTINF:0,Sport 1 (576p) [Not 24/7]
+https://95-213-224-183.livesports24.online/sport1ua.m3u8
+#EXTINF:0,Sportal.bg [Geo-blocked]
+https://e113-ts.cdn.bg/sportal/fls/sportal_fullhd/chunklist.m3u8?at=c92098d9ab33bf471967c6b6195361e3
+#EXTINF:0,Sports Tonight (576p) [Not 24/7]
+http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+#EXTINF:0,Sports TV (720p) [Geo-blocked]
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:0,Sports TV Plus (1080p)
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+#EXTINF:0,SportsGrid (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
+#EXTINF:0,Sportskool TV (720p)
+https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
+#EXTINF:0,Sportswire (1080p)
+https://dai.google.com/linear/hls/event/8R__yZf7SR6yMb-oTXgbEQ/master.m3u8
+#EXTINF:0,Sporty Stuff TV (720p)
+https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
+#EXTINF:0,SSC1 HD (1080p)
+https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index.m3u8
+#EXTINF:0,SSC Action Waleed (1080p) [Not 24/7]
+https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
+#EXTINF:0,SSC Action Waleed Extra (1080p) [Not 24/7]
+https://d2x08mwxhmpplo.cloudfront.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
+#EXTINF:0,Stadium (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
+#EXTINF:0,STIRR MavTV (720p)
+https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
+#EXTINF:0,STIRR Stadium (720p)
+http://stadium.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,STIRR Tennis Channel (720p) [Geo-blocked]
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
+#EXTINF:0,STIRR Whistle Sports (1080p)
+https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8
+#EXTINF:0,Swiss Sport TV (720p)
+https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
+#EXTINF:0,TDM Sports Macau (720p)
+http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:0,Teletrak (720p) [Not 24/7]
+https://unlimited1-us.dps.live/teletrak/teletrak.smil/playlist.m3u8
+#EXTINF:0,Tennis Channel (720p) [Geo-blocked]
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:0,Tennis Channel+ 1 (720p) [Geo-blocked]
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60.m3u8
+#EXTINF:0,Tennis Channel+ 2 (720p) [Geo-blocked]
+https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f.m3u8
+#EXTINF:0,TNT Sports 2 Brasil (720p) [Not 24/7]
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+#EXTINF:0,TNT Sports 3 Brasil (720p)
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+#EXTINF:0,TNT Sports 4 Brasil (720p) [Not 24/7]
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+#EXTINF:0,TNT Sports 5 Brasil (720p) [Not 24/7]
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+#EXTINF:0,Trace Sport Stars (1080p) [Geo-blocked]
+http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8
+#EXTINF:60,Trace Sport Stars (Australia) (1080p)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:8,Turf Móvil (720p)
+https://janus.tvturf.cl/playlist/stream.m3u8
+#EXTINF:0,Türkmenistan Sport (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:0,TV 2 Sporten (720p)
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+#EXTINF:0,TVRI Sport HD (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:0,TVS Boxing (360p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+#EXTINF:0,TVS Classic Sports (360p)
+http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
+#EXTINF:0,TVS Sports (720p) [Not 24/7]
+https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+#EXTINF:0,TVS Sports Bureau (720p)
+https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
+#EXTINF:0,TVS Turbo (360p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
+#EXTINF:0,TVS Women Sports (720p)
+https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
+#EXTINF:0,Unbeaten (1080p)
+https://unbeaten-roku.amagi.tv/playlist.m3u8
+#EXTINF:0,US SPORT Tennis Plus 1 (720p) [Geo-blocked]
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:0,World of Freesports (720p)
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
+#EXTINF:0,Yas (1080p)
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+#EXTINF:0,https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:0,https://95-213-224-183.livesports24.online/uafootballua1.m3u8
 #EXTINF:0, DIRECTV SPORTS
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
