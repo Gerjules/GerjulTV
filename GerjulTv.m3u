@@ -5253,3 +5253,241 @@ https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/Gerjules/GerjulTV/main/*******************************%20CANALES%20DE%20AIRE%20**********************************************
+#EXTINF:0 tvg-id="avi" group-title="NOTICIAS",CARACOL NOTICIAS
+https://www.youtube.com/watch?v=baQjc4qM2Tw
+#EXTINF:0 tvg-id="euro" group-title="NOTICIAS",Euronews
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",24 HORAS ESPAÑA
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",7NN Noticias
+https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",TV Perú Noticias
+https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:0 tvg-id="HispanTV.es" group-title="NOTICIAS",HISPAN TV
+https://live1.presstv.ir/live/hispan.m3u8
+#EXTINF:0 tvg-id="CGTN.es" group-title="NOTICIAS",CGTN ESPAÑOL
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",Ukraine 24 Ucrania
+http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
+#EXTINF:0 tvg-id="RaiNews.it" group-title="NOTICIAS",RAI NEWS
+https://streamcdnd1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",NHK World Japon
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",Nippon News TV Japon
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NACIONALES",CANAL 9  35.1
+https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NACIONALES",CANAL 9  35.1 OPCION 2
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
+#EXTINF:0 tvg-id="Telefe.ar" group-title="NACIONALES",TELEFE  34.1
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:0 tvg-id="Telefe.ar" group-title="NACIONALES",TELEFE  34.1 OPCION 2
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NACIONALES",CANAL 13  33.1
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NACIONALES",CANAL 13  33.1 OPCION 2
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:0 tvg-id="avi" group-title="MENDOZA",CANAL 7 MENDOZA
+https://www.youtube.com/watch?v=41YAYbmRVq4
+#EXTINF:0 tvg-id="ext" group-title="MENDOZA",CANAL 9 MENDOZA
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="SAN JUAN",CANAL 8 SAN JUAN
+https://www.youtube.com/watch?v=pWiphubw4tI
+#EXTINF:0 tvg-id="avi" group-title="SAN JUAN",CANAL 13 SAN JUAN
+https://www.youtube.com/watch?v=W2pE4fCtfNM
+#EXTINF:0 tvg-id="ext" group-title="SAN JUAN",CANAL 4 SAN JUAN
+http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SAN JUAN",TELESOL SAN JUAN
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SAN JUAN",AM 1020 SAN JUAN
+http://51.79.83.93:9998/live/am1020/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SAN JUAN",COSMOS TV SAN JUAN
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SAN JUAN",ZONDA TV SAN JUAN
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SAN JUAN",DEL SUR TV SAN JUAN
+http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SAN JUAN",CANAL 34 SAN JUAN
+http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SAN JUAN",RADIO BLU SAN JUAN
+https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SAN JUAN",CANAL 79 SAN JUAN
+https://streamconex.com:1936/sanjuan/sanjuan/chunklist_w759674935.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SAN JUAN",ALBARDON TV SAN JUAN
+https://vd01.streaminghd.net.ar:3056/live/albardonlive.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SAN JUAN",CANAL 40 CAUCETE
+https://canalsj.duckdns.org/canal40/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SAN JUAN",FM LIGHT 97.3 SAN JUAN
+http://videostream.shockmedia.com.ar:1935/lightfm/lightfm/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO",ADN 40
+https://www.youtube.com/watch?v=UKsX8l6f578
+#EXTINF:0 tvg-id="ext" group-title="MEXICO",TELEVISA MEXICO
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVN 24 Horas | CL
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVN 24 Horas 2 | CL
+https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",CHV Noticias | CL
+https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",T13 | CL
+https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Meganoticias | CL
+https://www.youtube.com/watch?v=WWVwv31dlLg
+#EXTINF:0 tvg-id="ext" group-title="News",24/7 Canal de Noticias (720p)
+https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",101TV Málaga (1080p) [Not 24/7]
+https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+#EXTINF:0 tvg-id="A24.ar" group-title="News" user-agent="iPhone",A24 (720p)
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",ADN 40 (720p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",ADN Radio (1080p)
+https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",América Tucumán (720p)
+https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",AMX Noticias (720p) [Not 24/7]
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Antena 21 (360p)
+https://d3qhvst5vzq4y9.cloudfront.net/hls/canal21.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Atacama Noticias (720p) [Not 24/7]
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",ATV Argentina (540p)
+https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",ATV+ Noticias (480p) [Not 24/7]
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
+#EXTINF:0 tvg-id="C5N.ar" group-title="News",C5N (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",C9N (480p)
+https://d4xunn272arip.cloudfront.net/hls/c9n.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Cablenoticias (1080p)
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+#EXTINF:0 tvg-id="26TV.ar" group-title="News",Canal 26 (720p)
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Canal Red (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UC3PhLH0Rj2e_-0hNvwTLxGA.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Cauquenesnet (720p)
+https://vdo.miserver.pro:3102/stream/play.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",CDNN 23 (1080p)
+http://138.117.4.70:8075/channel23/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",CHV Noticias (720p) [Not 24/7]
+https://ythls.onrender.com/channel/UCRsUoZYC1ULUspipMRnMhwg.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",CnAr Noticias (360p)
+https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/playlist.m3u8
+#EXTINF:0 tvg-id="CNNChile.cl" group-title="News",CNN Chile (720p)
+https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:0 tvg-id="CNNenEspanol.us" group-title="News",CNN en Español
+http://181.78.24.67:8010/play/a03p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Contacto Bolivia
+https://streannlivecontactobolivia.cachefly.net/contactobolivia1/contactobolivia1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",El Confidencial TV (1080p)
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",EL PAÍS TV (1080p)
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Erbol (720p)
+https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Estrella News (720p)
+https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Euronews Spanish
+https://euronews.alteox.app/hls/es_stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Exitosa (720p)
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Foro TV (1080p)
+https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",France 24 Español (1080p)
+https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",FuegoTV (Lima) (720p) [Not 24/7]
+http://190.108.83.142:8000/play/a003/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Hermes TV (720p) [Not 24/7]
+https://ythls.onrender.com/channel/UCv_HqaMNADVSi7A3jLrVPsA.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",HispanTV (480p)
+https://live1.presstv.ir/live/hispan.m3u8
+#EXTINF:0 tvg-id="HLN.us" group-title="News",HLN (720p)
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Identidad TV (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",IP Noticias (1080p)
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",La Abeja (720p) [Not 24/7]
+http://cdnhd.iblups.com/hls/F87ppt1YAT.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",La Iguana TV (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCCc2H9_eNnU7ucq2n7Sh3Rg.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Meganoticias (720p) [Not 24/7]
+https://ythls.onrender.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",MVM Noticias [Geo-blocked]
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",NCTV (1080p)
+https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",NHK World Premium (1080p)
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",NMás (1080p) [Geo-blocked]
+https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Norte Informativo TV (240p)
+https://videohd.live:19360/8076/8076.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Noticias Canal 10 (360p) [Not 24/7]
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Noticias Caracol Ahora (720p) [Not 24/7]
+https://ythls.onrender.com/channel/UC2Xq2PK-got3Rtz9ZJ32hLQ.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Noticiero 90 Minutos (720p) [Not 24/7]
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",NRT México Canal 4 (720p)
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Nuevo Mundo TV (720p)
+https://tvlatina.live:1936/8030/8030/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",PBO Digital (720p) [Not 24/7]
+https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Puranoticia TV (720p)
+https://pnt.janusmedia.tv/hls/pnt.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Radio Isla TV (720p)
+https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Radio Uno (Tacna) (720p) [Not 24/7]
+https://ythls.onrender.com/channel/UCK0lpuL9PQb3I5CDcu7Y7bA.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Raquel Daruech TV (720p) [Not 24/7]
+https://ythls.onrender.com/channel/UCxZ7Z0-z9EnTZAyKmeP2_MQ.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",RDN (720p)
+https://cm.hostlagarto.com:4445/rdn/rdn.myStream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Red de Comunicación Regional (RCR) (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",RNN (720p) [Not 24/7]
+https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
+#EXTINF:0 tvg-id="RPPTV.pe" group-title="News",RPP (480p) [Not 24/7]
+http://38.131.11.9:1080/play/a0d8
+#EXTINF:0 tvg-id="ext" group-title="News",RT en Español (1080p)
+https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",RTU [Not 24/7]
+https://streamingwowza.com:19360/rtutv/rtutv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",RTV Total (Yurimaguas) (480p) [Not 24/7]
+https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",SC Currents
+https://tvsantacruz.secure.footprint.net/egress/bhandler/tvsantacruz/streamc/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Suceso TV (720p)
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",T13 (720p) [Not 24/7]
+https://ythls.onrender.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",TeleCauquenes (720p)
+https://vdo.panelstreaming.live:3401/hybrid/play.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Telemetro (480p)
+http://209.91.213.10:8088/play/a00h
+#EXTINF:0 tvg-id="ext" group-title="News",TeleSUR (1080p)
+https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Televideo Regional (480p)
+https://inliveserver.com:1936/8050_1/8050_1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",TN Todo Noticias (1080p)
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",TRA 2 (720p)
+https://live.teledom.info:3242/live/teleradiohdlive.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",TRA Noticias
+https://live.teledom.info:3625/live/tra45live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",TV Noticias 7.3 (768p)
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",TV Perú Noticias (768p) [Not 24/7]
+https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_2.m3u8
+#EXTINF:0 tvg-id="TVN.pl" group-title="News",TVN (720p)
+https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Visión Noticias Perú (VNP) (720p) [Not 24/7]
+https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",VPItv (1080p)
+https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
