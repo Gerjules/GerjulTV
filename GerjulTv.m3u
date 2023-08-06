@@ -837,18 +837,13 @@ https://i.mjh.nz/PlutoTV/60cc807324d60a0007708dc8-alt.m3u8
 #EXTINF:0, Pluto TV Western
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/6385e82900ab2e000768a058-alt.m3u8
 #EXTINF:120, Free tv
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
 #EXTINF:28, Cine Accion
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:25, Cine Suspenso
@@ -860,33 +855,22 @@ https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
 #EXTINF:30, Cinerama
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 #EXTINF:25, Winx Club
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/62568a94ed1f380007b0211f-alt.m3u8
 #EXTINF:53, MY TIME MOVIES
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:60, MY TIME MOVIES 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:25, ESTRELLAS DE ACCIÓN
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22351-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=988908ef-9cb1-4bfd-9346-d817932e3a37&userId=&serverSideAds=true
 #EXTINF:25,Service
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/61cd78920b90cb0007e28231-alt.m3u8
 #EXTINF:25, Rakuten Viki
@@ -897,19 +881,13 @@ https://i.mjh.nz/PlutoTV/60c8a24e17da110007eed4fd-alt.m3u8
 #EXTINF:36, RAKUTEN SPOTLIGHT
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 https://bbfb189d0b5442118b9541714950d36c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenSpotlight/playlist.m3u8?ads.wurl_channel%3D430%26ads.wurl_name%3DRakutenSpotlight%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
 #EXTINF:36, RAKUTEN ACCION
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/playlist.m3u8?ads.wurl_channel%3D427%26ads.wurl_name%3DRakutenActionMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
 #EXTINF:0, RAKUTEN FAMILIA
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel%3D718%26ads.wurl_name%3DRakutenFamily%26ads.coppa%3D1%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7D
 #EXTINF:0, COSMOS TV
@@ -921,18 +899,12 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:38, A3CINE
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 #EXTINF:36, Grjngo
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:59,Nimbus Playout
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://dfekb8hx1gqcg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nmsvybp4gie0j-ssai-prd/hls/main.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:0, Cines Verdi TV
@@ -944,19 +916,13 @@ https://d2vxs6a73h4kai.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:60, Movies Central by TV Player
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:0, MY TIME MOVIES 1
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:0, MY TIME MOVIES 2
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:27, Retro
@@ -1226,11 +1192,11 @@ https://59ce1298bfb98.streamlock.net/fortaleza/fortaleza/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/Gerjules/GerjulTV/main/*******************************%20ENTRETENIMIENTOS%20VARIOS%20**********************************************
 #EXTINF:27, World Poker Tour
-#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/6080381ab7c9ea00074ec64c-alt.m3u8
 #EXTINF:0, PokerGo
-#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5fc54366b04b2300072e31af-alt.m3u8
 #EXTINF:25, Smithsonian Channel *
@@ -1244,20 +1210,16 @@ https://i.mjh.nz/PlutoTV/63a084934734f30007457b2c-alt.m3u8
 https://v3.playerlatino.live/stream/m3u8/67
 #EXTINF:60, H2
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/61
 #EXTINF:60, Discovery Civilization
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/23
 #EXTINF:62,  Discovery Channel
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/22
@@ -2048,42 +2010,34 @@ https://raw.githubusercontent.com/Gerjules/GerjulTV/main/***********************
 #EXTINF:59, Win Sports
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/292
 #EXTINF:0, Tyc Sports
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/274
 #EXTINF:0, Win Sports +
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/881
 #EXTINF:0, ESPN
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/34
 #EXTINF:0, ESPN 2
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.liv
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/35
 #EXTINF:0, ESPN 2 MX
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/531
 #EXTINF:0, ESPN Chile
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/842
 #EXTINF:0, ESPN MX
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/530
 #EXTINF:0, ESPN Plus
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -2093,27 +2047,22 @@ https://v3.playerlatino.live/stream/m3u8/37
 #EXTINF:0, Eurosport
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/39
 #EXTINF:0, EWTN
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/38
 #EXTINF:0, FM Hot TV
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/731
 #EXTINF:0, Formula 1 TV (F1)
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/192
 #EXTINF:80, DirectTV Sports
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/259
 #EXTINF:0, DirectTV Sports 2
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -2123,27 +2072,22 @@ https://v3.playerlatino.live/stream/m3u8/667
 #EXTINF:0, Fox Sur
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/750
 #EXTINF:0, Fox Life Sur
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/746
 #EXTINF:0, Fox Sports
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/52
 #EXTINF:60, Fox Sports 2
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/53
 #EXTINF:0, Fox Sports 2 MX
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/528
 #EXTINF:0, Fox Sports 3
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -2158,52 +2102,42 @@ https://v3.playerlatino.live/stream/m3u8/527
 #EXTINF:57, Fox Sports MX Sur
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/748
 #EXTINF:0, Fox Sports Premium
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/512
 #EXTINF:0, Fox Sports Sur
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/402
 #EXTINF:0, Fox Sports Sur 2
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/410
 #EXTINF:0, Fox Sports Sur 3
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/511
 #EXTINF:0, TigoSports Bolivia
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/764
 #EXTINF:0, TigoSports Paraguay
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/843
 #EXTINF:0, TNT Sports
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/509
 #EXTINF:0, TVC Deportes
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/837
 #EXTINF:0, UFC Network
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/97
 #EXTINF:0, Gol Peru
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -2213,7 +2147,6 @@ https://v3.playerlatino.live/stream/m3u8/686
 #EXTINF:0, Univisión Deportes
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/373
 #EXTINF:36,Abu Dhabi Sports 1 (1080p)
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
@@ -2495,8 +2428,6 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
 #EXTINF:0,Yas (1080p)
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
-#EXTINF:0,https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:0,https://95-213-224-183.livesports24.online/uafootballua1.m3u8
 #EXTINF:0, DIRECTV SPORTS
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
