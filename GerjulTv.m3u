@@ -1191,7 +1191,7 @@ https://59ce1298bfb98.streamlock.net/fortaleza/fortaleza/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/Gerjules/GerjulTV/main/*******************************%20ENTRETENIMIENTOS%20VARIOS%20**********************************************
-#EXTINF:27, World Poker Tour
+#EXTINF:0, World Poker Tour
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/6080381ab7c9ea00074ec64c-alt.m3u8
