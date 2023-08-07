@@ -388,6 +388,420 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4d2891-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd9d9781-2910-4dd2-9b1f-a1fd662d0cc3&userId=&serverSideAds=true
+#EXTINF:25, CINE ADRENALINA
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0ffcd50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6a432784-0445-4dce-b1c8-3ec58a005793&userId=&serverSideAds=true
+#EXTINF:36, Bjgtjme 
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8?ads.wurl_channel=1251&ads.wurl_name=BjgtjmePeliculasGratis&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:60, Golden Plus
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:25, * Cine Suspenso
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5ddc4e8bcbb9010009b4e84f-alt.m3u8
+#EXTINF:25, * Cine Crimen
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/624af40c004f8000079b784d-alt.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/61b793ccf571b80007b7a610-alt.m3u8
+#EXTINF:25, * Thrillers
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5f1ac8a87cd38d000745d7cf-alt.m3u8
+#EXTINF:60, Cine Latino
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/295
+#EXTINF:60, TU CINE
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/25f414bc-75d2-4b01-b340-576f49ba41b4/4.m3u8
+#EXTINF:0, TU CINE
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
+#EXTINF:54, Flou Cine
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-canelatv/playlist.m3u8?device_id=2a54a3cf5226de279654ec88859087d0
+#EXTINF:60, TOP CINE
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/520936ec-fb0d-453e-bff9-98f7e65d2c13/4.m3u8
+#EXTINF:60, CINE REAL
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/c2ad726d-bf69-4f75-8e5f-1007ef768eb8/4.m3u8
+#EXTINF:25, CINE JAJA!!
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a115c650-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c2c24e3d-01f5-4d23-a4be-a53210dbc21c&userId=&serverSideAds=true
+#EXTINF:0, CINE CLÁSICO
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6026fca0-c970-11eb-8484-c3c002d1fa3f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2d0e47f8-f10a-4450-8221-6f3976c9f746&userId=&serverSideAds=true
+#EXTINF:0, CINE CLÁSICO (España)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:25, CINE FAMILIA
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fa508f20-2870-486b-a716-7a14ab7ab7fb&userId=&serverSideAds=true
+#EXTINF:25, CINE ACCIÓN (España)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4ba1f1-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2ef6bc3f-95cc-43bd-98df-11ffd10b28fc&userId=&serverSideAds=true
+#EXTINF:25, CINE SUSPENSO
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18710-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6602c30d-29cf-40ea-9379-390b2d9b72bb&userId=&serverSideAds=true
+#EXTINF:25, CINE XOXO
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a115ed60-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f83ca203-9359-411e-a06a-f401bb16ab3a&userId=&serverSideAds=true
+#EXTINF:25, CINE ROMANCE
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
+#EXTINF:36, RAKUTEN TV ACCIÓN
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/playlist.m3u8?ads.wurl_channel%3D427%26ads.wurl_name%3DRakutenActionMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:36, RAKUTEN TV FAMILIA
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel%3D718%26ads.wurl_name%3DRakutenFamily%26ads.coppa%3D1%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:35, RAKUTEN TV TOP FREE
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,CINE JUNTOS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
+#EXTINF:60, CINE SUREÑO
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+#EXTINF:0, PLANETA TV MOVIES
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
+#EXTINF:25, CINE
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae24-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b1c7f116-fa08-488b-a213-5bb1f7ee5ad2&userId=&serverSideAds=true
+#EXTINF:25, CINE 2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3548ea01-ec9a-4077-95c1-67068b0dfecd&userId=&serverSideAds=true
+#EXTINF:120, Free tv
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
+#EXTINF:53, MY TIME MOVIES
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:60, MY TIME MOVIES 2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:25, ESTRELLAS DE ACCIÓN
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22351-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=988908ef-9cb1-4bfd-9346-d817932e3a37&userId=&serverSideAds=true
+#EXTINF:36, RAKUTEN SPOTLIGHT
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://bbfb189d0b5442118b9541714950d36c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenSpotlight/playlist.m3u8?ads.wurl_channel%3D430%26ads.wurl_name%3DRakutenSpotlight%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:36, RAKUTEN ACCION
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/playlist.m3u8?ads.wurl_channel%3D427%26ads.wurl_name%3DRakutenActionMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:0, RAKUTEN FAMILIA
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel%3D718%26ads.wurl_name%3DRakutenFamily%26ads.coppa%3D1%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:60, Cine 4
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://linear-330.frequency.stream/dist/localnow/330/hls/master/playlist.m3u8
+#EXTINF:59,Nimbus Playout
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://dfekb8hx1gqcg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nmsvybp4gie0j-ssai-prd/hls/main.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:36, Grjngo
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0, COSMOS TV
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:60, Movies Central by TV Player
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:0, Runtime Familia
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
+#EXTINF:0, Cines Verdi TV
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://d2vxs6a73h4kai.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gson0whk7ox3g-ssai-prd/hls/main.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:28, Cine Accion
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:25, Cine Suspenso
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+#EXTINF:30, Cinerama
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+#EXTINF:0, MY TIME MOVIES 1
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0, MY TIME MOVIES 2
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:0, NUESTRA VISIÓN
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f78158/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d880-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=26dab85a-c1e2-4023-9cde-864e1c0d5f94&userId=&serverSideAds=true
+#EXTINF:25, REETRO PLAY TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v4.tustreaming.cl/retroplaytv/index.m3u8
+#EXTINF:30, RETRO PLUS TV CINE
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+#EXTINF:0, BBC DRAMA
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0, CINE DRAMA
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff00072-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6e24734a-39dc-48e4-8068-40d233385993&userId=&serverSideAds=true
+#EXTINF:0, CINE DRAMA (España)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a62c1-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99870be5-05f2-48d8-b695-39dfabde3232&userId=&serverSideAds=true
+#EXTINF:0,Xtrema Cine Drama (360p)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+#EXTINF:25, * Cine Drama
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5dcddfcb229eff00091b6bdf-alt.m3u8
+#EXTINF:0, RAKUTEN TV DRAMA
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://3de281cc31cf4835a3769dd13743f40c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenTVShows/playlist.m3u8?ads.wurl_channel%3D429%26ads.wurl_name%3DRakutenTVShows%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:54, Kanal D Drama
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
+#EXTINF:0, CINE ROMÁNTICO
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a89d0-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b946b5ad-df98-4df0-a5c3-637b325d942e&userId=&serverSideAds=true
+#EXTINF:0, Runtime Romance
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
+#EXTINF:0,ViX Parejas (1080p)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
+#EXTINF:0, JUNTOS
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/27d354f8-74a3-476f-a2b8-d5d691f2ff2b/4.m3u8
+#EXTINF:25, CINE ESTELAR 2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f59f50cc36a94000749fd3f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44aff04-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236222be-74f0-4d28-b58b-70f75ce8319a&userId=&serverSideAds=true
+#EXTINF:60, CINE HORRORFY
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+#EXTINF:60, HORRORFY
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/6105ccc7-7a04-41f9-b07c-2705f56a0d8b/4.m3u8
+#EXTINF:30, tvg-logo="http://ts.tvcluboficial.com/247/terror/img.jpg" group-title="Peliculas" - Cine Terror
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/693
+#EXTINF:0, * Cine Terror
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5dcddf1ed95e740009fef7ab-alt.m3u8
+#EXTINF:0, CINE TERROR
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff00070-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c808f376-3c51-4ce4-8dc1-f9b1e9c494cc&userId=&serverSideAds=true
+#EXTINF:0, CINE TERROR 2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31d6ed5a-e18e-40e7-86c3-072f2b86df3c&userId=&serverSideAds=true
+#EXTINF:0, Cine terror
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5d8d180092e97a5e107638d3-alt.m3u8
+#EXTINF:25, Pluto TV Horror
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/6267d4d1fb694f0007a6af0e-alt.m3u8
+#EXTINF:0, Runtime Terror
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8
+#EXTINF:0, FORTALEZA TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://59ce1298bfb98.streamlock.net/fortaleza/fortaleza/playlist.m3u8
 #EXTINF:0,027 Nat Geo HD
 #EXTVLCOPT:network-caching=3000
 http://170.79.235.29:8000/play/027
@@ -525,52 +939,13 @@ http://167.250.222.35:16000/play/a09b/index.m3u8
 #EXTINF:0,UNIVERSAL REALITY HD
 #EXTVLCOPT:network-caching=3000
 http://167.250.222.35:16000/play/a09c/index.m3u8
-#EXTINF:25, CINE ADRENALINA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0ffcd50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6a432784-0445-4dce-b1c8-3ec58a005793&userId=&serverSideAds=true
-#EXTINF:36, Bjgtjme 
+#EXTINF:30, Retro Plus TV Señal 3
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8?ads.wurl_channel=1251&ads.wurl_name=BjgtjmePeliculasGratis&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:60, Golden Plus
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:25, Pelis y Popcorn
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/60fb2f47c133270007327375-alt.m3u8
-#EXTINF:25, * Cine Suspenso
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5ddc4e8bcbb9010009b4e84f-alt.m3u8
-#EXTINF:25, * Cine Crimen
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/624af40c004f8000079b784d-alt.m3u8
-#EXTINF:25,Service
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/61b793ccf571b80007b7a610-alt.m3u8
-#EXTINF:25,Service
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:25, * Thrillers
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f1ac8a87cd38d000745d7cf-alt.m3u8
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 #EXTINF:8,A&E HD
 #EXTVLCOPT:network-caching=3000
 http://167.250.222.35:16000/play/a04c/index.m3u8
@@ -586,6 +961,11 @@ http://167.250.222.35:16000/play/a049/index.m3u8
 #EXTINF:8,AXN HD
 #EXTVLCOPT:network-caching=3000
 http://167.250.222.35:16000/play/a07o/index.m3u8
+#EXTINF:25, Pelis y Popcorn
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/60fb2f47c133270007327375-alt.m3u8
 #EXTINF:0,AZ click HD
 #EXTVLCOPT:network-caching=3000
 http://167.250.222.35:16000/play/a04j/index.m3u8
@@ -706,64 +1086,79 @@ http://167.250.222.35:16000/play/a06m/index.m3u8
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/179
-#EXTINF:60, Cine Latino
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://v3.playerlatino.live/stream/m3u8/295
-#EXTINF:60, TU CINE
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/25f414bc-75d2-4b01-b340-576f49ba41b4/4.m3u8
-#EXTINF:0, TU CINE
+#EXTINF:25,Service
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
-https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
-#EXTINF:54, Flou Cine
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-canelatv/playlist.m3u8?device_id=2a54a3cf5226de279654ec88859087d0
-#EXTINF:60, TOP CINE
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/520936ec-fb0d-453e-bff9-98f7e65d2c13/4.m3u8
-#EXTINF:60, CINE REAL
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/c2ad726d-bf69-4f75-8e5f-1007ef768eb8/4.m3u8
-#EXTINF:25, CINE JAJA!!
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a115c650-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c2c24e3d-01f5-4d23-a4be-a53210dbc21c&userId=&serverSideAds=true
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId=&serverSideAds=true
 #EXTINF:25,Service
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/609059dc63be6e0007b4eca6-alt.m3u8
+https://i.mjh.nz/PlutoTV/5f1abce155a03d0007718834-alt.m3u8
+#EXTINF:25, IGN
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5f1ac118dd7e6000077e31af-alt.m3u8
 #EXTINF:25,Service
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5defde6d6c07b50009cf0757-alt.m3u8
-#EXTINF:25, * Vida Real
+https://i.mjh.nz/PlutoTV/61cd78920b90cb0007e28231-alt.m3u8
+#EXTINF:0, Pluto TV Cine de autor
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/60cc807324d60a0007708dc8-alt.m3u8
+#EXTINF:0, Pluto TV Western
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/6385e82900ab2e000768a058-alt.m3u8
+#EXTINF:25, Rakuten Viki
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/60c8a24e17da110007eed4fd-alt.m3u8
+#EXTINF:25, Pluto TV Sci-Fi
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5f6a38eaa5b68b0007a00e7a-alt.m3u8
+#EXTINF:25, Winx Club
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/62568a94ed1f380007b0211f-alt.m3u8
+#EXTINF:38, A3CINE
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5df265697ec3510009df1ef0-alt.m3u8
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+#EXTINF:27, Retro
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+http://200.48.184.156:1935/eretro/eretro/playlist.m3u8
+#EXTINF:0, LIM TV 
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://live.limplay.ml/limtv.m3u8
+#EXTINF:0, ACS NETWORK
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://acs.amelbasoluciones.co:3370/live/acslivelive.m3u8
 #EXTINF:25, * Cine Clásico
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/61373bb45168fe000773eecd-alt.m3u8
-#EXTINF:25, Pluto TV Cine Clásico
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/61373bb45168fe000773eecd-alt.m3u8
@@ -773,6 +1168,77 @@ https://i.mjh.nz/PlutoTV/61373bb45168fe000773eecd-alt.m3u8
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/32
+#EXTINF:25, Pluto TV Cine Clásico
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/61373bb45168fe000773eecd-alt.m3u8
+#EXTINF:25, Estrellas de Acción
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/600728952b1776000776526d-alt.m3u8
+#EXTINF:0, IGN
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5f1ac118dd7e6000077e31af-alt.m3u8
+#EXTINF:0, TV RETRO PALMARES
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+http://tvretropalmares.com:8090/hls/envivo.m3u8
+#EXTINF:0, RETROPLUS TV 2
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+#EXTINF:0, * Cine Romántico
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5f1ac9a2d3611d0007a844bb-alt.m3u8
+#EXTINF:29, tvg-logo="http://ts.tvcluboficial.com/247/romance/img.jpg" group-title="Peliculas" - Cine Romance
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/689
+#EXTINF:30, tvg-logo="http://ts.tvcluboficial.com/247/infantil/img.jpg" group-title="Peliculas" - Cine Infantil
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/687
+#EXTINF:0, * Cine Romance
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5dd7ea2aeab5230009986735-alt.m3u8
 #EXTINF:25, * Cine de autor
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
@@ -806,531 +1272,21 @@ https://v3.playerlatino.live/stream/m3u8/688
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/694
-#EXTINF:0, CINE CLÁSICO
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6026fca0-c970-11eb-8484-c3c002d1fa3f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2d0e47f8-f10a-4450-8221-6f3976c9f746&userId=&serverSideAds=true
-#EXTINF:0, CINE CLÁSICO (España)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:25, * Vida Real
+#EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:25, CINE FAMILIA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fa508f20-2870-486b-a716-7a14ab7ab7fb&userId=&serverSideAds=true
-#EXTINF:25, CINE ACCIÓN (España)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4ba1f1-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2ef6bc3f-95cc-43bd-98df-11ffd10b28fc&userId=&serverSideAds=true
-#EXTINF:25, CINE SUSPENSO
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18710-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6602c30d-29cf-40ea-9379-390b2d9b72bb&userId=&serverSideAds=true
-#EXTINF:25, CINE XOXO
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a115ed60-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f83ca203-9359-411e-a06a-f401bb16ab3a&userId=&serverSideAds=true
-#EXTINF:25, CINE ROMANCE
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
-#EXTINF:36, RAKUTEN TV ACCIÓN
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/playlist.m3u8?ads.wurl_channel%3D427%26ads.wurl_name%3DRakutenActionMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
-#EXTINF:36, RAKUTEN TV FAMILIA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel%3D718%26ads.wurl_name%3DRakutenFamily%26ads.coppa%3D1%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7D
-#EXTINF:35, RAKUTEN TV TOP FREE
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0,CINE JUNTOS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
-#EXTINF:60, CINE SUREÑO
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
-#EXTINF:25, IGN
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f1ac118dd7e6000077e31af-alt.m3u8
+https://i.mjh.nz/PlutoTV/5df265697ec3510009df1ef0-alt.m3u8
 #EXTINF:25,Service
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f1abce155a03d0007718834-alt.m3u8
-#EXTINF:0, PLANETA TV MOVIES
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
-#EXTINF:25, CINE
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae24-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b1c7f116-fa08-488b-a213-5bb1f7ee5ad2&userId=&serverSideAds=true
-#EXTINF:25, CINE 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3548ea01-ec9a-4077-95c1-67068b0dfecd&userId=&serverSideAds=true
-#EXTINF:0, Runtime Familia
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
-#EXTINF:25,Service
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId=&serverSideAds=true
-#EXTINF:25, Pluto TV Sci-Fi
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f6a38eaa5b68b0007a00e7a-alt.m3u8
-#EXTINF:0, Pluto TV Cine de autor
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/60cc807324d60a0007708dc8-alt.m3u8
-#EXTINF:0, Pluto TV Western
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/6385e82900ab2e000768a058-alt.m3u8
-#EXTINF:120, Free tv
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
-#EXTINF:28, Cine Accion
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:25, Cine Suspenso
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
-#EXTINF:30, Cinerama
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
-#EXTINF:25, Winx Club
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/62568a94ed1f380007b0211f-alt.m3u8
-#EXTINF:53, MY TIME MOVIES
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:60, MY TIME MOVIES 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:25, ESTRELLAS DE ACCIÓN
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22351-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=988908ef-9cb1-4bfd-9346-d817932e3a37&userId=&serverSideAds=true
+https://i.mjh.nz/PlutoTV/609059dc63be6e0007b4eca6-alt.m3u8
 #EXTINF:25,Service
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/61cd78920b90cb0007e28231-alt.m3u8
-#EXTINF:25, Rakuten Viki
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/60c8a24e17da110007eed4fd-alt.m3u8
-#EXTINF:36, RAKUTEN SPOTLIGHT
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://bbfb189d0b5442118b9541714950d36c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenSpotlight/playlist.m3u8?ads.wurl_channel%3D430%26ads.wurl_name%3DRakutenSpotlight%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
-#EXTINF:36, RAKUTEN ACCION
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/playlist.m3u8?ads.wurl_channel%3D427%26ads.wurl_name%3DRakutenActionMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
-#EXTINF:0, RAKUTEN FAMILIA
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel%3D718%26ads.wurl_name%3DRakutenFamily%26ads.coppa%3D1%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7D
-#EXTINF:0, COSMOS TV
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:38, A3CINE
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-#EXTINF:36, Grjngo
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:59,Nimbus Playout
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://dfekb8hx1gqcg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nmsvybp4gie0j-ssai-prd/hls/main.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:0, Cines Verdi TV
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://d2vxs6a73h4kai.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gson0whk7ox3g-ssai-prd/hls/main.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:60, Movies Central by TV Player
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:0, MY TIME MOVIES 1
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0, MY TIME MOVIES 2
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:27, Retro
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://200.48.184.156:1935/eretro/eretro/playlist.m3u8
-#EXTINF:0, LIM TV 
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://live.limplay.ml/limtv.m3u8
-#EXTINF:0, ACS NETWORK
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://acs.amelbasoluciones.co:3370/live/acslivelive.m3u8
-#EXTINF:0, NUESTRA VISIÓN
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f78158/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d880-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=26dab85a-c1e2-4023-9cde-864e1c0d5f94&userId=&serverSideAds=true
-#EXTINF:25, Estrellas de Acción
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
-#EXTINF:25,Service
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/600728952b1776000776526d-alt.m3u8
-#EXTINF:0, IGN
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f1ac118dd7e6000077e31af-alt.m3u8
-#EXTINF:0, TV RETRO PALMARES
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://tvretropalmares.com:8090/hls/envivo.m3u8
-#EXTINF:30, Retro Plus TV Señal 3
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
-#EXTINF:0, RETROPLUS TV 2
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
-#EXTINF:25, REETRO PLAY TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://v4.tustreaming.cl/retroplaytv/index.m3u8
-#EXTINF:30, RETRO PLUS TV CINE
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
-#EXTINF:0, * Cine Romántico
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f1ac9a2d3611d0007a844bb-alt.m3u8
-#EXTINF:0, * Cine Familia
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5dd6ddb30a1d8a000908ed4c-alt.m3u8
-#EXTINF:30, tvg-logo="http://ts.tvcluboficial.com/247/comedia2/img.jpg" group-title="Peliculas" - Cine Comedia 2
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://v3.playerlatino.live/stream/m3u8/696
-#EXTINF:29, tvg-logo="http://ts.tvcluboficial.com/247/romance/img.jpg" group-title="Peliculas" - Cine Romance
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://v3.playerlatino.live/stream/m3u8/689
-#EXTINF:30, tvg-logo="http://ts.tvcluboficial.com/247/infantil/img.jpg" group-title="Peliculas" - Cine Infantil
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://v3.playerlatino.live/stream/m3u8/687
-#EXTINF:0, * Cine Romance
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5dd7ea2aeab5230009986735-alt.m3u8
-#EXTINF:60, Cine 1
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://linear-307.frequency.stream/dist/localnow/307/hls/master/playlist.m3u8
-#EXTINF:60, Cine 2
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://linear-308.frequency.stream/dist/localnow/308/hls/master/playlist.m3u8
-#EXTINF:0, Cine 3
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://linear-309.frequency.stream/dist/localnow/309/hls/master/playlist.m3u8
-#EXTINF:0, Cine 4
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://linear-330.frequency.stream/dist/localnow/330/hls/master/playlist.m3u8
-#EXTINF:0, BBC DRAMA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:25, * Cine Drama
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5dcddfcb229eff00091b6bdf-alt.m3u8
-#EXTINF:0,Xtrema Cine Drama (360p)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
-#EXTINF:0, CINE DRAMA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff00072-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6e24734a-39dc-48e4-8068-40d233385993&userId=&serverSideAds=true
-#EXTINF:0, CINE DRAMA (España)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a62c1-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99870be5-05f2-48d8-b695-39dfabde3232&userId=&serverSideAds=true
-#EXTINF:0, RAKUTEN TV DRAMA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://3de281cc31cf4835a3769dd13743f40c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenTVShows/playlist.m3u8?ads.wurl_channel%3D429%26ads.wurl_name%3DRakutenTVShows%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
-#EXTINF:54, Kanal D Drama
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
-#EXTINF:0, CINE ROMÁNTICO
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a89d0-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b946b5ad-df98-4df0-a5c3-637b325d942e&userId=&serverSideAds=true
-#EXTINF:0, Runtime Romance
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
-#EXTINF:0,ViX Parejas (1080p)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
-#EXTINF:0, JUNTOS
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/27d354f8-74a3-476f-a2b8-d5d691f2ff2b/4.m3u8
-#EXTINF:25, CINE ESTELAR 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f59f50cc36a94000749fd3f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44aff04-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236222be-74f0-4d28-b58b-70f75ce8319a&userId=&serverSideAds=true
-#EXTINF:60, CINE HORRORFY
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
-#EXTINF:25, Pluto TV Horror
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/6267d4d1fb694f0007a6af0e-alt.m3u8
-#EXTINF:60, HORRORFY
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/6105ccc7-7a04-41f9-b07c-2705f56a0d8b/4.m3u8
-#EXTINF:30, tvg-logo="http://ts.tvcluboficial.com/247/terror/img.jpg" group-title="Peliculas" - Cine Terror
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://v3.playerlatino.live/stream/m3u8/693
-#EXTINF:0, * Cine Terror
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5dcddf1ed95e740009fef7ab-alt.m3u8
-#EXTINF:0,Xtrema Cine Terror (270p)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
-#EXTINF:0, CINE TERROR
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff00070-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c808f376-3c51-4ce4-8dc1-f9b1e9c494cc&userId=&serverSideAds=true
-#EXTINF:0, CINE TERROR 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31d6ed5a-e18e-40e7-86c3-072f2b86df3c&userId=&serverSideAds=true
-#EXTINF:0, Cine terror
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5d8d180092e97a5e107638d3-alt.m3u8
-#EXTINF:0, Runtime Terror
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8
-#EXTINF:0, FORTALEZA TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://59ce1298bfb98.streamlock.net/fortaleza/fortaleza/playlist.m3u8
+https://i.mjh.nz/PlutoTV/5defde6d6c07b50009cf0757-alt.m3u8
 #EXTINF:0,******************************* ENTRETENIMIENTOS vARIOS **********************************************
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
