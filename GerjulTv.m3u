@@ -90,9 +90,6 @@ https://59ce1298bfb98.streamlock.net/panambi/panambi/chunklist_w1855680502.m3u8
 #EXTINF:28, SUCESO TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
 #EXTINF:30,CABLEMÁS
 #EXTVLCOPT:network-caching=3000
@@ -205,10 +202,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 #EXTINF:16, PBS KIDS (Inglés)
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:25, ANIMAKIDS (España)
 #EXTVLCOPT:network-caching=1000
@@ -227,9 +220,6 @@ https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:25, * Kids
 #EXTVLCOPT:network-caching=2000
@@ -886,19 +876,14 @@ http://170.79.235.29:8000/play/122
 #EXTINF:0,177 El Gourmet HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://170.79.235.29:8000/play/177
 #EXTINF:0,178 Mundo & Sabor HD
-#EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://170.79.235.29:8000/play/178
 #EXTINF:25, Cortos
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/61c49a1b5ec8d40008673251-alt.m3u8
 #EXTINF:8,CINECANAL HD
 #EXTVLCOPT:network-caching=3000
@@ -908,10 +893,8 @@ http://167.250.222.35:16000/play/a06o/index.m3u8
 #EXTINF:8,Paramount HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://167.250.222.35:16000/play/a07w/index.m3u8
 #EXTINF:0,HBO XTREME SD
-#EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://170.79.235.29:8000/play/a13t
@@ -933,45 +916,36 @@ http://170.79.235.29:8000/play/019
 #EXTINF:0,020 HBO XTREME HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://170.79.235.29:8000/play/020
 #EXTINF:0,021 HBO 2 HD
-#EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://170.79.235.29:8000/play/021
 #EXTINF:0,HBO 2
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://170.79.235.29:8000/play/a13r
 #EXTINF:0,HBO Family
-#EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://170.79.235.29:8000/play/a13u
 #EXTINF:8,HBO Family HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://167.250.222.35:16000/play/a043/index.m3u8
 #EXTINF:8,HBO HD
-#EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://167.250.222.35:16000/play/a040/index.m3u8
 #EXTINF:0,HBO Plus
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://170.79.235.29:8000/play/a13s
 #EXTINF:0,HBO Plus HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://167.250.222.35:16000/play/a042/index.m3u8
 #EXTINF:0,HBO XTREME HD
-#EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://167.250.222.35:16000/play/a08k/index.m3u8
@@ -983,15 +957,12 @@ http://167.250.222.35:16000/play/a041/index.m3u8
 #EXTINF:0,088 Universal TV
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://170.79.235.29:8000/play/088
 #EXTINF:0,098 Studio Universal HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://170.79.235.29:8000/play/098
 #EXTINF:8,Studio Universal HD
-#EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://167.250.222.35:16000/play/a047/index.m3u8
@@ -1003,20 +974,16 @@ http://167.250.222.35:16000/play/a078/index.m3u8
 #EXTINF:8,UNIVERSAL COMEDY HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://167.250.222.35:16000/play/a09e/index.m3u8
 #EXTINF:8,UNIVERSAL CRIME HD
-#EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://167.250.222.35:16000/play/a09d/index.m3u8
 #EXTINF:8,UNIVERSAL PREMIERE HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://167.250.222.35:16000/play/a09a/index.m3u8
 #EXTINF:0,UNIVERSAL PREMIERE O HD
-#EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://167.250.222.35:16000/play/a09b/index.m3u8
