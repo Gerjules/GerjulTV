@@ -249,6 +249,57 @@ https://i.mjh.nz/PlutoTV/5f1aabee6f4a2c00076a322c-alt.m3u8
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5f1aab1d29b39600073e243f-alt.m3u8
+#EXTINF:16,Toonizaki
+#EXTVLCOPT:network-caching=3000
+https://xhateaec.com:8800/hls/MagicTeam/MagicTeam/0808a4a796ac5a10be48b2b1887f5b22/index.m3u8
+#EXTINF:54,AnimeStation
+#EXTVLCOPT:network-caching=3000
+https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
+#EXTINF:0,Magic Kids TV
+#EXTVLCOPT:network-caching=3000
+https://stream-linkyprojects.linky.com.co/hls/magickids.m3u8
+#EXTINF:62,Magic
+#EXTVLCOPT:network-caching=3000
+https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:0,Retro Magico
+#EXTVLCOPT:network-caching=3000
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+#EXTINF:28,Retro Infantil
+#EXTVLCOPT:network-caching=3000
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+#EXTINF:0,Latino Kids TV
+#EXTVLCOPT:network-caching=3000
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+#EXTINF:130,Zaz TV
+#EXTVLCOPT:network-caching=3000
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+#EXTINF:0,V#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="Familiares" - Zaz TV 2
+#EXTVLCOPT:network-caching=3000
+https://raw.githubusercontent.com/ToonizakiStudios/lista-IPTV/main/V
+#EXTINF:53,Pitufo TV
+#EXTVLCOPT:network-caching=3000
+https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
+#EXTINF:30,Planetatv family
+#EXTVLCOPT:network-caching=3000
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
+#EXTINF:28,Moni TV HD
+#EXTVLCOPT:network-caching=3000
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+#EXTINF:23,Xabarin TV
+#EXTVLCOPT:network-caching=3000
+http://infantil-crtvg.flumotion.com/chunks.m3u8
+#EXTINF:35,Planeta Junior TV
+#EXTVLCOPT:network-caching=3000
+http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:36,Rakuten TV Familia
+#EXTVLCOPT:network-caching=3000
+http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:27,Paka Paka
+#EXTVLCOPT:network-caching=3000
+http://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+#EXTINF:28,Nick Clasico
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
 #EXTINF:25, * Animakids
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
