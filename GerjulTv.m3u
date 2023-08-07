@@ -2811,493 +2811,291 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091
 #EXTINF:0,******************************* DEPORTES **********************************************
 https://raw.githubusercontent.com/Gerjules/GerjulTV/main/*******************************%20DEPORTES%20**********************************************
 #EXTM3U
-#EXTINF:0,TNT Sports HD (CL)
+#EXTINF:0,COL |  WIN SPORTS 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34675
-#EXTINF:0,TNT Sports FHD (CL)
+http://tvpanel.one:80/live/Fenix/DDD19PPP80/434493.ts
+#EXTINF:0,COL |  WIN SPORTS opc 2
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34676
-#EXTINF:0,TNT Sports 2 SD (CL)
+http://tv.nousiptv.com:8080/128922/fabiopadula/1155795
+#EXTINF:0,COL |  WIN SPORTS opc 3
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34674
-#EXTINF:0,TNT Sports 2 HD (CL)
+http://magmas5.com:8000/Oscar86/40473/131983
+#EXTINF:0,COL | WIN SPORT+ 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/124014
-#EXTINF:0,TNT Sports 3 SD (CL)
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/36139.ts
+#EXTINF:0,COL | WIN SPORT+ opc 2
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/123886
-#EXTINF:0,TNT Sports 3 HD (CL)
+http://tv.nousiptv.com:8080/128922/fabiopadula/16724
+#EXTINF:0,COL | WIN SPORT+ opc 3
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/123887
-#EXTINF:0,TNT Sports HD (ARG)
+http://tv.nousiptv.com:8080/128922/fabiopadula/54738
+#EXTINF:0,COL | ESPN SPORT 1 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34683
-#EXTINF:0,TNT Sports FHD (ARG)
+http://kiubo.biz:80/Nicolay@022/Nico@0223/35260.ts
+#EXTINF:0,CH | FOX SPORTS 1 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34684
-#EXTINF:0,Directv Sports HD (CL)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120545
+#EXTINF:0,CH | FOX SPORTS 2 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/121857
-#EXTINF:0,Directv Sports + HD (CL)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120546
+#EXTINF:0,CH | FOX SPORTS 3 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/121856
-#EXTINF:0,Directv Sports 2 HD (CL)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120547
+#EXTINF:0,CH | FOX SPORTS PREMIUM 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/187724
-#EXTINF:0,Directv Sports HD (ARG)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167737
+#EXTINF:0,CH | ESPN SPORTS 1 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/123872
-#EXTINF:0,Directv Sports 2 HD (ARG)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167963
+#EXTINF:0,CH | ESPN SPORTS 2 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34612
-#EXTINF:0,Directv Sports + HD (ARG)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167964
+#EXTINF:0,CH | ESPN SPORTS 3 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/123871
-#EXTINF:0,Directv Sports + FHD (ARG)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167965
+#EXTINF:0,CH | TNT SPORTS 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34616
-#EXTINF:0,Directv Sports HD (CO)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120424
+#EXTINF:0,CH | TNT SPORTS 2
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/43430
-#EXTINF:0,Directv Sports 2 HD (CO)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120425
+#EXTINF:0,CH | TNT SPORTS 3
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/43431
-#EXTINF:0,Directv Sports + HD (CO)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120427
+#EXTINF:0,CH | CDO PREMIUN
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/123885
-#EXTINF:0,Directv Sports + FHD (CO)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/273686
+#EXTINF:0,AR | FOX SPORTS 1 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312886
-#EXTINF:0,ESPN SD (CL)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269420
+#EXTINF:0,AR | FOX SPORTS 2 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/157048
-#EXTINF:0,ESPN HD (CL)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269422
+#EXTINF:0,AR | FOX SPORTS 3 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/123652
-#EXTINF:0,ESPN 2 SD (CL)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269424
+#EXTINF:0,AR | ESPN SPORTS 1 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312850
-#EXTINF:0,ESPN 2 HD (CL)
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/203228.ts
+#EXTINF:0,AR | ESPN SPORT 2 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/123653
-#EXTINF:0,ESPN 3 HD (CL)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269433
+#EXTINF:0,AR | ESPN SPORT 3 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/123654
-#EXTINF:0,ESPN 4 SD (CL)
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/35254.ts
+#EXTINF:0,AR | ESPN SPORTS 4 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312851
-#EXTINF:0,ESPN SD (ARG)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167726
+#EXTINF:0,AR | TYC SPORTS 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34659
-#EXTINF:0,ESPN HD (ARG)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269430
+#EXTINF:0,AR | TNT SPORTS
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34660
-#EXTINF:0,ESPN FHD (ARG)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269428
+#EXTINF:0,AR | DIREC TV SPORTS
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34661
-#EXTINF:0,ESPN 2 SD (ARG)
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/125943.ts
+#EXTINF:0,AR | DIREC TV DEPORTES 2
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34662
-#EXTINF:0,ESPN 2 HD (ARG)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120550%20
+#EXTINF:0,AR | DIREC TV SPORTS PLUS
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34663
-#EXTINF:0,ESPN 2 FHD (ARG)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167732
+#EXTINF:0,FOX SPORTS  1 (mexico)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34664
-#EXTINF:0,ESPN 3 SD (ARG)
+http://kiubo.biz:80/Nicolay@022/Nico@0223/35274.ts
+#EXTINF:0,FOX SPORTS 2 (Mexico)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34665
-#EXTINF:0,ESPN 3 HD (ARG)
+http://kiubo.biz:80/Nicolay@022/Nico@0223/35275.ts
+#EXTINF:0,FOX SPORTS 3 (mexico)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34666
-#EXTINF:0,ESPN 3 FHD (ARG)
+http://kiubo.biz:80/Nicolay@022/Nico@0223/35277.ts
+#EXTINF:0,ESPN SPORT 1 (mexico)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34667
-#EXTINF:0,ESPN Extra SD (ARG)
+http://kiubo.biz:80/Nicolay@022/Nico@0223/35263.ts
+#EXTINF:0,ESPN SPORT 2 (mexico)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312846
-#EXTINF:0,ESPN Extra FHD (ARG)
+http://kiubo.biz:80/Nicolay@022/Nico@0223/35253.ts
+#EXTINF:0,ESPN SPORT 3 (mexico)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312844
-#EXTINF:0,ESPN Premium SD (ARG)
+http://kiubo.biz:80/Nicolay@022/Nico@0223/35255.ts
+#EXTINF:0,AFIZZIONADOS (mexico)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312847
-#EXTINF:0,ESPN Premium HD (ARG)
+http://kiubo.biz:80/Nicolay@022/Nico@0223/35219.ts
+#EXTINF:0,ADRENALINA (Mexico)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/123874
-#EXTINF:0,ESPN Premium FHD (ARG)
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/35218.ts
+#EXTINF:0,TUDN EXTRA (mexico)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34648
-#EXTINF:0,ESPN SD (CO)
+http://kiubo.biz:80/Nicolay@022/Nico@0223/35313.ts
+#EXTINF:0,TUDN (mexico)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312831
-#EXTINF:0,ESPN HD (CO)
+http://kiubo.biz:80/Nicolay@022/Nico@0223/35312.ts
+#EXTINF:0,TUDN (Usa)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312830
-#EXTINF:0,ESPN FHD (CO)
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/35313.ts
+#EXTINF:0,TVC SPORTS (mexico)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312829
-#EXTINF:0,ESPN 2 SD (CO)
+http://kiubo.biz:80/Nicolay@022/Nico@0223/35315.ts
+#EXTINF:0,SKY SPORTS (Mexico)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312834
-#EXTINF:0,ESPN 2 FHD (CO)
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/125930.ts
+#EXTINF:0, STAR + opc1 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312832
-#EXTINF:0,ESPN 3 FHD (CO)
+http://magmas5.com:8000/Oscar86/40473/160068
+#EXTINF:0, STAR + opc2 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312835
-#EXTINF:0,ESPN 4 FHD (CO)
+http://magmas5.com:8000/Oscar86/40473/160071
+#EXTINF:0, STAR + opc3 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312838
-#EXTINF:0,ESPN Extra SD (CO)
+http://magmas5.com:8000/Oscar86/40473/152908
+#EXTINF:0, TSN 1 (canada)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312843
-#EXTINF:0,ESPN Extra FHD (CO)
+http://magmas5.com:8000/Oscar86/40473/130472
+#EXTINF:0, TSN 2 (canada)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312841
-#EXTINF:0,ESPN SD (MX)
+http://magmas5.com:8000/Oscar86/40473/130473
+#EXTINF:0, TSN 3 (canada)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34652
-#EXTINF:0,ESPN HD (MX)
+http://magmas5.com:8000/Oscar86/40473/130474
+#EXTINF:0,  TSN 4 (canada)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/302638
-#EXTINF:0,ESPN FHD (MX)
+http://magmas5.com:8000/Oscar86/40473/130475
+#EXTINF:0, TSN 5 (canada)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34653
-#EXTINF:0,ESPN 2 HD (MX)
+http://magmas5.com:8000/Oscar86/40473/130476
+#EXTINF:0,FUTV (costa rica)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/302639
-#EXTINF:0,ESPN 3 SD (MX)
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/36170.ts
+#EXTINF:0, TENNIS CHANNEL 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34657
-#EXTINF:0,ESPN 3 HD (MX)
+http://kiubo.biz:80/Nicolay@022/Nico@0223/36162.ts
+#EXTINF:0,BOX NACION
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/302640
-#EXTINF:0,ESPN 3 FHD (MX)
+http://kiubo.biz:80/Nicolay@022/Nico@0223/137339.ts
+#EXTINF:0,NFL NETWORK 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34658
-#EXTINF:0,ESPN Extra SD (MX)
+http://kiubo.biz:80/Nicolay@022/Nico@0223/36157.ts
+#EXTINF:0,N.B.A TV (usa)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312828
-#EXTINF:0,ESPN Extra HD (MX)
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/239219.ts
+#EXTINF:0,M.L.B TV (usa)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/302637
-#EXTINF:0,ESPN Deportes HD (US)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/307201
+#EXTINF:0,GOLF MOVISTAR (españa)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/312852
-#EXTINF:0,Fox Sports 1 SD (CL)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/266040
+#EXTINF:0,TIGO SPORTS (panama)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34630
-#EXTINF:0,Fox Sports 1 HD (CL)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/331264
+#EXTINF:0,TIGO SPORTS (honduras)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34631
-#EXTINF:0,Fox Sports 1 FHD (CL)
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/35306.ts
+#EXTINF:0,TIGO SPORTS (bolivia)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34632
-#EXTINF:0,Fox Sports 2 SD (CL)
+http://tv.nousiptv.com:8080/128922/fabiopadula/54735
+#EXTINF:0,TIGO SPORTS 2 (bolivia)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34633
-#EXTINF:0,Fox Sports 2 FHD (CL)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/253796
+#EXTINF:0,TIGO SPORTS 3 (bolivia)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34635
-#EXTINF:0,Fox Sports 3 SD (CL)
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/35304.ts
+#EXTINF:0,TIGO SPORTS (costa rica)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34636
-#EXTINF:0,Fox Sports 3 HD (CL)
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/35305.ts
+#EXTINF:0,TIGO SPORTS (Paraguay)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34637
-#EXTINF:0,Fox Sports 3 FHD (CL)
+http://tv.nousiptv.com:8080/128922/fabiopadula/29832
+#EXTINF:0,TIGO SPORTS 2 (Paraguay)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34638
-#EXTINF:0,Fox Sports SD (ARG)
+http://tv.nousiptv.com:8080/128922/fabiopadula/7450
+#EXTINF:0,EC | GOL TV 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34639
-#EXTINF:0,Fox Sports HD (ARG)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167741
+#EXTINF:0,EC | EL CANAL DEL FUTBOL 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34640
-#EXTINF:0,Fox Sports FHD (ARG)
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/36144.ts
+#EXTINF:0,PE | LA LIGA 1 (Perú)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34641
-#EXTINF:0,Fox Sports 2 SD (ARG)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/252156
+#EXTINF:0,PE | LA LIGA 1 MAX (Perú)
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34642
-#EXTINF:0,Fox Sports 2 HD (ARG)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/286827
+#EXTINF:0, gol Perú 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34643
-#EXTINF:0,Fox Sports 2 FHD (ARG)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/166609
+#EXTINF:0,PE | contacto deportivo 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34644
-#EXTINF:0,Fox Sports 3 SD (ARG)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/216045
+#EXTINF:0,MOVISTAR LA LIGA 1
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34645
-#EXTINF:0,Fox Sports 3 HD (ARG)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/266161
+#EXTINF:0,ES | MOVISTAR LA LIGA 2
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34646
-#EXTINF:0,Fox Sports 3 FHD (ARG)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/266162
+#EXTINF:0,ES | MOVISTAR LA LIGA 3
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34647
-#EXTINF:0,Fox Sports HD (MX)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/266164
+#EXTINF:0,ES | MOVISTAR VAMOS
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/302652
-#EXTINF:0,Fox Sports 2 SD (MX)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/266037
+#EXTINF:0,ES | DAZN LA LIGA 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34623
-#EXTINF:0,Fox Sports 2 HD (MX)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/266170
+#EXTINF:0,ES | DAZN LA LIGA 2 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/302653
-#EXTINF:0,Fox Sports 2 FHD (MX)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/266172
+#EXTINF:0,ES | LA LIGA SMARTBANK 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34624
-#EXTINF:0,Fox Sports 3 SD (MX)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/266174
+#EXTINF:0,ES | LA LIGA SMARTBANK 2
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34625
-#EXTINF:0,Fox Sports 3 HD (MX)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/266157
+#EXTINF:0,ES | REAL MADRID TV
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/302698
-#EXTINF:0,Fox Sports 3 FHD (MX)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/274082
+#EXTINF:0,ES | MOVISTAR DEPORTES 1 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34626
-#EXTINF:0,Fox Sports Premium (MX)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/266177
+#EXTINF:0,ES | MOVISTAR DEPORTES 2 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/304554
-#EXTINF:0,Fox Sports 2 HD (US)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/266179
+#EXTINF:0,ES | MOVISTAR DEPORTES 3 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34650
-#EXTINF:0,Claro Sports HD (MX)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/266181
+#EXTINF:0,ES | BEIN SPORT Ñ 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/302690
-#EXTINF:0,Claro Sports SD (LAT)
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/125903.ts
+#EXTINF:0,ES | EUROSPORTS 1
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34617
-#EXTINF:0,Claro Sports FHD (LAT)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167749
+#EXTINF:0,ES | EUROSPORTS 2
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34618
-#EXTINF:0,CDO Basico SD (CL)
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/35264.ts
+#EXTINF:0,ES | MEGA
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34678
-#EXTINF:0,CDO Premium SD (CL)
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/112544.ts
+#EXTINF:0,ES | TOROS TV  
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34679
-#EXTINF:0,CDO Premium HD (CL)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/266006
+#EXTINF:0,ES | GOL PLAY 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/121890
-#EXTINF:0,Teletrak HD (CL)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/266185
+#EXTINF:0,DAZN MOVISTAR 1
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34680
-#EXTINF:0,Sporting HD (CL)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269316
+#EXTINF:0,DAZN MOVISTAR 2
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34681
-#EXTINF:0,TyC Sports  SD (ARG)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269317
+#EXTINF:0,DAZN MOVISTAR 3
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34685
-#EXTINF:0,TyC Sports HD (ARG)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269318
+#EXTINF:0,DAZN MOVISTAR 4
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34686
-#EXTINF:0,TyC Sports Internacional HD (ARG)
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269319
+#EXTINF:0,DAZN MOVISTAR F1 
 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34688
-#EXTINF:0,DeporTV HD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34740
-#EXTINF:0,DeporTV FHD (ARG)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/123873
-#EXTINF:0,Win Sports SD (CO)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34689
-#EXTINF:0,Win Sports FHD (CO)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34690
-#EXTINF:0,Win Sports + FHD (CO)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34691
-#EXTINF:0,Movistar Deportes (PE)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34743
-#EXTINF:0,GolPeru SD (PE)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34744
-#EXTINF:0,GolPeru FHD (PE)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34745
-#EXTINF:0,Gol TV HD (ECU)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34693
-#EXTINF:0,Golf Channel SD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34695
-#EXTINF:0,Golf Channel HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34696
-#EXTINF:0,Adrenalina Sport Network HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/302603
-#EXTINF:0,Adrenalina Sport Network FHD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34699
-#EXTINF:0,NFL Network (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/313027
-#EXTINF:0,TVC Deportes HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/302737
-#EXTINF:0,Aym Sports HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/302613
-#EXTINF:0,Hi Sports HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/313025
-#EXTINF:0,TUDN HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/304510
-#EXTINF:0,Afizzionados HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/304505
-#EXTINF:0,TVC Deportes SD (MX)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34700
-#EXTINF:0,NBA TV HD (US)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34712
-#EXTINF:0,UFC Fight Pass FHD (US)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34714
-#EXTINF:0,Univision Deportes Network HD (US)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34715
-#EXTINF:0,WWE Network HD  (US)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34716
-#EXTINF:0,Fight Network FHD (CA)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34711
-#EXTINF:0,Canal F1 FHD (ES)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34701
-#EXTINF:0,Barca TV SD (ES)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34702
-#EXTINF:0,b31N LA Liga FHD (ES)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34703
-#EXTINF:0,Movistar Deportes FHD (ES)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34704
-#EXTINF:0,NFL Network HD (US)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34705
-#EXTINF:0,Real Madrid TV FHD (ES)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34706
-#EXTINF:0,EuroSport 1 HQ (ES)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34709
-#EXTINF:0,EuroSport 2 HQ (ES)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34710
-#EXTINF:0,b31N Sports Ñ HQ (ES)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34717
-#EXTINF:0,b31N Sports 7 HQ (AR)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34724
-#EXTINF:0,Sky Sports MotoGP HQ (IT)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34730
-#EXTINF:0,Sky Sports Arena HQ (IT)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34731
-#EXTINF:0,Sky Sports Tennis HQ (IT)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34732
-#EXTINF:0,Sky Sports F1 HQ (IT)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34733
-#EXTINF:0,Sky Sports UNO HQ (IT)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34735
-#EXTINF:0,Sky Sports AEW / WWE HQ (IT)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34736
-#EXTINF:0,Sky Sports NBA HQ (IT)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34737
-#EXTINF:0,Sky Sports Action HQ (IT)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34738
-#EXTINF:0,Sky Sports 24 Premier League HQ (IT)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/34739
-#EXTINF:0,Directv Sports HD (ECU)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/318007
-#EXTINF:0,Directv Sports HD (PE)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/318008
-#EXTINF:0,Directv Sports (uru)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/318009
-#EXTINF:0,Directv Sports 2 (ec)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/318010
-#EXTINF:0,Directv Sports Eventos 2  #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/318011
-#EXTINF:0,Directv Sports Eventoso 6 #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/318012
-#EXTINF:0,Directv Sports Fight (arg)
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/318013
-#EXTINF:0,Directv Sports Fight #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/318014
-#EXTINF:0,Directv Sports Highligths #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/318015
-#EXTINF:0,Directv Sports Motors
-#EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/318016
-#EXTINF:0,OnDIRECTV (dep) #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/318017
-#EXTINF:0,OnDIRECTV Andes (dep) #EXTVLCOPT:network-caching=3000
-http://hidra.live:80/xhxedfdb/13tSmnp7S4/318018
-#EXTINF:13, BeinSports
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/753
-#EXTINF:13, BeinSports Ñ
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/761
-#EXTINF:60, Gol Peru
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/686
-#EXTINF:60, Gol TV
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/287
-#EXTINF:80, Gol TV OP2
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/514
-#EXTINF:60, Golazo Network
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
-#EXTINF:25, ITV Deportes
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
-#EXTINF:60, PAC 12
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-https://pac12-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:90, RED BULL TV
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
+http://kiubo.biz:80/Nicolay@022/Nico@0223/35288.ts
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:36,Abu Dhabi Sports 2
 #EXTVLCOPT:network-caching=2000
