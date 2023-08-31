@@ -2315,6 +2315,176 @@ https://i.mjh.nz/PlutoTV/6140a074a99e79000738162a-alt.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6140a074a99e79000738162a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:59, tvg-logo="http://x.playerlatino.live/winsports.png" group-title="Deportes" - Win Sports
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/292
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/tycsports.png" group-title="Deportes" - Tyc Sports
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/274
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="HD" - Win Sports +
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/881
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes" - ESPN
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/34
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes" - ESPN 2
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.liv
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/35
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes" - ESPN 2 MX
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/531
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes" - ESPN Chile
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/842
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes" - ESPN MX
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/530
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="Deportes" - ESPN Plus
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/37
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/eurosport.png" group-title="Deportes" - Eurosport
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/39
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/ewtn.png" group-title="Religion" - EWTN
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/38
+#EXTINF:0, tvg-logo="" group-title="Peliculas" - FM Hot TV
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/731
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/f1.png" group-title="Deportes" - Formula 1 TV (F1)
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/192
+#EXTINF:80, tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="Deportes" - DirectTV Sports
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/259
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="Deportes" - DirectTV Sports 2
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/667
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/fox.png" group-title="Entretenimiento" - Fox Sur
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/750
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/star_life.png" group-title="Entretenimiento" - Fox Life Sur
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/746
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes" - Fox Sports
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/52
+#EXTINF:60, tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes" - Fox Sports 2
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/53
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes" - Fox Sports 2 MX
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/528
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Deportes" - Fox Sports 3
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/54
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes" - Fox Sports MX
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/527
+#EXTINF:57, tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes" - Fox Sports MX Sur
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/748
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="Deportes" - Fox Sports Premium
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/512
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes" - Fox Sports Sur
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/402
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes" - Fox Sports Sur 2
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/410
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Deportes" - Fox Sports Sur 3
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/511
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/tigosports.png" group-title="Deportes" - TigoSports Bolivia
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/764
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/tigosports.png" group-title="Deportes" - TigoSports Paraguay
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/843
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/tntsports.png" group-title="Deportes" - TNT Sports
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/509
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/tvcdeportes.png" group-title="Deportes" - TVC Deportes
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/837
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/ufc.png" group-title="Deportes" - UFC Network
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/97
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/golperu.png" group-title="Deportes" - Gol Peru
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/686
+#EXTINF:0, tvg-logo="http://x.playerlatino.live/univisiondeportes.png" group-title="Deportes" - Univisión Deportes
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://v3.playerlatino.live/stream/m3u8/373
 #EXTINF:0,COL |  WIN SPORTS 
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
