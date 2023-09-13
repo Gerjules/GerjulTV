@@ -1646,219 +1646,187 @@ http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/306264
 #EXTINF:0,cine infantil 
 #EXTVLCOPT:network-caching=3000
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/305779
-#EXTINF:0, cinema amazon
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/305781
-#EXTINF:0, CINE| HBO
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbp_2G_Ml-TtJW_mmebQTowaIcq42SOTtsFQ&usqp=CAU" group-title="✅ 24/7 VIP", CHESPIRITO 
+http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlAxvZqH3oe09w7kyMU-d5Xk/ts
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzSPMfhty6fYUIxzp5ea048QnK5Pa2xyGK7A&usqp=CAU" group-title="✅ 24/7 VIP", EL CHAVO DEL 8
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/136624
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7tO8l1aYMkZl4bsvPDmzDxRBjhdmFb7yzYA&usqp=CAU" group-title="✅ 24/7 VIP", EL CHAPULÍN COLORADO
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/136623
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFevMuRropxjubGTFGo6uhm9-QxSrhwWDI3w&usqp=CAU" group-title="✅ 24/7 VIP", ALF
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318444
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ONrz8PIQ58oziEeYva_VdF9jH4ghzFWdtQ&usqp=CAU" group-title="✅ 24/7 VIP",HECHISADA 
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/136625
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsiDrKfWAzOoKVuR5yLT69i6uvFtMyWtFT3w&usqp=CAU" group-title="✅ 24/7 VIP",LA FAMILIA P.LUCHE
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/136584
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMGdCtamfv4jsO8vk55c2I4HVNFqtBLoXBlg&usqp=CAU" group-title="✅ 24/7 VIP",LA ROSA DE GUADALUPE 
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/136601
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8l7XXxrA09Wf7s762Q0ilY71KOwZqxCn85A&usqp=CAU" group-title="✅ 24/7 VIP",MI BELLA GENIO
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/136630
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuQgdcQTOx52k-0Auoem1m5U_CBOAs9739mg&usqp=CAU" group-title="✅ 24/7 VIP", SUPER AGENTE 86
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/136587
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-GA4RyC5nZ_IOkt4Ky3-wJbQrxSDYc3BjQ&usqp=CAU" group-title="✅ 24/7 VIP",CANTINFLAS
+http://tv.nousiptv.com:8080/128922/fabiopadula/1144258
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhjJMguBkLO6-pWhKeajdpVw8nXCySM7_SZQ&usqp=CAU" group-title="✅ 24/7 VIP",caso cerrado 
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/138119.ts
+
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine Premium",CINE| HBO 
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102374.ts
-#EXTINF:0, CINE| HBO 2
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/305000
-#EXTINF:0, CINE| HBO +
-#EXTVLCOPT:network-caching=3000
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/125922.ts
-#EXTINF:0, CINE| HBO Family
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/305008
-#EXTINF:0, CINE| HBO Xtreme
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="2MB | HBO 2" tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" grupo -title="⭐️ Cine Premium",CINE| HBO 2
+http://tv.nousiptv.com:8080/128922/fabiopadula/1155794
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="2MB | HBO + LQ" tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png" grupo -title="⭐️ Cine Premium",CINE| HBO +
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102376.ts
+#EXTINF:-1 tvg-id="HBOHDA" tvg-name="P | HBO Family" tvg-logo="http://descargas.podzone.net/logos/-HBO-family.png" group-title="⭐️ Cine Premium",CINE| HBO Family
+http://tv.nousiptv.com:8080/128922/fabiopadula/4017
+#EXTINF:-1 tvg-id="HBOXLAM" tvg-name="P | HBO Xtreme" tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png" group-title="⭐️ Cine Premium",CINE| HBO Xtreme
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102382.ts
-#EXTINF:0, CINE| HBO Mundi
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="MUNLEH" tvg-name="P | HBO Mundi" tvg-logo="http://descargas.podzone.net/logos/-HBO-mundi.png" group-title="⭐️ Cine Premium",CINE| HBO Mundi
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102379.ts
-#EXTINF:0, CINE| HBO POP
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="POPAM" tvg-name="P | HBO POP" tvg-logo="http://descargas.podzone.net/logos/-HBO-pop.png" group-title="⭐️ Cine Premium",CINE| HBO POP
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102380.ts
-#EXTINF:0, CINE| HBO signature
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="HBOSIG" tvg-name="P | Firma HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO-signature.png" grupo-title="⭐️ Cine Premium",CINE| HBO signature
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102381.ts
-#EXTINF:0, CINE| Cinecanal
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/305074
-#EXTINF:0, CINE| Cine Latino
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/305065
-#EXTINF:0, CINE| Cinemax
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="2MB | Cinecanal"  tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png" group-title="⭐️ Cine Premium",CINE| Cinecanal
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102356.ts
+#EXTINF:-1 tvg-id="CINL" tvg-name="P | Cine Latino" tvg-logo="http://descargas.podzone.net/logos/-cine-latino.png" group-title="⭐️ Cine Premium",CINE| Cine Latino
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102354.ts
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="2MB | CINEMAX LQ" tvg-logo="http://descargas.podzone.net/logos2/-CINEMAX.png" group-title="⭐️ Cine Premium",CINE| Cinemax
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102358.ts
-#EXTINF:0, CINE| Claro Cinema
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="CLACIAM" tvg-name="P | Claro Cinema" tvg-logo="http://descargas.podzone.net/logos/-claro-cinema.png" group-title="⭐️ Cine Premium",CINE| Claro Cinema
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102360.ts
-#EXTINF:0, CINE| De Pelicula
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="DPLUSSD" tvg-name="P | De Pelicula" tvg-logo="http://descargas.podzone.net/logos/-de-pelicula.png" group-title="⭐️ Cine Premium",CINE| De Pelicula
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102361.ts
-#EXTINF:0, CINE| De Pelicula Clásico
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="P | De Pelicula Clásico" tvg-logo="http://descargas.podzone.net/logos/-de-pelicula-plus.png" group-title="⭐️ Cine Premium",CINE| De Pelicula Clásico
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102363.ts
-#EXTINF:0, CINE| DHE
-#EXTVLCOPT:network-caching=3000
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102366.ts
-#EXTINF:0, CINE| Golden EDGE
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="CNLDHEN" tvg-name="P | DHE" tvg-logo="http://descargas.podzone.net/logos/-DHE.png" group-title="⭐️ Cine Premium",CINE| DHE
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/35004
+#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="2MB | Golden Edge" tvg-logo="http://descargas.podzone.net/logos/-golden-edge.png" group-title="⭐️ Cine Premium",CINE| Golden EDGE
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102373.ts
-#EXTINF:0, CINE| Golden Premier
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="GLDPREM" tvg-name="P | Golden Premier" tvg-logo="http://descargas.podzone.net/logos/-golden-premiere.png" group-title="⭐️ Cine Premium",CINE| Golden Premier
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102372.ts
-#EXTINF:0, CINE| Golden
-#EXTVLCOPT:network-caching=3000
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102369.ts%20%20
-#EXTINF:0, CINE| Golden Plus
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/305064
-#EXTINF:0, CINE| Space
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="GOLDAMC" tvg-name="P | Golden" tvg-logo="http://descargas.podzone.net/logos/-golden.png" group-title="⭐️ Cine Premium",CINE| Golden
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102369.ts  
+#EXTINF:-1 tvg-id="GOLDNHD" tvg-name="P | Golden Plus" tvg-logo="http://descargas.podzone.net/logos/-golden.png" group-title="⭐️ Cine Premium",CINE| Golden Plus
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318700
+#EXTINF:-1 tvg-id="space.mx" tvg-name="2MB | Space" tvg-logo="http://descargas.podzone.net/logos/-space.png" group-title="⭐️ Cine Premium",CINE| Space
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/125932.ts
-#EXTINF:0, CINE| universal channel
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/305035
-#EXTINF:0, CINE| universal cinema
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="UNTVCHD" tvg-name="E | Universal TV" tvg-logo="http://descargas.podzone.net/logos/-universal-channel.png" group-title="⭐️ Cine Premium",CINE| universal channel
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318677
+#EXTINF:-1 tvg-id="UNTVCHD" tvg-name="E | Universal TV" tvg-logo="http://descargas.podzone.net/logos/-universal-cinema.png" group-title="⭐️ Cine Premium",CINE| universal cinema
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102392.ts
-#EXTINF:0, CINE| universal reality
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="UNTVCHD" tvg-name="E | Universal TV" tvg-logo="http://descargas.podzone.net/logos/-universal-reality.png" group-title="⭐️ Cine Premium",CINE| universal reality
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102398.ts
-#EXTINF:0, CINE| universal premier
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="UNTVCHD" tvg-name="E | Universal TV" tvg-logo="http://descargas.podzone.net/logos/-universal-premier.png" group-title="⭐️ Cine Premium",CINE| universal premier
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102397.ts
-#EXTINF:0, CINE| Paramount+
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="" tvg-name="P | Paramount+ Presenta" tvg-logo="http://descargas.podzone.net/logos/-paramount.png" group-title="⭐️ Cine Premium",CINE| Paramount+
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/171909.ts
-#EXTINF:0, CINE| A&E
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/304991
-#EXTINF:0, CINE| START CHANNEL
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/304997
-#EXTINF:0, CINE| AXN
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/305024
-#EXTINF:0, CINE| FX
-#EXTVLCOPT:network-caching=3000
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/40727.ts
-#EXTINF:0, CINE| WARNER
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/305026
-#EXTINF:0, CINE| TCM
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/305031
-#EXTINF:0, CINE| TNT
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/305017
-#EXTINF:0, CINE| TNT SERIES
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1  tvg-logo="http://descargas.podzone.net/logos/-AMC.png" group-title="⭐️ Cine Premium",CINE| amc
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102171.ts
+#EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="E | A&E" tvg-logo="http://descargas.podzone.net/logos/-AyE.png" group-title="⭐️ Cine Premium",CINE| A&E
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318634
+#EXTINF:-1 tvg-id="fox.mx" tvg-name="2MB | STAR CHANNEL LQ" tvg-logo="http://descargas.podzone.net/logos/-star-channel.png" group-title="⭐️ Cine Premium",CINE| START CHANNEL
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318640
+#EXTINF:-1 tvg-id="" tvg-name="P | Paramount+ Presenta" tvg-logo="http://descargas.podzone.net/logos/-AXN.png" group-title="⭐️ Cine Premium",CINE| AXN
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318665
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="2MB | FX LQ" tvg-logo="http://descargas.podzone.net/logos/-FX.png" group-title="⭐️ Cine Premium",CINE| FX
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318680
+#EXTINF:-1 tvg-id="warnerchannel.mx" tvg-name="2MB| WARNER LQ" tvg-logo="http://descargas.podzone.net/logos/-warner.png" group-title="⭐️ Cine Premium",CINE| WARNER
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/125949.ts
+#EXTINF:-1 tvg-id="TCMARHD" tvg-name="P | TCM" tvg-logo="http://descargas.podzone.net/logos/-TCM.png" group-title="⭐️ Cine Premium",CINE| TCM
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102390.ts
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="2MB | TNT LQ" tvg-logo="http://descargas.podzone.net/logos/-TNT.png" group-title="⭐️ Cine Premium",CINE| TNT
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102391.ts
+#EXTINF:-1 tvg-id="TNTLVHD" tvg-name="P | TNT" tvg-logo="http://descargas.podzone.net/logos/-TNT-series.png" group-title="⭐️ Cine Premium",CINE| TNT SERIES
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/125938.ts
-#EXTINF:0, CINE| SYFY
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="SYFYLAH" tvg-name="P | SYFY" tvg-logo="http://descargas.podzone.net/logos/-SYFY.png" group-title="⭐️ Cine Premium",CINE| SYFY
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102389.ts
-#EXTINF:0, CINE| CINEMA DINAMITA
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="CinemaDinamita.co" tvg-name="CINE - CINEMA DINAMITA" tvg-logo="http://descargas.podzone.net/logos/-cinema-dinamita.png" group-title="⭐️ Cine Premium",CINE| CINEMA DINAMITA
 http://tv.nousiptv.com:8080/128922/fabiopadula/4142
-#EXTINF:0, CINE| I-SAT
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="ISAT.mx" tvg-name="CINE - I-SAT" tvg-logo="http://descargas.podzone.net/logos/-I-SAT.png" group-title="⭐️ Cine Premium",CINE| I-SAT
 http://tv.nousiptv.com:8080/128922/fabiopadula/1155798
-#EXTINF:0, CINE| SONY
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="CINE - SONY" tvg-logo="http://descargas.podzone.net/logos/-sony.png" group-title="⭐️ Cine Premium",CINE| SONY
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/40734.ts
-#EXTINF:0, CINE| EUROPA EUROPA
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="" tvg-name="CINE - EUROPA EUROPA" tvg-logo="http://descargas.podzone.net/logos/-europa-europa.png" group-title="⭐️ Cine Premium",CINE| EUROPA EUROPA
 http://tv.nousiptv.com:8080/128922/fabiopadula/33359
-#EXTINF:0, CINE| CINE MANIA
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - CINE MANIA" tvg-logo="http://descargas.podzone.net/logos/-cine-mania.png" group-title="⭐️ Cine Premium",CINE| CINE MANIA
 http://tv.nousiptv.com:8080/128922/fabiopadula/1148843
-#EXTINF:0, CINE| Multipremier
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="MPREL" tvg-name="P | Multipremier" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/oqccogvw2k3tmpul6heb0/multipremier.png?rlkey=u954lcq1gn6d9zwwys5jhmlik&dl=0" group-title="⭐️ Cine Premium",CINE| Multipremier
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102383.ts
-#EXTINF:0, CINE| Paramount Channel
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="PARAFR" tvg-name="P | Paramount Channel" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/afpm5b8otls3vhxa3dvbt/Paramount.png?rlkey=lhkklb4kp13nf3nso6kl0x1wh&dl=0" group-title="⭐️ Cine Premium",CINE| Paramount Channel
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102385.ts
-#EXTINF:0, CINE| tu cine
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="5d8d164d92e97a5e107638d2" tvg-name="P | Cine adrenalina" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/lrj2k8548eh7ug0ojf9b2/tucine.png?rlkey=e4o80v5ja2b8b6bq5d8u8e69c&dl=0" group-title="⭐️ Cine Premium",CINE| tu cine
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/184781.ts
-#EXTINF:0, CINE| fmtv fusion
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="5f513564e4622a0007c578c0" tvg-name="P | Cine ¡¡jaja!!" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2uos7rleuxwdig6i5z23k/fmtv.png?rlkey=fyoa2s4fxlp4rmvd0zlcagokq&dl=0" group-title="⭐️ Cine Premium",CINE| fmtv fusion
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:0, CINE| lifetime
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/276834
-#EXTINF:0, CINE| SEO TV PELICULAS
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="5df265697ec3510009df1ef0" tvg-name="C | Pluto TV Vida Real" tvg-logo="http://descargas.podzone.net/logos/-lifetime.png" group-title="⭐️ Cine Premium",CINE| lifetime
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318632
+#EXTINF:-1 tvg-id="" tvg-name="CINE - SEO TV PELICULAS" tvg-logo="http://descargas.podzone.net/logos/-SEO-tv-peliculas.png" group-title="⭐️ Cine Premium",CINE| SEO TV PELICULAS
 http://tv.nousiptv.com:8080/128922/fabiopadula/1148845
-#EXTINF:0, CINE| retro magico
-#EXTVLCOPT:network-caching=3000
-https://vsd113.mycdn.me:443/hls/4858246007425.m3u8/sig/49nPDU0zIPw/expires/1691445937534/srcIp/190.60.36.91/urls/185.226.52.97/clientType/0/srcAg/CHROME_ANDROID/mid/6035274800769/4858246007425_high/index.m3u8
-#EXTINF:25, SERIES
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e90-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7937749a-cec8-47cd-b6d9-43b0c4fea6c8&userId=&serverSideAds=true
-#EXTINF:25, SERIES 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a62c0-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=59508532-73e8-480a-a7ac-ca658e672783&userId=&serverSideAds=true
-#EXTINF:25, SERIES LATINAS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff138f1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=66035293-500c-4b3d-8f02-dc855d5f476d&userId=&serverSideAds=true
-#EXTINF:0, Series con Ñ
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/60fb3087fbbc120007fc46be-alt.m3u8
-#EXTINF:25, * Series Latinas
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
-#EXTINF:25, * Series
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f1ac8f49205650007bc15f1-alt.m3u8
-#EXTINF:25, * Series
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
-#EXTINF:25, Novelas con la abuela
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5e84dbf4a838b60007ffbba1-alt.m3u8
-#EXTINF:25, Badass novelas
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5e84dc59026b9b000766f9a2-alt.m3u8
-#EXTINF:25, NOVELAS DRAMA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c83c400-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1feeb0e2-4545-4706-9038-7ed5ff515781&userId=&serverSideAds=true
-#EXTINF:25, NOVELAS THRILLER
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c83c401-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ffbb9a2c-01a5-4d7e-9f19-6c9247bdee77&userId=&serverSideAds=true
-#EXTINF:0, NOVELAS CON LA ABUELA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a109df70-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=702cfffa-9f1d-4a32-86b2-fac554cec889&userId=&serverSideAds=true
-#EXTINF:25, Telemundo telenovelas clásicas
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5cf96cc422df39f1a338d165-alt.m3u8
-#EXTINF:25, PLUTO TV NOVELAS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02782-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=22b78acb-0a00-4b76-bfa7-4f50b2916c32&userId=&serverSideAds=true
-#EXTINF:0, Pluto TV Telenovelas
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/60b4c06717da110007ee1af6-alt.m3u8
-#EXTINF:25, * Novelas
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5dcde0cc2efd2700090b7ff4-alt.m3u8
-#EXTINF:25, * Telenovelas
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/60b4c06717da110007ee1af6-alt.m3u8
-#EXTINF:25, The Pet Collective
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5ebacbcae43a6d000787b88e-alt.m3u8
+#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CINE - SUNDANCE TV" tvg-logo="http://descargas.podzone.net/logos/-sundance.png" group-title="⭐️ Cine Premium",CINE| SUNDANCE TV
+http://tv.nousiptv.com:8080/128922/fabiopadula/4101
+#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CINE - PANICO TV HD" tvg-logo="http://descargas.podzone.net/logos/-panico-tv.png" group-title="⭐️ Cine Premium",CINE| PANICO TV 
+http://tv.nousiptv.com:8080/128922/fabiopadula/7436
+#EXTINF:-1 tvg-id="" tvg-name="CINE - MORBID TV" tvg-logo="http://descargas.podzone.net/logos/-morbid-tv.png" group-title="⭐️ Cine Premium",CINE| MORBID TV
+http://tv.nousiptv.com:8080/128922/fabiopadula/33364
+#EXTINF:-1 tvg-id="" tvg-name="CINE - CINE ESTELAR" tvg-logo="http://descargas.podzone.net/logos/-cine-estelar.png" group-title="⭐️ Cine Premium",CINE| CINE ESTELAR
+http://tv.nousiptv.com:8080/128922/fabiopadula/1156007
+
+#EXTINF:-1 tvg-id="APMXHD" tvg-name="C | Animal Planet" tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png" group-title="⭐️ Cultura",CUL| Animal Planet
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102114.ts
+#EXTINF:-1 tvg-id="DISANZ" tvg-name="C | Discovery Channel" tvg-logo="http://descargas.podzone.net/logos/-discovery-channel.png" group-title="⭐️ Cultura",CUL| Discovery Channel
+http://tv.nousiptv.com:8080/128922/fabiopadula/1155807
+#EXTINF:-1 tvg-id="DFAMHD" tvg-name="C | Discovery Familia" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/m1xje3v01pn55zyn25lfe/Discoveryfami.png?rlkey=mwtraqj9ymtbflwsql7inctxc&dl=0" group-title="⭐️ Cultura",CUL| Discovery Familia
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102117.ts
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation" tvg-logo="http://descargas.podzone.net/logos/-discovery-home-&-health.png" group-title="⭐️ Cultura",CUL| Discovery. H&H
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102118.ts
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation" tvg-logo="http://descargas.podzone.net/logos/-discovery-ID.png" group-title="⭐️ Cultura",CUL| Discovery Investigation
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318607
+#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="C | Discovery SCI" tvg-logo="http://descargas.podzone.net/logos/-discovery-science.png" group-title="⭐️ Cultura",CUL| Discovery SCI
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318608
+#EXTINF:-1 tvg-id="DTHLAHA" tvg-name="C | Discovery Theater" tvg-logo="http://descargas.podzone.net/logos/-discovery-theater.png" group-title="⭐️ Cultura",CUL| Discovery Theater
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102121.ts
+#EXTINF:-1 tvg-id="DTRBLAH" tvg-name="C | Discovery Turbo" tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="⭐️ Cultura",CUL| Discovery Turbo
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318611
+#EXTINF:-1 tvg-id="DWRLDHE" tvg-name="C | Discovery World" tvg-logo="http://descargas.podzone.net/logos/-discovery-world.png" group-title="⭐️ Cultura",CUL| Discovery World
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318612
+#EXTINF:-1 tvg-id="GOURMTA" tvg-name="C | El Gourmet" tvg-logo="http://descargas.podzone.net/logos/-el-gourmet.png" group-title="⭐️ Cultura",CUL| El Gourmet
+http://kiubo.biz:80/Nicolay@022/Nico@0223/102124.ts 
+#EXTINF:-1 tvg-id="HISTSW" tvg-name="C | History Channel" tvg-logo="http://descargas.podzone.net/logos/-history.png" group-title="⭐️ Cultura",CUL| History Channel
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/125925.ts
+#EXTINF:-1 tvg-id="history2.mx" tvg-name="C | History Channel 2" tvg-logo="http://descargas.podzone.net/logos/-H2-(history2).png" group-title="⭐️ Cultura",CUL| History Channel 2
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102126.ts
+#EXTINF:-1 tvg-id="HGTVLAS" tvg-name="C | HGTV" tvg-logo="http://descargas.podzone.net/logos/-HGTV.png" group-title="⭐️ Cultura",CUL| HGTV
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318631
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="C | Nat Geo" tvg-logo="http://descargas.podzone.net/logos/-NATGEO.png" group-title="⭐️ Cultura",CUL| Nat Geo
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318621
+#EXTINF:-1 tvg-id="TLCNANZ" tvg-name="C | TLC" tvg-logo="http://descargas.podzone.net/logos/-discovery-TLC.png" group-title="⭐️ Cultura",CUL| TLC
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318630
+#EXTINF:-1 tvg-id="NGMUNDO" tvg-name="C | Nat Geo Mundo" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ivw4nsgyq3zy1zatwrw40/natgeowild.png?rlkey=alayr8s0kxy5tty49fh7e7hxw&dl=0" group-title="⭐️ Cultura",CUL| Nat Geo wild
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102132.ts
+#EXTINF:-1 tvg-id="" tvg-name="C | Cocina TV" tvg-logo="http://descargas.podzone.net/logos/-cocina.png" group-title="⭐️ Cultura",CUL| Cocina TV
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/112526.ts
+#EXTINF:-1 tvg-id="5dd834c66fe2ca0009303b8d" tvg-name="C | Pluto TV Animales" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7m3tpkgg0qpdtj2cwo8vk/animal.png?rlkey=xxosncwuewsaqwjh91n84mj1n&dl=0" group-title="⭐️ Cultura",CUL| Pluto TV Animales
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/171962.ts
+#EXTINF:-1 tvg-id="5dd85eac039bba0009e86d1d" tvg-name="C | Pluto TV Naturaleza" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qxf66a7wbwmftnox68tiy/naturaleza.png?rlkey=2efix9xyqe734h59l1iyu3lmh&dl=0" group-title="⭐️ Cultura",CUL| Pluto TV Naturaleza
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/171960.ts
+#EXTINF:-1 tvg-id="5df265697ec3510009df1ef0" tvg-name="C | Pluto TV Vida Real" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7fved1zpffo0iq0gcnpy4/vidareal.png?rlkey=sf9hcril2dt0ajdxi20fzxui7&dl=0" group-title="⭐️ Cultura",CUL| Pluto TV Vida Real
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/171959.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Latino | AZ CORAZON" tvg-logo="http://descargas.podzone.net/logos/-AZ-corazon.png" group-title="⭐️ Telenovelas",NOV| AZ CORAZON
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/232499.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Canal De Las Estrellas" tvg-logo="http://descargas.podzone.net/logos/-el-canal-de-las-estrellas.png" group-title="⭐️ Telenovelas",NOV| Canal De Las Estrellas
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/135431
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Glitz" tvg-logo="http://descargas.podzone.net/logos/-glitz.png" group-title="⭐️ Telenovelas",NOV| Glitz
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/135432
+#EXTINF:-1 tvg-id="" tvg-name="PASIONES HD" tvg-logo="http://descargas.podzone.net/logos/-pasiones.png" group-title="⭐️ Telenovelas",NOV| PASIONES 
+http://latintvec.com:43201/DEcheverry2022/NXdDjDwCkX/3253
+#EXTINF:-1 tvg-id="" tvg-name="TLNOVELAS" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gaa49c3r13f4s8b60qigr/1689817058186.png?rlkey=0k2khkzbkemwzseozd6bleimx&dl=0" group-title="⭐️ Telenovelas",NOV| TLNOVELAS
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/295154
+#EXTINF:-1 tvg-id="" tvg-name="TL NOVELAS UNIVISION" tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="⭐️ Telenovelas",NOV| TL OVELAS UNIVISION
+http://magmas5.com:8000/Oscar86/40473/126910
+#EXTINF:-1 tvg-id="" tvg-name="CO | RCN Novelas" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/irsa266j5haowlfsiubet/1689817086743.png?rlkey=j151hf0qxsr3a64dlz4nhurzi&dl=0" group-title="⭐️ Telenovelas" ,NOV| RCN Novelas  
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318386
+#EXTINF:-1 tvg-id="" tvg-name="NOVELAS FAMILIAR" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/930wnym65nsm3t3yon7ov/1689816966232.png?rlkey=f995i981ke95ud9o04y7i9zqi&dl=0" group-title="⭐️ Telenovelas",NOV| NOVELAS FAMILIAR 
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/307249
 #EXTINF:60,Vivir con Perros
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
