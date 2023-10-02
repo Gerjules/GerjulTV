@@ -2383,10 +2383,10 @@ http://legendstv.com.mx:80/Nicolay@022/Nico@0223/35254.ts
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167726
-#EXTINF:0,AR | TYC SPORTS 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269430
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="Deportes",TyC Sports
+http://tvpanel.one:80/live/eegs@hotmail.com/RCPeDrA4cU/3148.ts
+#EXTINF:-1 tvg-id="TyCSports2.ar" tvg-name="TYC SPORTS 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-1246.png" group-title="Deportes",TyC Sports Internacional
+http://tvpanel.one:80/live/eegs@hotmail.com/RCPeDrA4cU/126053.ts
 #EXTINF:0,AR | TNT SPORTS
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
