@@ -24,11 +24,8 @@ https://deh05ueq91v6s.cloudfront.net/C9NPY/031fe10f99063bb9e8271716ce50b133.sdp/
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://tigocloudgen.desdeparaguay.net/unicanal/unicanal_baja/chunklist_w947417302.m3u8?k=ec4bd62c8172c2d2864ceaeb49b41fb78bd00b71192f05552bcb713f2129f20b&exp=1694602156  
-#EXTINF:20, TELEFUTURO
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://tigocloudtf.desdeparaguay.net/latele/latele_py_baja/chunklist_w72305737.m3u8?k=0db6e57bbc75c02bb0417611cc7edd1bbf198986036cd4afcefcf3590a579706&exp=1694601396
+#EXTINF:8,Telefuturo
+http://200.41.79.165:8000/play/a0hy/index.m3u8
 #EXTINF:20, LATELE
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
