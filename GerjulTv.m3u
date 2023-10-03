@@ -223,6 +223,9 @@ https://video.radiosenpy.net:19360/canal8vision/canal8vision.m3u8
 https://59ce1298bfb98.streamlock.net/caaguazutv/caaguazutv/playlist
 #EXTINF:0, EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/index.m3u8
+#EXTINF:80, AMERICA HD  36.1
+#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
+https://prepublish.f.qaotic.net/a07/americahls-100056/Playlist.m3u8
 #EXTINF:30, LOGOS TV KIDS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
