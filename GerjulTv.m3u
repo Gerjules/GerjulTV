@@ -188,6 +188,7 @@ https://video.radiosenpy.net:19360/canal8vision/canal8vision.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/caaguazutv/caaguazutv/playlist
+
 #EXTINF:0, EL TRECE
 https://video-weaver.sao03.hls.ttvnw.net/v1/playlist/CqgFyOamkOOpXVu5zbjkgsYcH6X47PZurmax6LI8aJHA4kBZf5ZLkONcdY4fwheFgnEwnWwkQVGGR9K_Q-oxo2N76hvzbZzn9rypnBDbiM-cnZ5ba9nX248JxQV6GmuhaRYyR9J1fo6l3aoKkNZBYmQE0nQ_HEOVRh6sL0cvTini1aI3bFwrx8AYs8qPjcML-CLk3dXws06x4S1bKva_QSvuuhbahnYzmgeKD0MF7DqnseC31Za-EgHKeb_vGtCw3yBSYG2fy9yYr37xg48cyFYWxR7216MKLetP3k5NGjT4neEWi13gxSJUWSMPuh2jAEGbL1DOMw2ANmvFE_zuyH7Ml4AHUCh33IVflJE-bKEf829VdTzyyocfybjs-d_SIuiHK1UN5_zm8m-zEsrtGZd1QYDivHnoC-qOUJUOv5TR9jHCgWZWC6dh7zGsW9t_uond_F5p7pNdsIPcL--kfOq51UJT9jOb7Vij_6d3WGrN9d4vBiUOf9uqaik7fJMFHcI964YdbKP0kdO__9qXydomOsHOAe0a9b2kjiBRbZC1t_J_Z4BB8Ln8wa5f-3UEOUE8Cg_lvibUlSoq_Zx_P-gXsZo9WPm3VXfQhtzeHeipmGsypRAM9YRoMTDgT3yNWePKLJkZJgx0vT1fqGmUMPtqOJooh7xzCKGZGs1xgMsTbZfH2VVro_MAoy304SwUWV1G1lwBGyT9kf2gvawcGBM07bCFFNaebgtQFJXUr_f7OtNlA55jR3BRKq33rG0ka1ffQ6KTb-VDsj9mC9r-wVIPL4LY7TAvypFZG_wdwhBLSfU67eEr5JgyOr_meFXheOFOO_AHIgipEoIg-iOesomiNuaXpZso8AdBQet-mxzifuqAKRvf9sJqLSylENu2eOxMAveIHOjFo8MaDKDFRluvy5psXr5lPyABKgl1cy13ZXN0LTIw1gc.m3u8
 #EXTINF:80, AMERICA HD  36.1
@@ -201,23 +202,6 @@ https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 https://ythls.onrender.com/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 #EXTINF:0, TELEFÉ HITS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae23-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a367d0d9-b23d-4bb5-8d48-55f0cbeac4fb&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="" tvg-name="UR | CANAL 4 SD" tvg-logo="http://streamgo.vip:8008/images/7593abeb885e583cdc4b8d2504986fc6.png" group-title="⭐️ Uruguay",URU| CANAL 4 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/295190
-#EXTINF:-1 tvg-id="" tvg-name="UR | CANAL 10 SD" tvg-logo="http://streamgo.vip:8008/images/a0af61dfdf48c01bea60b629412850be.png" group-title="⭐️ Uruguay",URU| CANAL 10 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/295193
-#EXTINF:-1 tvg-id="" tvg-name="UR | CANAL 12 SD" tvg-logo="http://streamgo.vip:8008/images/6461d2ff9c26928722c922e529044378.png" group-title="⭐️ Uruguay",URU| CANAL 12 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/295196
-#EXTINF:-1 tvg-id="" tvg-name="UR | LA RED SD" tvg-logo="http://streamgo.vip:8008/images/3d5e2d87f9df5af8b329bd6f6898562a.png" group-title="⭐️ Uruguay",URU| LA RED 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/295198
-#EXTINF:-1 tvg-id="" tvg-name="UR | VTV SD" tvg-logo="http://streamgo.vip:8008/images/af2424ddac7488fcba3ce3d366eb85c4.png" group-title="⭐️ Uruguay",URU| VTV 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/295201
-#EXTINF:-1 tvg-id="" tvg-name="UR | VTV PLUS HD+H" tvg-logo="http://streamgo.vip:8008/images/f8cfbc86246675dcf54104da1c2c55a0.png" group-title="⭐️ Uruguay",URU| VTV PLUS 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/295202
-#EXTINF:-1 tvg-id="" tvg-name="UR | TV CIUDAD HD" tvg-logo="http://streamgo.vip:8008/images/22a6d5513ecf93b1509a0e5bcc7c443d.png" group-title="⭐️ Uruguay",URU| TV CIUDAD 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/295204
-#EXTINF:-1 tvg-id="" tvg-name="URU || TNU  CANAL 5 SD (I)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRki87kXJpuh5sr8bDokpRIULcKL3dGe6r3Mw&usqp=CAU" group-title="⭐️ Uruguay",URU| CANAL 5 
-http://kiubo.biz:80/Nicolay@022/Nico@0223/204036.ts
 
 #EXTINF:0, CGTN ESPAÑOL (China)
 #EXTVLCOPT:network-caching=1000
