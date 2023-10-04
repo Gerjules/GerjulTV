@@ -19,23 +19,25 @@ https://tigocloudgen.desdeparaguay.net/trecetv/trecetv_baja/chunklist_w119689302
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://deh05ueq91v6s.cloudfront.net/C9NPY/031fe10f99063bb9e8271716ce50b133.sdp/chunks.m3u8
-#EXTINF:30, UNICANAL
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://tigocloudgen.desdeparaguay.net/unicanal/unicanal_baja/chunklist_w947417302.m3u8?k=ec4bd62c8172c2d2864ceaeb49b41fb78bd00b71192f05552bcb713f2129f20b&exp=1694602156  
+#EXTINF:-1 tvg-id="" tvg-name="PY | UNICANAL HD*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZxHbqDKHYnUvCeK9vxaKh2cqKI8IdDM_i0A&usqp=CAU" group-title="⭐️ Paraguay",PY | UNICANAL 
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235212.ts
 #EXTINF:8,Telefuturo
 http://200.41.79.165:8000/play/a0hy/index.m3u8
-#EXTINF:20, LATELE
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://tigocloudtf.desdeparaguay.net/latele/latele_py_baja/chunklist_w72305737.m3u8?k=0db6e57bbc75c02bb0417611cc7edd1bbf198986036cd4afcefcf3590a579706&exp=1694601396  
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdETEw1aVtV1SLMjv0dlTG20vB4tW8VUv2A&usqp=CAU" group-title="⭐️ Paraguay",PY | PARAVISIÓN 
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235206.ts
+#EXTINF:-1 tvg-id="" tvg-name="PY | LA TELE HD" tvg-logo="http://streamgo.vip:8008/images/4ae85478bf6d80795404c2c1c9342aa8.png" group-title="⭐️ Paraguay",PY | LA TELE 
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235204.ts
+#EXTINF:-1 tvg-id="" tvg-name="PY | GEN TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkKcDIzTFCm53kX3GTXPI59U1el9tz-bNqPA&usqp=CAU" group-title="⭐️ Paraguay",PY | radio venus 
+http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlNTso9IFZLD7iowly816h6M/ts
 #EXTINF:200, ÑANDUTÍ TV
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://tvdatta.com:3839/live/nandutitvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PY | NOTICIAS PY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKMf-nB0RG81HgMMuxT6wv7Ixvkj5_vFvpdQ&usqp=CAU" group-title="⭐️ Paraguay",PY | NOTICIAS PY
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235205.ts
+#EXTINF:28, ALMAYA TV
+https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
 #EXTINF:29, MI TV
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
@@ -46,11 +48,6 @@ https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w735296660.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8?k=1d25209afd7c9b0e4898d35c8295d449ff87b42c53ea4da38aae4d2d9614c9a7&exp=1611679347
-#EXTINF:28, ALMAYA TV
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
 #EXTINF:25, TAPUA TV
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
@@ -71,11 +68,8 @@ https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
-#EXTINF:0, EDUCANAL
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://59ce1298bfb98.streamlock.net/educanal/educanal/chunklist_w92056851.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTL9H_AHrEvTx6TcG0yTWtfh4vNDgFt851gA&usqp=CAU" group-title="⭐️ Paraguay",PY | EDU CANAL
+http://magmas5.com:8000/Oscar86/40473/150657
 #EXTINF:30, RETROPLUS TV
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
@@ -126,11 +120,6 @@ https://59ce1298bfb98.streamlock.net/tvaire/tvaire/playlist.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/capiata16/capiata16/playlist.m3u8
-#EXTINF:0, PARAVISIÓN
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://edge6-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4.m3u8
 #EXTINF:0, SUR
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
