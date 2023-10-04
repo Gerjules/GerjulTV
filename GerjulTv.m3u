@@ -2,14 +2,8 @@
 #EXTINF:3600, ABC TV
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:37, SNT
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://deh05ueq91v6s.cloudfront.net/SNTPY/0bd4cfaf086c4ac0ce0101172a42ba20.sdp/SNTPY/SNTPY2/chunks.m3u8
 #EXTINF:30, TRECE
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://tigocloudgen.desdeparaguay.net/trecetv/trecetv_baja/chunklist_w1196893029.m3u8?k=406497d0d8424d72e52021fad7657d49f5887085eb535695f5715b90bad8d2c7&exp=1686070703
 #EXTINF:-1 tvg-id="" tvg-name="PY | C9N NOTICIAS HD" tvg-logo="http://streamgo.vip:8008/images/5cbc5d81810709c83a59885cde96046d.png" group-title="⭐️ Paraguay",PY | C9N NOTICIAS 
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235203.ts
@@ -207,6 +201,24 @@ https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 https://ythls.onrender.com/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 #EXTINF:0, TELEFÉ HITS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae23-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a367d0d9-b23d-4bb5-8d48-55f0cbeac4fb&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="" tvg-name="UR | CANAL 4 SD" tvg-logo="http://streamgo.vip:8008/images/7593abeb885e583cdc4b8d2504986fc6.png" group-title="⭐️ Uruguay",URU| CANAL 4 
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/295190
+#EXTINF:-1 tvg-id="" tvg-name="UR | CANAL 10 SD" tvg-logo="http://streamgo.vip:8008/images/a0af61dfdf48c01bea60b629412850be.png" group-title="⭐️ Uruguay",URU| CANAL 10 
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/295193
+#EXTINF:-1 tvg-id="" tvg-name="UR | CANAL 12 SD" tvg-logo="http://streamgo.vip:8008/images/6461d2ff9c26928722c922e529044378.png" group-title="⭐️ Uruguay",URU| CANAL 12 
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/295196
+#EXTINF:-1 tvg-id="" tvg-name="UR | LA RED SD" tvg-logo="http://streamgo.vip:8008/images/3d5e2d87f9df5af8b329bd6f6898562a.png" group-title="⭐️ Uruguay",URU| LA RED 
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/295198
+#EXTINF:-1 tvg-id="" tvg-name="UR | VTV SD" tvg-logo="http://streamgo.vip:8008/images/af2424ddac7488fcba3ce3d366eb85c4.png" group-title="⭐️ Uruguay",URU| VTV 
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/295201
+#EXTINF:-1 tvg-id="" tvg-name="UR | VTV PLUS HD+H" tvg-logo="http://streamgo.vip:8008/images/f8cfbc86246675dcf54104da1c2c55a0.png" group-title="⭐️ Uruguay",URU| VTV PLUS 
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/295202
+#EXTINF:-1 tvg-id="" tvg-name="UR | TV CIUDAD HD" tvg-logo="http://streamgo.vip:8008/images/22a6d5513ecf93b1509a0e5bcc7c443d.png" group-title="⭐️ Uruguay",URU| TV CIUDAD 
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/295204
+#EXTINF:-1 tvg-id="" tvg-name="URU || TNU  CANAL 5 SD (I)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRki87kXJpuh5sr8bDokpRIULcKL3dGe6r3Mw&usqp=CAU" group-title="⭐️ Uruguay",URU| CANAL 5 
+http://kiubo.biz:80/Nicolay@022/Nico@0223/204036.ts
+
 #EXTINF:0, CGTN ESPAÑOL (China)
 #EXTVLCOPT:network-caching=1000
 http://livees.cgtn.com/1000e/prog_index.m3u8
