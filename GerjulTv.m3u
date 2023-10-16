@@ -2291,317 +2291,251 @@ http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/16724
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="⭐️ Deporte Colombia", COL | ESPN DEPORTE 1
 http://kiubo.biz:80/Nicolay@022/Nico@0223/35260.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 (CHI)" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" título-del grupo ="⭐️ Chile Deporte",CH | DEPORTES DE ZORRO 1
-http://streamgo.vip:8008/etelio@79/esVGNgzc3WTD/120545
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 (CHI)" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" grupo -title="⭐️ Chile Deporte",CH | DEPORTES DE ZORRO 2
-http://streamgo.vip:8008/etelio@79/esVGNgzc3WTD/120546
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 (CHI)" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" grupo -title="⭐️ Chile Deporte",CH | DEPORTES DE ZORRO 3
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120547
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUN (CHI)" tvg-logo="http://descargas.podzone.net/logos/-Fox-Sports-premium.png" grupo -title="⭐️ Chile Deporte",CH | PREMIUM DE DEPORTES DE FOX
-http://streamgo.vip:8008/etelio@79/esVGNgzc3WTD/167737
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 (CHI)" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title= "⭐️ Chile Deporte",CH | ESPN DEPORTES 1
-http://streamgo.vip:8008/etelio@79/esVGNgzc3WTD/167963
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (CHI)" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title= "⭐️ Chile Deporte",CH | ESPN DEPORTES 2
-http://streamgo.vip:8008/etelio@79/esVGNgzc3WTD/167964
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (CHI)" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title= "⭐️ Chile Deporte",CH | ESPN DEPORTES 3
-http://streamgo.vip:8008/etelio@79/esVGNgzc3WTD/167965
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="⭐️ Chile Deporte",CH | DEPORTES TNT
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120424
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORT 2" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="⭐️ Chile Deporte",CH | TNT DEPORTES 2
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120425
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="⭐️ Chile Deportes",CH | TNT DEPORTES 3
-http://streamgo.vip:8008/etelio@79/esVGNgzc3WTD/120427
-#EXTINF:-1 tvg-id="" tvg-name="CDO PREMIUN" tvg-logo="http://descargas.podzone.net/logos/-CDO-premium.png" group-title="⭐️ Chile Deportes",CH | CDO PREMIUM
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235021.ts
+#EXTINF:-1 tvg-id="AdrSport" tvg-name="D| Adrenalina Sports" tvg-logo="http://ceoapps.org/logos/adrenalinasports2.png" group-title="TV | Deportes",D| Adrenalina Sports
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10960
+#EXTINF:-1 tvg-id="AdrSport" tvg-name="D| Adrenalina Sports FHD" tvg-logo="http://ceoapps.org/logos/adrenalinasports2.png" group-title="TV | Deportes",D| Adrenalina Sports FHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155250
+#EXTINF:-1 tvg-id="AdrSport" tvg-name="D| Adrenalina Sports HD" tvg-logo="http://ceoapps.org/logos/adrenalinasports2.png" group-title="TV | Deportes",D| Adrenalina Sports HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/197768
+#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="D| Afizzionados " tvg-logo="http://ceoapps.org/logos/afizzionados2.png" group-title="TV | Deportes",D| Afizzionados 
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10914
+#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="D| Afizzionados FHD" tvg-logo="http://ceoapps.org/logos/afizzionados2.png" group-title="TV | Deportes",D| Afizzionados FHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155471
+#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="D| Afizzionados HD" tvg-logo="http://ceoapps.org/logos/afizzionados2.png" group-title="TV | Deportes",D| Afizzionados HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/202591
+#EXTINF:-1 tvg-id="aymsports.mx" tvg-name="D| AyM Sports" tvg-logo="http://ceoapps.org/logos/aym.png" group-title="TV | Deportes",D| AyM Sports
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155249
+#EXTINF:-1 tvg-id="aymsports.mx" tvg-name="D| AyM Sports FHD" tvg-logo="http://ceoapps.org/logos/aym.png" group-title="TV | Deportes",D| AyM Sports FHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10961
+#EXTINF:-1 tvg-id="aymsports.mx" tvg-name="D| AyM Sports HD" tvg-logo="http://ceoapps.org/logos/aym.png" group-title="TV | Deportes",D| AyM Sports HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155625
+#EXTINF:-1 tvg-id="barcatv.es" tvg-name="D| Barca TV | " tvg-logo="http://ceoapps.org/logos/barcatv.png" group-title="TV | Deportes",D| Barca TV | 
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10930
+#EXTINF:-1 tvg-id="Bein Españ" tvg-name="D| beIN Sports en Español " tvg-logo="http://ceoapps.org/logos/beinsports3.png" group-title="TV | Deportes",D| beIN Sports en Español 
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/157370
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="D| Caza y pesca " tvg-logo="http://ceoapps.org/logos/cazaypesca.png" group-title="TV | Deportes",D| Caza y pesca 
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/158478
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="D| Caza y pesca FHD" tvg-logo="http://ceoapps.org/logos/cazaypesca.png" group-title="TV | Deportes",D| Caza y pesca FHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/158477
+#EXTINF:-1 tvg-id="" tvg-name="D| CDO Basico" tvg-logo="http://ceoapps.org/logos/cdo.png" group-title="TV | Deportes",D| CDO Basico
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10932
+#EXTINF:-1 tvg-id="Claro Sp" tvg-name="D| Claro Sports Latinoamerica FHD" tvg-logo="http://ceoapps.org/logos/clarosports2.png" group-title="TV | Deportes",D| Claro Sports Latinoamerica FHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10923
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Claro Sports Latinoamerica" tvg-logo="http://ceoapps.org/logos/clarosports2.png" group-title="TV | Deportes",D| Claro Sports Latinoamerica
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10924
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Claro Sports Latinoamerica HD" tvg-logo="http://ceoapps.org/logos/clarosports2.png" group-title="TV | Deportes",D| Claro Sports Latinoamerica HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/202070
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| DIRECTV SPORTS" tvg-logo="http://ceoapps.org/logos/directvsports1.png" group-title="TV | Deportes",D| DIRECTV SPORTS
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/202157
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| DIRECTV SPORTS +" tvg-logo="http://ceoapps.org/logos/directvsportsplus2.png" group-title="TV | Deportes",D| DIRECTV SPORTS +
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/203186
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| DIRECTV SPORTS 2" tvg-logo="http://ceoapps.org/logos/directvsports22.png" group-title="TV | Deportes",D| DIRECTV SPORTS 2
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/203187
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| DIRECTV SPORTS FHD" tvg-logo="http://ceoapps.org/logos/directvsports1.png" group-title="TV | Deportes",D| DIRECTV SPORTS FHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/203185
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Espn 2 | ARG" tvg-logo="http://ceoapps.org/logos/espn2arg.png" group-title="TV | Deportes",D| Espn 2 | ARG
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/181346
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Espn 2 | ARG HD" tvg-logo="http://ceoapps.org/logos/espn2arg.png" group-title="TV | Deportes",D| Espn 2 | ARG HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/181332
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Espn 2 | COL" tvg-logo="http://ceoapps.org/logos/espn2col.png" group-title="TV | Deportes",D| Espn 2 | COL
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/181350
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Espn 2 | COL FHD" tvg-logo="http://ceoapps.org/logos/espn2col.png" group-title="TV | Deportes",D| Espn 2 | COL FHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/181351
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Espn 2 | COL HD" tvg-logo="http://ceoapps.org/logos/espn2col.png" group-title="TV | Deportes",D| Espn 2 | COL HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/202084
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="D| Espn 2 | MX" tvg-logo="http://ceoapps.org/logos/espn2mx.png" group-title="TV | Deportes",D| Espn 2 | MX
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10939
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="D| Espn 2 | MX FHD" tvg-logo="http://ceoapps.org/logos/espn2mx.png" group-title="TV | Deportes",D| Espn 2 | MX FHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10962
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="D| Espn 2 | MX HD" tvg-logo="http://ceoapps.org/logos/espn2mx.png" group-title="TV | Deportes",D| Espn 2 | MX HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155473
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Espn 3 | ARG" tvg-logo="http://ceoapps.org/logos/espn3arg.png" group-title="TV | Deportes",D| Espn 3 | ARG
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/181348
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Espn 3 | ARG FHD" tvg-logo="http://ceoapps.org/logos/espn3arg.png" group-title="TV | Deportes",D| Espn 3 | ARG FHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/181349
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Espn 3 | COL" tvg-logo="http://ceoapps.org/logos/espn3col.png" group-title="TV | Deportes",D| Espn 3 | COL
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/181352
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Espn 3 | COL HD" tvg-logo="http://ceoapps.org/logos/espn3col.png" group-title="TV | Deportes",D| Espn 3 | COL HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/202088
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Espn 3 | MX" tvg-logo="http://ceoapps.org/logos/espn3mx.png" group-title="TV | Deportes",D| Espn 3 | MX
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10941
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="D| Espn 3 | MX FHD" tvg-logo="http://ceoapps.org/logos/espn3mx.png" group-title="TV | Deportes",D| Espn 3 | MX FHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155475
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="D| Espn 3 | MX HD" tvg-logo="http://ceoapps.org/logos/espn3mx.png" group-title="TV | Deportes",D| Espn 3 | MX HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155474
+#EXTINF:-1 tvg-id="espnlatin.mx" tvg-name="D| Espn Deportes" tvg-logo="http://ceoapps.org/logos/espndeportes.png" group-title="TV | Deportes",D| Espn Deportes
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/202473
+#EXTINF:-1 tvg-id="espnlatin.mx" tvg-name="D| Espn Deportes | HD" tvg-logo="http://ceoapps.org/logos/espndeportes.png" group-title="TV | Deportes",D| Espn Deportes | HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/158472
+#EXTINF:-1 tvg-id="espnplus.mx" tvg-name="D| Espn EXTRA" tvg-logo="http://ceoapps.org/logos/espnextra.png" group-title="TV | Deportes",D| Espn EXTRA
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/181370
+#EXTINF:-1 tvg-id="espnplus.mx" tvg-name="D| Espn EXTRA FHD" tvg-logo="http://ceoapps.org/logos/espnextra.png" group-title="TV | Deportes",D| Espn EXTRA FHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/181378
+#EXTINF:-1 tvg-id="espnplus.mx" tvg-name="D| Espn Plus | MX FHD" tvg-logo="http://ceoapps.org/logos/espnplusmxpng.png" group-title="TV | Deportes",D| Espn Plus | MX FHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10964
+#EXTINF:-1 tvg-id="espnplus.mx" tvg-name="D| Espn Plus | MX HD" tvg-logo="http://ceoapps.org/logos/espnplusmxpng.png" group-title="TV | Deportes",D| Espn Plus | MX HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10942
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Espn | ARG" tvg-logo="http://ceoapps.org/logos/espnarg1.png" group-title="TV | Deportes",D| Espn | ARG
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/181047
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Espn | ARG FHD" tvg-logo="http://ceoapps.org/logos/espnarg1.png" group-title="TV | Deportes",D| Espn | ARG FHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/202064
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Espn | COL" tvg-logo="http://ceoapps.org/logos/espncol.png" group-title="TV | Deportes",D| Espn | COL
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/181016
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Espn | COL HD" tvg-logo="http://ceoapps.org/logos/espncol.png" group-title="TV | Deportes",D| Espn | COL HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/181347
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="D| Espn | MX" tvg-logo="http://ceoapps.org/logos/espnmx.png" group-title="TV | Deportes",D| Espn | MX
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10940
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="D| Espn | MX FHD" tvg-logo="http://ceoapps.org/logos/espnmx.png" group-title="TV | Deportes",D| Espn | MX FHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10963
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="D| Espn | MX HD" tvg-logo="http://ceoapps.org/logos/espnmx.png" group-title="TV | Deportes",D| Espn | MX HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155472
+#EXTINF:-1 tvg-id="EuroSp1" tvg-name="D| Eurosport" tvg-logo="http://ceoapps.org/logos/eurosport.png" group-title="TV | Deportes",D| Eurosport
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/158480
+#EXTINF:-1 tvg-id="EuroSp2" tvg-name="D| Eurosport 2" tvg-logo="http://ceoapps.org/logos/eurosports2.png" group-title="TV | Deportes",D| Eurosport 2
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/158481
+#EXTINF:-1 tvg-id="EuroSp2" tvg-name="D| Eurosport 2 FHD" tvg-logo="http://ceoapps.org/logos/eurosports2.png" group-title="TV | Deportes",D| Eurosport 2 FHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/158482
+#EXTINF:-1 tvg-id="EuroSp1" tvg-name="D| Eurosport FHD" tvg-logo="http://ceoapps.org/logos/eurosport.png" group-title="TV | Deportes",D| Eurosport FHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/158479
+#EXTINF:-1 tvg-id="EuroSp1" tvg-name="D| Eurosports HD" tvg-logo="http://ceoapps.org/logos/eurosport.png" group-title="TV | Deportes",D| Eurosports HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/215598
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="D| FOX Deportes | USA" tvg-logo="http://ceoapps.org/logos/foxdeportes1.png" group-title="TV | Deportes",D| FOX Deportes | USA
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/200284
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="D| FOX Deportes | USA HD" tvg-logo="http://ceoapps.org/logos/foxdeportes1.png" group-title="TV | Deportes",D| FOX Deportes | USA HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10928
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Fox Sports 2 | ARG" tvg-logo="http://ceoapps.org/logos/foxsports2arg.png" group-title="TV | Deportes",D| Fox Sports 2 | ARG
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/183215
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Fox Sports 2 | ARG HD" tvg-logo="http://ceoapps.org/logos/foxsports2arg.png" group-title="TV | Deportes",D| Fox Sports 2 | ARG HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10957
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Fox Sports 2 | CL FHD" tvg-logo="http://ceoapps.org/logos/foxsports2cl.png" group-title="TV | Deportes",D| Fox Sports 2 | CL FHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/183333
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Fox Sports 2 | CL HD" tvg-logo="http://ceoapps.org/logos/foxsports2cl.png" group-title="TV | Deportes",D| Fox Sports 2 | CL HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/183332
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Fox Sports 2 | COL FHD" tvg-logo="http://ceoapps.org/logos/foxsports2col.png" group-title="TV | Deportes",D| Fox Sports 2 | COL FHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/183213
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Fox Sports 2 | COL HD" tvg-logo="http://ceoapps.org/logos/foxsports2col.png" group-title="TV | Deportes",D| Fox Sports 2 | COL HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/202097
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="D| Fox Sports 2 | MX" tvg-logo="http://ceoapps.org/logos/foxsports2mx.png" group-title="TV | Deportes",D| Fox Sports 2 | MX
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10949
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="D| Fox Sports 2 | MX FHD" tvg-logo="http://ceoapps.org/logos/foxsports2mx.png" group-title="TV | Deportes",D| Fox Sports 2 | MX FHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155649
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="D| Fox Sports 2 | MX HD" tvg-logo="http://ceoapps.org/logos/foxsports2mx.png" group-title="TV | Deportes",D| Fox Sports 2 | MX HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10952
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Fox Sports 3 | ARG" tvg-logo="http://ceoapps.org/logos/foxsports3arg1.png" group-title="TV | Deportes",D| Fox Sports 3 | ARG
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10958
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Fox Sports 3 | CL" tvg-logo="http://ceoapps.org/logos/foxsports3cl2.png" group-title="TV | Deportes",D| Fox Sports 3 | CL
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/183334
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Fox Sports 3 | COL FHD" tvg-logo="http://ceoapps.org/logos/foxsports3col2.png" group-title="TV | Deportes",D| Fox Sports 3 | COL FHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/183214
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Fox Sports 3 | COL HD" tvg-logo="http://ceoapps.org/logos/foxsports3col2.png" group-title="TV | Deportes",D| Fox Sports 3 | COL HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/202100
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="D| Fox Sports 3 | MX" tvg-logo="http://ceoapps.org/logos/foxsports3mx3.png" group-title="TV | Deportes",D| Fox Sports 3 | MX
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10945
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="D| Fox Sports 3 | MX FHD" tvg-logo="http://ceoapps.org/logos/foxsports3mx3.png" group-title="TV | Deportes",D| Fox Sports 3 | MX FHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155650
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="D| Fox Sports 3 | MX HD" tvg-logo="http://ceoapps.org/logos/foxsports3mx3.png" group-title="TV | Deportes",D| Fox Sports 3 | MX HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10951
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| FOX Sports Premium Arg" tvg-logo="http://ceoapps.org/logos/foxsportspremium.png" group-title="TV | Deportes",D| FOX Sports Premium Arg
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/195839
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| FOX Sports Premium Arg FHD" tvg-logo="http://ceoapps.org/logos/foxsportspremium.png" group-title="TV | Deportes",D| FOX Sports Premium Arg FHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/195840
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| FOX Sports Premium Arg HD" tvg-logo="http://ceoapps.org/logos/foxsportspremium.png" group-title="TV | Deportes",D| FOX Sports Premium Arg HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10915
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Fox Sports | ARG FHD" tvg-logo="http://ceoapps.org/logos/foxsportsarg1.png" group-title="TV | Deportes",D| Fox Sports | ARG FHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10959
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Fox Sports | ARG HD" tvg-logo="http://ceoapps.org/logos/foxsportsarg1.png" group-title="TV | Deportes",D| Fox Sports | ARG HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/14651
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Fox Sports | CL" tvg-logo="http://ceoapps.org/logos/foxsportscl1.png" group-title="TV | Deportes",D| Fox Sports | CL
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/183331
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Fox Sports | CL FHD" tvg-logo="http://ceoapps.org/logos/foxsportscl1.png" group-title="TV | Deportes",D| Fox Sports | CL FHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/183329
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Fox Sports | CL HD" tvg-logo="http://ceoapps.org/logos/foxsportscl1.png" group-title="TV | Deportes",D| Fox Sports | CL HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/183330
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Fox Sports | COL" tvg-logo="http://ceoapps.org/logos/foxsportscl1.png" group-title="TV | Deportes",D| Fox Sports | COL
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/183212
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| Fox Sports | MX" tvg-logo="http://ceoapps.org/logos/foxsportsmx1.png" group-title="TV | Deportes",D| Fox Sports | MX
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10950
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| Fox Sports | MX FHD" tvg-logo="http://ceoapps.org/logos/foxsportsmx1.png" group-title="TV | Deportes",D| Fox Sports | MX FHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10953
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| Fox Sports | MX HD" tvg-logo="http://ceoapps.org/logos/foxsportsmx1.png" group-title="TV | Deportes",D| Fox Sports | MX HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155648
+#EXTINF:-1 tvg-id="futv" tvg-name="D| FUTV CR" tvg-logo="http://ceoapps.org/logos/futv.png" group-title="TV | Deportes",D| FUTV CR
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155246
+#EXTINF:-1 tvg-id="futv" tvg-name="D| FUTV CR FHD" tvg-logo="http://ceoapps.org/logos/futv.png" group-title="TV | Deportes",D| FUTV CR FHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/21798
+#EXTINF:-1 tvg-id="Telerama.Ec" tvg-name="D| Gol TV" tvg-logo="http://ceoapps.org/logos/goltv2.png" group-title="TV | Deportes",D| Gol TV
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/158474
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D| DAZN LaLigaTV HD" tvg-logo="http://ceoapps.org/logos/daznl.png" group-title="TV | Deportes",D| DAZN LaLigaTV HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/197233
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="D| Liga de Campeones" tvg-logo="http://ceoapps.org/logos/ligadecampeones.png" group-title="TV | Deportes",D| Liga de Campeones
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/157371
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="D| Liga de Campeones HD" tvg-logo="http://ceoapps.org/logos/ligadecampeones.png" group-title="TV | Deportes",D| Liga de Campeones HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/157372
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="D| MLB Network HD" tvg-logo="http://ceoapps.org/logos/mlbnetwork.png" group-title="TV | Deportes",D| MLB Network HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/210252
+#EXTINF:-1 tvg-id="formula1.mx" tvg-name="D| Movistar F1" tvg-logo="http://ceoapps.org/logos/movistarf1.png" group-title="TV | Deportes",D| Movistar F1
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/158473
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="D| Movistar F1 HD" tvg-logo="http://ceoapps.org/logos/movistarf1.png" group-title="TV | Deportes",D| Movistar F1 HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/170225
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="D| NBC Golf" tvg-logo="http://ceoapps.org/logos/golfchannel2.png" group-title="TV | Deportes",D| NBC Golf
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10948
+#EXTINF:-1 tvg-id="Sky.Mx" tvg-name="D| SKY Sports Arena" tvg-logo="http://ceoapps.org/logos/skysports.png" group-title="TV | Deportes",D| SKY Sports Arena
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/115045
+#EXTINF:-1 tvg-id="" tvg-name="D| Sportv" tvg-logo="http://ceoapps.org/logos/sportv.png" group-title="TV | Deportes",D| Sportv
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/185497
+#EXTINF:-1 tvg-id="" tvg-name="D| Sportv 2 " tvg-logo="http://ceoapps.org/logos/sportv2.png" group-title="TV | Deportes",D| Sportv 2 
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/185499
+#EXTINF:-1 tvg-id="" tvg-name="D| Sportv 2 HD" tvg-logo="http://ceoapps.org/logos/sportv2.png" group-title="TV | Deportes",D| Sportv 2 HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/185498
+#EXTINF:-1 tvg-id="" tvg-name="D| Sportv 3" tvg-logo="http://ceoapps.org/logos/sportv3.png" group-title="TV | Deportes",D| Sportv 3
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/185501
+#EXTINF:-1 tvg-id="" tvg-name="D| Sportv 3 HD" tvg-logo="http://ceoapps.org/logos/sportv3.png" group-title="TV | Deportes",D| Sportv 3 HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/185500
+#EXTINF:-1 tvg-id="" tvg-name="D| Sportv HD" tvg-logo="http://ceoapps.org/logos/sportv.png" group-title="TV | Deportes",D| Sportv HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/185496
+#EXTINF:-1 tvg-id="" tvg-name="D| Tigo Honduras (solo eventos)" tvg-logo="http://ceoapps.org/logos/tigosportshonduras22.png" group-title="TV | Deportes",D| Tigo Honduras (solo eventos)
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/12510
+#EXTINF:-1 tvg-id="TigoSp.CR" tvg-name="D| Tigo Sports CR" tvg-logo="http://ceoapps.org/logos/tigosportscostarica22.png" group-title="TV | Deportes",D| Tigo Sports CR
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155627
+#EXTINF:-1 tvg-id="Tigo Sp" tvg-name="D| Tigo Sports HN HD" tvg-logo="http://ceoapps.org/logos/tigosportshonduras22.png" group-title="TV | Deportes",D| Tigo Sports HN HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155641
+#EXTINF:-1 tvg-id="Tigo Sp" tvg-name="D| Tigo Sports Paraguay HD" tvg-logo="http://ceoapps.org/logos/tigosportsparaguay22.png" group-title="TV | Deportes",D| Tigo Sports Paraguay HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155631
+#EXTINF:-1 tvg-id="Tigo Sp" tvg-name="D| Tigo Sports Plus Paraguay HD" tvg-logo="http://ceoapps.org/logos/tigosportsplus.png" group-title="TV | Deportes",D| Tigo Sports Plus Paraguay HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155632
+#EXTINF:-1 tvg-id="TigoSp.ELS" tvg-name="D| Tigo Sports Salvador" tvg-logo="http://ceoapps.org/logos/tigosportssalvador22.png" group-title="TV | Deportes",D| Tigo Sports Salvador
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155626
+#EXTINF:-1 tvg-id="TigoSp.ELS" tvg-name="D| Tigo Sports Salvador HD" tvg-logo="http://ceoapps.org/logos/tigosportssalvador22.png" group-title="TV | Deportes",D| Tigo Sports Salvador HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/202259
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| TNT Sports" tvg-logo="http://ceoapps.org/logos/tntsports.png" group-title="TV | Deportes",D| TNT Sports
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155677
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| TNT Sports FHD" tvg-logo="http://ceoapps.org/logos/tntsports.png" group-title="TV | Deportes",D| TNT Sports FHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/17316
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| TNT Sports HD" tvg-logo="http://ceoapps.org/logos/tntsports.png" group-title="TV | Deportes",D| TNT Sports HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155247
+#EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/126152
+#EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros HD" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/126151
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="D| TUDN" tvg-logo="http://ceoapps.org/logos/tudnmx.png" group-title="TV | Deportes",D| TUDN
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/191356
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="D| TUDN FHD" tvg-logo="http://ceoapps.org/logos/tudnmx.png" group-title="TV | Deportes",D| TUDN FHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10955
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="D| TUDN US" tvg-logo="http://ceoapps.org/logos/tudnus.png" group-title="TV | Deportes",D| TUDN US
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/194924
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="D| TUDN US HD" tvg-logo="http://ceoapps.org/logos/tudnus.png" group-title="TV | Deportes",D| TUDN US HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/169243
+#EXTINF:-1 tvg-id="tvcdeportes.mx" tvg-name="D| TVC Deportes" tvg-logo="http://ceoapps.org/logos/tvcdeportes.png" group-title="TV | Deportes",D| TVC Deportes
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10944
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| TYC Sports" tvg-logo="http://ceoapps.org/logos/tycsports.png" group-title="TV | Deportes",D| TYC Sports
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/25279
+#EXTINF:-1 tvg-id="TyC Sp" tvg-name="D| TYC Sports HD" tvg-logo="http://ceoapps.org/logos/tycsports.png" group-title="TV | Deportes",D| TYC Sports HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/199511
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| TyC Sports Internacional" tvg-logo="http://ceoapps.org/logos/tycsportsinternacional.png" group-title="TV | Deportes",D| TyC Sports Internacional
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10920
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| TyC Sports Internacional HD" tvg-logo="http://ceoapps.org/logos/tycsportsinternacional.png" group-title="TV | Deportes",D| TyC Sports Internacional HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155679
 
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="⭐️ Argentina Deporte",AR | DEPORTES DE ZORRO 1
-http://pinkpanther.uk:8080/35W7xfhYuS3L/7vgMsC6Y7brA/46476
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title= "⭐️Argentina Deporte",AR | DEPORTES DE ZORRO 2
-http://panterapink.uk:8080/35W7xfhYuS3L/7vgMsC6Y7brA/46477
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" group-title= "⭐️Argentina Deporte",AR | DEPORTES DE ZORRO 3
-http://pinkpanther.uk:8080/35W7xfhYuS3L/7vgMsC6Y7brA/46478
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 1" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="⭐️ Argentina Deporte",AR | ESPN DEPORTES 1
-http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/426029
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 2" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="⭐️ Argentina Deporte",AR | ESPN DEPORTE 2
-http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/426030
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 3" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="⭐️ Argentina Deporte",AR | ESPN DEPORTE 3
-http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/426032
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 4" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="⭐️ Argentina Deporte",AR | ESPN DEPORTES 4
-http://panterapink.uk:8080/35W7xfhYuS3L/7vgMsC6Y7brA/43752
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="⭐️ Argentina Deportes",AR | DEPORTES TYC
-http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/496013
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="⭐️ Argentina Deportes",AR | DEPORTES TNT
-http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/496008
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="⭐️ Argentina Deporte",AR | DEPORTES DIRECTV TV
-http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/495906
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="⭐️ Argentina Deporte",AR | DIRECTV TV DEPORTES 2
-http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/556780
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="⭐️ Argentina Deporte",AR | DIRECTV DEPORTES PLUS
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1914
-
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title=" ⭐️ Deporte VIP",FOX SPORTS 1 (méxico)
-http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/484534
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title= " ⭐️ Deporte VIP",FOX SPORTS 2 (México)
-http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/484535
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" group-title= " ⭐️ Deporte VIP",FOX SPORTS 3 (méxico)
-http://kiubo.biz:80/Nicolay@022/Nico@0223/35277.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 1" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title=" ⭐️ Deporte VIP",ESPN SPORT 1 (méxico)
-http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/426033
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 2" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title=" ⭐️ Deporte VIP",ESPN SPORT 2 (méxico)
-http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/426034
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 3" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title=" ⭐️ Deporte VIP",ESPN SPORT 3 (méxico)
-http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/426035
-#EXTINF:-1 tvg-id="" tvg-name="AFIZZIONADOS" tvg-logo="http://descargas.podzone.net/logos/-afizzionados.png" group-title=" ⭐️ Deporte VIP", AFIZZIONADOS (México)
-http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/523080
-#EXTINF:-1 tvg-id="" tvg-name="ADRENALINA SPORTS" tvg-logo="http://descargas.podzone.net/logos/-adrenalina-sports-network.png" group-title=" ⭐️ Deporte VIP",ADRENALINA (México)
-http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/523078
-#EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS EXTRA" tvg-logo="http://descargas.podzone.net/logos/-TUDN.png" group-title=" ⭐️ Deporte VIP ",TUDN EXTRA (méxico)
-http://kiubo.biz:80/Nicolay@022/Nico@0223/35313.ts
-#EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TUDN.png" group-title=" ⭐️ Deporte VIP" ,TUDN (méxico)
-http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/396794
-#EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title=" ⭐️ Deporte VIP",TUDN (Estados Unidos)
-http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/200946
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="http://descargas.podzone.net/logos/-tvc.png" group-title=" ⭐️ Deporte VIP" ,TVC DEPORTES (méxico)
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/372712
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlXy2Z4mwo414Xcp7kbXuc5jkrghGpe35tHA&usqp=CAU" group-title= "⭐️ Deporte VIP", td+ (costa rica)
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2143
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ5DCwqwumvaddhj_uHZb6WC07NYqPodspRQ&usqp=CAU" group-title= " ⭐️ Deporte VIP",td + 2 (costa rica)
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2144
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://descargas.podzone.net/logos/-FUTV.png" group-title=" ⭐️ Deporte VIP" FUTV (costa rica)
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2139
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://descargas.podzone.net/logos/-TENNIS-CHANNEL.png" group-title=" ⭐️ Deporte VIP", CANAL DE TENIS
-http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/509141
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://descargas.podzone.net/logos/-UFC-live.png" group-title=" ⭐️ Deporte VIP", DEPORTES DE LUCHA
-http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/508840
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://descargas.podzone.net/logos/-NFL.png" group-title=" ⭐️ Deporte VIP" ,RED DE LA NFL
-http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/509128
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://descargas.podzone.net/logos/-NBA.png" group-title=" ⭐️ Deporte VIP" ,NBA TV (EE.UU.)
-http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/509126
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://descargas.podzone.net/logos/-MLB.png" group-title=" ⭐️ Deporte VIP" ,MLB TV (EE.UU.)
-http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/509121
-
-#EXT INF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 FHD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZ5UTCOeWgHCSzTtzIG74Qrl-0duXJhd0Rg&usqp=CAU" group-title="⭐️ Tv Dazn Eventos",DAZN MOVISTAR 1
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/159067
-#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 FHD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6s1BLWLYnoUikuNzPhbykMsM3PUsvIQyFLQ&usqp=CAU" group-title="⭐️ Tv Dazn Eventos",DAZN MOVISTAR 2
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/151706
-#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 FHD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0Q5HnlJ3eFkY1KKrgon15sJooJ_0CThmqg&usqp=CAU" group-title="⭐️ Tv Dazn Eventos",DAZN MOVISTAR 3
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/151709
-#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 FHD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1r0GoAXkFdpOepIYHWjyZ3NZtL2tj0HZQMQ&usqp=CAU" group-title="⭐️ Tv Dazn Eventos",DAZN MOVISTAR 4
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/151711
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHZQBss3Wx6ilhokjaE_UuNhLotB8PsgV3Q&usqp=CAU" group-title= "⭐️Tv Dazn Eventos",DAZN MOVISTAR F1
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/202655
-#EXTINF:120, EVENTOS TyC PLAY 1
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
-#EXTINF:0, EVENTOS TyC PLAY 2
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
-#EXTINF:0, EVENTOS TyC PLAY 3
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
-#EXTINF:0, EVENTOS TyC PLAY 4
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
-#EXTINF:0, EVENTOS TyC PLAY 5
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
-#EXTINF:0, EVENTOS TyC PLAY 6
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
-#EXTINF:0, EVENTOS TyC PLAY 7
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
-#EXTINF:0, EVENTOS TyC PLAY 8
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
-#EXTINF:0, EVENTOS TyC PLAY 9
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
-#EXTINF:0, EVENTOS TyC PLAY 10
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8
-#EXTINF:0, EVENTOS TyC PLAY 11
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
-#EXTINF:0,FOX SPORTS  1 (mexico)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://kiubo.biz:80/Nicolay@022/Nico@0223/35274.ts
-#EXTINF:0,FOX SPORTS 2 (Mexico)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://kiubo.biz:80/Nicolay@022/Nico@0223/35275.ts
-#EXTINF:0,FOX SPORTS 3 (mexico)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://kiubo.biz:80/Nicolay@022/Nico@0223/35277.ts
-#EXTINF:0,ESPN SPORT 1 (mexico)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://kiubo.biz:80/Nicolay@022/Nico@0223/35263.ts
-#EXTINF:0,ESPN SPORT 2 (mexico)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://kiubo.biz:80/Nicolay@022/Nico@0223/35253.ts
-#EXTINF:0,ESPN SPORT 3 (mexico)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://kiubo.biz:80/Nicolay@022/Nico@0223/35255.ts
-#EXTINF:0,AFIZZIONADOS (mexico)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://kiubo.biz:80/Nicolay@022/Nico@0223/35219.ts
-#EXTINF:0,ADRENALINA (Mexico)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/35218.ts
-#EXTINF:0,TUDN EXTRA (mexico)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://kiubo.biz:80/Nicolay@022/Nico@0223/35313.ts
-#EXTINF:0,TUDN (mexico)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://kiubo.biz:80/Nicolay@022/Nico@0223/35312.ts
-#EXTINF:0,TUDN (Usa)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/35313.ts
-#EXTINF:0,TVC SPORTS (mexico)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://kiubo.biz:80/Nicolay@022/Nico@0223/35315.ts
-#EXTINF:0,SKY SPORTS (Mexico)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/125930.ts
-#EXTINF:0, STAR + opc1 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://magmas5.com:8000/Oscar86/40473/160068
-#EXTINF:0, STAR + opc2 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://magmas5.com:8000/Oscar86/40473/160071
-#EXTINF:0, STAR + opc3 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://magmas5.com:8000/Oscar86/40473/152908
-#EXTINF:0, TSN 1 (canada)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://magmas5.com:8000/Oscar86/40473/130472
-#EXTINF:0, TSN 2 (canada)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://magmas5.com:8000/Oscar86/40473/130473
-#EXTINF:0, TSN 3 (canada)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://magmas5.com:8000/Oscar86/40473/130474
-#EXTINF:0,  TSN 4 (canada)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://magmas5.com:8000/Oscar86/40473/130475
-#EXTINF:0, TSN 5 (canada)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://magmas5.com:8000/Oscar86/40473/130476
-#EXTINF:0,FUTV (costa rica)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/36170.ts
-#EXTINF:0, TENNIS CHANNEL 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://kiubo.biz:80/Nicolay@022/Nico@0223/36162.ts
-#EXTINF:0,BOX NACION
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://kiubo.biz:80/Nicolay@022/Nico@0223/137339.ts
-#EXTINF:0,NFL NETWORK 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://kiubo.biz:80/Nicolay@022/Nico@0223/36157.ts
-#EXTINF:0,N.B.A TV (usa)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/239219.ts
-#EXTINF:0,M.L.B TV (usa)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/307201
-#EXTINF:0,GOLF MOVISTAR (españa)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/266040
-#EXTINF:0,TIGO SPORTS (panama)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/331264
-#EXTINF:0,TIGO SPORTS (honduras)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/35306.ts
-#EXTINF:0,TIGO SPORTS (bolivia)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/128922/fabiopadula/54735
-#EXTINF:0,TIGO SPORTS 2 (bolivia)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/253796
-#EXTINF:0,TIGO SPORTS 3 (bolivia)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/35304.ts
-#EXTINF:0,TIGO SPORTS (costa rica)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/35305.ts
-#EXTINF:0,TIGO SPORTS (Paraguay)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/128922/fabiopadula/29832
-#EXTINF:0,TIGO SPORTS 2 (Paraguay)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/128922/fabiopadula/7450
-#EXTINF:0,EC | GOL TV 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167741
-#EXTINF:0,EC | EL CANAL DEL FUTBOL 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/36144.ts
-#EXTINF:0,PE | LA LIGA 1 (Perú)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/252156
-#EXTINF:0,PE | LA LIGA 1 MAX (Perú)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/286827
-#EXTINF:0, gol Perú 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/166609
-#EXTINF:0,PE | contacto deportivo 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/216045
 #EXTINF:0,MOVISTAR LA LIGA 1
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
