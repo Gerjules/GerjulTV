@@ -2275,130 +2275,121 @@ https://i.mjh.nz/PlutoTV/6140a074a99e79000738162a-alt.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6140a074a99e79000738162a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0, COL |  WIN SPORTS 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://tvpanel.one:80/live/Fenix/DDD19PPP80/434493.ts
-#EXTINF:0,COL |  WIN SPORTS opc 2
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/128922/fabiopadula/1155795
-#EXTINF:0,COL |  WIN SPORTS opc 3
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://magmas5.com:8000/Oscar86/40473/131983
-#EXTINF:0,COL | WIN SPORT+ 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/36139.ts
-#EXTINF:0,COL | WIN SPORT+ opc 2
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/128922/fabiopadula/16724
-#EXTINF:0,COL | WIN SPORT+ opc 3
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/128922/fabiopadula/54738
-#EXTINF:0,COL | ESPN SPORT 1 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+
+#EXTINF:-1 tvg-id="" tvg-name="GANAR DEPORTE " tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="⭐️ Deporte Colombia", COL | GANAR DEPORTES
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155795
+#EXTINF:-1 tvg-id="" tvg-name="GANAR DEPORTE " tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="⭐️ Deporte Colombia", COL | GANAR DEPORTES opc 2
+http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHHotQKUSV4xe5dapO-xcudA
+#EXTINF:-1 tvg-id="" tvg-name="GANAR DEPORTE " tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="⭐️ Deporte Colombia", COL | GANAR DEPORTES opc 3
+http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHIpr75HhVZVzwCHA_MYaUCI
+#EXTINF:-1 tvg-id="" tvg-name="GANAR DEPORTE +" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/frb4p3hyjori50ai7oh3f/win-sports.png?rlkey=hkluj62z2ihegojc24d08km87&dl =0" group-title="⭐️ Deporte Colombia",COL | GANAR DEPORTE+
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/16723
+#EXTINF:-1 tvg-id="" tvg-name="GANAR DEPORTE + " tvg-logo="https://dl.dropboxusercontent.com/scl/fi/frb4p3hyjori50ai7oh3f/win-sports.png?rlkey=hkluj62z2ihegojc24d08km87&dl =0" group-title="⭐️ Deporte Colombia",COL | GANAR DEPORTE+ opc 2
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/54738
+#EXTINF:-1 tvg-id="" tvg-name="GANAR DEPORTE +" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/frb4p3hyjori50ai7oh3f/win-sports.png?rlkey=hkluj62z2ihegojc24d08km87&dl =0" group-title="⭐️ Deporte Colombia",COL | GANAR DEPORTE+ opc 3
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/16724
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="⭐️ Deporte Colombia", COL | ESPN DEPORTE 1
 http://kiubo.biz:80/Nicolay@022/Nico@0223/35260.ts
-#EXTINF:0,CH | FOX SPORTS 1 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120545
-#EXTINF:0,CH | FOX SPORTS 2 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120546
-#EXTINF:0,CH | FOX SPORTS 3 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 (CHI)" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" título-del grupo ="⭐️ Chile Deporte",CH | DEPORTES DE ZORRO 1
+http://streamgo.vip:8008/etelio@79/esVGNgzc3WTD/120545
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 (CHI)" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" grupo -title="⭐️ Chile Deporte",CH | DEPORTES DE ZORRO 2
+http://streamgo.vip:8008/etelio@79/esVGNgzc3WTD/120546
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 (CHI)" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" grupo -title="⭐️ Chile Deporte",CH | DEPORTES DE ZORRO 3
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120547
-#EXTINF:0,CH | FOX SPORTS PREMIUM 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167737
-#EXTINF:0,CH | ESPN SPORTS 1 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167963
-#EXTINF:0,CH | ESPN SPORTS 2 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167964
-#EXTINF:0,CH | ESPN SPORTS 3 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167965
-#EXTINF:0,CH | TNT SPORTS 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUN (CHI)" tvg-logo="http://descargas.podzone.net/logos/-Fox-Sports-premium.png" grupo -title="⭐️ Chile Deporte",CH | PREMIUM DE DEPORTES DE FOX
+http://streamgo.vip:8008/etelio@79/esVGNgzc3WTD/167737
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 (CHI)" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title= "⭐️ Chile Deporte",CH | ESPN DEPORTES 1
+http://streamgo.vip:8008/etelio@79/esVGNgzc3WTD/167963
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (CHI)" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title= "⭐️ Chile Deporte",CH | ESPN DEPORTES 2
+http://streamgo.vip:8008/etelio@79/esVGNgzc3WTD/167964
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (CHI)" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title= "⭐️ Chile Deporte",CH | ESPN DEPORTES 3
+http://streamgo.vip:8008/etelio@79/esVGNgzc3WTD/167965
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="⭐️ Chile Deporte",CH | DEPORTES TNT
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120424
-#EXTINF:0,CH | TNT SPORTS 2
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORT 2" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="⭐️ Chile Deporte",CH | TNT DEPORTES 2
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120425
-#EXTINF:0,CH | TNT SPORTS 3
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120427
-#EXTINF:0,CH | CDO PREMIUN
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/273686
-#EXTINF:0,AR | FOX SPORTS 1 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269420
-#EXTINF:0,AR | FOX SPORTS 2 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269422
-#EXTINF:0,AR | FOX SPORTS 3 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269424
-#EXTINF:0,AR | ESPN SPORTS 1 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/203228.ts
-#EXTINF:0,AR | ESPN SPORT 2 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269433
-#EXTINF:0,AR | ESPN SPORT 3 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/35254.ts
-#EXTINF:0,AR | ESPN SPORTS 4 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167726
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="Deportes",TyC Sports
-http://tvpanel.one:80/live/eegs@hotmail.com/RCPeDrA4cU/3148.ts
-#EXTINF:-1 tvg-id="TyCSports2.ar" tvg-name="TYC SPORTS 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-1246.png" group-title="Deportes",TyC Sports Internacional
-http://tvpanel.one:80/live/eegs@hotmail.com/RCPeDrA4cU/126053.ts
-#EXTINF:0,AR | TNT SPORTS
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269428
-#EXTINF:0,AR | DIREC TV SPORTS
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/125943.ts
-#EXTINF:0,AR | DIREC TV DEPORTES 2
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120550%20
-#EXTINF:0,AR | DIREC TV SPORTS PLUS
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167732
-#EXTINF:0,TyC Sports Internacional
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34688
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="⭐️ Chile Deportes",CH | TNT DEPORTES 3
+http://streamgo.vip:8008/etelio@79/esVGNgzc3WTD/120427
+#EXTINF:-1 tvg-id="" tvg-name="CDO PREMIUN" tvg-logo="http://descargas.podzone.net/logos/-CDO-premium.png" group-title="⭐️ Chile Deportes",CH | CDO PREMIUM
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235021.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="⭐️ Argentina Deporte",AR | DEPORTES DE ZORRO 1
+http://pinkpanther.uk:8080/35W7xfhYuS3L/7vgMsC6Y7brA/46476
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title= "⭐️Argentina Deporte",AR | DEPORTES DE ZORRO 2
+http://panterapink.uk:8080/35W7xfhYuS3L/7vgMsC6Y7brA/46477
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" group-title= "⭐️Argentina Deporte",AR | DEPORTES DE ZORRO 3
+http://pinkpanther.uk:8080/35W7xfhYuS3L/7vgMsC6Y7brA/46478
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 1" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="⭐️ Argentina Deporte",AR | ESPN DEPORTES 1
+http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/426029
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 2" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="⭐️ Argentina Deporte",AR | ESPN DEPORTE 2
+http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/426030
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 3" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="⭐️ Argentina Deporte",AR | ESPN DEPORTE 3
+http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/426032
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 4" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="⭐️ Argentina Deporte",AR | ESPN DEPORTES 4
+http://panterapink.uk:8080/35W7xfhYuS3L/7vgMsC6Y7brA/43752
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="⭐️ Argentina Deportes",AR | DEPORTES TYC
+http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/496013
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="⭐️ Argentina Deportes",AR | DEPORTES TNT
+http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/496008
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="⭐️ Argentina Deporte",AR | DEPORTES DIRECTV TV
+http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/495906
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="⭐️ Argentina Deporte",AR | DIRECTV TV DEPORTES 2
+http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/556780
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="⭐️ Argentina Deporte",AR | DIRECTV DEPORTES PLUS
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1914
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title=" ⭐️ Deporte VIP",FOX SPORTS 1 (méxico)
+http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/484534
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title= " ⭐️ Deporte VIP",FOX SPORTS 2 (México)
+http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/484535
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" group-title= " ⭐️ Deporte VIP",FOX SPORTS 3 (méxico)
+http://kiubo.biz:80/Nicolay@022/Nico@0223/35277.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 1" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title=" ⭐️ Deporte VIP",ESPN SPORT 1 (méxico)
+http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/426033
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 2" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title=" ⭐️ Deporte VIP",ESPN SPORT 2 (méxico)
+http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/426034
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 3" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title=" ⭐️ Deporte VIP",ESPN SPORT 3 (méxico)
+http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/426035
+#EXTINF:-1 tvg-id="" tvg-name="AFIZZIONADOS" tvg-logo="http://descargas.podzone.net/logos/-afizzionados.png" group-title=" ⭐️ Deporte VIP", AFIZZIONADOS (México)
+http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/523080
+#EXTINF:-1 tvg-id="" tvg-name="ADRENALINA SPORTS" tvg-logo="http://descargas.podzone.net/logos/-adrenalina-sports-network.png" group-title=" ⭐️ Deporte VIP",ADRENALINA (México)
+http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/523078
+#EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS EXTRA" tvg-logo="http://descargas.podzone.net/logos/-TUDN.png" group-title=" ⭐️ Deporte VIP ",TUDN EXTRA (méxico)
+http://kiubo.biz:80/Nicolay@022/Nico@0223/35313.ts
+#EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TUDN.png" group-title=" ⭐️ Deporte VIP" ,TUDN (méxico)
+http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/396794
+#EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title=" ⭐️ Deporte VIP",TUDN (Estados Unidos)
+http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/200946
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="http://descargas.podzone.net/logos/-tvc.png" group-title=" ⭐️ Deporte VIP" ,TVC DEPORTES (méxico)
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/372712
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlXy2Z4mwo414Xcp7kbXuc5jkrghGpe35tHA&usqp=CAU" group-title= "⭐️ Deporte VIP", td+ (costa rica)
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2143
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ5DCwqwumvaddhj_uHZb6WC07NYqPodspRQ&usqp=CAU" group-title= " ⭐️ Deporte VIP",td + 2 (costa rica)
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2144
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://descargas.podzone.net/logos/-FUTV.png" group-title=" ⭐️ Deporte VIP" FUTV (costa rica)
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2139
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://descargas.podzone.net/logos/-TENNIS-CHANNEL.png" group-title=" ⭐️ Deporte VIP", CANAL DE TENIS
+http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/509141
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://descargas.podzone.net/logos/-UFC-live.png" group-title=" ⭐️ Deporte VIP", DEPORTES DE LUCHA
+http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/508840
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://descargas.podzone.net/logos/-NFL.png" group-title=" ⭐️ Deporte VIP" ,RED DE LA NFL
+http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/509128
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://descargas.podzone.net/logos/-NBA.png" group-title=" ⭐️ Deporte VIP" ,NBA TV (EE.UU.)
+http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/509126
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://descargas.podzone.net/logos/-MLB.png" group-title=" ⭐️ Deporte VIP" ,MLB TV (EE.UU.)
+http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/509121
+
+#EXT INF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 FHD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZ5UTCOeWgHCSzTtzIG74Qrl-0duXJhd0Rg&usqp=CAU" group-title="⭐️ Tv Dazn Eventos",DAZN MOVISTAR 1
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/159067
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 FHD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6s1BLWLYnoUikuNzPhbykMsM3PUsvIQyFLQ&usqp=CAU" group-title="⭐️ Tv Dazn Eventos",DAZN MOVISTAR 2
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/151706
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 FHD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0Q5HnlJ3eFkY1KKrgon15sJooJ_0CThmqg&usqp=CAU" group-title="⭐️ Tv Dazn Eventos",DAZN MOVISTAR 3
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/151709
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 FHD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1r0GoAXkFdpOepIYHWjyZ3NZtL2tj0HZQMQ&usqp=CAU" group-title="⭐️ Tv Dazn Eventos",DAZN MOVISTAR 4
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/151711
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHZQBss3Wx6ilhokjaE_UuNhLotB8PsgV3Q&usqp=CAU" group-title= "⭐️Tv Dazn Eventos",DAZN MOVISTAR F1
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/202655
 #EXTINF:120, EVENTOS TyC PLAY 1
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
