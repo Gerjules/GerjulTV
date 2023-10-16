@@ -1642,22 +1642,27 @@ http://tv.nousiptv.com:8080/128922/fabiopadula/1144258
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhjJMguBkLO6-pWhKeajdpVw8nXCySM7_SZQ&usqp=CAU" group-title="✅ 24/7 VIP",caso cerrado 
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/138119.ts
 
-#EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine Premium",CINE| HBO 
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102374.ts
-#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="2MB | HBO 2" tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" grupo -title="⭐️ Cine Premium",CINE| HBO 2
-http://tv.nousiptv.com:8080/128922/fabiopadula/1155794
-#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="2MB | HBO + LQ" tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png" grupo -title="⭐️ Cine Premium",CINE| HBO +
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102376.ts
-#EXTINF:-1 tvg-id="HBOHDA" tvg-name="P | HBO Family" tvg-logo="http://descargas.podzone.net/logos/-HBO-family.png" group-title="⭐️ Cine Premium",CINE| HBO Family
-http://tv.nousiptv.com:8080/128922/fabiopadula/4017
-#EXTINF:-1 tvg-id="HBOXLAM" tvg-name="P | HBO Xtreme" tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png" group-title="⭐️ Cine Premium",CINE| HBO Xtreme
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102382.ts
-#EXTINF:-1 tvg-id="MUNLEH" tvg-name="P | HBO Mundi" tvg-logo="http://descargas.podzone.net/logos/-HBO-mundi.png" group-title="⭐️ Cine Premium",CINE| HBO Mundi
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102379.ts
-#EXTINF:-1 tvg-id="POPAM" tvg-name="P | HBO POP" tvg-logo="http://descargas.podzone.net/logos/-HBO-pop.png" group-title="⭐️ Cine Premium",CINE| HBO POP
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102380.ts
-#EXTINF:-1 tvg-id="HBOSIG" tvg-name="P | Firma HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO-signature.png" grupo-title="⭐️ Cine Premium",CINE| HBO signature
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102381.ts
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="P | Familia HBO" tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png" título-del grupo ="TV | Peliculas",P | Familia HBO
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10877
+#EXTINF:-1 grupo tvg-id="hbofamily.mx" tvg-name="P | HBO Family HD" tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png"- title="TV | Peliculas",P | Familia HBO HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10878
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="P | HBO+" tvg-logo="https://static.epg.best/mx/HBOPlus.mx.png" título-del grupo ="TV | Peliculas",P | HBO+
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10879
+#EXTINF:-1 grupo tvg-id="hboplus.mx" tvg-name="P | HBO + HD" tvg-logo="https://static.epg.best/mx/HBOPlus.mx.png"- title="TV | Peliculas",P | HBO+HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10880
+#EXTINF:-1 tvg-id="hbosignture.mx" tvg-name="P | Firma HBO" tvg-logo="https://static.epg.best/pa/HBOSignatureLatinAmerica.pa.png" título-del grupo ="TV | Peliculas",P | Firma HBO
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10881
+#EXTINF:-1 grupo tvg-id="hbosignture.mx" tvg-name="P | HBO Signature HD" tvg-logo="https://static.epg.best/pa/HBOSignatureLatinAmerica.pa.png"- title="TV | Peliculas",P | Firma HBO HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10882
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="P | HBO 2 HD" tvg-logo="http://ceoapps.org/logos/hbo2.png" group-title="TV | Películas",P | HBO 2HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10883
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="P | HBO 2" tvg-logo="http://ceoapps.org/logos/hbo2.png" group-title="TV | Películas",P | HBO 2
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10884
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="P | HBO HD" tvg-logo="http://ceoapps.org/logos/hbo.png" group-title="TV | Películas",P | HBOHD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10885
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="P | HBO" tvg-logo="http://ceoapps.org/logos/hbo.png" group-title="TV | Peliculas ",P | HBO
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10886
+
 #EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="2MB | Cinecanal"  tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png" group-title="⭐️ Cine Premium",CINE| Cinecanal
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102356.ts
 #EXTINF:-1 tvg-id="CINL" tvg-name="P | Cine Latino" tvg-logo="http://descargas.podzone.net/logos/-cine-latino.png" group-title="⭐️ Cine Premium",CINE| Cine Latino
