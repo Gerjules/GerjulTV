@@ -2344,63 +2344,7 @@ http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/33364
 #EXTINF:-1 tvg-id="" tvg-name="CINE - CINE ESTELAR" tvg-logo="http://descargas.podzone.net/logos/-cine-estelar.png" group-title=" ⭐️Cine Premium",CINE| CINE ESTELAR
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1156007
 
-#EXTINF:-1 tvg-id="APMXHD" tvg-name="C | Animal Planet" tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png" group-title="⭐️ Cultura",CUL| Animal Planet
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102114.ts
-#EXTINF:-1 tvg-id="DISANZ" tvg-name="C | Discovery Channel" tvg-logo="http://descargas.podzone.net/logos/-discovery-channel.png" group-title="⭐️ Cultura",CUL| Discovery Channel
-http://tv.nousiptv.com:8080/128922/fabiopadula/1155807
-#EXTINF:-1 tvg-id="DFAMHD" tvg-name="C | Discovery Familia" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/m1xje3v01pn55zyn25lfe/Discoveryfami.png?rlkey=mwtraqj9ymtbflwsql7inctxc&dl=0" group-title="⭐️ Cultura",CUL| Discovery Familia
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102117.ts
-#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation" tvg-logo="http://descargas.podzone.net/logos/-discovery-home-&-health.png" group-title="⭐️ Cultura",CUL| Discovery. H&H
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102118.ts
-#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation" tvg-logo="http://descargas.podzone.net/logos/-discovery-ID.png" group-title="⭐️ Cultura",CUL| Discovery Investigation
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318607
-#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="C | Discovery SCI" tvg-logo="http://descargas.podzone.net/logos/-discovery-science.png" group-title="⭐️ Cultura",CUL| Discovery SCI
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318608
-#EXTINF:-1 tvg-id="DTHLAHA" tvg-name="C | Discovery Theater" tvg-logo="http://descargas.podzone.net/logos/-discovery-theater.png" group-title="⭐️ Cultura",CUL| Discovery Theater
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102121.ts
-#EXTINF:-1 tvg-id="DTRBLAH" tvg-name="C | Discovery Turbo" tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="⭐️ Cultura",CUL| Discovery Turbo
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318611
-#EXTINF:-1 tvg-id="DWRLDHE" tvg-name="C | Discovery World" tvg-logo="http://descargas.podzone.net/logos/-discovery-world.png" group-title="⭐️ Cultura",CUL| Discovery World
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318612
-#EXTINF:-1 tvg-id="GOURMTA" tvg-name="C | El Gourmet" tvg-logo="http://descargas.podzone.net/logos/-el-gourmet.png" group-title="⭐️ Cultura",CUL| El Gourmet
-http://kiubo.biz:80/Nicolay@022/Nico@0223/102124.ts 
-#EXTINF:-1 tvg-id="HISTSW" tvg-name="C | History Channel" tvg-logo="http://descargas.podzone.net/logos/-history.png" group-title="⭐️ Cultura",CUL| History Channel
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/125925.ts
-#EXTINF:-1 tvg-id="history2.mx" tvg-name="C | History Channel 2" tvg-logo="http://descargas.podzone.net/logos/-H2-(history2).png" group-title="⭐️ Cultura",CUL| History Channel 2
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102126.ts
-#EXTINF:-1 tvg-id="HGTVLAS" tvg-name="C | HGTV" tvg-logo="http://descargas.podzone.net/logos/-HGTV.png" group-title="⭐️ Cultura",CUL| HGTV
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318631
-#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="C | Nat Geo" tvg-logo="http://descargas.podzone.net/logos/-NATGEO.png" group-title="⭐️ Cultura",CUL| Nat Geo
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318621
-#EXTINF:-1 tvg-id="TLCNANZ" tvg-name="C | TLC" tvg-logo="http://descargas.podzone.net/logos/-discovery-TLC.png" group-title="⭐️ Cultura",CUL| TLC
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318630
-#EXTINF:-1 tvg-id="NGMUNDO" tvg-name="C | Nat Geo Mundo" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ivw4nsgyq3zy1zatwrw40/natgeowild.png?rlkey=alayr8s0kxy5tty49fh7e7hxw&dl=0" group-title="⭐️ Cultura",CUL| Nat Geo wild
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102132.ts
-#EXTINF:-1 tvg-id="" tvg-name="C | Cocina TV" tvg-logo="http://descargas.podzone.net/logos/-cocina.png" group-title="⭐️ Cultura",CUL| Cocina TV
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/112526.ts
-#EXTINF:-1 tvg-id="5dd834c66fe2ca0009303b8d" tvg-name="C | Pluto TV Animales" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7m3tpkgg0qpdtj2cwo8vk/animal.png?rlkey=xxosncwuewsaqwjh91n84mj1n&dl=0" group-title="⭐️ Cultura",CUL| Pluto TV Animales
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/171962.ts
-#EXTINF:-1 tvg-id="5dd85eac039bba0009e86d1d" tvg-name="C | Pluto TV Naturaleza" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qxf66a7wbwmftnox68tiy/naturaleza.png?rlkey=2efix9xyqe734h59l1iyu3lmh&dl=0" group-title="⭐️ Cultura",CUL| Pluto TV Naturaleza
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/171960.ts
-#EXTINF:-1 tvg-id="5df265697ec3510009df1ef0" tvg-name="C | Pluto TV Vida Real" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7fved1zpffo0iq0gcnpy4/vidareal.png?rlkey=sf9hcril2dt0ajdxi20fzxui7&dl=0" group-title="⭐️ Cultura",CUL| Pluto TV Vida Real
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/171959.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Latino | AZ CORAZON" tvg-logo="http://descargas.podzone.net/logos/-AZ-corazon.png" group-title="⭐️ Telenovelas",NOV| AZ CORAZON
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/232499.ts
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Canal De Las Estrellas" tvg-logo="http://descargas.podzone.net/logos/-el-canal-de-las-estrellas.png" group-title="⭐️ Telenovelas",NOV| Canal De Las Estrellas
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/135431
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Glitz" tvg-logo="http://descargas.podzone.net/logos/-glitz.png" group-title="⭐️ Telenovelas",NOV| Glitz
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/135432
-#EXTINF:-1 tvg-id="" tvg-name="PASIONES HD" tvg-logo="http://descargas.podzone.net/logos/-pasiones.png" group-title="⭐️ Telenovelas",NOV| PASIONES 
-http://latintvec.com:43201/DEcheverry2022/NXdDjDwCkX/3253
-#EXTINF:-1 tvg-id="" tvg-name="TLNOVELAS" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gaa49c3r13f4s8b60qigr/1689817058186.png?rlkey=0k2khkzbkemwzseozd6bleimx&dl=0" group-title="⭐️ Telenovelas",NOV| TLNOVELAS
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/295154
-#EXTINF:-1 tvg-id="" tvg-name="TL NOVELAS UNIVISION" tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="⭐️ Telenovelas",NOV| TL OVELAS UNIVISION
-http://magmas5.com:8000/Oscar86/40473/126910
-#EXTINF:-1 tvg-id="" tvg-name="CO | RCN Novelas" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/irsa266j5haowlfsiubet/1689817086743.png?rlkey=j151hf0qxsr3a64dlz4nhurzi&dl=0" group-title="⭐️ Telenovelas" ,NOV| RCN Novelas  
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318386
-#EXTINF:-1 tvg-id="" tvg-name="NOVELAS FAMILIAR" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/930wnym65nsm3t3yon7ov/1689816966232.png?rlkey=f995i981ke95ud9o04y7i9zqi&dl=0" group-title="⭐️ Telenovelas",NOV| NOVELAS FAMILIAR 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/307249
 #EXTINF:60,Vivir con Perros
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
