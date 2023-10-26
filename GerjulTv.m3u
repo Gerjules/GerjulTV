@@ -191,11 +191,128 @@ https://59ce1298bfb98.streamlock.net/caaguazutv/caaguazutv/playlist
 
 #EXTINF:0, EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg" tvg-id="", Vorterix
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698117009/ei/MeE2ZYiRM7WYsfIPxba4-A4/ip/168.61.75.135/id/g7Kx0AKmfTg.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr3---sn-o097znsr.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f0qsCeUymf0zLJzinLt-tNo17H_TOXPvrOQMLdCNuleZhZPK/vprv/1/playlist_type/DVR/mh/PM/mm/44/mn/sn-o097znsr/ms/lva/mv/u/mvi/3/pl/23/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350017/mt/1698094930/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AGM4YrMwRAIgFyMLyRXiFgHVESRHml7BqNCciImDPKT2RUzwbteyUHwCICEepCVL08L-maOduxoAGGaKeMcnclGBJqYr4jxAzHyc/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRQIgfZdgX_VxdzuPuHiKj5fbXCsw9JuIIvDcuZ0gQkqQbKACIQCrzdqwdG7y1vt1RhKCAgsvagbZOYRLPjiIIpCzoJd6Cw%3D%3D/playlist/index.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg" tvg-id="", Vorterix
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698354693/ei/pYE6Zeu0LfSL2_gPuMukqAE/ip/52.171.137.251/id/g7Kx0AKmfTg.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/ yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr1---sn-q4flrnek.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/ UWF9f-7wpmEkOJ03hzOaUwLvLWTwUSVbq6rKL_-DKg/vprv/1/playlist_type/DVR/initcwndbps/1008750/mh/PM/mm/44/mn/sn-q4flrnek/ms/lva/mv/m/mvi/1/pl/16/dover/ 11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1698332697/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration, spc,vprv,playlist_type/sig/AGM4YrMwRAIga1fGesThbmb3B4Od6ulRYA5csyUS0Km96xpiML04i0ICIE4TRK2Sg_UI0v0OFRBWzvzsvZAR8qngdyw68OABmhSk/lsparams/hls_chunk_host,initcwndbps,mh,mm, mn,ms,mv,mvi,pl/lsig/AK1ks_kwRAIgTa_HhDS8i6t-WCgpr-Zmpm5Pu26Z2sZJ0CVERr9D8YMCICyHamhb9ezO_AxrqZ4Egs0S0Udm6G2TQGGYodg07dCn/playlist/index.m3u8
-
+#EXTINF:-1 tvg-name="*ARG_HD:ESPN+" tvg-logo="https://static.epg.best/mx/ESPNplus.mx.png" group-title="→ ARGENTINA ←",*ARG_HD :ESPN+
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/15262
+#EXTINF:-1 tvg-name="Argentina - 13 Max HD" tvg-logo="https://i.ytimg.com/vi/2MFLdAw56JM/hqdefault.jpg" group-title="→ ARGENTINA ←",Argentina - 13 máx. HD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/15812
+#EXTINF:-1 tvg-name="Argentina - A24 HD" tvg-logo="http://daleplay.biz:8080/images/3fb4b45bc5f06090450f341eca168a61.png" group-title="→ ARGENTINA ←",Argentina - A24 HD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/15813
+#EXTINF:-1 tvg-name="Argentina - América FHD" tvg-logo="http://daleplay.biz:8080/images/4fdff5332de9c642a9b50c6aa75935d6.png" group-title="→ ARGENTINA ←",Argentina - América FHD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/15814
+#EXTINF:-1 tvg-name="Argentina - América HD" tvg-logo="http://daleplay.biz:8080/images/4fdff5332de9c642a9b50c6aa75935d6.png" group-title="→ ARGENTINA ←",Argentina - América HD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/15815
+#EXTINF:-1 tvg-name="Argentina - Argentinisima SD" tvg-logo="http://daleplay.biz:8080/images/91d483e7381c1418034d3e1db8b74f9d.png" group-title="→ ARGENTINA ←",Argentina - Argentinisima SD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/15816
+#EXTINF:-1 tvg-name="Argentina - C5N SD" tvg-logo="http://daleplay.biz:8080/images/bfa0e2b6f1134e36360a1261eee7eb9c.png" group-title="→ ARGENTINA ←",Argentina - C5N SD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/15817
+#EXTINF:-1 tvg-name="Argentina - Canal 26 HD" tvg-logo="http://daleplay.biz:8080/images/98fbdf39bd78e3d90dc6d335e3956bc9.png" group-title="→ ARGENTINA ←",Argentina - Canal 26 HD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/15840
+#EXTINF:-1 tvg-name="Argentina - CineAR HD" tvg-logo="http://daleplay.biz:8080/images/32bf639f3625948d561d828128ff4081.png" group-title="→ ARGENTINA ←",Argentina - CineAR HD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/15856
+#EXTINF:-1 tvg-name="Argentina - Crónica TV SD" tvg-logo="http://daleplay.biz:8080/images/ffed5e1532773451305c8a07b180d1d5.png" group-title="→ ARGENTINA ←",Argentina - Crónica TVSD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/15857
+#EXTINF:-1 tvg-name="Argentina - El Nueve HD" tvg-logo="http://daleplay.biz:8080/images/f56e446755ef85cafd3d7f68c619b2d2.png" group-title="→ ARGENTINA ←",Argentina - El Nueve HD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/15881
+#EXTINF:-1 tvg-name="Argentina - El Trece HD" tvg-logo="http://daleplay.biz:8080/images/65759551abad6cb24ee8e410036cb72e.png" group-title="→ ARGENTINA ←",Argentina - El Trece HD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/15905
+#EXTINF:-1 tvg-name="Argentina - El Trece SD" tvg-logo="http://daleplay.biz:8080/images/65759551abad6cb24ee8e410036cb72e.png" group-title="→ ARGENTINA ←",Argentina - El Trece SD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/16158
+#EXTINF:-1 tvg-name="Argentina - TV Pública FHD" tvg-logo="http://daleplay.biz:8080/images/78c7c06a9abed64d546c2a3e65236269.png" group-title="→ ARGENTINA ←",Argentina - TV Publica FHD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/16159
+#EXTINF:-1 tvg-name="Argentina - TV Pública HD" tvg-logo="http://daleplay.biz:8080/images/78c7c06a9abed64d546c2a3e65236269.png" group-title="→ ARGENTINA ←",Argentina - TV Publico HD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/16160
+#EXTINF:-1 tvg-name="Argentina - Sede central de Fox Sports Premium." tvg-logo="https://i.ibb.co/Hh0F9D6/FOXSPORTSPREMIUM.jpg" group-title="→ ARGENTINA ←",Argentina - Sede de Fox Sports Premium.
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/16161
+#EXTINF:-1 tvg-name="AR | TN" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_ijGDo3iLYPot57Ah1zN_cGizSL0fJu5A31w=s900-ck-c0xffffffff-no-rj-mo" título-del-grupo ="→ ARGENTINA ←", AR | Tennesse
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/16240
+#EXTINF:-1 tvg-name="ARG: TN HD" tvg-logo="https://cl.images.search.yahoo.com/search/images;_ylt=AwrFQ6uzhphkNX0zo_xjfgx.;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p= canal+TN&fr2=piv-web&type=E210CL885G0&fr=mcafee#id=9&iurl=https%3A%2F%2Fwww.ipuntotv.com%2FIMAGES%2FTN%2520logo%2520nuevo.png&action=click" group-title="→ ARGENTINA ←", ARG: TNHD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/16397
+#EXTINF:-1 tvg-name="ARG: TN SD" tvg-logo="https://cl.images.search.yahoo.com/search/images;_ylt=AwrFQ6uzhphkNX0zo_xjfgx.;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p= canal+TN&fr2=piv-web&type=E210CL885G0&fr=mcafee#id=9&iurl=https%3A%2F%2Fwww.ipuntotv.com%2FIMAGES%2FTN%2520logo%2520nuevo.png&action=click" group-title="→ ARGENTINA ←", ARG: TN SD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/16477
+#EXTINF:-1 tvg-name="Argentina - Telefe SD" tvg-logo="http://daleplay.biz:8080/images/772cff44a570f0c7f2b0fdf0803d9842.png" group-title="→ ARGENTINA ←",Argentina - Telefe SD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/53225
+#EXTINF:-1 tvg-name="Argentina - Telefe HD" tvg-logo="http://daleplay.biz:8080/images/772cff44a570f0c7f2b0fdf0803d9842.png" group-title="→ ARGENTINA ←",Argentina - Telefe HD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/53226
+#EXTINF:-1 tvg-name="Argentina|| TELEFE HD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="→ ARGENTINA ←",Argentina|| TELEFE HD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61544
+#EXTINF:-1 tvg-name="Argentina|| Telefe FHD *" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="→ ARGENTINA ←",Argentina| | Telefé FHD *
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61545
+#EXTINF:-1 tvg-name="Argentina|| Telefe (Argentina)" tvg-logo="https://cdn.mitvstatic.com/channels/ee087e31-a99a-4bcd-a2ea-411028f12a48_m.jpg" título-del-grupo ="→ ARGENTINA ←",Argentina|| Telefé (Argentina)
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61546
+#EXTINF:-1 tvg-name="Argentina|| TELEFE :)" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="→ ARGENTINA ←",Argentina| | TELEFE :)
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61547
+#EXTINF:-1 tvg-name="TelefeHD" group-title="→ ARGENTINA ←",TelefeHD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61548
+#EXTINF:-1 tvg-name="ARG: Telefe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title= "→ ARGENTINA ←",ARG: Telefe HD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61549
+#EXTINF:-1 tvg-name="ARG: Telefe HD (E)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" grupo -title="→ ARGENTINA ←",ARG: Telefe HD (E)
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61550
+#EXTINF:-1 tvg-name="ARG | AMÉRICA TV" tvg-logo="http://svtv.xyz/nologo.png" group-title="→ ARGENTINA ←",ARG | AMÉRICA TV
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61551
+#EXTINF:-1 tvg-name="ARG: América TV HD (DTV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020% 29.png" group-title="→ ARGENTINA ←",ARG: América TV HD (DTV)
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61552
+#EXTINF:-1 tvg-name="ARG: América TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png " group-title="→ ARGENTINA ←",ARG: América TV FHD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61553
+#EXTINF:-1 tvg-name="ARG | 5RTV SANTA FE" tvg-logo="http://serviciosvisuales.ga:25461/images/7581131280791f83ed11284a39605542.jpg" group-title="→ ARGENTINA ←",ARG | 5RTV SANTA FE
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61554
+#EXTINF:-1 tvg-name="ARG | 5RTV SANTA FE" tvg-logo="http://serviciosvisuales.ga:25461/images/7581131280791f83ed11284a39605542.jpg" group-title="→ ARGENTINA ←",ARG | 5RTV SANTA FE
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61555
+#EXTINF:-1 tvg-name="ARG | 5TV CORRIENTES" tvg-logo="http://serviciosvisuales.ga:25461/images/eb496f80856c37029f763fb4ef472b4e.png" group-title="→ ARGENTINA ←",ARG | 5TV CORRIENTES
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61556
+#EXTINF:-1 tvg-name="ARG | 5TV (CORRIENTES) (480P)" tvg-logo="http://svtv.xyz:8000/images/eb496f80856c37029f763fb4ef472b4e.png" group-title="→ ARGENTINA ←" ,ARG | 5TV (CORRIENTE) (480P)
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61557
+#EXTINF:-1 tvg-name="ARG | CANAL 26 FHD" tvg-logo="http://svtv.xyz/nologo.png" group-title="→ ARGENTINA ←",ARG | CANAL 26 FHD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61558
+#EXTINF:-1 tvg-name="ARG | CANAL 26" tvg-logo="http://serviciosvisuales.ga:25461/images/eccbc87e4b5ce2fe28308fd9f2a7baf3.png" group-title="→ ARGENTINA ←",ARG | CANAL 26
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61559
+#EXTINF:-1 tvg-name="ARG | EL TRECE" tvg-logo="http://svtv.xyz/nologo.png" group-title="→ ARGENTINA ←",ARG | EL TRECE
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61560
+#EXTINF:-1 tvg-name="*ARG_SD:AMERICA TV" group-title="→ ARGENTINA ←",*ARG_SD:AMERICA TV
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61561
+#EXTINF:-1 tvg-name="ARG: Cronica TV SD" tvg-logo="https://pbs.twimg.com/profile_images/1477725477850783750/DVygjO5R_400x400.jpg" group-title="→ ARGENTINA ←",ARG : Crónica TV SD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61562
+#EXTINF:-1 tvg-name="ARG: Crónica TV HD" tvg-logo="https://pbs.twimg.com/profile_images/1477725477850783750/DVygjO5R_400x400.jpg" group-title="→ ARGENTINA ←",ARG : Crónica TV HD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61563
+#EXTINF:-1 tvg-name="ARG: TN HD" tvg-logo="https://www.adlatina.com/uploads/img/fotoNoticiaG41296.jpg" group-title="→ ARGENTINA ←",ARG: HD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61564
+#EXTINF:-1 tvg-name="ARG: TN FHD" tvg-logo="https://www.adlatina.com/uploads/img/fotoNoticiaG41296.jpg" group-title="→ ARGENTINA ←",ARG: TN FHD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61565
+#EXTINF:-1 tvg-name="ARG: Televisión Pública HD" tvg-logo="https://seeklogo.com/images/T/television-publica-argentina-logo-ED8C948CF8-seeklogo.com.png" grupo -title="→ ARGENTINA ←",ARG: Televisión Pública HD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61566
+#EXTINF:-1 tvg-name="ARG: Televisión Pública FHD" tvg-logo="https://seeklogo.com/images/T/television-publica-argentina-logo-ED8C948CF8-seeklogo.com.png" grupo -title="→ ARGENTINA ←",ARG: Televisión Pública FHD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61567
+#EXTINF:-1 tvg-name="ARG: El Nueve HD" tvg-logo="https://www.seekpng.com/png/full/345-3453836_ar-canal-9-el-nueve-el-nueve -logo.png" group-title="→ ARGENTINA ←",ARG: El Nueve HD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61568
+#EXTINF:-1 tvg-name="ARG: El Nueve FHD" tvg-logo="https://www.seekpng.com/png/full/345-3453836_ar-canal-9-el-nueve-el-nueve -logo.png" group-title="→ ARGENTINA ←",ARG: El Nueve FHD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61569
+#EXTINF:-1 tvg-name="ARG: A24 HD" tvg-logo="https://forounivers.com/uploads/monthly_2021_08/large_A24.png.abce3e334e38128090fcc84237346b40.png" group-title="→ ARGENTINA ←", ARGO: A24 HD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61570
+#EXTINF:-1 tvg-name="ARG: A24 HD (DTV)" tvg-logo="https://forounivers.com/uploads/monthly_2021_08/large_A24.png.abce3e334e38128090fcc84237346b40.png" group-title="→ ARGENTINA ←",ARG: A24 HD (DTV)
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61571
+#EXTINF:-1 tvg-name="ARG: Canal 4 Jujuy" tvg-logo="https://static-c4-1.s3.amazonaws.com/assets/img/logos/canalcuatro-logo-500x500.png " group-title="→ ARGENTINA ←",ARG: Canal 4 Jujuy
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61573
+#EXTINF:-1 tvg-name="ARG: Canal 4 Posadas" tvg-logo="http://fanc.tmsimg.com/assets/s75990_ll_h3_ac.png" group-title="→ ARGENTINA ←",ARG: Canal 4 Posadas
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61574
+#EXTINF:-1 tvg-name="ARG: RTN Neuquen" tvg-logo="https://www.rtnweb.gob.ar/wp-content/uploads/2017/04/LOGO-RTN-Web.png" group-title="→ ARGENTINA ←",ARG: RTN Neuquén
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61575
+#EXTINF:-1 tvg-name="ARG: Telemax" tvg-logo="http://fanc.tmsimg.com/assets/s77602_ll_h3_aa.png" group-title="→ ARGENTINA ←",ARG: Telemax
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61576
+#EXTINF:-1 tvg-name="ARG: Revista SD" tvg-logo="http://fanc.tmsimg.com/assets/s16878_ll_h3_ab.png" group-title="→ ARGENTINA ←",ARG: Revista SD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61577
+#EXTINF:-1 tvg-name="ARG: Revista HD" tvg-logo="http://fanc.tmsimg.com/assets/s16878_ll_h3_ab.png" group-title="→ ARGENTINA ←",ARG: Revista HD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61578
+#EXTINF:-1 tvg-name="ARG: Argentisima SD" tvg-logo="https://argentinisimatv.com.ar/wp-content/uploads/2017/09/logo.png" group-title="→ ARGENTINA ←",ARG: Argentísima SD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61579
+#EXTINF:-1 tvg-name="ARG: Argentisima HD" tvg-logo="https://argentinisimatv.com.ar/wp-content/uploads/2017/09/logo.png" group-title="→ ARGENTINA ←",ARG: Argentísima HD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61580
+#EXTINF:-1 tvg-name="ARG: Canal de la Ciudad SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png" group-title=" → ARGENTINA ←",ARG: Canal de la Ciudad SD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61581
+#EXTINF:-1 tvg-name="ARG: Canal de la Ciudad HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png" group-title=" → ARGENTINA ←",ARG: Canal de la Ciudad HD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61582
+#EXTINF:-1 tvg-name="ARG: Cronica TV SD" tvg-logo="https://pbs.twimg.com/profile_images/1477725477850783750/DVygjO5R_400x400.jpg" group-title="→ ARGENTINA ←",ARG : Crónica TV SD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61583
+#EXTINF:-1 tvg-name="ARG: Crónica TV HD" tvg-logo="https://pbs.twimg.com/profile_images/1477725477850783750/DVygjO5R_400x400.jpg" group-title="→ ARGENTINA ←",ARG : Crónica TV HD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/87p8p3m7jh/k3gerv9994/61584
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/cl.xml"
 #EXTINF:-1 channel-id="pluto-5e793a7cfbdf780007f7eb75" tvg-id="5e793a7cfbdf780007f7eb75" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png" tvg-chno="1" group-title="Pluto TV" , Guía de canales
 https://i.mjh.nz/PlutoTV/5e793a7cfbdf780007f7eb75-alt.m3u8
