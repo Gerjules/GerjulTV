@@ -1434,24 +1434,53 @@ http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1231
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUl5HsDRyMmq38G6So4j36aJY3fnRqsM3sJQ&usqp=CAU" group-title="⭐️ Infantiles",INF|los Simpsons
 http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1305
 
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema 00
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/b42clampdlbemhuw66z6h/terror.png?rlkey=50umnbvkc7x3mqz8yjadqxcmj&dl= 0" group-title="✅ Cine 24/7",cine terror
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/306264
+#EXTINF:-1 tvg-id="" tvg-name="Cine Estelar ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ua14wawtuzuw96dhfnktr/estelar.png?rlkey=ck7nl2l89chx3gtksetfgvaja&dl =0" group-title="✅ Cine 24/7",Cine Estelar ⁽ᴴᴰ⁾
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318598
+#EXTINF:-1 tvg-id="" tvg-name="Cine DC Comics ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wall34fkzo2kli9idik09/dc_comics.png?rlkey= 54sdogxmiraiabctshdf20t53&dl=0" group-title="✅ Cine 24/7",Cine DC Comics ⁽ᴴᴰ⁾
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318470
+#EXTINF:-1 tvg-id="" tvg-name="Cine Universo DC ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mec5qt4epswy9jd7kszys/DC_Universe.png?rlkey= p9z9evzgnvod73od1y2xipp7l&dl=0" group-title="✅ Cine 24/7",Cine Universo DC ⁽ᴴᴰ⁾
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318471
+#EXTINF:-1 tvg-id="" tvg-name="Cine Familia Disney ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xts7zy5ypr6et1hqu97k2/disneyfamily.png?rlkey= wshlcpyi3p6gg5kxecbcauu79&dl=0" group-title="✅ Cine 24/7",Cine Disney Family ⁽ᴴᴰ⁾
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318472
+#EXTINF:-1 tvg-id="" tvg-name="Cine Disney Pixar ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a7rekky8c537z7tzt83qx/pixar.png?rlkey= 57o13vmkh4z4wbh5kc79mzlv0&dl=0" group-title="✅ Cine 24/7",Cine Disney Pixar ⁽ᴴᴰ⁾
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318473
+#EXTINF:-1 tvg-id="" tvg-name="Cine Dreamworks ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/sife3adgeayl9wwtj1hzs/Dreamworks.png?rlkey=czbukahkshi4adz75bzuxrowo&dl =0" group-title="✅ Cine 24/7",Cine Dreamworks ⁽ᴴᴰ⁾
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318474
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Familia ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ikc2v9khxgwzigr7mnmym/cinemafani.png?rlkey=8ysunbzswfy82g718g8q0ad8i&dl =0" group-title="✅ Cine 24/7",Cine Familia ⁽ᴴᴰ⁾
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318475
+#EXTINF:-1 tvg-id="" tvg-name="Cine Happy Madison ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/nsp7467m4754reuuo5faw/madison.png?rlkey= 5uifc07ixi69c8aim9r9wg42j&dl=0" group-title="✅ Cine 24/7",Cine Happy Madison ⁽ᴴᴰ⁾
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318476
+#EXTINF:-1 tvg-id="" tvg-name="Clásicos del cine de terror ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/w6ufd4fa4iy3nm4yf0g6z/horrorclasic.png?rlkey= 311xctkzarma796ro0reh8g1k&dl=0" group-title="✅ Cine 24/7",Cine Terror Clásicos ⁽ᴴᴰ⁾
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318477
+#EXTINF:-1 tvg-id="" tvg-name="Cine Terror ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zylu3z75aqagtezazsmkb/horror.png?rlkey=96h63g3jcv57dj7alkxeanvph&dl =0" group-title="✅ Cine 24/7",Cine Terror ⁽ᴴᴰ⁾
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318478
+#EXTINF:-1 tvg-id="" tvg-name="Cine Películas de Lego ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/j7j64a990goiyg41mdft5/lego.png?rlkey= ir4gpj7gchg3cz2ipasa5s2rz&dl=0" group-title="✅ Cine 24/7",Cine Lego Movies ⁽ᴴᴰ⁾
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318479
+#EXTINF:-1 tvg-id="" tvg-name="Cine Marvel Animado ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7yjqta6ggf396zdqhxrxv/marvelanim.png?rlkey= itggj9mpyp0zb1lctd3iyhagz&dl=0" group-title="✅ Cine 24/7",Cine Marvel Animado ⁽ᴴᴰ⁾
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318480
+#EXTINF:-1 tvg-id="" tvg-name="Cine Marvel Studios ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8lyzyc5knxogr3249c6gv/marvelstud.png?rlkey= kc2o9d79zc2lba63mavm0574i&dl=0" group-title="✅ Cine 24/7",Cine Marvel Studios ⁽ᴴᴰ⁾
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318481
+#EXTINF:-1 tvg-id="" tvg-name="Acción en vivo de Disney ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ Cine 24/7", cine 00
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507619&extension=ts&play_token=T3HuVEXjrf
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema  01
+#EXTINF:-1 tvg-id="" tvg-name="Acción en vivo de Disney ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ Cine 24/7", cine 01
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507617&extension=ts&play_token=GRq1kuwvbY
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema 02
+#EXTINF:-1 tvg-id="" tvg-name="Acción en vivo de Disney ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ Cine 24/7", cine 02
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507616&extension=ts&play_token=vhphKQbwnV
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema 03
+#EXTINF:-1 tvg-id="" tvg-name="Acción en vivo de Disney ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ Cine 24/7", cine 03
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507615&extension=ts&play_token=MDBjCPbHPn
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema 04
+#EXTINF:-1 tvg-id="" tvg-name="Acción en vivo de Disney ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ Cine 24/7", cine 04
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507614&extension=ts&play_token=Xim3PTfIJP
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema 05
+#EXTINF:-1 tvg-id="" tvg-name="Acción en vivo de Disney ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ Cine 24/7", cine 05
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507609&extension=ts&play_token=Uwexr4qpwy
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema 06
+#EXTINF:-1 tvg-id="" tvg-name="Acción en vivo de Disney ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ Cine 24/7", cine 06
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507612&extension=ts&play_token=dvsszwS27o
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema 07
+#EXTINF:-1 tvg-id="" tvg-name="Acción en vivo de Disney ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ Cine 24/7", cine 07
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507611&extension=ts&play_token=Mja1pamiAk
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema 08
+#EXTINF:-1 tvg-id="" tvg-name="Acción en vivo de Disney ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ Cine 24/7", cine 08
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507610&extension=ts&play_token=E4jzoJufIQ
+
 #EXTINF:0, TASTEMADE español 
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8?
 #EXTINF:0, ESTRELLA Tv
