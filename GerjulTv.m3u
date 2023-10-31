@@ -2874,20 +2874,37 @@ http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/16724
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="⭐️ Deporte Colombia",COL | ESPN SPORT 1 
 http://kiubo.biz:80/Nicolay@022/Nico@0223/35260.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 (CHI)" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="⭐️ Chile Deporte",CH | FOX SPORTS 1 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120545
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 (CHI)" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title="⭐️ Chile Deporte",CH | FOX SPORTS 2 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120546
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 (CHI)" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" group-title="⭐️ Chile Deporte",CH | FOX SPORTS 3 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120547
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUN (CHI)" tvg-logo="http://descargas.podzone.net/logos/-Fox-Sports-premium.png" group-title="⭐️ Chile Deporte",CH | FOX SPORTS PREMIUM 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167737
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 (CHI)" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="⭐️ Chile Deporte",CH | ESPN SPORTS 1 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167963
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2  (CHI)" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="⭐️ Chile Deporte",CH | ESPN SPORTS 2 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167964
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (CHI)" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="⭐️ Chile Deporte",CH | ESPN SPORTS 3 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167965
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M9UGtvB.png" group-title="Deportes", TyC Sports HD
+http://200.24.204.242:6020/play/a0e9/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F1JWZmZ.png" group-title="Deportes", Gana Deportes+ HD
+http://190.109.23.4:8000/play/a0bd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/njdN8mE.jpg" group-title="Deportes", GOLPERU HD
+http://38.43.150.126:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YtbUUo5.jpg" group-title="Deportes", GolTV HD
+http://38.43.150.126:8000/play/a03f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KODesup.png" group-title="Deportes", Movistar Deportes HD
+http://38.43.150.126:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zvUSgsE.png" group-title="Deportes", Fox Sports 1 HD
+http://190.61.57.2:1010/play/a04i/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gymziiw.png" group-title="Deportes", Fox Sports 2 HD
+http://190.109.23.4:8000/play/a03j/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WxVUw9W.png" group-title="Deportes", Fox Sports 3 HD
+http://190.61.57.2:1010/play/a01o/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WxVUw9W.png" group-title="Deportes", Fox Sports 3 HD
+http://190.109.23.4:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3DPESEI.png" group-title="Deportes", ESPN HD
+http://190.61.57.2:1010/play/a02c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dwRwSmb.png" group-title="Deportes", ESPN 2 HD
+http://190.61.57.2:1010/play/a01d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/znLQ1rf.png" group-title="Deportes", ESPN 3 HD
+http://190.61.57.2:1010/play/a01n/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XB3vlK4.png" group-title="Deportes", ESPN 4 HD
+http://190.61.57.2:1010/play/a020/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NXNUGjV.png" group-title="Deportes", ESPN Extra HD
+http://190.61.57.2:1010/play/a031/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhP9L.jpg" group-title="Deportes", ,ElCanaldelFutbol HD
+http://200.24.206.132:8000/play/a0iq/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="⭐️ Chile Deporte",CH | TNT SPORTS 
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120424
 #EXTINF:-1 tvg-id="" tvg-name="ESPN SPORT 2" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="⭐️ Chile Deporte",CH | TNT SPORTS 2
