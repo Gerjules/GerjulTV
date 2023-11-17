@@ -3278,6 +3278,51 @@ https://i.mjh.nz/PlutoTV/6140a074a99e79000738162a-alt.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6140a074a99e79000738162a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="610dtv.ar" tvg-name="ARG | DIRECTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes"",Directv Sports
+http://sdmx.vip:8080/Joseluis/Joseluis123/203185
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",Directv Sports 2
+http://sdmx.vip:8080/Joseluis/Joseluis123/2123474
+#EXTINF:-1 tvg-id="613DTSPlus.ar",tvg-name="DIRECTV SPORTS +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",Directv Sports +
+http://sdmx.vip:8080/Joseluis/Joseluis123/203186
+
+#EXTINF:-1 tvg-name="Claro Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/30/20220125154916%21Claro_Sports_logo.svg/120px-Claro_Sports_logo.svg.png" group-title="Deportes",Claro Sports
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10924
+
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FOX Sports LatinoAmerica HD" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" tvg-chno="5" channel-id="5" group-title="Deportes",Fox Sports
+http://sdmx.vip:8080/u8334525209/65213/2092587
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FOX Sports 2" tvg-logo="https://static.epg.best/ar/FoxSports2.ar.png" tvg-chno="8" channel-id="8" group-title="Deportes"",Fox Sports 2
+http://sdmx.vip:8080/Joseluis/Joseluis123/10957
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="FOXS3HD" tvg-logo="https://static.epg.best/ar/FoxSports3.ar.png" tvg-chno="9" channel-id="9" group-title="Deportes",Fox Sports 3 
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10958
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="Fox Sports Premium HD" tvg-logo="http://ceoapps.org/logos/foxsportspremium.png" group-title="Deportes",Fox Sports Premium HD
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/10915
+
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="Deportes",ESPN
+http://sdmx.vip:8080/Joseluis/Joseluis123/202064
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN2" tvg-logo="https://static.epg.best/ar/ESPN2.ar.png" group-title="Deportes",ESPN 2
+http://sdmx.vip:8080/Joseluis/Joseluis123/181332
+#EXTINF:-1 tvg-id="ESPN3.ar"tvg-name="ESPN3" tvg-logo="https://static.epg.best/ar/ESPN3.ar.png" group-title="Deportes",ESPN 3
+http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/181352
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f066512b6451650645ed53b790f2db72.png" group-title="Deportes",ESPN Extra
+http://sdmx.vip:8080/Joseluis/Joseluis123/181378
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png" group-title="Deportes",ESPN Premium
+http://sdmx.vip:8080/Joseluis/Joseluis123/2121662
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNzRaEF7sInMKci-9xC-vXIBVl7h2h9v35ww&usqp=CAU" group-title="Deportes",TNT SPORTS
+http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/62694
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="Deportes",TyC Sports
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/199511
+#EXTINF:-1 tvg-id="629dtv.cl" tvg-name="TyC Sports Int" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-1246.png" group-title="Deportes",TyC Sports Internacional
+http://sdmx.vip:8080/CdkcVZ45/RaJKBg7Gvh/155679
+
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="https://seeklogo.com/images/T/tennis-channel-logo-912C418E99-seeklogo.com.png" group-title="Deportes",Tennis Channel
+http://dominoiptv.com:2082/hW0kf53M80Qv5/mih9Wxnk53CndCdj6/28408
+#EXTINF:-1 tvg-id="" tvg-name="Starz Play" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/f1/57/bc/f157bcf3-5872-4754-1382-bf1345fdddf9/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" group-title="Deportes",Starz Play Sports
+http://dominoiptv.com:2082/hW0kf53M80Qv5/mih9Wxnk53CndCdj6/229226
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--DXTV.png" group-title="Deportes", DEPORTV
+http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/210849
 #EXTINF:0,COL |  WIN SPORTS 
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155795
