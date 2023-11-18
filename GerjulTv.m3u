@@ -212,9 +212,11 @@ https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
 #EXTINF:29,Xtrema Series (360p)
 #EXTVLCOPT:network-caching=3000
 https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+
 #EXTINF:60,ViX Jajaja (1080p)
 #EXTVLCOPT:network-caching=3000
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
+
 #EXTINF:0, Pluto TV Cine Acción
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -297,21 +299,9 @@ https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8?
 #EXTINF:0, ESTRELLA Tv
 #EXTVLCOPT:network-caching=3000
 https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
-#EXTINF:0, UNIVISIÓN 
-#EXTVLCOPT:network-caching=3000
-http://190.61.102.67:8000/play/a05d
-#EXTINF:0, UNIVISIÓN 
-#EXTVLCOPT:network-caching=3000
-https://v3.playerlatino.live/stream/m3u8/99
-#EXTINF:0, TELEMUNDO AL DÍA
-#EXTVLCOPT:network-caching=3000
-https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-#EXTINF:0, TELEMUNDO 
-#EXTVLCOPT:network-caching=3000
-https://v3.playerlatino.live/stream/m3u8/92
-#EXTINF:0, Hola TV
-#EXTVLCOPT:network-caching=3000
-http://160.20.165.245:8000/play/a009/index.m3u8
+
+
+
 #EXTINF:0, Hola TV Play
 #EXTVLCOPT:network-caching=3000
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
@@ -324,12 +314,6 @@ https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:0, AZ CLIP
 #EXTVLCOPT:network-caching=3000
 https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
-#EXTINF:0, AZ CINEMA
-#EXTVLCOPT:network-caching=3000
-http://elmonkey.us:25461/Victor/Victor/22
-#EXTINF:0, STUDIO UNIVERSAL
-#EXTVLCOPT:network-caching=3000
-http://elmonkey.us:25461/Victor/Victor/116
 #EXTINF:0, CINE SONY
 #EXTVLCOPT:network-caching=3000
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
@@ -345,9 +329,7 @@ https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
 #EXTINF:0, Sony Novelas
 #EXTVLCOPT:network-caching=3000
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
-#EXTINF:0, SEO TV Novelas 
-#EXTVLCOPT:network-caching=3000
-https://live.seo.tv.bo/live/3SEO.m3u8
+
 #EXTINF:0, DW ALEMANIA EN ESPAÑOL 
 #EXTVLCOPT:network-caching=3000
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
@@ -360,60 +342,21 @@ https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
 #EXTINF:0, EuroNews
 #EXTVLCOPT:network-caching=3000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-#EXTINF:0,CNN ESPAÑOL
-#EXTVLCOPT:network-caching=3000
-http://190.61.37.173:9001/play/a02y/index.m3u8
-#EXTINF:0, AMÉRICA Te Ve
-#EXTVLCOPT:network-caching=3000
-https://uni01rtmp.tulix.tv/americateve1/americateve1/master.m3u8
-#EXTINF:0, HOLA TV 
-#EXTVLCOPT:network-caching=3000
-https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
-#EXTINF:0, HOLA TV II
-#EXTVLCOPT:network-caching=3000
-http://45.170.225.212:4000/play/a00w/index.m3u8
 #EXTINF:0,¡HOLA! PLAY
 #EXTVLCOPT:network-caching=3000
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8?ads.wurl_channel=790&ads.wurl_name=HolaPlay&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:0, GARAGE TV  
-#EXTVLCOPT:network-caching=3000
-http://186.0.233.76:1935/Garage/smil:garage.smil/index.m3u8?
-#EXTINF:0, GARAGE TV I 
-#EXTVLCOPT:network-caching=3000
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL269/PROFILE05.m3u8
-#EXTINF:0, TVE LA 2 
-#EXTVLCOPT:network-caching=3000
-https://rtvelivestream.akamaized.net/segments/la2/la2_main.m3u8?idasset=1688885
 #EXTINF:0, TV Málaga 
 #EXTVLCOPT:network-caching=3000
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
-#EXTINF:0, DEMANDA ÁFRICA (MÉXICO) 
-#EXTVLCOPT:network-caching=3000
-https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:0, EuroNews 
-#EXTVLCOPT:network-caching=3000
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0, TELESUR VENEZUELA  
 #EXTVLCOPT:network-caching=3000
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?
-#EXTINF:0, HISPAN TV  
-#EXTVLCOPT:network-caching=3000
-https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
-#EXTINF:0, FRANCE24 
-#EXTVLCOPT:network-caching=3000
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1673352382/ei/XgC9Y8GsGvqV2_gP8tehoAs/ip/172.71.167.42/id/XDJPzMznAjU.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgYzcytIqwwrSug7RKsphCzIzHiuRHeXcMvq0HLW6C_oACIQD-_WziC6M4u2_0kNN1aBndn28h-De6XeleFxvg4MKadw%3D%3D/file/index.m3u8
 #EXTINF:0, FRANCE 24 
 #EXTVLCOPT:network-caching=3000
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
-#EXTINF:0, AMÉRICA TV 
-#EXTVLCOPT:network-caching=3000
-https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/6b17a547-9f4e-48bf-b549-d39341604d39:DLS/master.m3u8
 #EXTINF:0, RCN más 
 #EXTVLCOPT:network-caching=3000
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:0, STINGRAY NATURESCAPE 
-#EXTVLCOPT:network-caching=3000
-https://samsung-mx.ott-channels.stingray.com/naturescape/master.m3u8
 #EXTINF:0,El País
 #EXTVLCOPT:network-caching=3000
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
@@ -435,48 +378,23 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=568&live=1&app_bundle=com.
 #EXTINF:0, MI TELE
 #EXTVLCOPT:network-caching=3000
 https://5e50264bd6766.streamlock.net/gks/videogks/chunklist_w42483601.m3u8
-#EXTINF:0,TELEMUNDO AL DÍA
-#EXTVLCOPT:network-caching=3000
-https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:0,TELEMUNDO NOVELAS
 #EXTVLCOPT:network-caching=3000
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=293d&deviceDNT=0&deviceModel=0&already_redirected=true
-#EXTINF:0,NOVELAS EN FAMILIA
-#EXTVLCOPT:network-caching=3000
-https://d31faiqgbicbr8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yobrysbthi0p4-prod/dist/samsungtv/195/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:0,NOVELAS DE ROMANCE
 #EXTVLCOPT:network-caching=3000
 https://d10xax7cor3zsm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0m7q1oxxje3uu-prod/dist/samsungtv/194/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:0,NOVELAS DE ORO
-#EXTVLCOPT:network-caching=3000
-https://d1jgsg6cns4jzy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ilvjz7r1nrgb-prod/dist/samsungtv/196/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:60,MY TIME ESPAÑA
 #EXTVLCOPT:network-caching=3000
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:0,MY TIME MEXICO
 #EXTVLCOPT:network-caching=3000
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:0, UNICABLE  
-#EXTVLCOPT:network-caching=3000
-http://45.228.234.77:3340/play/unicable/index.m3u8?
-#EXTINF:0, ¡HOLA! TV 
-#EXTVLCOPT:network-caching=3000
-https://live.atresmediainternacional.com:443/ATRESMEDIA/holatv-1080.m3u8
-#EXTINF:0, ¡HOLA! TV 
-#EXTVLCOPT:network-caching=3000
-http://elmonkey.us:25461/Victor/Victor/93
 #EXTINF:0,¡HOLA! PLAY
 #EXTVLCOPT:network-caching=3000
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8?ads.wurl_channel=790&ads.wurl_name=HolaPlay&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:0, TUDN 
-#EXTVLCOPT:network-caching=3000
-http://disfruta.net:80/live/kikeledesma/dFvFKDYx57/1219.m3u8?sd=10&dw=0&rebase=on
-#EXTINF:0, CLARO SPORTS
-#EXTVLCOPT:network-caching=3000
-https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/index_1.m3u8
-#EXTINF:0, PAKA PAKA 
-#EXTVLCOPT:network-caching=3000
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
+
+
 #EXTINF:0, CORAZÓN TURCO
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/61b3e21d56fee300087e4cba-alt.m3u8
@@ -495,12 +413,6 @@ https://5fa5de1a545ae.streamlock.net:443/8030/8030/chun%C3%B1llist_w591358697.m3
 #EXTINF:0, PRESUMIENDO MÉXICO  
 #EXTVLCOPT:network-caching=3000
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, DE PELICULA PLUS 
-#EXTVLCOPT:network-caching=3000
-https://ott.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=121&f=HLS&f=.m3u8
-#EXTINF:0, DE PELICULA 
-#EXTVLCOPT:network-caching=3000
-https://ott.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=335&f=HLS&f=.m3u8
 #EXTINF:0, CINEAR  22.4
 #EXTVLCOPT:network-caching=3000
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
@@ -513,15 +425,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609059dc63be6e0007b
 #EXTINF:0, TU CINE 
 #EXTVLCOPT:network-caching=3000
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
-#EXTINF:0, LA BUTACA TV
-#EXTVLCOPT:network-caching=3000
-https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0, CANELA TV 
 #EXTVLCOPT:network-caching=3000
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65
-#EXTINF:0, CANELA TV 
-#EXTVLCOPT:network-caching=3000
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
 #EXTINF:0, CINE REAL
 #EXTVLCOPT:network-caching=3000
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
