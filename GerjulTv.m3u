@@ -149,6 +149,20 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Argentina", A24 (720p)
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
+#EXTINF:-1 group-title="Bics Extra", TELEFE AR
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/264
+#EXTINF:-1 group-title="Bics Extra", CINCO TV AR
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Bics Extra", Todo Noticias AR
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 group-title="Bics Extra", Canal 26 Noticias AR
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", America AR
+#http://45.186.252.17:8000/play/a02i
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/178
+#EXTINF:-1 group-title="Bics Extra", CN5 AR
+http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/475
+
 
 #EXTINF:31,Xtrema Animal (360p)
 #EXTVLCOPT:network-caching=3000
