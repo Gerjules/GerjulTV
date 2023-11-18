@@ -142,6 +142,34 @@ https://59ce1298bfb98.streamlock.net/caaguazutv/caaguazutv/playlist
 #EXTINF:0, EL TRECE
 #EXTVLCOPT:network-caching=3000
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 3 Rosario | AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj3HG2OZskvQSH2M7dubPO4tZ8rjcCwD0EYA&usqp=CAU" group-title="⭐️ Argentina",AR | multivision 
+https://panel.dattalive.com:443/8250/8250/chunklist_w1936137914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | TELEFE HD" tvg-logo="https://yt3.ggpht.com/uaMgzd4i0iGHxpaBRJVYFYRpWBWBqDJdhysytSXMKvtEo1AsLWj1KIqaMWzMP8q-8MCHRq-_UQ=s900-c-k-c0x00ffffff-no-rj" group-title="⭐️ Argentina",AR | TELEFE 
+http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlKPKalm0TyTgFDALh5GbpUk/ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | TV PUBLICA SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU" group-title="⭐️ Argentina",AR | TV PUBLICA 
+http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlB8ILhoj5gUbDtQrHYs1sNE/ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 13 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="⭐️ Argentina",AR | CANAL 13 
+http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlIpIQooyxoG7iWznAeV4QQY/ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | EL NUEVE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="⭐️ Argentina",AR | EL NUEVE 
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318307 
+#ETINF:-1 tvg-id="" tvg-name="AR | VOLVER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA_lEoXrDbbfS766Lxhi4s2ajn97xDbuDwfA&usqp=CAU" group-title="⭐️ Argentina",AR | VOLVER
+http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlEn7_8oM-hsTJLvH_z-_-cE/ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | Telemax HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpm9gebQm0ncjH8Oe9S3sX69ShIc7W4Ky7cA&usqp=CAU" group-title="⭐️ Argentina",AR | Telemax 
+http://live-edge01.telecentro.net.ar:80/live/tlxhd-720/chunklist_w1862088670.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | AMERICA TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="⭐️ Argentina",AR | AMERICA TV 
+http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlAraSI6iYatGOYpgq5auGVs/ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | CRONICA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIuIbBfjVVZeSiAZKB2o9DqPOPesbv6Zlf_g&usqp=CAU" group-title="⭐️ Argentina",AR | CRONICA 
+http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlGYqkkU0yTNHtR0o5Nlz5xs/ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | AMERICA TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOQmOKuY-7xytQN09RLDVVIaPLleDzbmn7pg&usqp=CAU" group-title="⭐️ Argentina",AR | C5N
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318301
+#EXTINF:-1 tvg-id="" tvg-name="AR | AMERICA TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdKado4aJoGKDH77GQh8aOOG2gYGXo7v0GDQ&usqp=CAU" group-title="⭐️ Argentina",AR | CANAL 26
+http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlGmK6eOZZVBwQCQwAQeeV1E/ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | AMERICA TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yHbHwlar9E-SKngeJqlGWOq4_x3OhewTDg&usqp=CAU" group-title="⭐️ Argentina",AR | CANAL 4 POSADA
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/203910.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | AMERICA TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUP4mq8iX9PCNUlmI6t4oCDj7OL_eIhHXyBw&usqp=CAU" group-title="⭐️ Argentina",AR | A24
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318295
+
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg" tvg-id="", Vorterix
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1700255525/ei/xYJXZZuzH4Ke_9EPpqqTsAY/ip/20.97.191.245/id/ol4d2pRSYnk.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-p5qs7n6d.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9fzmprDbzbcJ79CDevCFj2lhqr7xmBT_mRA1iGA/vprv/1/playlist_type/DVR/mh/Pj/mm/44/mn/sn-p5qs7n6d/ms/lva/mv/u/mvi/1/pl/17/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1700232822/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRAIgC45QAD_rKEeMm-QxpMlxgmkivc2AnqaP9jkGfBbwdWwCIDHpRwYapvW1qDBuc9dtT3Tmhl_PowXkt9ubWfjLRf5U/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIhAMuMy2eiwe0e2_xomHtTbQCcDo7xMb8nP3KokwanDC3SAiBOzMAxLYcCxRmbPvtvFuHbBVbQt7rZheXN4T-8kN7IHg%3D%3D/playlist/index.m3u8
 
