@@ -139,9 +139,16 @@ https://video.radiosenpy.net:8081/magiatv/index.m3u8
 https://video.radiosenpy.net:19360/canal8vision/canal8vision.m3u8
 #EXTINF:0, CAAGUAZÚ TV
 https://59ce1298bfb98.streamlock.net/caaguazutv/caaguazutv/playlist
+
 #EXTINF:0, EL TRECE
 #EXTVLCOPT:network-caching=3000
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Argentina", 13Max Televisión (1080p)
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Argentina", A24 (720p)
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+
 
 #EXTINF:31,Xtrema Animal (360p)
 #EXTVLCOPT:network-caching=3000
