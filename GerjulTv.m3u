@@ -118,8 +118,9 @@ http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/264
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Bics Extra", Todo Noticias AR
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 group-title="Bics Extra", Canal 26 Noticias AR
-http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022 %29.svg.png" tvg-id="", Canal 26
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1700418029/ei/jf1ZZbOhI_y_sfIPjuK1oAw/ip/13.88.99.131/id/TFUxzueYtyc.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/ yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-o097znsd.googlevideo.com/playlist_duration/30/manifest_duration/ 30/spc/UWF9fz6NsG_xgKqjMZPR-RRHG3ZWdkwPqQZ4nbGX3g/vprv/1/playlist_type/DVR/mh/cl/mm/44/mn/sn-o097znsd/ms/lva/mv/u/mvi/1/pl/23/dover/11/ ritmo/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1700395698/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,playlist_duration,manifest_duration, spc,vprv,playlist_type/sig/ANLwegAwRQIgdgpxlNH-5feIbBo2vY5jT1KukYV_vjb5nD93EIaFRAcCIQCuZmeF-PU2f-lGYMfBg_USHuUGcTRkO0d0Zr-Ud8bITA%3D%3D/lsparams/hls_chunk_host,mh, mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIgJQW2KQowHLWeVRjZD3TVIrbWmKQnfMspd7VRbusJ8hYCIQCtgpH5pAinQEoi14TQ5Z8oqPv3cFW4cHfNtxcsFuln9A%3D%3D/playlist/ índice.m3u8
 #EXTINF:-1 group-title="Bics Extra", America AR
 #http://45.186.252.17:8000/play/a02i
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/178
