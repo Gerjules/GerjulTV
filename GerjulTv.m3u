@@ -1013,6 +1013,463 @@ https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 #EXTVLCOPT:network-caching=3000
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
+#EXTINF:60,Vivir con Perros
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://d2hv77yguxdxtu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9vniibmo9geug-ssai-prd/fast-channel-vivir-con-perros.m3u8?stoken=samsung.09tPk73209&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0,Vivir con Gatos
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://d2ocvc6amhp1qj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f8mwmw8baqnwt-ssai-prd/fast-channel-vivir-con-gatos.m3u8?stoken=samsung.M5xia65252&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:25, Nature Time
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/60dd6b1da79e4d0007309455-alt.m3u8
+#EXTINF:25, LOVE NATURE (España)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:25, PLUTO TV NATURALEZA
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff16000-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d26f2f3a-e8be-493e-9e88-d9c8f6a4b80c&userId=&serverSideAds=true
+#EXTINF:25, PLUTO TV NATURALEZA 2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c804190-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c17b587b-1c4b-4113-806a-81298e54678e&userId=&serverSideAds=true
+#EXTINF:25, Mundo viajero
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/60511efd71ec430007f50d97-alt.m3u8
+#EXTINF:0, MUNDO VIAJERO
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://stitcher.pluto.tv/stitch/hls/channel/60511efd71ec430007f50d97/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8ef6973d-ade6-11eb-930b-0242ac110002
+#EXTINF:25, Pluto TV Viajes
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/60c343ad476ec00007c2ec1a-alt.m3u8
+#EXTINF:25, FailArmy
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5f1abf5fafb5ee0007d4d0ca-alt.m3u8
+#EXTINF:25, Just for Laughs
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/60a286daf888610007669801-alt.m3u8
+#EXTINF:25, * Humor
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5e8397936791b30007ebb5a7-alt.m3u8
+#EXTINF:25, PLUTO TV HUMOR
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc45-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6125129c-5aac-4b90-ba29-7333c93545b2&userId=&serverSideAds=true
+#EXTINF:25, * Cine Comedia
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5dcdde78f080d900098550e4-alt.m3u8
+#EXTINF:0,Xtrema Cine Comedy (344p)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+#EXTINF:25, CINE COMEDIA
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfefd960-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=91842cfa-96ff-4c3a-b034-234b53b31245&userId=&serverSideAds=true
+#EXTINF:0, CINE COMEDIA (España)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb0-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9679f680-433b-41b5-b65b-d3f9c407f275&userId=&serverSideAds=true
+#EXTINF:0, RAKUTEN TV COMEDIA
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel%3D428%26ads.wurl_name%3DRakutenComedyMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:0, Comedy Central *
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5ffcc21a432945000762d06b-alt.m3u8
+#EXTINF:25, COMEDY CENTRAL
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c15-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd904709-6614-46f7-80bd-de128553e6f3&userId=&serverSideAds=true
+#EXTINF:25, COMEDY CENTRAL LATINO
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e1eb1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=21b9ab81-ee95-4efe-8594-158f8ea6d0c7&userId=&serverSideAds=true
+#EXTINF:25, COMEDIA MADE IN SPAIN
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b449c681-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=01d86952-90df-4d0a-b9ae-c63701be5b5c&userId=&serverSideAds=true
+#EXTINF:60, Runtime Comedia
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://run-rc-la.otteravision.com/run/rc_la/rc_la_720.m3u8
+#EXTINF:0, RAKUTEN COMEDIA    
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel%3D428%26ads.wurl_name%3DRakutenComedyMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:0, Sony Canal Comedias
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/60492bb931054f00073c0b4e-alt.m3u8
+#EXTINF:25, SERIES COMEDIA
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9853138d19af0007104a8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b4d24-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7b6b94ee-3d86-4a59-b406-f3548f232fe2&userId=&serverSideAds=true
+#EXTINF:25, Pluto TV Series Comedia
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5f9853138d19af0007104a8d-alt.m3u8
+#EXTINF:0, * Series Comedia
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5f9853138d19af0007104a8d-alt.m3u8
+#EXTINF:25, World Poker Tour
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/6080381ab7c9ea00074ec64c-alt.m3u8
+#EXTINF:0, PokerGo
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5fc54366b04b2300072e31af-alt.m3u8
+#EXTINF:25, Smithsonian Channel *
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/63a084934734f30007457b2c-alt.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18713-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3efb2623-4d66-4ffa-b1f5-4b9d5f63d16c&userId=&serverSideAds=true
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/61cd7b49543066000713b620-alt.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
+#EXTINF:25, * Historia
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/61cd7b49543066000713b620-alt.m3u8
+#EXTINF:25, Mundo geek
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/6051201a0aa8a70007c24a2a-alt.m3u8
+#EXTINF:55,Saber Mas
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=6bSLyFJzzvyW_ngsjtWh&channelId=6018913ea15130002b284195
+#EXTINF:60, SABER MÁS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
+#EXTINF:39, HOLA TV
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/61cd78920b90cb0007e28231-alt.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff16001-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4420bd28-3750-4503-ab32-d76a0c1ec97d&userId=&serverSideAds=true
+#EXTINF:0, Ciudadanos por el mundo
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/622f42b831233300078658cc-alt.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5ddc266f80e3550009136843-alt.m3u8
+#EXTINF:25, * Investiga
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/602ba1cfb386d30007aecbbe-alt.m3u8
+#EXTINF:25, People are Awesome
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5f1ac1780e94100007f94b3f-alt.m3u8
+#EXTINF:25, El Encantador de Perros
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/61099f2b40d0640007fc5aa2-alt.m3u8
+#EXTINF:25, Investiga
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5cf96b8f4f1ca3f0629f4bf1-alt.m3u8
+#EXTINF:25, * Investiga
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5dcde27ffae9520009c0c75a-alt.m3u8
+#EXTINF:22, Sony Canal Escape Perfecto
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/605e479d5b8229000763e697-alt.m3u8
+#EXTINF:23, Minuto Para Ganar
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5e46e64dc73db400094b5f0b-alt.m3u8
+#EXTINF:0, Wipe Out
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5ed6828192e8b3000743ef61-alt.m3u8
+#EXTINF:25, Mi Extraña Obsesión
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/60e4573c9f963e00077ecf25-alt.m3u8
+#EXTINF:25, Mi obsesión favorita
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5d93b4d71754e6a4298d086e-alt.m3u8
+#EXTINF:25, Empeños a lo bestia
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/60218baa464ef900073168c1-alt.m3u8
+#EXTINF:25, PLUTO TV MISTERIOS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=143bd56d-49f4-4f1d-af28-384df378b15d&userId=&serverSideAds=true
+#EXTINF:25, Misterios Medicos
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5f230e416b68ff00075b0139-alt.m3u8
+#EXTINF:25, MISTERIOS MÉDICOS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27173-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25a22310-9312-4b9f-b9e9-92dac7411fe9&userId=&serverSideAds=true
+#EXTINF:25, MISTERIOS SIN RESOLVER 2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d882d5233170007ee880e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a1155120-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=88135a72-e32e-4ffd-b14e-f345a944ab79&userId=&serverSideAds=true
+#EXTINF:25, Archivos Forenses
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5f984f4a09e92d0007d74647-alt.m3u8
+#EXTINF:25, Mundo paranormal
+#EXTVLCOPT:network-caching=2000
+https://i.mjh.nz/PlutoTV/60492a9bbca75b0007b1bfd5-alt.m3u8
+#EXTINF:25, Cazador de Homicidas
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/60ed5fb9c4716d0007d180c5-alt.m3u8
+#EXTINF:25, Crímenes imperfectos
+#EXTVLCOPT:network-caching=2000
+https://i.mjh.nz/PlutoTV/5e94cd036cc69d0007e8a1ba-alt.m3u8
+#EXTINF:25, Los archivos del FBI
+#EXTVLCOPT:network-caching=2000
+https://i.mjh.nz/PlutoTV/5e67d41b93312100076f3fca-alt.m3u8
+#EXTINF:25, Historias de Ultratumba
+#EXTVLCOPT:network-caching=2000
+https://i.mjh.nz/PlutoTV/5f4d3696d938c900072679fd-alt.m3u8
+#EXTINF:25, MacGyver
+#EXTVLCOPT:network-caching=2000
+https://i.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
+#EXTINF:25, El Conquistador del Fin
+#EXTVLCOPT:network-caching=2000
+https://i.mjh.nz/PlutoTV/5f280149cec6be00072ab1fc-alt.m3u8
+#EXTINF:25, Top Gear
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/60d356a534f63f000850cdd7-alt.m3u8
+#EXTINF:25, Top Gear en español
+#EXTVLCOPT:network-caching=2000
+https://i.mjh.nz/PlutoTV/61325566b3c86a00078e4819-alt.m3u8
+#EXTINF:25, Clubbing TV
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/PlutoTV/600ad4ad6537680007be2ea6-alt.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=2000
+https://i.mjh.nz/PlutoTV/60d3574e97f10800078455de-alt.m3u8
+#EXTINF:25, The Walking Dead
+https://i.mjh.nz/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8
+#EXTINF:0, CSI: Miami en español
+#EXTVLCOPT:network-caching=2000
+https://i.mjh.nz/PlutoTV/632b5950b515b000079e6b81-alt.m3u8
+#EXTINF:0, CSI: NY en español
+#EXTVLCOPT:network-caching=2000
+https://i.mjh.nz/PlutoTV/632b606e12a67b0007c9e371-alt.m3u8
+#EXTINF:0, CSI: Miami
+#EXTVLCOPT:network-caching=2000
+https://i.mjh.nz/PlutoTV/63eb9255c111bc0008fe6ec4-alt.m3u8
+#EXTINF:25, CSI EN ESPAÑOL
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a11f8a50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=38041b3f-c9d2-4524-8784-12dc0b2a0c11&userId=&serverSideAds=true
+#EXTINF:25, NCIS
+#EXTVLCOPT:network-caching=2000
+https://i.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
+#EXTINF:25, Fashion TV
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/PlutoTV/60c882460ea4a200076a2a37-alt.m3u8
+#EXTINF:25, La Media Inglesa
+#EXTVLCOPT:network-caching=2000
+https://i.mjh.nz/PlutoTV/6335a79d10efe80007297a94-alt.m3u8
+#EXTINF:25, Érase una vez...
+#EXTVLCOPT:network-caching=2000
+https://i.mjh.nz/PlutoTV/63c69c87808b740007599fe1-alt.m3u8
+#EXTINF:25, Paisajes por Stingray
+#EXTVLCOPT:network-caching=2000
+https://i.mjh.nz/PlutoTV/5f4fed840a2764000720d966-alt.m3u8
+#EXTINF:25, Nosey Escándalos
+#EXTVLCOPT:network-caching=2000
+https://i.mjh.nz/PlutoTV/5f9afb01816137000737f799-alt.m3u8
+#EXTINF:25, Sin Tetas No Hay Paraíso
+#EXTVLCOPT:network-caching=2000
+https://i.mjh.nz/PlutoTV/604bdf4e6d0abc0007ba77ad-alt.m3u8
+#EXTINF:0, THE WALKING DEAD
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a109b860-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=89e7768a-d856-44a6-ba93-5bff4d40757c&userId=&serverSideAds=true
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8f99b228-251b-4230-bbe0-7bc14292a7e0&userId=&serverSideAds=true
+#EXTINF:25, Pluto TV Reality
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/PlutoTV/61b87bc867b03a0007864e0d-alt.m3u8
+#EXTINF:25, * Reality
+#EXTVLCOPT:network-caching=2000
+https://i.mjh.nz/PlutoTV/61b87bc867b03a0007864e0d-alt.m3u8
+
+#EXTINF:25, Hells Kitchen
+#EXTVLCOPT:network-caching=2000
+https://i.mjh.nz/PlutoTV/6095ad97351eb0000754c1e6-alt.m3u8
+#EXTINF:25, Iron Chef
+#EXTVLCOPT:network-caching=2000
+https://i.mjh.nz/PlutoTV/615b9855c6b58b000724477f-alt.m3u8
+#EXTINF:25, MasterChef
+#EXTVLCOPT:network-caching=2000
+https://i.mjh.nz/PlutoTV/5e3ddbd27091820009f86dd9-alt.m3u8
+#EXTINF:25, Tastemade
+#EXTVLCOPT:network-caching=2000
+https://i.mjh.nz/PlutoTV/5f998c1fc54853000797bacd-alt.m3u8
+#EXTINF:0, HELL'S KITCHEN EN ESPAÑOL
+#EXTVLCOPT:network-caching=1000
+https://stitcher.pluto.tv/stitch/hls/channel/60492b2794116800073e32dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8ef6973d-ade6-11eb-930b-0242ac110002
+#EXTINF:0, MASTER CHEF
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d532-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3935b7bb-6c42-4a74-a1c0-19d91d4ea3b7&userId=&serverSideAds=true
+#EXTINF:23, TASTEMADE
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f998c1fc54853000797bacd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b54be6f9-df4b-4c83-b6ff-d2c9a847569e&userId=&serverSideAds=true
+
+#EXTINF:25, * Cocina
+#EXTVLCOPT:network-caching=2000
+https://i.mjh.nz/PlutoTV/5dcde0657444a40009cd2422-alt.m3u8
+#EXTINF:25, * Recetas
+#EXTVLCOPT:network-caching=2000
+https://i.mjh.nz/PlutoTV/609062295c2b8f0007199e7a-alt.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/PlutoTV/5f1acdaa8ba90f0007d5e760-alt.m3u8
+#EXTINF:0, PLUTO TV COCINA
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02780-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8850b362-804f-4cf0-a920-4f711796663f&userId=&serverSideAds=true
+#EXTINF:0, PLUTO TV COCINA 2
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c801a80-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0e0dc4ab-902e-4ad1-a9d5-748727626eaa&userId=&serverSideAds=true
+#EXTINF:0, PLUTO TV COCINA (España)
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4c6543-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1fc7e1c7-88d8-4d19-915b-02a6745f031d&userId=&serverSideAds=true
+#EXTINF:25, PLUTO TV RECETAS
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609062295c2b8f0007199e7a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bb42e440-dea7-11eb-be60-3b6a118ac8ac&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ef972a2c-8672-41cf-b2e4-003e44fbe25a&userId=&serverSideAds=true
+#EXTINF:0, Pluto TV Fitness
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/PlutoTV/6140a074a99e79000738162a-alt.m3u8
+
 #EXTINF:30, LOGOS TV KIDS
 #EXTVLCOPT:network-caching=1000
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
@@ -1520,462 +1977,7 @@ https://i.mjh.nz/PlutoTV/609062295c2b8f0007199e7a-alt.m3u8
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5f998c1fc54853000797bacd-alt.m3u8
 
-#EXTINF:60,Vivir con Perros
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://d2hv77yguxdxtu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9vniibmo9geug-ssai-prd/fast-channel-vivir-con-perros.m3u8?stoken=samsung.09tPk73209&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:0,Vivir con Gatos
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://d2ocvc6amhp1qj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f8mwmw8baqnwt-ssai-prd/fast-channel-vivir-con-gatos.m3u8?stoken=samsung.M5xia65252&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:25, Nature Time
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/60dd6b1da79e4d0007309455-alt.m3u8
-#EXTINF:25, LOVE NATURE (España)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:25, PLUTO TV NATURALEZA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff16000-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d26f2f3a-e8be-493e-9e88-d9c8f6a4b80c&userId=&serverSideAds=true
-#EXTINF:25, PLUTO TV NATURALEZA 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c804190-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c17b587b-1c4b-4113-806a-81298e54678e&userId=&serverSideAds=true
-#EXTINF:25, Mundo viajero
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/60511efd71ec430007f50d97-alt.m3u8
-#EXTINF:0, MUNDO VIAJERO
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://stitcher.pluto.tv/stitch/hls/channel/60511efd71ec430007f50d97/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8ef6973d-ade6-11eb-930b-0242ac110002
-#EXTINF:25, Pluto TV Viajes
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/60c343ad476ec00007c2ec1a-alt.m3u8
-#EXTINF:25, FailArmy
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f1abf5fafb5ee0007d4d0ca-alt.m3u8
-#EXTINF:25, Just for Laughs
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/60a286daf888610007669801-alt.m3u8
-#EXTINF:25, * Humor
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5e8397936791b30007ebb5a7-alt.m3u8
-#EXTINF:25, PLUTO TV HUMOR
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc45-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6125129c-5aac-4b90-ba29-7333c93545b2&userId=&serverSideAds=true
-#EXTINF:25, * Cine Comedia
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5dcdde78f080d900098550e4-alt.m3u8
-#EXTINF:0,Xtrema Cine Comedy (344p)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
-#EXTINF:25, CINE COMEDIA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfefd960-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=91842cfa-96ff-4c3a-b034-234b53b31245&userId=&serverSideAds=true
-#EXTINF:0, CINE COMEDIA (España)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb0-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9679f680-433b-41b5-b65b-d3f9c407f275&userId=&serverSideAds=true
-#EXTINF:0, RAKUTEN TV COMEDIA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel%3D428%26ads.wurl_name%3DRakutenComedyMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
-#EXTINF:0, Comedy Central *
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5ffcc21a432945000762d06b-alt.m3u8
-#EXTINF:25, COMEDY CENTRAL
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c15-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd904709-6614-46f7-80bd-de128553e6f3&userId=&serverSideAds=true
-#EXTINF:25, COMEDY CENTRAL LATINO
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e1eb1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=21b9ab81-ee95-4efe-8594-158f8ea6d0c7&userId=&serverSideAds=true
-#EXTINF:25, COMEDIA MADE IN SPAIN
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b449c681-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=01d86952-90df-4d0a-b9ae-c63701be5b5c&userId=&serverSideAds=true
-#EXTINF:60, Runtime Comedia
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://run-rc-la.otteravision.com/run/rc_la/rc_la_720.m3u8
-#EXTINF:0, RAKUTEN COMEDIA    
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel%3D428%26ads.wurl_name%3DRakutenComedyMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
-#EXTINF:0, Sony Canal Comedias
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/60492bb931054f00073c0b4e-alt.m3u8
-#EXTINF:25, SERIES COMEDIA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9853138d19af0007104a8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b4d24-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7b6b94ee-3d86-4a59-b406-f3548f232fe2&userId=&serverSideAds=true
-#EXTINF:25, Pluto TV Series Comedia
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f9853138d19af0007104a8d-alt.m3u8
-#EXTINF:0, * Series Comedia
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f9853138d19af0007104a8d-alt.m3u8
-#EXTINF:25, World Poker Tour
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/6080381ab7c9ea00074ec64c-alt.m3u8
-#EXTINF:0, PokerGo
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5fc54366b04b2300072e31af-alt.m3u8
-#EXTINF:25, Smithsonian Channel *
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/63a084934734f30007457b2c-alt.m3u8
-#EXTINF:25,Service
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18713-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3efb2623-4d66-4ffa-b1f5-4b9d5f63d16c&userId=&serverSideAds=true
-#EXTINF:25,Service
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/61cd7b49543066000713b620-alt.m3u8
-#EXTINF:25,Service
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
-#EXTINF:25, * Historia
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/61cd7b49543066000713b620-alt.m3u8
-#EXTINF:25, Mundo geek
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/6051201a0aa8a70007c24a2a-alt.m3u8
-#EXTINF:55,Saber Mas
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=6bSLyFJzzvyW_ngsjtWh&channelId=6018913ea15130002b284195
-#EXTINF:60, SABER MÁS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
-#EXTINF:39, HOLA TV
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
-#EXTINF:25,Service
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/61cd78920b90cb0007e28231-alt.m3u8
-#EXTINF:25,Service
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff16001-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4420bd28-3750-4503-ab32-d76a0c1ec97d&userId=&serverSideAds=true
-#EXTINF:0, Ciudadanos por el mundo
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/622f42b831233300078658cc-alt.m3u8
-#EXTINF:25,Service
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5ddc266f80e3550009136843-alt.m3u8
-#EXTINF:25, * Investiga
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/602ba1cfb386d30007aecbbe-alt.m3u8
-#EXTINF:25, People are Awesome
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f1ac1780e94100007f94b3f-alt.m3u8
-#EXTINF:25, El Encantador de Perros
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/61099f2b40d0640007fc5aa2-alt.m3u8
-#EXTINF:25, Investiga
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5cf96b8f4f1ca3f0629f4bf1-alt.m3u8
-#EXTINF:25, * Investiga
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5dcde27ffae9520009c0c75a-alt.m3u8
-#EXTINF:22, Sony Canal Escape Perfecto
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/605e479d5b8229000763e697-alt.m3u8
-#EXTINF:23, Minuto Para Ganar
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5e46e64dc73db400094b5f0b-alt.m3u8
-#EXTINF:0, Wipe Out
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5ed6828192e8b3000743ef61-alt.m3u8
-#EXTINF:25, Mi Extraña Obsesión
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/60e4573c9f963e00077ecf25-alt.m3u8
-#EXTINF:25, Mi obsesión favorita
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5d93b4d71754e6a4298d086e-alt.m3u8
-#EXTINF:25, Empeños a lo bestia
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/60218baa464ef900073168c1-alt.m3u8
-#EXTINF:25, PLUTO TV MISTERIOS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=143bd56d-49f4-4f1d-af28-384df378b15d&userId=&serverSideAds=true
-#EXTINF:25, Misterios Medicos
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f230e416b68ff00075b0139-alt.m3u8
-#EXTINF:25, MISTERIOS MÉDICOS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27173-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25a22310-9312-4b9f-b9e9-92dac7411fe9&userId=&serverSideAds=true
-#EXTINF:25, MISTERIOS SIN RESOLVER 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d882d5233170007ee880e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a1155120-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=88135a72-e32e-4ffd-b14e-f345a944ab79&userId=&serverSideAds=true
-#EXTINF:25, Archivos Forenses
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f984f4a09e92d0007d74647-alt.m3u8
-#EXTINF:25, Mundo paranormal
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/60492a9bbca75b0007b1bfd5-alt.m3u8
-#EXTINF:25, Cazador de Homicidas
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/60ed5fb9c4716d0007d180c5-alt.m3u8
-#EXTINF:25, Crímenes imperfectos
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/5e94cd036cc69d0007e8a1ba-alt.m3u8
-#EXTINF:25, Los archivos del FBI
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/5e67d41b93312100076f3fca-alt.m3u8
-#EXTINF:25, Historias de Ultratumba
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/5f4d3696d938c900072679fd-alt.m3u8
-#EXTINF:25, MacGyver
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
-#EXTINF:25, El Conquistador del Fin
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/5f280149cec6be00072ab1fc-alt.m3u8
-#EXTINF:25, Top Gear
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/60d356a534f63f000850cdd7-alt.m3u8
-#EXTINF:25, Top Gear en español
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/61325566b3c86a00078e4819-alt.m3u8
-#EXTINF:25, Clubbing TV
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/600ad4ad6537680007be2ea6-alt.m3u8
-#EXTINF:25,Service
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/60d3574e97f10800078455de-alt.m3u8
-#EXTINF:25, The Walking Dead
-https://i.mjh.nz/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8
-#EXTINF:0, CSI: Miami en español
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/632b5950b515b000079e6b81-alt.m3u8
-#EXTINF:0, CSI: NY en español
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/632b606e12a67b0007c9e371-alt.m3u8
-#EXTINF:0, CSI: Miami
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/63eb9255c111bc0008fe6ec4-alt.m3u8
-#EXTINF:25, CSI EN ESPAÑOL
-#EXTVLCOPT:network-caching=1000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a11f8a50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=38041b3f-c9d2-4524-8784-12dc0b2a0c11&userId=&serverSideAds=true
-#EXTINF:25, NCIS
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
-#EXTINF:25, Fashion TV
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/60c882460ea4a200076a2a37-alt.m3u8
-#EXTINF:25, La Media Inglesa
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/6335a79d10efe80007297a94-alt.m3u8
-#EXTINF:25, Érase una vez...
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/63c69c87808b740007599fe1-alt.m3u8
-#EXTINF:25, Paisajes por Stingray
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/5f4fed840a2764000720d966-alt.m3u8
-#EXTINF:25, Nosey Escándalos
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/5f9afb01816137000737f799-alt.m3u8
-#EXTINF:25, Sin Tetas No Hay Paraíso
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/604bdf4e6d0abc0007ba77ad-alt.m3u8
-#EXTINF:0, THE WALKING DEAD
-#EXTVLCOPT:network-caching=1000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a109b860-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=89e7768a-d856-44a6-ba93-5bff4d40757c&userId=&serverSideAds=true
-#EXTINF:25,Service
-#EXTVLCOPT:network-caching=1000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8f99b228-251b-4230-bbe0-7bc14292a7e0&userId=&serverSideAds=true
-#EXTINF:25, Pluto TV Reality
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/61b87bc867b03a0007864e0d-alt.m3u8
-#EXTINF:25, * Reality
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/61b87bc867b03a0007864e0d-alt.m3u8
 
-#EXTINF:25, Hells Kitchen
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/6095ad97351eb0000754c1e6-alt.m3u8
-#EXTINF:25, Iron Chef
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/615b9855c6b58b000724477f-alt.m3u8
-#EXTINF:25, MasterChef
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/5e3ddbd27091820009f86dd9-alt.m3u8
-#EXTINF:25, Tastemade
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/5f998c1fc54853000797bacd-alt.m3u8
-#EXTINF:0, HELL'S KITCHEN EN ESPAÑOL
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/60492b2794116800073e32dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8ef6973d-ade6-11eb-930b-0242ac110002
-#EXTINF:0, MASTER CHEF
-#EXTVLCOPT:network-caching=1000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d532-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3935b7bb-6c42-4a74-a1c0-19d91d4ea3b7&userId=&serverSideAds=true
-#EXTINF:23, TASTEMADE
-#EXTVLCOPT:network-caching=1000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f998c1fc54853000797bacd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b54be6f9-df4b-4c83-b6ff-d2c9a847569e&userId=&serverSideAds=true
-
-#EXTINF:25, * Cocina
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/5dcde0657444a40009cd2422-alt.m3u8
-#EXTINF:25, * Recetas
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/609062295c2b8f0007199e7a-alt.m3u8
-#EXTINF:25,Service
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/5f1acdaa8ba90f0007d5e760-alt.m3u8
-#EXTINF:0, PLUTO TV COCINA
-#EXTVLCOPT:network-caching=1000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02780-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8850b362-804f-4cf0-a920-4f711796663f&userId=&serverSideAds=true
-#EXTINF:0, PLUTO TV COCINA 2
-#EXTVLCOPT:network-caching=1000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c801a80-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0e0dc4ab-902e-4ad1-a9d5-748727626eaa&userId=&serverSideAds=true
-#EXTINF:0, PLUTO TV COCINA (España)
-#EXTVLCOPT:network-caching=1000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4c6543-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1fc7e1c7-88d8-4d19-915b-02a6745f031d&userId=&serverSideAds=true
-#EXTINF:25, PLUTO TV RECETAS
-#EXTVLCOPT:network-caching=1000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609062295c2b8f0007199e7a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bb42e440-dea7-11eb-be60-3b6a118ac8ac&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ef972a2c-8672-41cf-b2e4-003e44fbe25a&userId=&serverSideAds=true
-#EXTINF:0, Pluto TV Fitness
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/6140a074a99e79000738162a-alt.m3u8
 
 
 
