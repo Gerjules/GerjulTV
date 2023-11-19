@@ -107,6 +107,22 @@ https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 #EXTVLCOPT:network-caching=3000
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
+#EXTINF:0,Telefe Noticias (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=3000
+https://siloh-mcdn.plutotv.net/lilo/production/LATAM/Telefe/master.m3u8
+#EXTINF:30,Canal 3 Formosa (720p)
+#EXTVLCOPT:network-caching=3000
+https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
+#EXTINF:0,Canal 6 Posadas (1080p)
+#EXTVLCOPT:network-caching=3000
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+#EXTINF:0,Ciudad TV Resistencia (Chaco) (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=3000
+http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
+#EXTINF:33,5TV Corrientes (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=3000
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Argentina", 13Max Televisión (1080p)
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Argentina", A24 (720p)
