@@ -74,9 +74,9 @@ https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 #EXTINF:28,TVS Encarnación (720p)
 #EXTVLCOPT:network-caching=3000
 https://rds3gen.desdeparaguay.net/tvs/tvs/playlist.m3u8
-#EXTINF:0,PY | EDU CANAL
+#EXTINF:0,Educanal (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=3000
-http://magmas5.com:8000/Oscar86/40473/150657
+https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
 #EXTINF:29, RTV CANAL 12
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
