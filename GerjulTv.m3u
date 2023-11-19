@@ -2430,74 +2430,6 @@ https://6362ca6f1fc28.streamlock.net:443/8062/8062/chunklist_w112073847.m3u8
 #EXTINF:0,cine terror
 #EXTVLCOPT:network-caching=3000
 http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/306264
-#EXTINF:0,Cine Estelar 
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318598
-#EXTINF:0,Cine DC Comics 
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318470
-#EXTINF:0,Cine Universo DC 
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318471
-#EXTINF:0,Cine Disney Family 
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318472
-#EXTINF:0,Cine Disney Pixar 
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318473
-#EXTINF:0,Cine Dreamworks 
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318474
-#EXTINF:0,Cine Familia 
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318475
-#EXTINF:0,Cine Happy Madison 
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318476
-#EXTINF:0,Cine Terror Clásicos 
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318477
-#EXTINF:0,Cine Terror 
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318478
-#EXTINF:0,Cine Lego Movies 
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318479
-#EXTINF:0,Cine Marvel Animado 
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318480
-#EXTINF:0,Cine Marvel Studios 
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318481
-
-#EXTINF:0, cine 00
-#EXTVLCOPT:network-caching=3000
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507619&extension=ts&play_token=T3HuVEXjrf
-#EXTINF:0, cine 01
-#EXTVLCOPT:network-caching=3000
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507617&extension=ts&play_token=GRq1kuwvbY
-#EXTINF:0, cine 02
-#EXTVLCOPT:network-caching=3000
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507616&extension=ts&play_token=vhphKQbwnV
-#EXTINF:0, cine 03
-#EXTVLCOPT:network-caching=3000
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507615&extension=ts&play_token=MDBjCPbHPn
-#EXTINF:0, cine 04
-#EXTVLCOPT:network-caching=3000
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507614&extension=ts&play_token=Xim3PTfIJP
-#EXTINF:0, cine 05
-#EXTVLCOPT:network-caching=3000
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507609&extension=ts&play_token=Uwexr4qpwy
-#EXTINF:0, cine 06
-#EXTVLCOPT:network-caching=3000
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507612&extension=ts&play_token=dvsszwS27o
-#EXTINF:0, cine 07
-#EXTVLCOPT:network-caching=3000
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507611&extension=ts&play_token=Mja1pamiAk
-#EXTINF:0, cine 08
-#EXTVLCOPT:network-caching=3000
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507610&extension=ts&play_token=E4jzoJufIQ
-
 
 
 #EXTINF:0, CHIQUITINES
@@ -2533,7 +2465,6 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:0, FASHION  
 #EXTVLCOPT:network-caching=3000
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
-
 
 #EXTINF:0, FORTALEZA TV
 #EXTVLCOPT:network-caching=3000
@@ -2653,8 +2584,6 @@ http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/33364
 #EXTINF:0,CINE| CINE ESTELAR
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1156007
-
-
 
 
 #EXTINF:-1 tvg-id="CLAROSA" tvg-name="CLARO SPORTS" tvg-logo="https://i.postimg.cc/qRYWs2s2/claro-sport.jpg" group-title="鈿斤笍  DEPORTES LATINO",CLARO SPORTS
@@ -2787,369 +2716,205 @@ http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/138197
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/28379
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 4 (MX)" tvg-logo="https://i.postimg.cc/rFs8DR0W/espn4.png" group-title="鈿斤笍  DEPORTES LATINO",ESPN 4 (MX)
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/154892
+
+
 #EXTINF:36,Abu Dhabi Sports 2
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:60,Dubai Sports 2
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
 #EXTINF:60,Dubai Sports 3
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 #EXTINF:8, TV Turf Movil
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://janus.tvturf.cl/playlist/stream.m3u8
 #EXTINF:15, Valparaiso Sporting
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:55, SSIPTV ARG SPORTS 
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
 #EXTINF:34, ALL SPORTS
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:20, EVENTOS TNT Sports 2 Brasil
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 #EXTINF:21, EVENTOS TNT Sports 3 Brasil
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 #EXTINF:20, EVENTOS TNT Sports 4 Brasil
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:20, EVENTOS TNT Sports 5 Brasil
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:25, MOTORVISION TV
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:25, LUCHA LIBRE AAA
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
 #EXTINF:0, LUCHA LIBRE AAA 2
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7aea60-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e96a0f6-ac42-4164-a333-6f430bfee437&userId=&serverSideAds=true
 #EXTINF:25, ACTION SPORTS
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d849631-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b6801a0b-53b5-469c-a826-691aadfcdf85&userId=&serverSideAds=true
 #EXTINF:25, ACTION SPORTS 2
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db867744f229f0009266784/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a103ec00-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=05cde875-5856-4889-a846-2559db77631d&userId=&serverSideAds=true
 #EXTINF:25, MLB CHANNEL
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d882-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f1832274-98b7-4765-ad8b-c533c4382008&userId=&serverSideAds=true
 #EXTINF:90, RED BULL TV
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:0, MLS TV
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7d8272-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=83907acb-ee3c-4b1f-8026-c92526fccb6e&userId=&serverSideAds=true
 #EXTINF:60, TENNIS CHANNEL
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:0, PGA TOUR
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c828b82-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f462faf4-6f7f-4789-94df-d5226e0c1909&userId=&serverSideAds=true
 #EXTINF:0, NFL CHANNEL
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7dd091-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51a9cf39-a534-4404-ab74-8b3b3d4266d2&userId=&serverSideAds=true
 #EXTINF:0, STADIUM
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59974b6d7ec5063cb56f24c9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c760861-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=05184fc6-bf46-4f02-8ffe-2445a75fbebd&userId=&serverSideAds=true
 #EXTINF:0, IMPACT WRESTLING
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:0, PRO WRESTLING
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=732&deviceId=5fac431fc1ffbc0007e6b6a7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:0, FIGHT NETWORK
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:0, BELLATOR MMA
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c854aa0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31ed263b-b5a7-46ae-aea6-02a7165119c3&userId=&serverSideAds=true
 #EXTINF:0, GLORY KICKBOXING TV
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
 #EXTINF:0, * Deportes
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5f1ac8588734f8000823b7de-alt.m3u8
 #EXTINF:0, * Motor
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/6080345ebb49b90007ce0baf-alt.m3u8
 #EXTINF:25, PLUTO TV VELOCIDAD
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11b5b1b3-ad58-40ca-90fc-9a19b7125ebc&userId=&serverSideAds=true
 #EXTINF:25, PLUTO TV MOTOR
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6080345ebb49b90007ce0baf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=21631ca0-c804-11eb-9820-5521c83f8ae2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2f2dbf57-290d-486d-a430-704e5a67cf6f&userId=&serverSideAds=true
 #EXTINF:0, PLUTO TV DEPORTES
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02781-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c194052-40df-42cc-9f20-2b709fc61bb8&userId=&serverSideAds=true
 #EXTINF:0, PLUTO TV FIGHT
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c751e00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ea3d6036-364f-4958-aca9-ec488a93eafb&userId=&serverSideAds=true
 #EXTINF:25, * Deportes
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dcde07af1c85b0009b18651-alt.m3u8
 #EXTINF:0, *  Competencias
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dd6d935d000120009bc1132-alt.m3u8
 #EXTINF:0, * Velocidad
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dd6dc7480e3550009133d4a-alt.m3u8
 #EXTINF:25,Service
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/6076c74daa05ac0007d0eb07-alt.m3u8
 #EXTINF:30, XITE
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/.m3u8
 #EXTINF:28, HIT 360
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 #EXTINF:29, Colosal TV 
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:28, Vallenato Internacional
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:30, Ocko Star
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
 #EXTINF:15, 88 STEREO
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 #EXTINF:2700, KRONEHITS
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://bitcdn-kronehit.bitmovin.com/v2/hls/.m3u8
 #EXTINF:60, QWEST JAZZ
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://qwest-jazz-plex.amagi.tv/playlist.m3u8
 #EXTINF:60, Stingray Holiday Hits
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://ott-linear-channels.stingray.com/hls/stirr/155.m3u8
 #EXTINF:60, Stingray Flashback 70s
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://ott-linear-channels.stingray.com/hls/stirr/115.m3u8
 #EXTINF:53, Stingray Pop Adult
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
 #EXTINF:60, Stingray Rock Alternative
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
 #EXTINF:30, GO-RTV
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/chunklist_w1291658822.m3u8
 #EXTINF:60, QMusic
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:20, Ocko Chequia 
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 #EXTINF:20, Ocko Expres
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 #EXTINF:53, Stingray Urban Beats
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
 #EXTINF:60, Stingray Today's Latin Pop
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
 #EXTINF:15, First Music Channel
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:54, California Music Channel
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8?device=TDTChannels
 #EXTINF:21, Muzzik
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 #EXTINF:25, Muzzik Rock&Roll
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 #EXTINF:0, Muzzik Cafe&Club
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 #EXTINF:0, Muzzik Worldwide
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 #EXTINF:0, Muzzik Jeka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
 #EXTINF:0, Muzzik ZZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 #EXTINF:0, Muzzik Glazzba
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
@@ -3158,8 +2923,6 @@ https://muzzik-live.morescreens.com/mts-a7/playlist.m3u8
 #EXTINF:22, Muzzik T REX 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 #EXTINF:0, Muzzik OKK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
