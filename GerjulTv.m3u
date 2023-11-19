@@ -8,12 +8,18 @@ https://deh05ueq91v6s.cloudfront.net/SNTPY/0bd4cfaf086c4ac0ce0101172a42ba20.sdp/
 #EXTINF:30, TRECE
 #EXTVLCOPT:network-caching=3000
 https://tigocloudgen.desdeparaguay.net/trecetv/trecetv_baja/chunklist_w1196893029.m3u8?k=406497d0d8424d72e52021fad7657d49f5887085eb535695f5715b90bad8d2c7&exp=1686070703
-#EXTINF:0,PY | C9N NOTICIAS 
+#EXTINF:40,C9N (480p)
 #EXTVLCOPT:network-caching=3000
-https://deh05ueq91v6s.cloudfront.net/C9NPY/031fe10f99063bb9e8271716ce50b133.sdp/C9NPY/C9NPY2/chunks.m3u8
+https://deh05ueq91v6s.cloudfront.net/C9NPY/031fe10f99063bb9e8271716ce50b133.sdp/playlist.m3u8
 #EXTINF:0,PY | UNICANAL 
 #EXTVLCOPT:network-caching=3000
 https://tigocloudgen.desdeparaguay.net/unicanal/unicanal_baja/chunklist_w904988084.m3u8?k=7b1d356cc7ec36bb21f1e96cfbd0415bc0b0c388fe500cb07566c44d89d6d7ab&exp=1698514724
+#EXTINF:30,Bruno Masi TV (720p)
+#EXTVLCOPT:network-caching=3000
+https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
+#EXTINF:30,Cáritas TV (1080p)
+#EXTVLCOPT:network-caching=3000
+https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 #EXTINF:8,Telefuturo
 #EXTVLCOPT:network-caching=3000
 http://200.41.79.165:8000/play/a0hy/index.m3u8
@@ -41,104 +47,61 @@ https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w735296660.m3u8
 #EXTINF:30, TVS
 #EXTVLCOPT:network-caching=3000
 https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8?k=1d25209afd7c9b0e4898d35c8295d449ff87b42c53ea4da38aae4d2d9614c9a7&exp=1611679347
+#EXTINF:29,4DmásNoticias TV (1080p)
+#EXTVLCOPT:network-caching=3000
+https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
+#EXTINF:0,Dismar TV (720p)
+#EXTVLCOPT:network-caching=3000
+https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 #EXTINF:25, TAPUA TV
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/marianotv/marianotv/playlist.m3u8
-#EXTINF:28, OVIEDO TV
+#EXTINF:0,Obedira TV (720p)
 #EXTVLCOPT:network-caching=3000
-https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/playlist.m3u8%20%20
+https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8
+#EXTINF:30,Oviedo TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=3000
+https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/playlist.m3u8
+#EXTINF:0,Suceso TV (720p)
+#EXTVLCOPT:network-caching=3000
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
 #EXTINF:27, ESTACIÓN CRISTAL TV
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
-#EXTINF:30, SOMOS DEL ESTE TV
+#EXTINF:30,Somos Del Este (720p)
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+#EXTINF:28,TVS Encarnación (720p)
+#EXTVLCOPT:network-caching=3000
+https://rds3gen.desdeparaguay.net/tvs/tvs/playlist.m3u8
 #EXTINF:0,PY | EDU CANAL
 #EXTVLCOPT:network-caching=3000
 http://magmas5.com:8000/Oscar86/40473/150657
-#EXTINF:28, RCC
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
 #EXTINF:29, RTV CANAL 12
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
-#EXTINF:28, RADIO PANAMBI VERÁ
-#EXTVLCOPT:network-caching=3000
-https://59ce1298bfb98.streamlock.net/panambi/panambi/chunklist_w1855680502.m3u8
 #EXTINF:28, SUCESO TV
 #EXTVLCOPT:network-caching=1000
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
-#EXTINF:30,CABLEMÁS
-#EXTVLCOPT:network-caching=3000
-https://59ce1298bfb98.streamlock.net/cablemas/cablemas/chunklist_w480314177.m3u8
-#EXTINF:0, NIHON GAKKO TV
-#EXTVLCOPT:network-caching=3000
-https://59ce1298bfb98.streamlock.net/ngtv/ngtv/chunklist_w1520616514.m3u8
-#EXTINF:30, TVA
-#EXTVLCOPT:network-caching=3000
-https://59ce1298bfb98.streamlock.net/tvaire/tvaire/playlist.m3u8
-#EXTINF:0, CAPIATÁ TV
-#EXTVLCOPT:network-caching=3000
-https://59ce1298bfb98.streamlock.net/capiata16/capiata16/playlist.m3u8
-#EXTINF:0, SUR
-#EXTVLCOPT:network-caching=3000
-http://170.83.242.152:5350/play/a025
-#EXTINF:0, RADIO ASUNCIÓN
-#EXTVLCOPT:network-caching=3000
-https://59ce1298bfb98.streamlock.net/asuncion1250/asuncion1250/playlist.m3u8
 #EXTINF:60, FARRA PLAY
 #EXTVLCOPT:network-caching=3000
 http://159.203.148.226/live/farra_low.m3u8
-#EXTINF:0, REPATRIACIÓN TV
-#EXTVLCOPT:network-caching=1000
-https://video.radiosenpy.net:8081/repatv/tracks-v1a1/mono.m3u8
-#EXTINF:0, SENADO TV
-#EXTVLCOPT:network-caching=1000
-https://59ce1298bfb98.streamlock.net/tvsenadopy/tvsenadopy/playlist.m3u8
-#EXTINF:0, TV CÁMARA
-#EXTVLCOPT:network-caching=3000
-https://59ce1298bfb98.streamlock.net/tvcamara/tvcamara/playlist.m3u8
-#EXTINF:0, TV MAX
-#EXTVLCOPT:network-caching=3000
-https://tvmaxsa.com.py:444/hls/stream.m3u8
-#EXTINF:0,NPY
-#EXTVLCOPT:network-caching=3000
-http://170.83.242.152:5350/play/a024
-#EXTINF:0, PARAGUAY HD
-#EXTVLCOPT:network-caching=3000
-https://59ce1298bfb98.streamlock.net/paraguayhd/paraguayhd/chunklist_w1636282446.m3u8
 #EXTINF:0, KOA TV
 #EXTVLCOPT:network-caching=3000
 https://panel.dattalive.com/8028/8028/playlist.m3u8
-#EXTINF:0, GCV CANAL 10 GUAJAYVI
-#EXTVLCOPT:network-caching=3000
-http://nextplayparaguay.live/hls/canal10.m3u8
 #EXTINF:30, UGA TV
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
-#EXTINF:0, RADIO PIRAPEY FM
+#EXTINF:0,Fanpop TV (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=3000
-https://59ce1298bfb98.streamlock.net/pirapeytv/pirapeytv/playlist.m3u8
-#EXTINF:0, FIERA TV
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:0,Farra Play (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=3000
-https://59ce1298bfb98.streamlock.net/fieratv/fieratv/playlist.m3u8
-#EXTINF:0, EMPRENDE TV
+http://159.203.148.226/live/farra.m3u8
+
+#EXTINF:0,Somos Cultura TV (720p)
 #EXTVLCOPT:network-caching=3000
-https://59ce1298bfb98.streamlock.net/emprendetv/emprendetv/playlist.m3u8
-#EXTINF:0, RADIO MAGIA TV
-#EXTVLCOPT:network-caching=3000
-https://video.radiosenpy.net:8081/magiatv/index.m3u8
-#EXTINF:0, VISIÓN VILLARRICA
-#EXTVLCOPT:network-caching=3000
-https://video.radiosenpy.net:19360/canal8vision/canal8vision.m3u8
-#EXTINF:0, CAAGUAZÚ TV
-https://59ce1298bfb98.streamlock.net/caaguazutv/caaguazutv/playlist
+https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 
 #EXTINF:0, EL TRECE
 #EXTVLCOPT:network-caching=3000
