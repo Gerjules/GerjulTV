@@ -1,98 +1,98 @@
 #EXTM3U
-#EXTINF:0,PY | ABC TV
+#EXTINF:0 group-title="PARAGUAY",PY | ABC TV
 #EXTVLCOPT:network-caching=3000
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-#EXTINF:37,PY | SNT
+#EXTINF:37 group-title="PARAGUAY",PY | SNT
 #EXTVLCOPT:network-caching=3000
 https://deh05ueq91v6s.cloudfront.net/SNTPY/0bd4cfaf086c4ac0ce0101172a42ba20.sdp/SNTPY/SNTPY2/chunks.m3u8
-#EXTINF:30,PY | TRECE
+#EXTINF:30 group-title="PARAGUAY",PY | TRECE
 #EXTVLCOPT:network-caching=3000
 https://tigocloudgen.desdeparaguay.net/trecetv/trecetv_baja/chunklist_w1196893029.m3u8?k=406497d0d8424d72e52021fad7657d49f5887085eb535695f5715b90bad8d2c7&exp=1686070703
-#EXTINF:40,PY | C9N (480p)
+#EXTINF:40 group-title="PARAGUAY",PY | C9N (480p)
 #EXTVLCOPT:network-caching=3000
 https://deh05ueq91v6s.cloudfront.net/C9NPY/031fe10f99063bb9e8271716ce50b133.sdp/playlist.m3u8
-#EXTINF:0,PY | UNICANAL 
+#EXTINF:0 group-title="PARAGUAY",PY | UNICANAL 
 #EXTVLCOPT:network-caching=3000
 https://tigocloudgen.desdeparaguay.net/unicanal/unicanal_baja/chunklist_w904988084.m3u8?k=7b1d356cc7ec36bb21f1e96cfbd0415bc0b0c388fe500cb07566c44d89d6d7ab&exp=1698514724
-#EXTINF:30,PY | Bruno Masi TV (720p)
+#EXTINF:30 group-title="PARAGUAY",PY | Bruno Masi TV (720p)
 #EXTVLCOPT:network-caching=3000
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
-#EXTINF:30,PY | Cáritas TV (1080p)
+#EXTINF:30 group-title="PARAGUAY",PY | Cáritas TV (1080p)
 #EXTVLCOPT:network-caching=3000
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
-#EXTINF:8,PY | Telefuturo
+#EXTINF:8 group-title="PARAGUAY",PY | Telefuturo
 #EXTVLCOPT:network-caching=3000
 http://200.41.79.165:8000/play/a0hy/index.m3u8
-#EXTINF:0,PY | PARAVISIÓN 
+#EXTINF:0 group-title="PARAGUAY",PY | PARAVISIÓN 
 #EXTVLCOPT:network-caching=3000
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235206.ts
-#EXTINF:0,PY | LA TELE 
+#EXTINF:0 group-title="PARAGUAY",PY | LA TELE 
 #EXTVLCOPT:network-caching=3000
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235204.ts
-#EXTINF:0,PY | radio venus 
+#EXTINF:0 group-title="PARAGUAY",PY | radio venus 
 #EXTVLCOPT:network-caching=3000
 http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlNTso9IFZLD7iowly816h6M/ts
-#EXTINF:200,PY | ÑANDUTÍ TV
+#EXTINF:200 group-title="PARAGUAY",PY | ÑANDUTÍ TV
 #EXTVLCOPT:network-caching=3000
 https://tvdatta.com:3839/live/nandutitvlive.m3u8
-#EXTINF:0,PY | NOTICIAS PY
+#EXTINF:0 group-title="PARAGUAY",PY | NOTICIAS PY
 #EXTVLCOPT:network-caching=3000
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235205.ts
-#EXTINF:28,PY | ALMAYA TV
+#EXTINF:28 group-title="PARAGUAY",PY | ALMAYA TV
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
-#EXTINF:29,PY | MI TV
+#EXTINF:29 group-title="PARAGUAY",PY | MI TV
 #EXTVLCOPT:network-caching=3000
 https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w735296660.m3u8
-#EXTINF:30,PY | TVS
+#EXTINF:30 group-title="PARAGUAY",PY | TVS
 #EXTVLCOPT:network-caching=3000
 https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8?k=1d25209afd7c9b0e4898d35c8295d449ff87b42c53ea4da38aae4d2d9614c9a7&exp=1611679347
-#EXTINF:29,4DmásNoticias TV (1080p)
+#EXTINF:29 group-title="PARAGUAY",4DmásNoticias TV (1080p)
 #EXTVLCOPT:network-caching=3000
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
-#EXTINF:0,Dismar TV (720p)
+#EXTINF:0 group-title="PARAGUAY",Dismar TV (720p)
 #EXTVLCOPT:network-caching=3000
 https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
-#EXTINF:25,PY | TAPUA TV
+#EXTINF:25 group-title="PARAGUAY",PY | TAPUA TV
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/marianotv/marianotv/playlist.m3u8
-#EXTINF:0,PY | Obedira TV (720p)
+#EXTINF:0 group-title="PARAGUAY",PY | Obedira TV (720p)
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8
-#EXTINF:30,PY | Oviedo TV (720p) [Not 24/7]
+#EXTINF:30 group-title="PARAGUAY",PY | Oviedo TV (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/playlist.m3u8
-#EXTINF:0,PY | Suceso TV (720p)
+#EXTINF:0 group-title="PARAGUAY",PY | Suceso TV (720p)
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
-#EXTINF:27,PY |  ESTACIÓN CRISTAL TV
+#EXTINF:27 group-title="PARAGUAY",PY |  ESTACIÓN CRISTAL TV
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
-#EXTINF:30,PY | Somos Del Este (720p)
+#EXTINF:30, group-title="PARAGUAY"PY | Somos Del Este (720p)
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
-#EXTINF:28,PY | TVS Encarnación (720p)
+#EXTINF:28 group-title="PARAGUAY",PY | TVS Encarnación (720p)
 #EXTVLCOPT:network-caching=3000
 https://rds3gen.desdeparaguay.net/tvs/tvs/playlist.m3u8
 #EXTINF:0,Educanal (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
-#EXTINF:29,PY | RTV CANAL 12
+#EXTINF:29 group-title="PARAGUAY",PY | RTV CANAL 12
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
-#EXTINF:28,PY | SUCESO TV
+#EXTINF:28 group-title="PARAGUAY",PY | SUCESO TV
 #EXTVLCOPT:network-caching=1000
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
-#EXTINF:60,PY | FARRA PLAY
+#EXTINF:60 group-title="PARAGUAY",PY | FARRA PLAY
 #EXTVLCOPT:network-caching=3000
 http://159.203.148.226/live/farra_low.m3u8
-#EXTINF:0,PY | KOA TV
+#EXTINF:0 group-title="PARAGUAY",PY | KOA TV
 #EXTVLCOPT:network-caching=3000
 https://panel.dattalive.com/8028/8028/playlist.m3u8
-#EXTINF:30,PY | UGA TV
+#EXTINF:30 group-title="PARAGUAY",PY | UGA TV
 #EXTVLCOPT:network-caching=3000
 https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
-#EXTINF:0,PY | Fanpop TV (720p) [Not 24/7]
+#EXTINF:0 group-title="PARAGUAY",PY | Fanpop TV (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=3000
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
