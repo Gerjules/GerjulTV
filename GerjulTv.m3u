@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:3600,PY | ABC TV
+#EXTINF:0,PY | ABC TV
 #EXTVLCOPT:network-caching=3000
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:37,PY | SNT
@@ -100,32 +100,32 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTVLCOPT:network-caching=3000
 https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 
-#EXTINF:0, EL TRECE
+#EXTINF:0,AR | EL TRECE
 #EXTVLCOPT:network-caching=3000
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:0,Telefe Noticias (720p) [Not 24/7]
+#EXTINF:0,AR | Telefe Noticias (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=3000
 https://siloh-mcdn.plutotv.net/lilo/production/LATAM/Telefe/master.m3u8
-#EXTINF:30,Canal 3 Formosa (720p)
+#EXTINF:30,AR | Canal 3 Formosa (720p)
 #EXTVLCOPT:network-caching=3000
 https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
-#EXTINF:0,Canal 6 Posadas (1080p)
+#EXTINF:0,AR | Canal 6 Posadas (1080p)
 #EXTVLCOPT:network-caching=3000
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
-#EXTINF:0,Ciudad TV Resistencia (Chaco) (720p) [Not 24/7]
+#EXTINF:0,AR | Ciudad TV Resistencia (Chaco) (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=3000
 http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
-#EXTINF:33,5TV Corrientes (480p) [Not 24/7]
+#EXTINF:AR | 33,5TV Corrientes (480p) [Not 24/7]
 #EXTVLCOPT:network-caching=3000
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF:0,Aire de Santa Fe (1080p)
+#EXTINF:0,AR | Aire de Santa Fe (1080p)
 #EXTVLCOPT:network-caching=3000
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
-#EXTINF:0,Canal 79 Mar del Plata (240p)
+#EXTINF:0,AR | Canal 79 Mar del Plata (240p)
 #EXTVLCOPT:network-caching=3000
 https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
-#EXTINF:0,TV Pública (TVP) (1080p) [Not 24/7]
+#EXTINF:0,AR | TV Pública (TVP) (1080p) [Not 24/7]
 #EXTVLCOPT:network-caching=3000
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 group-title="Bics Extra", Todo Noticias AR
