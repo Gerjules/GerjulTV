@@ -100,35 +100,35 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTVLCOPT:network-caching=3000
 https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 
-#EXTINF:0,AR | EL TRECE
+#EXTINF:0 group-title="ARGENTINA",AR | EL TRECE
 #EXTVLCOPT:network-caching=3000
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:0,AR | Telefe Noticias (720p) [Not 24/7]
+#EXTINF:0 group-title="ARGENTINA",AR | Telefe Noticias (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=3000
 https://siloh-mcdn.plutotv.net/lilo/production/LATAM/Telefe/master.m3u8
 #EXTINF:30,AR | Canal 3 Formosa (720p)
 #EXTVLCOPT:network-caching=3000
 https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
-#EXTINF:0,AR | Canal 6 Posadas (1080p)
+#EXTINF:0 group-title="ARGENTINA",AR | Canal 6 Posadas (1080p)
 #EXTVLCOPT:network-caching=3000
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
-#EXTINF:0,AR | Ciudad TV Resistencia (Chaco) (720p) [Not 24/7]
+#EXTINF:0 group-title="ARGENTINA",AR | Ciudad TV Resistencia (Chaco) (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=3000
 http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
-#EXTINF:AR | 33,5TV Corrientes (480p) [Not 24/7]
+#EXTINF:0 group-title="ARGENTINA"AR | 33,5TV Corrientes (480p) [Not 24/7]
 #EXTVLCOPT:network-caching=3000
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF:0,AR | Aire de Santa Fe (1080p)
+#EXTINF:0 group-title="ARGENTINA",AR | Aire de Santa Fe (1080p)
 #EXTVLCOPT:network-caching=3000
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
-#EXTINF:0,AR | Canal 79 Mar del Plata (240p)
+#EXTINF:0 group-title="ARGENTINA",AR | Canal 79 Mar del Plata (240p)
 #EXTVLCOPT:network-caching=3000
 https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
-#EXTINF:0,AR | TV Pública (TVP) (1080p) [Not 24/7]
+#EXTINF:0 group-title="ARGENTINA",AR | TV Pública (TVP) (1080p) [Not 24/7]
 #EXTVLCOPT:network-caching=3000
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-#EXTINF:-1 group-title="Bics Extra", Todo Noticias AR
+#EXTINF:-1 group-title="ARGENTINA", Todo Noticias AR
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Argentina", A24 (720p)
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
