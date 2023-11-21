@@ -68,7 +68,7 @@ https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
 #EXTINF:27 group-title="PARAGUAY",PY |  ESTACIÓN CRISTAL TV
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
-#EXTINF:0, group-title="PARAGUAY",PY | Somos Del Este (720p)
+#EXTINF:0 group-title="PARAGUAY",PY | Somos Del Este (720p)
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 #EXTINF:28 group-title="PARAGUAY",PY | TVS Encarnación (720p)
