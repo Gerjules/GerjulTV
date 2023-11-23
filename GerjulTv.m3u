@@ -11,16 +11,16 @@ https://tigocloudgen.desdeparaguay.net/trecetv/trecetv_baja/chunklist_w119689302
 #EXTINF:40 tvg-logo="https://d1y2i2odvciezg.cloudfront.net/wp-content/uploads/2023/07/logo.png" group-title="PARAGUAY",PY | C9N (480p)
 #EXTVLCOPT:network-caching=3000
 https://deh05ueq91v6s.cloudfront.net/C9NPY/031fe10f99063bb9e8271716ce50b133.sdp/playlist.m3u8
-#EXTINF:0 group-title="PARAGUAY",PY | UNICANAL 
+#EXTINF:0 tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png" group-title="PARAGUAY",PY | UNICANAL 
 #EXTVLCOPT:network-caching=3000
 https://tigocloudgen.desdeparaguay.net/unicanal/unicanal_baja/chunklist_w904988084.m3u8?k=7b1d356cc7ec36bb21f1e96cfbd0415bc0b0c388fe500cb07566c44d89d6d7ab&exp=1698514724
-#EXTINF:30 group-title="PARAGUAY",PY | Bruno Masi TV (720p)
+#EXTINF:30 tvg-logo="http://www.brunomasi.tv/img/logo-bmcc.png" group-title="PARAGUAY",PY | Bruno Masi TV (720p)
 #EXTVLCOPT:network-caching=3000
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
-#EXTINF:30 group-title="PARAGUAY",PY | Cáritas TV (1080p)
+#EXTINF:30 tvg-logo="https://www.caritas.com.py/wp-content/uploads/2022/04/l1.jpg"group-title="PARAGUAY",PY | Cáritas TV (1080p)
 #EXTVLCOPT:network-caching=3000
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
-#EXTINF:8 group-title="PARAGUAY",PY | Telefuturo
+#EXTINF:8 tvg-logo="https://telefuturo.com.py/wp-content/uploads/2022/11/cropped-logo-telefuturo.png" group-title="PARAGUAY",PY | Telefuturo
 #EXTVLCOPT:network-caching=3000
 http://200.41.79.165:8000/play/a0hy/index.m3u8
 #EXTINF:0 group-title="PARAGUAY",PY | PARAVISIÓN 
