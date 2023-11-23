@@ -44,7 +44,7 @@ https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
 #EXTINF:29 group-title="PARAGUAY",PY | MI TV
 #EXTVLCOPT:network-caching=3000
 https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w735296660.m3u8
-#EXTINF:30 group-title="PARAGUAY",PY | TVS
+#EXTINF:30 tvg-logo="https://www.tvs.com.py/wp-content/uploads/2021/11/Secuencia-03.00_00_01_11.Imagen-fija003.png" group-title="PARAGUAY",PY | TVS
 #EXTVLCOPT:network-caching=3000
 https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8?k=1d25209afd7c9b0e4898d35c8295d449ff87b42c53ea4da38aae4d2d9614c9a7&exp=1611679347
 #EXTINF:29 group-title="PARAGUAY",4DmásNoticias TV (1080p)
