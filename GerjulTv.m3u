@@ -8,7 +8,7 @@ https://deh05ueq91v6s.cloudfront.net/SNTPY/0bd4cfaf086c4ac0ce0101172a42ba20.sdp/
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/8/8f/20220412185212%21Canal13_logo.PNG" group-title="PARAGUAY",PY | TRECE
 #EXTVLCOPT:network-caching=3000
 https://tigocloudgen.desdeparaguay.net/trecetv/trecetv_baja/chunklist_w1196893029.m3u8?k=406497d0d8424d72e52021fad7657d49f5887085eb535695f5715b90bad8d2c7&exp=1686070703
-#EXTINF:40 group-title="PARAGUAY",PY | C9N (480p)
+#EXTINF:40 tvg-logo="https://d1y2i2odvciezg.cloudfront.net/wp-content/uploads/2023/07/logo.png" group-title="PARAGUAY",PY | C9N (480p)
 #EXTVLCOPT:network-caching=3000
 https://deh05ueq91v6s.cloudfront.net/C9NPY/031fe10f99063bb9e8271716ce50b133.sdp/playlist.m3u8
 #EXTINF:0 group-title="PARAGUAY",PY | UNICANAL 
