@@ -38,7 +38,7 @@ https://tvdatta.com:3839/live/nandutitvlive.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/NPY_%28Noticias_Paraguay%29.png/800px-NPY_%28Noticias_Paraguay%29.png" group-title="PARAGUAY",PY | NOTICIAS PY
 #EXTVLCOPT:network-caching=3000
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235205.ts
-#EXTINF:28 group-title="PARAGUAY",PY | ALMAYA TV
+#EXTINF:28 tvg-logo="https://paraguayonline.net/wp-content/uploads/elementor/thumbs/WhatsApp-Image-2021-09-06-at-15.38.57-pcqaqvpgjkdcjhr0i42e39agcsbbm14xwe6ndgvg94.jpeg" group-title="PARAGUAY",PY | ALMAYA TV
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
 #EXTINF:29 group-title="PARAGUAY",PY | MI TV
