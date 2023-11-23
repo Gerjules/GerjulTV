@@ -5,7 +5,7 @@ https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/
 #EXTINF:37 group-title="PARAGUAY",PY | SNT
 #EXTVLCOPT:network-caching=3000
 https://deh05ueq91v6s.cloudfront.net/SNTPY/0bd4cfaf086c4ac0ce0101172a42ba20.sdp/SNTPY/SNTPY2/chunks.m3u8
-#EXTINF:30 "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png" group-title="PARAGUAY",PY | TRECE
+#EXTINF:30 "https://es.m.wikipedia.org/wiki/Archivo:Logotrececanal.png" group-title="PARAGUAY",PY | TRECE
 #EXTVLCOPT:network-caching=3000
 https://tigocloudgen.desdeparaguay.net/trecetv/trecetv_baja/chunklist_w1196893029.m3u8?k=406497d0d8424d72e52021fad7657d49f5887085eb535695f5715b90bad8d2c7&exp=1686070703
 #EXTINF:40 group-title="PARAGUAY",PY | C9N (480p)
