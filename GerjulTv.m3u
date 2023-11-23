@@ -14,10 +14,10 @@ https://deh05ueq91v6s.cloudfront.net/C9NPY/031fe10f99063bb9e8271716ce50b133.sdp/
 #EXTINF:0 tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png" group-title="PARAGUAY",PY | UNICANAL 
 #EXTVLCOPT:network-caching=3000
 https://tigocloudgen.desdeparaguay.net/unicanal/unicanal_baja/chunklist_w904988084.m3u8?k=7b1d356cc7ec36bb21f1e96cfbd0415bc0b0c388fe500cb07566c44d89d6d7ab&exp=1698514724
-#EXTINF:30 tvg-logo="http://www.brunomasi.tv/img/logo-bmcc.png" group-title="PARAGUAY",PY | Bruno Masi TV (720p)
+#EXTINF:30 tvg-logo="http://www.brunomasi.tv/img/logo-bmcc.png" group-title="PARAGUAY",PY | Bruno Masi TV
 #EXTVLCOPT:network-caching=3000
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
-#EXTINF:30 tvg-logo="https://www.caritas.com.py/wp-content/uploads/2022/04/l1.jpg"group-title="PARAGUAY",PY | Cáritas TV (1080p)
+#EXTINF:30 tvg-logo="https://www.caritas.com.py/wp-content/uploads/2022/04/l1.jpg"group-title="PARAGUAY",PY | Cáritas TV
 #EXTVLCOPT:network-caching=3000
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 #EXTINF:8 tvg-logo="https://telefuturo.com.py/wp-content/uploads/2022/11/cropped-logo-telefuturo.png" group-title="PARAGUAY",PY | Telefuturo
@@ -50,10 +50,10 @@ https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8?k=1d25209a
 #EXTINF:29 tvg-logo="https://4dmasnoticias.com.py/logo.jpeg" group-title="PARAGUAY",4DmásNoticias TV (1080p)
 #EXTVLCOPT:network-caching=3000
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
-#EXTINF:0 group-title="PARAGUAY",Dismar TV (720p)
+#EXTINF:0 tvg-logo="https://appnew.megainfoapp.com/files/1/Dismar_TV.png" group-title="PARAGUAY",Dismar TV (720p)
 #EXTVLCOPT:network-caching=3000
 https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
-#EXTINF:25 group-title="PARAGUAY",PY | TAPUA TV
+#EXTINF:25 tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Sur_TV_Itap%C3%BAa_logo_2022.png" group-title="PARAGUAY",PY | TAPUA TV
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/marianotv/marianotv/playlist.m3u8
 #EXTINF:0 group-title="PARAGUAY",PY | Obedira TV (720p)
