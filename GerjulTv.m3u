@@ -23,11 +23,12 @@ https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 #EXTINF:8 tvg-logo="https://telefuturo.com.py/wp-content/uploads/2022/11/cropped-logo-telefuturo.png" group-title="PARAGUAY",PY | Telefuturo
 #EXTVLCOPT:network-caching=3000
 https://tigocloudtf.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8?k=da453798b76af8b43cc507efafad4473174153dc0ace094b2fd589440431fd4d&exp=1700745172
-#EXTINF:0 group-title="PARAGUAY",PY | PARAVISIÓN 
+#EXTINF:0 tvg-logo="https://www.paravision.com.py/img/paravision-logo.jpg" group-title="PARAGUAY",PY | PARAVISIÓN 
 #EXTVLCOPT:network-caching=3000
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235206.ts
-#EXTINF:0 group-title="PARAGUAY",PY | LA TELE 
+#EXTINF:0 tvg-logo="https://latele.com.py/wp-content/uploads/2023/09/logo-latele.png group-title="PARAGUAY",PY | LA TELE 
 #EXTVLCOPT:network-caching=3000
+https://tigocloudtf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?k=415ee2ab78f78a5e90eb062381b287b9154cd7b73088c4a793c216a31c7440c9&exp=1700746344
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235204.ts
 #EXTINF:0 group-title="PARAGUAY",PY | radio venus 
 #EXTVLCOPT:network-caching=3000
