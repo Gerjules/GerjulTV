@@ -26,7 +26,7 @@ https://tigocloudtf.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u
 #EXTINF:0 tvg-logo="https://www.paravision.com.py/img/paravision-logo.jpg" group-title="PARAGUAY",PY | PARAVISIÓN 
 #EXTVLCOPT:network-caching=3000
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235206.ts
-#EXTINF:0 tvg-logo="https://latele.com.py/wp-content/uploads/2023/09/logo-latele.png group-title="PARAGUAY",PY | LA TELE 
+#EXTINF:0 tvg-logo="https://latele.com.py/wp-content/uploads/2023/09/logo-latele.png" group-title="PARAGUAY",PY | LA TELE 
 #EXTVLCOPT:network-caching=3000
 https://tigocloudtf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?k=415ee2ab78f78a5e90eb062381b287b9154cd7b73088c4a793c216a31c7440c9&exp=1700746344
 #EXTINF:0 group-title="PARAGUAY",PY | radio venus 
