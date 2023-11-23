@@ -32,7 +32,7 @@ https://tigocloudtf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?k=415e
 #EXTINF:0 tvg-logo="https://www.venus.com.py/wp-content/uploads/2019/05/logo2-large@2x.png" group-title="PARAGUAY",PY | radio venus 
 #EXTVLCOPT:network-caching=3000
 http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlNTso9IFZLD7iowly816h6M/ts
-#EXTINF:200 group-title="PARAGUAY",PY | ÑANDUTÍ TV
+#EXTINF:200 tvg-logo="https://nanduti.com.py/wp-content/uploads/2023/08/nanduti_diario_digital.svg" group-title="PARAGUAY",PY | ÑANDUTÍ TV
 #EXTVLCOPT:network-caching=3000
 https://tvdatta.com:3839/live/nandutitvlive.m3u8
 #EXTINF:0 group-title="PARAGUAY",PY | NOTICIAS PY
