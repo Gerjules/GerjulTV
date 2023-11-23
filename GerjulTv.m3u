@@ -56,7 +56,7 @@ https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 #EXTINF:25 tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Sur_TV_Itap%C3%BAa_logo_2022.png" group-title="PARAGUAY",PY | TAPUA TV
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/marianotv/marianotv/playlist.m3u8
-#EXTINF:0 group-title="PARAGUAY",PY | Obedira TV (720p)
+#EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s13903/images/logod.png?t=156708" group-title="PARAGUAY",PY | Obedira TV (720p)
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8
 #EXTINF:30 group-title="PARAGUAY",PY | Oviedo TV (720p) [Not 24/7]
