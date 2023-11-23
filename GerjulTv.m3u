@@ -59,7 +59,7 @@ https://59ce1298bfb98.streamlock.net/marianotv/marianotv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s13903/images/logod.png?t=156708" group-title="PARAGUAY",PY | Obedira TV (720p)
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8
-#EXTINF:30 group-title="PARAGUAY",PY | Oviedo TV (720p) [Not 24/7]
+#EXTINF:30 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRU2xzd73qpPf7ZoRzs9NnNst9WocNUE-ElOTY4T9YGA&s" group-title="PARAGUAY",PY | Oviedo TV (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/playlist.m3u8
 #EXTINF:0 group-title="PARAGUAY",PY | Suceso TV (720p)
