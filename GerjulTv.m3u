@@ -35,7 +35,7 @@ http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlNTso9IFZLD7iowly816h6M/ts
 #EXTINF:200 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/36249.v6.png" group-title="PARAGUAY",PY | ÑANDUTÍ TV
 #EXTVLCOPT:network-caching=3000
 https://tvdatta.com:3839/live/nandutitvlive.m3u8
-#EXTINF:0 group-title="PARAGUAY",PY | NOTICIAS PY
+#EXTINF:0 tvg-logo="https://i0.wp.com/npy.com.py/wp-content/uploads/2023/10/LOGO-NPY-2024.png?fit=4224%2C1987&ssl=1" group-title="PARAGUAY",PY | NOTICIAS PY
 #EXTVLCOPT:network-caching=3000
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235205.ts
 #EXTINF:28 group-title="PARAGUAY",PY | ALMAYA TV
