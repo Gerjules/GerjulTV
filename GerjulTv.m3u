@@ -29,7 +29,7 @@ http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235206.ts
 #EXTINF:0 tvg-logo="https://latele.com.py/wp-content/uploads/2023/09/logo-latele.png" group-title="PARAGUAY",PY | LA TELE 
 #EXTVLCOPT:network-caching=3000
 https://tigocloudtf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?k=415ee2ab78f78a5e90eb062381b287b9154cd7b73088c4a793c216a31c7440c9&exp=1700746344
-#EXTINF:0 group-title="PARAGUAY",PY | radio venus 
+#EXTINF:0 tvg-logp="https://www.venus.com.py/wp-content/uploads/2019/05/logo2-large@2x.png" group-title="PARAGUAY",PY | radio venus 
 #EXTVLCOPT:network-caching=3000
 http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlNTso9IFZLD7iowly816h6M/ts
 #EXTINF:200 group-title="PARAGUAY",PY | ÑANDUTÍ TV
