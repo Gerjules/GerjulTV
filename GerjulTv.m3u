@@ -44,9 +44,6 @@ https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
 #EXTINF:29 tvg-logo="https://cdn.mitvstatic.com/assets/mitv-logo-white-text.png" group-title="PARAGUAY",PY | MI TV
 #EXTVLCOPT:network-caching=3000
 https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w735296660.m3u8
-#EXTINF:30 tvg-logo="https://www.tvs.com.py/wp-content/uploads/2021/11/Secuencia-03.00_00_01_11.Imagen-fija003.png" group-title="PARAGUAY",PY | TVS
-#EXTVLCOPT:network-caching=3000
-https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8?k=1d25209afd7c9b0e4898d35c8295d449ff87b42c53ea4da38aae4d2d9614c9a7&exp=1611679347
 #EXTINF:29 tvg-logo="https://4dmasnoticias.com.py/logo.jpeg" group-title="PARAGUAY",4DmásNoticias TV (1080p)
 #EXTVLCOPT:network-caching=3000
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
@@ -74,7 +71,7 @@ https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 #EXTINF:28 group-title="PARAGUAY",PY | TVS Encarnación (720p)
 #EXTVLCOPT:network-caching=3000
 https://rds3gen.desdeparaguay.net/tvs/tvs/playlist.m3u8
-#EXTINF:0,Educanal (720p) [Not 24/7]
+#EXTINF:0, tvg-logo"https://www.coolstreaming.us/img/ch/image10833125328.jpg" group-tittle="PARAGUAY ,PY | Educanal (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
 #EXTINF:0 group-tittle="PARAGUAY", PY | Canal Pro TV
