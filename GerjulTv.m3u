@@ -111,7 +111,7 @@ https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
 
-#EXTINF:60 tvg-logo="https://www.canalesdeparaguay.com/2021/09/canal-farra-play-tv-en-vivo.html" group-title="PARAGUAY",PY | FARRA PLAY
+#EXTINF:60 tvg-logo="https://1.bp.blogspot.com/-AKkjW3nVVKU/YTX_Ug-8mcI/AAAAAAAAQZM/oguL0QWlbfQAJczDKJqAdN3UV5PfK8D9ACLcBGAsYHQ/s900/Farra%2BPlay%2BTV%2Ben%2Bvivo.jpg" group-title="PARAGUAY",PY | FARRA PLAY
 #EXTVLCOPT:network-caching=3000
 http://159.203.148.226/live/farra_low.m3u8
 
