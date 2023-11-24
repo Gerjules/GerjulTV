@@ -115,7 +115,7 @@ https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
 #EXTVLCOPT:network-caching=3000
 http://159.203.148.226/live/farra_low.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjlN5UIpGVfuZhac1BdpKK7meUZqO5_aQOQ7LNNvMH1A&s" group-title="PARAGUAY",PY | KOA TV
+#EXTINF:0 tvg-logo="https://www.koaradio.net/index_htm_files/4.jpg" group-title="PARAGUAY",PY | KOA TV
 #EXTVLCOPT:network-caching=3000
 https://panel.dattalive.com/8028/8028/playlist.m3u8
 
