@@ -1,96 +1,128 @@
 #EXTM3U
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Abc_color.PNG" group-title="PARAGUAY",PY | ABC TV
 #EXTVLCOPT:network-caching=3000
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+
 #EXTINF:37 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png" group-title="PARAGUAY",PY | SNT
 #EXTVLCOPT:network-caching=3000
 https://deh05ueq91v6s.cloudfront.net/SNTPY/0bd4cfaf086c4ac0ce0101172a42ba20.sdp/SNTPY/SNTPY2/chunks.m3u8
+
 #EXTINF:0 tvg-logo="https://trece.com.py/wp-content/uploads/sites/2/2022/09/trece.jpg" group-title="PARAGUAY",PY | TRECE
 #EXTVLCOPT:network-caching=3000
 https://tigocloudgen.desdeparaguay.net/trecetv/trecetv_baja/chunklist_w1196893029.m3u8?k=406497d0d8424d72e52021fad7657d49f5887085eb535695f5715b90bad8d2c7&exp=1686070703
+
 #EXTINF:40 tvg-logo="https://d1y2i2odvciezg.cloudfront.net/wp-content/uploads/2023/07/logo.png" group-title="PARAGUAY",PY | C9N (480p)
 #EXTVLCOPT:network-caching=3000
 https://deh05ueq91v6s.cloudfront.net/C9NPY/031fe10f99063bb9e8271716ce50b133.sdp/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png" group-title="PARAGUAY",PY | UNICANAL 
 #EXTVLCOPT:network-caching=3000
 https://tigocloudgen.desdeparaguay.net/unicanal/unicanal_baja/chunklist_w904988084.m3u8?k=7b1d356cc7ec36bb21f1e96cfbd0415bc0b0c388fe500cb07566c44d89d6d7ab&exp=1698514724
+
 #EXTINF:30 tvg-logo="http://www.brunomasi.tv/img/logo-bmcc.png" group-title="PARAGUAY",PY | Bruno Masi TV
 #EXTVLCOPT:network-caching=3000
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
+
 #EXTINF:30 tvg-logo="https://www.caritas.com.py/wp-content/uploads/2022/04/l1.jpg"group-title="PARAGUAY",PY | Cáritas TV
 #EXTVLCOPT:network-caching=3000
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
+
 #EXTINF:8 tvg-logo="https://telefuturo.com.py/wp-content/uploads/2022/11/cropped-logo-telefuturo.png" group-title="PARAGUAY",PY | Telefuturo
 #EXTVLCOPT:network-caching=3000
 https://tigocloudtf.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8?k=da453798b76af8b43cc507efafad4473174153dc0ace094b2fd589440431fd4d&exp=1700745172
+
 #EXTINF:0 tvg-logo="https://www.paravision.com.py/img/paravision-logo.jpg" group-title="PARAGUAY",PY | PARAVISIÓN 
 #EXTVLCOPT:network-caching=3000
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235206.ts
+
 #EXTINF:0 tvg-logo="https://latele.com.py/wp-content/uploads/2023/09/logo-latele.png" group-title="PARAGUAY",PY | LA TELE 
 #EXTVLCOPT:network-caching=3000
 https://tigocloudtf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?k=415ee2ab78f78a5e90eb062381b287b9154cd7b73088c4a793c216a31c7440c9&exp=1700746344
+
 #EXTINF:0 tvg-logo="https://www.venus.com.py/wp-content/uploads/2019/05/logo2-large@2x.png" group-title="PARAGUAY",PY | radio venus 
 #EXTVLCOPT:network-caching=3000
 http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlNTso9IFZLD7iowly816h6M/ts
+
 #EXTINF:200 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/36249.v6.png" group-title="PARAGUAY",PY | ÑANDUTÍ TV
 #EXTVLCOPT:network-caching=3000
 https://tvdatta.com:3839/live/nandutitvlive.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/NPY_%28Noticias_Paraguay%29.png/800px-NPY_%28Noticias_Paraguay%29.png" group-title="PARAGUAY",PY | NOTICIAS PY
 #EXTVLCOPT:network-caching=3000
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235205.ts
+
 #EXTINF:28 tvg-logo="https://paraguayonline.net/wp-content/uploads/elementor/thumbs/WhatsApp-Image-2021-09-06-at-15.38.57-pcqaqvpgjkdcjhr0i42e39agcsbbm14xwe6ndgvg94.jpeg" group-title="PARAGUAY",PY | ALMAYA TV
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
+
 #EXTINF:29 tvg-logo="https://cdn.mitvstatic.com/assets/mitv-logo-white-text.png" group-title="PARAGUAY",PY | MI TV
 #EXTVLCOPT:network-caching=3000
 https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w735296660.m3u8
+
 #EXTINF:29 tvg-logo="https://4dmasnoticias.com.py/logo.jpeg" group-title="PARAGUAY",PY | 4DmásNoticias TV (1080p)
 #EXTVLCOPT:network-caching=3000
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://appnew.megainfoapp.com/files/1/Dismar_TV.png" group-title="PARAGUAY",PY | Dismar TV (720p)
 #EXTVLCOPT:network-caching=3000
 https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
+
 #EXTINF:25 tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Sur_TV_Itap%C3%BAa_logo_2022.png" group-title="PARAGUAY",PY | TAPUA TV
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/marianotv/marianotv/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s13903/images/logod.png?t=156708" group-title="PARAGUAY",PY | Obedira TV (720p)
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8
+
 #EXTINF:30 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRU2xzd73qpPf7ZoRzs9NnNst9WocNUE-ElOTY4T9YGA&s" group-title="PARAGUAY",PY | Oviedo TV (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://radiosuceso.com/wp-content/uploads/2023/11/Mesa-de-trabajo-7-e1699726317334.png" group-title="PARAGUAY",PY | Suceso TV (720p)
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+
 #EXTINF:27 group-title="PARAGUAY",PY |  ESTACIÓN CRISTAL TV
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
+
 #EXTINF:0 group-title="PARAGUAY",PY | Somos Del Este (720p)
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+
 #EXTINF:28 group-title="PARAGUAY",PY | TVS Encarnación (720p)
 #EXTVLCOPT:network-caching=3000
 https://rds3gen.desdeparaguay.net/tvs/tvs/playlist.m3u8
-#EXTINF:0, tvg-logo="https://www.coolstreaming.us/img/ch/image10833125328.jpg" group-title="PARAGUAY" ,PY | Educanal (720p) [Not 24/7]
+
+#EXTINF:0, tvg-logo="https://www.coolstreaming.us/img/ch/image10833125328.jpg" group-title="PARAGUAY",PY | Educanal
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
+
 #EXTINF:0 group-tittle="PARAGUAY", PY | Canal Pro TV
 https://usher.ttvnw.net/api/channel/hls/canalpropy.m3u8?acmb=e30%3D&allow_source=true&browser_family=chrome&browser_version=109.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=696719&platform=web&play_session_id=83dabd5ec1214bf0a85a919e7a79a12d&player_backend=mediaplayer&player_version=1.23.0&playlist_include_framerate=true&reassignments_supported=true&sig=d644a5c50642062913c16238e01f4ac348622317&supported_codecs=h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22canalpropy%22%2C%22channel_id%22%3A913322166%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%2291c7425ee90f5b88%22%2C%22expires%22%3A1700827525%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.40.61.204%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
+
 #EXTINF:29 group-title="PARAGUAY",PY | RTV CANAL 12
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
+
 #EXTINF:28 group-title="PARAGUAY",PY | SUCESO TV
 #EXTVLCOPT:network-caching=1000
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+
 #EXTINF:60 group-title="PARAGUAY",PY | FARRA PLAY
 #EXTVLCOPT:network-caching=3000
 http://159.203.148.226/live/farra_low.m3u8
+
 #EXTINF:0 group-title="PARAGUAY",PY | KOA TV
 #EXTVLCOPT:network-caching=3000
 https://panel.dattalive.com/8028/8028/playlist.m3u8
+
 #EXTINF:30 group-title="PARAGUAY",PY | UGA TV
 #EXTVLCOPT:network-caching=3000
 https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
+
 #EXTINF:0 group-title="PARAGUAY",PY | Fanpop TV (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=3000
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
