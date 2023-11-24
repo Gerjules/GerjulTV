@@ -80,10 +80,6 @@ https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://radiosuceso.com/wp-content/uploads/2023/11/Mesa-de-trabajo-7-e1699726317334.png" group-title="PARAGUAY",PY | Suceso TV (720p)
-#EXTVLCOPT:network-caching=3000
-https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
-
 #EXTINF:27 tvg-logo="https://www.coolstreaming.us/img/ch/image54318081820.jpg" group-title="PARAGUAY",PY |  ESTACIÓN CRISTAL TV
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
@@ -100,7 +96,7 @@ https://rds3gen.desdeparaguay.net/tvs/tvs/playlist.m3u8
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
 
-#EXTINF:0 group-tittle="PARAGUAY", PY | Canal Pro TV
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-mk-JLbi47Lo/YTX8ybr6vAI/AAAAAAAAQYs/WXMn9u2pjH0M1n_j0LLzfQpiPS5H1sqwACLcBGAsYHQ/s72-w152-h152-c/Canal%2BPRO%2Ben%2Bvivo.jpg" group-tittle="PARAGUAY", PY | Canal Pro TV
 https://usher.ttvnw.net/api/channel/hls/canalpropy.m3u8?acmb=e30%3D&allow_source=true&browser_family=chrome&browser_version=109.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=696719&platform=web&play_session_id=83dabd5ec1214bf0a85a919e7a79a12d&player_backend=mediaplayer&player_version=1.23.0&playlist_include_framerate=true&reassignments_supported=true&sig=d644a5c50642062913c16238e01f4ac348622317&supported_codecs=h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22canalpropy%22%2C%22channel_id%22%3A913322166%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%2291c7425ee90f5b88%22%2C%22expires%22%3A1700827525%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.40.61.204%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
 
 #EXTINF:29 group-title="PARAGUAY",PY | RTV CANAL 12
