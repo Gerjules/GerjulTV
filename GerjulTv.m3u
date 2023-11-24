@@ -71,7 +71,7 @@ https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 #EXTINF:28 group-title="PARAGUAY",PY | TVS Encarnación (720p)
 #EXTVLCOPT:network-caching=3000
 https://rds3gen.desdeparaguay.net/tvs/tvs/playlist.m3u8
-#EXTINF:0, tvg-logo"https://www.coolstreaming.us/img/ch/image10833125328.jpg" group-tittle="PARAGUAY ,PY | Educanal (720p) [Not 24/7]
+#EXTINF:0, tvg-logo"https://www.coolstreaming.us/img/ch/image10833125328.jpg" group-tittle="PARAGUAY" ,PY | Educanal (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
 #EXTINF:0 group-tittle="PARAGUAY", PY | Canal Pro TV
