@@ -2082,34 +2082,6 @@ https://i.mjh.nz/PlutoTV/5dd6dae8ce788b0009eaf77b-alt.m3u8
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/b42clampdlbemhuw66z6h/terror.png?rlkey=50umnbvkc7x3mqz8yjadqxcmj&dl=0" group-title="✅ 24/7 Cine",cine terror
-http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/306264
-#EXTINF:-1 tvg-id="" tvg-name="Cine Estelar ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ua14wawtuzuw96dhfnktr/estelar.png?rlkey=ck7nl2l89chx3gtksetfgvaja&dl=0" group-title="✅ 24/7 Cine",Cine Estelar ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318598
-#EXTINF:-1 tvg-id="" tvg-name="Cinema DC Comics ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wall34fkzo2kli9idik09/dc_comics.png?rlkey=54sdogxmiraiabctshdf20t53&dl=0" group-title="✅ 24/7 Cine",Cinema DC Comics ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318470
-#EXTINF:-1 tvg-id="" tvg-name="Cinema DC Universe ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mec5qt4epswy9jd7kszys/DC_Universe.png?rlkey=p9z9evzgnvod73od1y2xipp7l&dl=0" group-title="✅ 24/7 Cine",Cinema DC Universe ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318471
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Family ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xts7zy5ypr6et1hqu97k2/disneyfamily.png?rlkey=wshlcpyi3p6gg5kxecbcauu79&dl=0" group-title="✅ 24/7 Cine",Cinema Disney Family ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318472
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Pixar ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a7rekky8c537z7tzt83qx/pixar.png?rlkey=57o13vmkh4z4wbh5kc79mzlv0&dl=0" group-title="✅ 24/7 Cine",Cinema Disney Pixar ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318473
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Dreamworks ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/sife3adgeayl9wwtj1hzs/Dreamworks.png?rlkey=czbukahkshi4adz75bzuxrowo&dl=0" group-title="✅ 24/7 Cine",Cinema Dreamworks ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318474
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Familia ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ikc2v9khxgwzigr7mnmym/cinemafani.png?rlkey=8ysunbzswfy82g718g8q0ad8i&dl=0" group-title="✅ 24/7 Cine",Cinema Familia ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318475
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Happy Madison ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/nsp7467m4754reuuo5faw/madison.png?rlkey=5uifc07ixi69c8aim9r9wg42j&dl=0" group-title="✅ 24/7 Cine",Cinema Happy Madison ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318476
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Horror Classics ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/w6ufd4fa4iy3nm4yf0g6z/horrorclasic.png?rlkey=311xctkzarma796ro0reh8g1k&dl=0" group-title="✅ 24/7 Cine",Cinema Horror Classics ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318477
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Horror ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zylu3z75aqagtezazsmkb/horror.png?rlkey=96h63g3jcv57dj7alkxeanvph&dl=0" group-title="✅ 24/7 Cine",Cinema Horror ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318478
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Lego Movies ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/j7j64a990goiyg41mdft5/lego.png?rlkey=ir4gpj7gchg3cz2ipase5s2rz&dl=0" group-title="✅ 24/7 Cine",Cinema Lego Movies ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318479
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Marvel Animated ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7yjqta6ggf396zdqhxrxv/marvelanim.png?rlkey=itggj9mpyp0zb1lctd3iyhagz&dl=0" group-title="✅ 24/7 Cine",Cinema Marvel Animated ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318480
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Marvel Studios ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8lyzyc5knxogr3249c6gv/marvelstud.png?rlkey=kc2o9d79zc2lba63mavm0574i&dl=0" group-title="✅ 24/7 Cine",Cinema Marvel Studios ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318481
 #EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema 00
 http://pinkpanther.uk:8080/35W7xfhYuS3L/7vgMsC6Y7brA/50920
 #EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema  01
