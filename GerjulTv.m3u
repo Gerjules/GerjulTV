@@ -84,7 +84,7 @@ https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/playlist.m3u8
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
 
-#EXTINF:27 group-title="PARAGUAY",PY |  ESTACIÓN CRISTAL TV
+#EXTINF:27 tvg-logo="https://www.coolstreaming.us/img/ch/image54318081820.jpg" group-title="PARAGUAY",PY |  ESTACIÓN CRISTAL TV
 #EXTVLCOPT:network-caching=3000
 https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
 
