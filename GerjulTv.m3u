@@ -30,7 +30,7 @@ https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 
 #EXTINF:8 tvg-logo="https://telefuturo.com.py/wp-content/uploads/2022/11/cropped-logo-telefuturo.png" group-title="PARAGUAY",PY | Telefuturo
 #EXTVLCOPT:network-caching=3000
-https://tigocloudtf.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8?k=da453798b76af8b43cc507efafad4473174153dc0ace094b2fd589440431fd4d&exp=1700745172
+https://tigocloud.desdeparaguay.net/desdepy-od/mp4:sesion.mp4/chunklist_w912075846.m3u8
 
 #EXTINF:0 tvg-logo="https://www.paravision.com.py/img/paravision-logo.jpg" group-title="PARAGUAY",PY | PARAVISIÓN 
 #EXTVLCOPT:network-caching=3000
