@@ -1049,85 +1049,14 @@ https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 https://ammo-espanol-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=VeRRLspvSX7Z8bzwMLKr&channelId=5f5132e362fe160040f26c15&uid=1fqebg2d7-u1fv-ipo-06a4-myngu59tko/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8
 
 
-
-#EXTINF:0 group-title="PELICULAS",CINE| cine latino
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4136
-#EXTINF:0 group-title="PELICULAS",CINE| cinex
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1068350
-#EXTINF:0 group-title="PELICULAS",CINE| Cine Claro
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4145
-#EXTINF:0 group-title="PELICULAS",CINE| De Pelicula
-#EXTVLCOPT:network-caching=3000
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102361.ts
-#EXTINF:0 group-title="PELICULAS",CINE| De Pelicula Clasica
-#EXTVLCOPT:network-caching=3000
-http://gotv.vip:8880/Angel2023/Angel2023/140039
-#EXTINF:0 group-title="PELICULAS",CINE| DHE
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/24180
-#EXTINF:0 group-title="PELICULAS",CINE| Borde dorado
-#EXTVLCOPT:network-caching=3000
-http://gotv.vip:8880/Angel2023/Angel2023/85
-#EXTINF:0 group-title="PELICULAS",CINE| Primer ministro dorado
-#EXTVLCOPT:network-caching=3000
-http://gotv.vip:8880/Angel2023/Angel2023/245
-#EXTINF:0 group-title="PELICULAS",CINE| Dorado
-#EXTVLCOPT:network-caching=3000
-http://gotv.vip:8880/Angel2023/Angel2023/244%20%20
-#EXTINF:0 group-title="PELICULAS",CINE| dorado plus
-#EXTVLCOPT:network-caching=3000
-http://gotv.vip:8880/Angel2023/Angel2023/86
-#EXTINF:0 group-title="PELICULAS",CINE| Espacio
-#EXTVLCOPT:network-caching=3000
-http://gotv.vip:8880/Angel2023/Angel2023/113
 #EXTINF:0 group-title="PELICULAS",CINE| primer ministro universal
 #EXTVLCOPT:network-caching=3000
 http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHI1phC-Npv73caM2Q53jCkc
-#EXTINF:0 group-title="PELICULAS",CINE| Supremo+
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155799
-#EXTINF:0 group-title="PELICULAS",CINE| SYFY
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/3958
-#EXTINF:0 group-title="PELICULAS",CINE| CINE DINAMITA
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4142
-#EXTINF:0 group-title="PELICULAS",CINE| ME SENTÉ
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155798
-#EXTINF:0 group-title="PELICULAS",CINE| SONY
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1143816
-#EXTINF:0 group-title="PELICULAS",CINE| EUROPA EUROPA
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/33359
-#EXTINF:0 group-title="PELICULAS",CINE| Canal primordial
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155799
-#EXTINF:0 group-title="PELICULAS",CINE| tu cine
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/7981
+
 #EXTINF:0 group-title="PELICULAS",CINE| fusión fmtv
 #EXTVLCOPT:network-caching=3000
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:0 group-title="PELICULAS",CINE| toda la vida
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155873
-#EXTINF:0 group-title="PELICULAS",CINE| TV SUNDANCE
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4101
-#EXTINF:0 group-title="PELICULAS",CINE| PÁNICO TV
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/7436
-#EXTINF:0 group-title="PELICULAS",CINE| TV MÓRBIDA
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/33364
-#EXTINF:0 group-title="PELICULAS",CINE| CINE ESTELAR
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1156007
+
 
 #EXTINF:0 group-title="ENTRETENIMIENTO", NUESTRA VISIÓN
 #EXTVLCOPT:network-caching=3000
@@ -1136,10 +1065,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f
 #EXTINF:25 group-title="INFANTIL", REETRO PLAY TV
 #EXTVLCOPT:network-caching=3000
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
-
-#EXTINF:30 group-title="PELICULAS", RETRO PLUS TV CINE
-#EXTVLCOPT:network-caching=3000
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
 #EXTINF:0 group-title="PELICULAS", BBC DRAMA
 #EXTVLCOPT:network-caching=3000
@@ -1193,13 +1118,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f59f50cc36a9400074
 #EXTVLCOPT:network-caching=3000
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
-#EXTINF:60 group-title="PELICULAS", HORRORFY
-#EXTVLCOPT:network-caching=3000
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/6105ccc7-7a04-41f9-b07c-2705f56a0d8b/4.m3u8
-
-#EXTINF:30 group-title="PELICULAS", Cine Terror
-#EXTVLCOPT:network-caching=3000
-https://v3.playerlatino.live/stream/m3u8/693
 
 #EXTINF:0 group-title="PELICULAS", * Cine Terror
 #EXTVLCOPT:network-caching=3000
