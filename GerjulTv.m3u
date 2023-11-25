@@ -2413,87 +2413,28 @@ http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/288217
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3nvYwj9/nat-geo-mundo.png" group-title="⭐️ Cultura Premium",LAT: NatGeo Mundo HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/288218
 
-#EXTINF:0 group-title="PELICULAS",cine terror
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/306264
 
 #EXTINF:0 group-title="PELICULAS",Cine terror
 #EXTVLCOPT:network-caching=3000
 http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/306264
 
-#EXTINF:0 group-title="PELICULAS",cine infantil 
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/305779
-
-#EXTINF:0 group-title="⭐️ Cine Premium",CINE| HBO
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155792
-#EXTINF:0 group-title="⭐️ Cine Premium",CINE| HBO 2
-#EXTVLCOPT:network-caching=3000
-http://gotv.vip:8880/Angel2023/Angel2023/88
-#EXTINF:0 group-title="⭐️ Cine Premium",CINE| HBO+
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4109
-#EXTINF:0 group-title="⭐️ Cine Premium",CINE| Familia HBO
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4017
-#EXTINF:0 group-title="⭐️ Cine Premium",CINE| HBO Extremo
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/44341
-#EXTINF:0 group-title="⭐️ Cine Premium",CINE| HBO Mundial
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1143815
-#EXTINF:0 group-title="⭐️ Cine Premium",CINE| HBO POP
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/47445
-#EXTINF:0 group-title="⭐️ Cine Premium",CINE| firma de HBO
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155796
-#EXTINF:0 group-title="⭐️ Cine Premium",CINE| Cinecanal
-#EXTVLCOPT:network-caching=3000
-http://gotv.vip:8880/Angel2023/Angel2023/36
 
 
 #EXTINF:0 group-title="CULTURA", CGTN
 #EXTVLCOPT:network-caching=3000
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:0 group-title="CULTURA", Discovery Channel
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155807
+
 #EXTINF:0 group-title="CULTURA", Discovery Familia
 #EXTVLCOPT:network-caching=3000
 http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHPw6CcjW_tufp-8Sl2Tpg2M
-#EXTINF:0 group-title="CULTURA", Discovery Investigation
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4123
-#EXTINF:0 group-title="CULTURA", Discovery SCI
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155818
-#EXTINF:0 group-title="CULTURA",Discovery World
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155812
-#EXTINF:0 group-title="CULTURA", History Channel
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155804
-#EXTINF:0 group-title="CULTURA", History Channel 2
-#EXTVLCOPT:network-caching=3000
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHIIjE2M4NdeKzMAtqcMb2vs
-#EXTINF:0 group-title="CULTURA", HGTV
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155823
-#EXTINF:0 group-title="COCINA", Cocina TV
-#EXTVLCOPT:network-caching=3000
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612289&extension=ts&play_token=3zpQUO1DmQ
+
 #EXTINF:0 group-title="SERIES", RCN Novelas  
 #EXTVLCOPT:network-caching=3000
 http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHBffrIqJsaoi8sNueGjk6cw
 #EXTINF:30 group-title="INFANTIL", Latino kids
 #EXTVLCOPT:network-caching=3000
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/chunklist_w112073847.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRYWs2s2/claro-sport.jpg" group-title="DEPORTES",CLARO SPORTS
@@ -2528,7 +2469,7 @@ http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117714
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117715
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpqNnft7/espn2.jpg" group-title="DEPORTES",ESPN 2 ARGENTINA HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117716
-EXTINF:-1 tvg-logo="https://i.postimg.cc/3JgzrFjr/espn3.jpg" group-title="DEPORTES",ESPN 3 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JgzrFjr/espn3.jpg" group-title="DEPORTES",ESPN 3 HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117717
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V61nPM8h/espn.jpg" group-title="DEPORTES",ESPN + ARGENTINA HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117718
