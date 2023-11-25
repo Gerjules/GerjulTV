@@ -2457,250 +2457,252 @@ http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/33364
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1156007
 
 
-#EXTINF:-1 tvg-id="CLAROSA" tvg-name="CLARO SPORTS" tvg-logo="https://i.postimg.cc/qRYWs2s2/claro-sport.jpg" group-title="鈿斤笍  DEPORTES LATINO",CLARO SPORTS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRYWs2s2/claro-sport.jpg" group-title="DEPORTES",CLARO SPORTS
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117701
-#EXTINF:-1 tvg-id="CLAHDA" tvg-name="CLARO SPORTS FULL HD" tvg-logo="https://i.postimg.cc/qRYWs2s2/claro-sport.jpg" group-title="鈿斤笍  DEPORTES LATINO",CLARO SPORTS FULL HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRYWs2s2/claro-sport.jpg" group-title="DEPORTES",CLARO SPORTS FULL HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117702
-#EXTINF:-1 tvg-id="SPOEQ" tvg-name="DIRECTV SPORTS ECUADOR HD" tvg-logo="https://i.postimg.cc/2S7XXQx4/directv-sport.jpg" group-title="鈿斤笍  DEPORTES LATINO",DIRECTV SPORTS ECUADOR HD
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/2S7XXQx4/directv-sport.jpg" group-title="DEPORTES"",DIRECTV SPORTS ECUADOR HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117703
-#EXTINF:-1 tvg-id="SPOURHD" tvg-name="DIRECTV SPORTS URUGUAY HD" tvg-logo="https://i.postimg.cc/2S7XXQx4/directv-sport.jpg" group-title="鈿斤笍  DEPORTES LATINO",DIRECTV SPORTS URUGUAY HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2S7XXQx4/directv-sport.jpg" group-title="DEPORTES",DIRECTV SPORTS URUGUAY HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117704
-#EXTINF:-1 tvg-id="SPOARHD" tvg-name="DIRECTV SPORTS ARGENTINA HD" tvg-logo="https://i.postimg.cc/2S7XXQx4/directv-sport.jpg" group-title="鈿斤笍  DEPORTES LATINO",DIRECTV SPORTS ARGENTINA HD
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/2S7XXQx4/directv-sport.jpg" group-title="DEPORTES",DIRECTV SPORTS ARGENTINA HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117705
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS CHILE HD" tvg-logo="https://i.postimg.cc/2S7XXQx4/directv-sport.jpg" group-title="鈿斤笍  DEPORTES LATINO",DIRECTV SPORTS CHILE HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2S7XXQx4/directv-sport.jpg" group-title="DEPORTES",DIRECTV SPORTS CHILE HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117706
-#EXTINF:-1 tvg-id="SPOCOHD" tvg-name="DIRECTV SPORTS COLOMBIA" tvg-logo="https://i.postimg.cc/2S7XXQx4/directv-sport.jpg" group-title="鈿斤笍  DEPORTES LATINO",DIRECTV SPORTS COLOMBIA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2S7XXQx4/directv-sport.jpg" group-title="DEPORTES",DIRECTV SPORTS COLOMBIA
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117707
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 COLOMBIA HD" tvg-logo="https://i.postimg.cc/PqgC0wyM/directv-sport-2.jpg" group-title="鈿斤笍  DEPORTES LATINO",DIRECTV SPORTS 2 COLOMBIA HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqgC0wyM/directv-sport-2.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 COLOMBIA HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117708
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 ARGENTINA HD" tvg-logo="https://i.postimg.cc/PqgC0wyM/directv-sport-2.jpg" group-title="鈿斤笍  DEPORTES LATINO",DIRECTV SPORTS 2 ARGENTINA HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqgC0wyM/directv-sport-2.jpg" group-title="DEPORTES",DIRECTV SPORTS 2 ARGENTINA HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117709
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS + ARGENTINA HD" tvg-logo="https://i.postimg.cc/2S7XXQx4/directv-sport.jpg" group-title="鈿斤笍  DEPORTES LATINO",DIRECTV SPORTS + ARGENTINA HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2S7XXQx4/directv-sport.jpg" group-title="DEPORTES",DIRECTV SPORTS + ARGENTINA HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117710
-#EXTINF:-1 tvg-id="SPOEQ" tvg-name="DIRECTV SPORTS + ECUADOR HD" tvg-logo="https://i.postimg.cc/2S7XXQx4/directv-sport.jpg" group-title="鈿斤笍  DEPORTES LATINO",DIRECTV SPORTS + ECUADOR HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2S7XXQx4/directv-sport.jpg" group-title="DEPORTES",DIRECTV SPORTS + ECUADOR HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117711
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS + COLOMBIA HD" tvg-logo="https://i.postimg.cc/2S7XXQx4/directv-sport.jpg" group-title="鈿斤笍  DEPORTES LATINO",DIRECTV SPORTS + COLOMBIA HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2S7XXQx4/directv-sport.jpg" group-title="DEPORTES",DIRECTV SPORTS + COLOMBIA HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117712
-#EXTINF:-1 tvg-id="BEINSES" tvg-name="BEIN SPORTS FULL HD" tvg-logo="https://i.postimg.cc/xdgMY81T/being-sport.jpg" group-title="鈿斤笍  DEPORTES LATINO",BEIN SPORTS FULL HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdgMY81T/being-sport.jpg" group-title="DEPORTES",BEIN SPORTS FULL HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117713
-#EXTINF:-1 tvg-id="BEINS1" tvg-name="BEIN SPORTS" tvg-logo="https://i.postimg.cc/xdgMY81T/being-sport.jpg" group-title="鈿斤笍  DEPORTES LATINO",BEIN SPORTS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdgMY81T/being-sport.jpg" group-title="DEPORTES",BEIN SPORTS
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117714
-#EXTINF:-1 tvg-id="EPN2HAA" tvg-name="ESPN ARGENTINA HD" tvg-logo="https://i.postimg.cc/sD3nVdTx/espn.jpg" group-title="鈿斤笍  DEPORTES LATINO",ESPN ARGENTINA HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sD3nVdTx/espn.jpg" group-title="DEPORTES",ESPN ARGENTINA HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117715
-#EXTINF:-1 tvg-id="EPN2HAA" tvg-name="ESPN 2 ARGENTINA HD" tvg-logo="https://i.postimg.cc/MpqNnft7/espn2.jpg" group-title="鈿斤笍  DEPORTES LATINO",ESPN 2 ARGENTINA HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpqNnft7/espn2.jpg" group-title="DEPORTES",ESPN 2 ARGENTINA HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117716
-#EXTINF:-1 tvg-id="EPN2HAA" tvg-name="ESPN 3 HD" tvg-logo="https://i.postimg.cc/3JgzrFjr/espn3.jpg" group-title="鈿斤笍  DEPORTES LATINO",ESPN 3 HD
+
+EXTINF:-1 tvg-logo="https://i.postimg.cc/3JgzrFjr/espn3.jpg" group-title="DEPORTES",ESPN 3 HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117717
-#EXTINF:-1 tvg-id="EPN2HAA" tvg-name="ESPN + ARGENTINA HD" tvg-logo="https://i.postimg.cc/V61nPM8h/espn.jpg" group-title="鈿斤笍  DEPORTES LATINO",ESPN + ARGENTINA HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V61nPM8h/espn.jpg" group-title="DEPORTES",ESPN + ARGENTINA HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117718
-#EXTINF:-1 tvg-id="ESPN2CL" tvg-name="ESPN 2 CHILE HD" tvg-logo="https://i.postimg.cc/MpqNnft7/espn2.jpg" group-title="鈿斤笍  DEPORTES LATINO",ESPN 2 CHILE HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpqNnft7/espn2.jpg" group-title="DEPORTES",ESPN 2 CHILE HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117719
-#EXTINF:-1 tvg-id="ESP3HDA" tvg-name="ESPN 3 CHILE HD" tvg-logo="https://i.postimg.cc/3JgzrFjr/espn3.jpg" group-title="鈿斤笍  DEPORTES LATINO",ESPN 3 CHILE HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JgzrFjr/espn3.jpg" group-title="DEPORTES",ESPN 3 CHILE HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117720
-#EXTINF:-1 tvg-id="ESPN2CH" tvg-name="ESPN COLOMBIA HD" tvg-logo="https://i.postimg.cc/sD3nVdTx/espn.jpg" group-title="鈿斤笍  DEPORTES LATINO",ESPN COLOMBIA HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sD3nVdTx/espn.jpg" group-title="DEPORTES",ESPN COLOMBIA HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117721
-#EXTINF:-1 tvg-id="ESPN2CH" tvg-name="ESPN 2 COLOMBIA HD" tvg-logo="https://i.postimg.cc/MpqNnft7/espn2.jpg" group-title="鈿斤笍  DEPORTES LATINO",ESPN 2 COLOMBIA HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpqNnft7/espn2.jpg" group-title="DEPORTES",ESPN 2 COLOMBIA HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117722
-#EXTINF:-1 tvg-id="ESP3HDA" tvg-name="ESPN 3 COLOMBIA HD" tvg-logo="https://i.postimg.cc/3JgzrFjr/espn3.jpg" group-title="鈿斤笍  DEPORTES LATINO",ESPN 3 COLOMBIA HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JgzrFjr/espn3.jpg" group-title="DEPORTES",ESPN 3 COLOMBIA HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117723
-#EXTINF:-1 tvg-id="PresumiendoMexico.mx" tvg-name="ESPN MEXICO HD" tvg-logo="https://i.postimg.cc/sD3nVdTx/espn.jpg" group-title="鈿斤笍  DEPORTES LATINO",ESPN MEXICO HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sD3nVdTx/espn.jpg" group-title="DEPORTES",ESPN MEXICO HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117724
-#EXTINF:-1 tvg-id="PresumiendoMexico.mx" tvg-name="ESPN 2 MEXICO HD" tvg-logo="https://i.postimg.cc/MpqNnft7/espn2.jpg" group-title="鈿斤笍  DEPORTES LATINO",ESPN 2 MEXICO HD
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpqNnft7/espn2.jpg" group-title="DEPORTES",ESPN 2 MEXICO HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117725
-#EXTINF:-1 tvg-id="PresumiendoMexico.mx" tvg-name="ESPN 3 MEXICO HD" tvg-logo="https://i.postimg.cc/3JgzrFjr/espn3.jpg" group-title="鈿斤笍  DEPORTES LATINO",ESPN 3 MEXICO HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JgzrFjr/espn3.jpg" group-title="DEPORTES",ESPN 3 MEXICO HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117726
-#EXTINF:-1 tvg-id="FS2AR" tvg-name="FOX SPORTS ARGENTINA HD" tvg-logo="https://i.postimg.cc/nryQxyk5/fox-sport.jpg" group-title="鈿斤笍  DEPORTES LATINO",FOX SPORTS ARGENTINA HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nryQxyk5/fox-sport.jpg" group-title="DEPORTES",FOX SPORTS ARGENTINA HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117727
-#EXTINF:-1 tvg-id="FS2ARH2" tvg-name="FOX SPORTS 2 ARGENTINA HD" tvg-logo="https://i.postimg.cc/VkdNffvV/fox-sport-2.jpg" group-title="鈿斤笍  DEPORTES LATINO",FOX SPORTS 2 ARGENTINA HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkdNffvV/fox-sport-2.jpg" group-title="DEPORTES",FOX SPORTS 2 ARGENTINA HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117728
-#EXTINF:-1 tvg-id="FS2AR" tvg-name="FOX SPORTS 3 ARGENTINA HD" tvg-logo="https://i.postimg.cc/hvzC47FG/fox-sport-3.jpg" group-title="鈿斤笍  DEPORTES LATINO",FOX SPORTS 3 ARGENTINA HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvzC47FG/fox-sport-3.jpg" group-title="DEPORTES",FOX SPORTS 3 ARGENTINA HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117729
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM  ARGENTINA HD" tvg-logo="https://i.postimg.cc/sD3nVdTx/espn.jpg" group-title="鈿斤笍  DEPORTES LATINO",ESPN PREMIUM  ARGENTINA HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sD3nVdTx/espn.jpg" group-title="DEPORTES",ESPN PREMIUM  ARGENTINA HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117730
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 CHILE HD" tvg-logo="https://i.postimg.cc/VkdNffvV/fox-sport-2.jpg" group-title="鈿斤笍  DEPORTES LATINO",FOX SPORTS 2 CHILE HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkdNffvV/fox-sport-2.jpg" group-title="DEPORTES",FOX SPORTS 2 CHILE HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117731
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 CHILE HD" tvg-logo="https://i.postimg.cc/hvzC47FG/fox-sport-3.jpg" group-title="鈿斤笍  DEPORTES LATINO",FOX SPORTS 3 CHILE HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvzC47FG/fox-sport-3.jpg" group-title="DEPORTES",FOX SPORTS 3 CHILE HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117732
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS  COLOMBIA HD" tvg-logo="https://i.postimg.cc/nryQxyk5/fox-sport.jpg" group-title="鈿斤笍  DEPORTES LATINO",FOX SPORTS  COLOMBIA HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nryQxyk5/fox-sport.jpg" group-title="DEPORTES",FOX SPORTS  COLOMBIA HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117733
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 COLOMBIA HD" tvg-logo="https://i.postimg.cc/VkdNffvV/fox-sport-2.jpg" group-title="鈿斤笍  DEPORTES LATINO",FOX SPORTS 2 COLOMBIA HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkdNffvV/fox-sport-2.jpg" group-title="DEPORTES",FOX SPORTS 2 COLOMBIA HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117734
-#EXTINF:-1 tvg-id="FXSP3NL" tvg-name="FOX SPORTS 3 HD" tvg-logo="https://i.postimg.cc/hvzC47FG/fox-sport-3.jpg" group-title="鈿斤笍  DEPORTES LATINO",FOX SPORTS 3 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvzC47FG/fox-sport-3.jpg" group-title="DEPORTES",FOX SPORTS 3 HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117735
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS MEXICO HD" tvg-logo="https://i.postimg.cc/nryQxyk5/fox-sport.jpg" group-title="鈿斤笍  DEPORTES LATINO",FOX SPORTS MEXICO HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nryQxyk5/fox-sport.jpg" group-title="DEPORTES",FOX SPORTS MEXICO HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117736
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 MEXICO HD" tvg-logo="https://i.postimg.cc/VkdNffvV/fox-sport-2.jpg" group-title="鈿斤笍  DEPORTES LATINO",FOX SPORTS 2 MEXICO HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkdNffvV/fox-sport-2.jpg" group-title="DEPORTES",FOX SPORTS 2 MEXICO HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117737
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 MEXICO HD" tvg-logo="https://i.postimg.cc/hvzC47FG/fox-sport-3.jpg" group-title="鈿斤笍  DEPORTES LATINO",FOX SPORTS 3 MEXICO HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvzC47FG/fox-sport-3.jpg" group-title="DEPORTES",FOX SPORTS 3 MEXICO HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117738
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS MEXICO HD" tvg-logo="https://i.postimg.cc/2Sr16YJq/sky-sport.jpg" group-title="鈿斤笍  DEPORTES LATINO",SKY SPORTS MEXICO HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2Sr16YJq/sky-sport.jpg" group-title="DEPORTES",SKY SPORTS MEXICO HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117739
-#EXTINF:-1 tvg-id="TENNIS" tvg-name="TENNIS CHANNEL HD" tvg-logo="https://i.postimg.cc/VkvW6X20/tenis-channel.jpg" group-title="鈿斤笍  DEPORTES LATINO",TENNIS CHANNEL HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkvW6X20/tenis-channel.jpg" ggroup-title="DEPORTES",TENNIS CHANNEL HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117745
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES PERU FULL HD" tvg-logo="https://i.postimg.cc/C5VVMh1d/movistar-deportes.jpg" group-title="鈿斤笍  DEPORTES LATINO",MOVISTAR DEPORTES PERU FULL HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5VVMh1d/movistar-deportes.jpg" group-title="DEPORTES",MOVISTAR DEPORTES PERU FULL HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117749
-#EXTINF:-1 tvg-id="TNTESP" tvg-name="TNT SPORTS ARGENTINA HD OPCION 1" tvg-logo="https://i.postimg.cc/RhmkLR2X/tnt-sport-argentina.jpg" group-title="鈿斤笍  DEPORTES LATINO",TNT SPORTS ARGENTINA HD OPCION 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhmkLR2X/tnt-sport-argentina.jpg" group-title="DEPORTES",TNT SPORTS ARGENTINA HD OPCION 1
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117752
-#EXTINF:-1 tvg-id="TNTSPOR" tvg-name="TNT SPORTS ARGENTINA HD OPCION 2" tvg-logo="https://i.postimg.cc/RhmkLR2X/tnt-sport-argentina.jpg" group-title="鈿斤笍  DEPORTES LATINO",TNT SPORTS ARGENTINA HD OPCION 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhmkLR2X/tnt-sport-argentina.jpg" group-title="DEPORTES",TNT SPORTS ARGENTINA HD OPCION 2
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117753
-#EXTINF:-1 tvg-id="TNTSPOR" tvg-name="TNT SPORTS CHILE HD OPCION 2" tvg-logo="https://i.postimg.cc/rphNQBqZ/tnt-sport.jpg" group-title="鈿斤笍  DEPORTES LATINO",TNT SPORTS CHILE HD OPCION 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rphNQBqZ/tnt-sport.jpg" group-title="DEPORTES",TNT SPORTS CHILE HD OPCION 2
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117754
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2 SD CHILE OPCION 2" tvg-logo="https://i.postimg.cc/xdjPGfVb/tnt-sport-2.jpg" group-title="鈿斤笍  DEPORTES LATINO",TNT SPORTS 2 SD CHILE OPCION 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdjPGfVb/tnt-sport-2.jpg" group-title="DEPORTES",TNT SPORTS 2 SD CHILE OPCION 2
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117755
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3 HD CHILE OPCION 1" tvg-logo="https://i.postimg.cc/506qGs04/tnt-sport-3.jpg" group-title="鈿斤笍  DEPORTES LATINO",TNT SPORTS 3 HD CHILE OPCION 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/506qGs04/tnt-sport-3.jpg" group-title="DEPORTES",TNT SPORTS 3 HD CHILE OPCION 1
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117756
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3 CHILE OPCION 2" tvg-logo="https://i.postimg.cc/506qGs04/tnt-sport-3.jpg" group-title="鈿斤笍  DEPORTES LATINO",TNT SPORTS 3 CHILE OPCION 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/506qGs04/tnt-sport-3.jpg" group-title="DEPORTES",TNT SPORTS 3 CHILE OPCION 2
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117757
-#EXTINF:-1 tvg-id="" tvg-name="猸怲NT SPORTS CHILE HD 猸�" tvg-logo="https://i.postimg.cc/rphNQBqZ/tnt-sport.jpg" group-title="鈿斤笍  DEPORTES LATINO",猸怲NT SPORTS CHILE HD 猸�
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rphNQBqZ/tnt-sport.jpg" group-title="DEPORTES",TNT SPORTS CHILE HD 猸�
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117758
-#EXTINF:-1 tvg-id="" tvg-name="猸怲NT SPORTS CHILE SD OPCION 2猸�" tvg-logo="https://i.postimg.cc/rphNQBqZ/tnt-sport.jpg" group-title="鈿斤笍  DEPORTES LATINO",猸怲NT SPORTS CHILE SD OPCION 2猸�
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rphNQBqZ/tnt-sport.jpg" group-title="DEPORTES",TNT SPORTS CHILE SD OPCION 2猸�
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117759
-#EXTINF:-1 tvg-id="TYCHD" tvg-name="TYC SPORTS HD ARGENTINA OPCION 1" tvg-logo="https://i.postimg.cc/Zqw57ywZ/tyc-sport.jpg" group-title="鈿斤笍  DEPORTES LATINO",TYC SPORTS HD ARGENTINA OPCION 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zqw57ywZ/tyc-sport.jpg" group-title="DEPORTES",TYC SPORTS HD ARGENTINA OPCION 1
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117760
-#EXTINF:-1 tvg-id="TYCHD" tvg-name="TYC SPORTS HD ARGENTINA OPCION 2" tvg-logo="https://i.postimg.cc/Zqw57ywZ/tyc-sport.jpg" group-title="鈿斤笍  DEPORTES LATINO",TYC SPORTS HD ARGENTINA OPCION 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zqw57ywZ/tyc-sport.jpg" group-title="DEPORTES",TYC SPORTS HD ARGENTINA OPCION 2
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117761
-#EXTINF:-1 tvg-id="VTVUR" tvg-name="VTV URUGUAY HD OPCION 1" tvg-logo="https://i.postimg.cc/43HX5FHv/vtv.jpg" group-title="鈿斤笍  DEPORTES LATINO",VTV URUGUAY HD OPCION 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43HX5FHv/vtv.jpg" group-title="DEPORTES",VTV URUGUAY HD OPCION 1
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117777
-#EXTINF:-1 tvg-id="VTVUR" tvg-name="VTV URUGUAY HD OPCION 2" tvg-logo="https://i.postimg.cc/43HX5FHv/vtv.jpg" group-title="鈿斤笍  DEPORTES LATINO",VTV URUGUAY HD OPCION 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43HX5FHv/vtv.jpg" group-title="DEPORTES",VTV URUGUAY HD OPCION 2
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117778
-#EXTINF:-1 tvg-id="VTVMUR" tvg-name="VTV + URUGUAY HD OPCION 1" tvg-logo="https://i.postimg.cc/xCrnFyLw/vtv.jpg" group-title="鈿斤笍  DEPORTES LATINO",VTV + URUGUAY HD OPCION 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCrnFyLw/vtv.jpg" group-title="DEPORTES",VTV + URUGUAY HD OPCION 1
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117779
-#EXTINF:-1 tvg-id="VTVMUR" tvg-name="VTV + URUGUAY SD OPCION 2" tvg-logo="https://i.postimg.cc/xCrnFyLw/vtv.jpg" group-title="鈿斤笍  DEPORTES LATINO",VTV + URUGUAY SD OPCION 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCrnFyLw/vtv.jpg" group-title="DEPORTES",VTV + URUGUAY SD OPCION 2
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117780
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES PERU HD OPCION 1" tvg-logo="https://i.postimg.cc/C5VVMh1d/movistar-deportes.jpg" group-title="鈿斤笍  DEPORTES LATINO",MOVISTAR DEPORTES PERU HD OPCION 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5VVMh1d/movistar-deportes.jpg" group-title="DEPORTES",MOVISTAR DEPORTES PERU HD OPCION 1
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117781
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES PERU SD OPCION 2" tvg-logo="https://i.postimg.cc/C5VVMh1d/movistar-deportes.jpg" group-title="鈿斤笍  DEPORTES LATINO",MOVISTAR DEPORTES PERU SD OPCION 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5VVMh1d/movistar-deportes.jpg" group-title="DEPORTES",MOVISTAR DEPORTES PERU SD OPCION 2
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117782
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR PLUS PERU HD OPCION 2" tvg-logo="https://i.postimg.cc/C5VVMh1d/movistar-deportes.jpg" group-title="鈿斤笍  DEPORTES LATINO",MOVISTAR PLUS PERU HD OPCION 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5VVMh1d/movistar-deportes.jpg" group-title="DEPORTES",MOVISTAR PLUS PERU HD OPCION 2
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117783
-#EXTINF:-1 tvg-id="WINSPHD" tvg-name="WIN SPORTS COLOMBIA HD OPCION 2" tvg-logo="https://i.postimg.cc/SRhpMW7j/win-sport.jpg" group-title="鈿斤笍  DEPORTES LATINO",WIN SPORTS COLOMBIA HD OPCION 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRhpMW7j/win-sport.jpg" group-title="DEPORTES",WIN SPORTS COLOMBIA HD OPCION 2
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117784
-#EXTINF:-1 tvg-id="WINSPRE" tvg-name="WIN SPORTS PLUS COLOMBIA SD OPCION 2" tvg-logo="https://i.postimg.cc/CKCq17Jz/win-sport.jpg" group-title="鈿斤笍  DEPORTES LATINO",WIN SPORTS PLUS COLOMBIA SD OPCION 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKCq17Jz/win-sport.jpg" group-title="DEPORTES",WIN SPORTS PLUS COLOMBIA SD OPCION 2
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117785
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGTH PASS HD" tvg-logo="https://i.postimg.cc/rsNFczSF/ufc-fight-pass.jpg" group-title="鈿斤笍  DEPORTES LATINO",UFC FIGTH PASS HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsNFczSF/ufc-fight-pass.jpg" group-title="DEPORTES",UFC FIGTH PASS HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117786
-#EXTINF:-1 tvg-id="" tvg-name="Espn 4 HD" tvg-logo="https://i.postimg.cc/rFs8DR0W/espn4.png" group-title="鈿斤笍  DEPORTES LATINO",Espn 4 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFs8DR0W/espn4.png" group-title="DEPORTES",Espn 4 HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/135242
-#EXTINF:-1 tvg-id="ESPNMLA" tvg-name="ESPN EXTRA" tvg-logo="https://i.postimg.cc/V61nPM8h/espn.jpg" group-title="鈿斤笍  DEPORTES LATINO",ESPN EXTRA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V61nPM8h/espn.jpg" group-title="DEPORTES",ESPN EXTRA
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/138197
-#EXTINF:-1 tvg-id="LALIGAM" tvg-name="SP: Sky Sports Liga Espa帽ola HD" tvg-logo="https://i.postimg.cc/2Sr16YJq/sky-sport.jpg" group-title="鈿斤笍  DEPORTES LATINO",SP: Sky Sports Liga Espa帽ola HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2Sr16YJq/sky-sport.jpg" group-title="DEPORTES",SP: Sky Sports Liga Espa帽ola HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/28379
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 (MX)" tvg-logo="https://i.postimg.cc/rFs8DR0W/espn4.png" group-title="鈿斤笍  DEPORTES LATINO",ESPN 4 (MX)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFs8DR0W/espn4.png" group-title="DEPORTES",ESPN 4 (MX)
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/154892
 
 
-#EXTINF:36,Abu Dhabi Sports 2
+#EXTINF:36 group-title="DEPORTES",Abu Dhabi Sports 2
 #EXTVLCOPT:network-caching=2000
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:60,Dubai Sports 2
+#EXTINF:60 group-title="DEPORTES",Dubai Sports 2
 #EXTVLCOPT:network-caching=2000
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
-#EXTINF:60,Dubai Sports 3
+#EXTINF:60 group-title="DEPORTES",Dubai Sports 3
 #EXTVLCOPT:network-caching=2000
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#EXTINF:8, TV Turf Movil
+#EXTINF:8 group-title="DEPORTES", TV Turf Movil
 #EXTVLCOPT:network-caching=2000
 https://janus.tvturf.cl/playlist/stream.m3u8
-#EXTINF:15, Valparaiso Sporting
+#EXTINF:15 group-title="DEPORTES", Valparaiso Sporting
 #EXTVLCOPT:network-caching=2000
 https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:55, SSIPTV ARG SPORTS 
+#EXTINF:55 group-title="DEPORTES", SSIPTV ARG SPORTS 
 #EXTVLCOPT:network-caching=2000
 https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
-#EXTINF:34, ALL SPORTS
+#EXTINF:34 group-title="DEPORTES", ALL SPORTS
 #EXTVLCOPT:network-caching=2000
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:20, EVENTOS TNT Sports 2 Brasil
+#EXTINF:20 group-title="DEPORTES", EVENTOS TNT Sports 2 Brasil
 #EXTVLCOPT:network-caching=2000
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:21, EVENTOS TNT Sports 3 Brasil
+#EXTINF:21 group-title="DEPORTES", EVENTOS TNT Sports 3 Brasil
 #EXTVLCOPT:network-caching=2000
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:20, EVENTOS TNT Sports 4 Brasil
+#EXTINF:20 group-title="DEPORTES", EVENTOS TNT Sports 4 Brasil
 #EXTVLCOPT:network-caching=2000
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:20, EVENTOS TNT Sports 5 Brasil
+#EXTINF:20 group-title="DEPORTES", EVENTOS TNT Sports 5 Brasil
 #EXTVLCOPT:network-caching=2000
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:25, MOTORVISION TV
+#EXTINF:25 group-title="DEPORTES", MOTORVISION TV
 #EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:25, LUCHA LIBRE AAA
+#EXTINF:25 group-title="DEPORTES", LUCHA LIBRE AAA
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
-#EXTINF:0, LUCHA LIBRE AAA 2
+#EXTINF:0 group-title="DEPORTES", LUCHA LIBRE AAA 2
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7aea60-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e96a0f6-ac42-4164-a333-6f430bfee437&userId=&serverSideAds=true
-#EXTINF:25, ACTION SPORTS
+#EXTINF:25 group-title="DEPORTES", ACTION SPORTS
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d849631-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b6801a0b-53b5-469c-a826-691aadfcdf85&userId=&serverSideAds=true
-#EXTINF:25, ACTION SPORTS 2
+#EXTINF:25 group-title="DEPORTES", ACTION SPORTS 2
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db867744f229f0009266784/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a103ec00-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=05cde875-5856-4889-a846-2559db77631d&userId=&serverSideAds=true
-#EXTINF:25, MLB CHANNEL
+#EXTINF:25 group-title="DEPORTES", MLB CHANNEL
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d882-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f1832274-98b7-4765-ad8b-c533c4382008&userId=&serverSideAds=true
-#EXTINF:90, RED BULL TV
+#EXTINF:90 group-title="DEPORTES", RED BULL TV
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-#EXTINF:0, MLS TV
+#EXTINF:0 group-title="DEPORTES", MLS TV
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7d8272-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=83907acb-ee3c-4b1f-8026-c92526fccb6e&userId=&serverSideAds=true
-#EXTINF:60, TENNIS CHANNEL
+#EXTINF:60 group-title="DEPORTES", TENNIS CHANNEL
 #EXTVLCOPT:network-caching=1000
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:0, PGA TOUR
+#EXTINF:0 group-title="DEPORTES", PGA TOUR
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c828b82-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f462faf4-6f7f-4789-94df-d5226e0c1909&userId=&serverSideAds=true
-#EXTINF:0, NFL CHANNEL
+#EXTINF:0 group-title="DEPORTES", NFL CHANNEL
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7dd091-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51a9cf39-a534-4404-ab74-8b3b3d4266d2&userId=&serverSideAds=true
-#EXTINF:0, STADIUM
+#EXTINF:0 group-title="DEPORTES", STADIUM
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59974b6d7ec5063cb56f24c9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c760861-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=05184fc6-bf46-4f02-8ffe-2445a75fbebd&userId=&serverSideAds=true
-#EXTINF:0, IMPACT WRESTLING
+#EXTINF:0 group-title="DEPORTES", IMPACT WRESTLING
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:0, PRO WRESTLING
+#EXTINF:0 group-title="DEPORTES", PRO WRESTLING
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=732&deviceId=5fac431fc1ffbc0007e6b6a7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:0, FIGHT NETWORK
+#EXTINF:0 group-title="DEPORTES", FIGHT NETWORK
 #EXTVLCOPT:network-caching=1000
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:0, BELLATOR MMA
+#EXTINF:0 group-title="DEPORTES", BELLATOR MMA
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c854aa0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31ed263b-b5a7-46ae-aea6-02a7165119c3&userId=&serverSideAds=true
-#EXTINF:0, GLORY KICKBOXING TV
+#EXTINF:0 group-title="DEPORTES", GLORY KICKBOXING TV
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
-#EXTINF:0, * Deportes
+#EXTINF:0 group-title="DEPORTES", * Deportes
 #EXTVLCOPT:network-caching=2000
 https://i.mjh.nz/PlutoTV/5f1ac8588734f8000823b7de-alt.m3u8
-#EXTINF:0, * Motor
+#EXTINF:0 group-title="DEPORTES", * Motor
 #EXTVLCOPT:network-caching=2000
 https://i.mjh.nz/PlutoTV/6080345ebb49b90007ce0baf-alt.m3u8
-#EXTINF:25, PLUTO TV VELOCIDAD
+#EXTINF:25 group-title="DEPORTES", PLUTO TV VELOCIDAD
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11b5b1b3-ad58-40ca-90fc-9a19b7125ebc&userId=&serverSideAds=true
-#EXTINF:25, PLUTO TV MOTOR
+#EXTINF:25 group-title="DEPORTES", PLUTO TV MOTOR
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6080345ebb49b90007ce0baf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=21631ca0-c804-11eb-9820-5521c83f8ae2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2f2dbf57-290d-486d-a430-704e5a67cf6f&userId=&serverSideAds=true
-#EXTINF:0, PLUTO TV DEPORTES
+#EXTINF:0 group-title="DEPORTES", PLUTO TV DEPORTES
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02781-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c194052-40df-42cc-9f20-2b709fc61bb8&userId=&serverSideAds=true
-#EXTINF:0, PLUTO TV FIGHT
+#EXTINF:0 group-title="DEPORTES", PLUTO TV FIGHT
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c751e00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ea3d6036-364f-4958-aca9-ec488a93eafb&userId=&serverSideAds=true
-#EXTINF:25, * Deportes
+#EXTINF:25 group-title="DEPORTES", * Deportes
 #EXTVLCOPT:network-caching=2000
 https://i.mjh.nz/PlutoTV/5dcde07af1c85b0009b18651-alt.m3u8
-#EXTINF:0, *  Competencias
+#EXTINF:0 group-title="DEPORTES", *  Competencias
 #EXTVLCOPT:network-caching=2000
 https://i.mjh.nz/PlutoTV/5dd6d935d000120009bc1132-alt.m3u8
-#EXTINF:0, * Velocidad
+#EXTINF:0 group-title="DEPORTES", * Velocidad
 #EXTVLCOPT:network-caching=2000
 https://i.mjh.nz/PlutoTV/5dd6dc7480e3550009133d4a-alt.m3u8
-#EXTINF:25,Service
+#EXTINF:25 group-title="DEPORTES",Service
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/6076c74daa05ac0007d0eb07-alt.m3u8
 #EXTINF:30, XITE
