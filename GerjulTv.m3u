@@ -999,12 +999,117 @@ https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
 #EXTINF:30 group-title="PELICULAS", Cinerama
 #EXTVLCOPT:network-caching=3000
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+#EXTINF:0 group-title="PELICULAS", A3CINE II
+#EXTVLCOPT:network-caching=3000
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
+#EXTINF:0 group-title="PELICULAS", A3CINE 
+#EXTVLCOPT:network-caching=3000
+https://ott.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=3112&f=HLS&f=.m3u8
+#EXTINF:0 group-title="SERIES", A3SERIES 
+#EXTVLCOPT:network-caching=3000
+https://ott.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2113&f=HLS&f=.m3u8
+#EXTINF:0 group-title="SERIES", A3SERIES II
+#EXTVLCOPT:network-caching=3000
+https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
+#EXTINF:0 group-title="PELICULAS", UNIVERSAL TV
+#EXTVLCOPT:network-caching=3000
+https://ott.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=57&f=HLS&f=.m3u8
+#EXTINF:0 group-title="PELICULAS", STUDIO UNIVERSAL  
+#EXTVLCOPT:network-caching=3000
+https://ott.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=132&f=HLS&f=.m3u8
+#EXTINF:0 group-title="PELICULAS", RUN:TIME
+#EXTVLCOPT:network-caching=3000
+https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="PELICULAS", RUN:TIME EN ESPAÑOL
+#EXTVLCOPT:network-caching=3000
+https://ammo-espanol-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=VeRRLspvSX7Z8bzwMLKr&channelId=5f5132e362fe160040f26c15&uid=1fqebg2d7-u1fv-ipo-06a4-myngu59tko/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8
+
+
+
+#EXTINF:0 group-title="PELICULAS",CINE| cine latino
+#EXTVLCOPT:network-caching=3000
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4136
+#EXTINF:0 group-title="PELICULAS",CINE| cinex
+#EXTVLCOPT:network-caching=3000
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1068350
+#EXTINF:0 group-title="PELICULAS",CINE| Cine Claro
+#EXTVLCOPT:network-caching=3000
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4145
+#EXTINF:0 group-title="PELICULAS",CINE| De Pelicula
+#EXTVLCOPT:network-caching=3000
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102361.ts
+#EXTINF:0 group-title="PELICULAS",CINE| De Pelicula Clasica
+#EXTVLCOPT:network-caching=3000
+http://gotv.vip:8880/Angel2023/Angel2023/140039
+#EXTINF:0 group-title="PELICULAS",CINE| DHE
+#EXTVLCOPT:network-caching=3000
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/24180
+#EXTINF:0 group-title="PELICULAS",CINE| Borde dorado
+#EXTVLCOPT:network-caching=3000
+http://gotv.vip:8880/Angel2023/Angel2023/85
+#EXTINF:0 group-title="PELICULAS",CINE| Primer ministro dorado
+#EXTVLCOPT:network-caching=3000
+http://gotv.vip:8880/Angel2023/Angel2023/245
+#EXTINF:0 group-title="PELICULAS",CINE| Dorado
+#EXTVLCOPT:network-caching=3000
+http://gotv.vip:8880/Angel2023/Angel2023/244%20%20
+#EXTINF:0 group-title="PELICULAS",CINE| dorado plus
+#EXTVLCOPT:network-caching=3000
+http://gotv.vip:8880/Angel2023/Angel2023/86
+#EXTINF:0 group-title="PELICULAS",CINE| Espacio
+#EXTVLCOPT:network-caching=3000
+http://gotv.vip:8880/Angel2023/Angel2023/113
+#EXTINF:0 group-title="PELICULAS",CINE| primer ministro universal
+#EXTVLCOPT:network-caching=3000
+http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHI1phC-Npv73caM2Q53jCkc
+#EXTINF:0 group-title="PELICULAS",CINE| Supremo+
+#EXTVLCOPT:network-caching=3000
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155799
+#EXTINF:0 group-title="PELICULAS",CINE| SYFY
+#EXTVLCOPT:network-caching=3000
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/3958
+#EXTINF:0 group-title="PELICULAS",CINE| CINE DINAMITA
+#EXTVLCOPT:network-caching=3000
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4142
+#EXTINF:0 group-title="PELICULAS",CINE| ME SENTÉ
+#EXTVLCOPT:network-caching=3000
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155798
+#EXTINF:0 group-title="PELICULAS",CINE| SONY
+#EXTVLCOPT:network-caching=3000
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1143816
+#EXTINF:0 group-title="PELICULAS",CINE| EUROPA EUROPA
+#EXTVLCOPT:network-caching=3000
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/33359
+#EXTINF:0 group-title="PELICULAS",CINE| Canal primordial
+#EXTVLCOPT:network-caching=3000
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155799
+#EXTINF:0 group-title="PELICULAS",CINE| tu cine
+#EXTVLCOPT:network-caching=3000
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/7981
+#EXTINF:0 group-title="PELICULAS",CINE| fusión fmtv
+#EXTVLCOPT:network-caching=3000
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:0 group-title="PELICULAS",CINE| toda la vida
+#EXTVLCOPT:network-caching=3000
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155873
+#EXTINF:0 group-title="PELICULAS",CINE| TV SUNDANCE
+#EXTVLCOPT:network-caching=3000
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4101
+#EXTINF:0 group-title="PELICULAS",CINE| PÁNICO TV
+#EXTVLCOPT:network-caching=3000
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/7436
+#EXTINF:0 group-title="PELICULAS",CINE| TV MÓRBIDA
+#EXTVLCOPT:network-caching=3000
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/33364
+#EXTINF:0 group-title="PELICULAS",CINE| CINE ESTELAR
+#EXTVLCOPT:network-caching=3000
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1156007
 
 #EXTINF:0 group-title="ENTRETENIMIENTO", NUESTRA VISIÓN
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f78158/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d880-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=26dab85a-c1e2-4023-9cde-864e1c0d5f94&userId=&serverSideAds=true
 
-#EXTINF:25 group-title="INFANTILES", REETRO PLAY TV
+#EXTINF:25 group-title="INFANTIL", REETRO PLAY TV
 #EXTVLCOPT:network-caching=3000
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 
@@ -2362,114 +2467,46 @@ http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/288217
 #EXTINF:-1 tvg-id="" tvg-name="LAT: NatGeo Mundo HD" tvg-logo="https://i.postimg.cc/W3nvYwj9/nat-geo-mundo.png" group-title="CULTURA PREMIUM",LAT: NatGeo Mundo HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/288218
 
-
-#EXTINF:0 group-title="MUSICA", MTV Biggest Pop
+#EXTINF:0 group-title="PELICULAS",cine terror
 #EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/6047fabfce6e8e00070bcc9f-alt.m3u8
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/306264
 
-#EXTINF:0 group-title="MUSICA", MTV Spankin' New
+#EXTINF:0 group-title="PELICULAS",cine infantil 
 #EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/6047fd723b5bd00007de7092-alt.m3u8
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/305779
 
-#EXTINF:0 group-title="MUSICA", MTV Flow Latino
+#EXTINF:0 group-title="⭐️ Cine Premium",CINE| HBO
 #EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/62b218fc511d4b00070ddc0c-alt.m3u8
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155792
+#EXTINF:0 group-title="⭐️ Cine Premium",CINE| HBO 2
+#EXTVLCOPT:network-caching=3000
+http://gotv.vip:8880/Angel2023/Angel2023/88
+#EXTINF:0 group-title="⭐️ Cine Premium",CINE| HBO+
+#EXTVLCOPT:network-caching=3000
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4109
+#EXTINF:0 group-title="⭐️ Cine Premium",CINE| Familia HBO
+#EXTVLCOPT:network-caching=3000
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4017
+#EXTINF:0 group-title="⭐️ Cine Premium",CINE| HBO Extremo
+#EXTVLCOPT:network-caching=3000
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/44341
+#EXTINF:0 group-title="⭐️ Cine Premium",CINE| HBO Mundial
+#EXTVLCOPT:network-caching=3000
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1143815
+#EXTINF:0 group-title="⭐️ Cine Premium",CINE| HBO POP
+#EXTVLCOPT:network-caching=3000
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/47445
+#EXTINF:0 group-title="⭐️ Cine Premium",CINE| firma de HBO
+#EXTVLCOPT:network-caching=3000
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155796
+#EXTINF:0 group-title="⭐️ Cine Premium",CINE| Cinecanal
+#EXTVLCOPT:network-caching=3000
+http://gotv.vip:8880/Angel2023/Angel2023/36
 
-#EXTINF:0 group-title="MUSICA", Conciertos por Stingray
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f85ca40eda1b10007b967cd-alt.m3u8
-
-#EXTINF:0 group-title="MUSICA", Karaoke por Stingray
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f85cf621d6d2200079f1de0-alt.m3u8
 
 #EXTINF:0 group-title="CULTURA", CGTN
 #EXTVLCOPT:network-caching=3000
 http://livees.cgtn.com/1000e/prog_index.m3u8
-
-
-
-#EXTINF:0,COL| Cablenoticias  
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155805
-#EXTINF:0,COL| Canal Uno  
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1066863
-#EXTINF:0,COL| CARACOL  
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155787
-#EXTINF:0,COL| CARACOL opc2
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155783
-#EXTINF:0,COL| CARACOL opc3
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155783
-#EXTINF:0,COL| Caracol Internacional  
-#EXTVLCOPT:network-caching=3000
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2120
-#EXTINF:0,COL| CITY TV  
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1092275
-#EXTINF:0,COL| El Tiempo  
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318379
-#EXTINF:0,COL| NTN24  
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/41815
-#EXTINF:0,COL| RCN
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1087192
-#EXTINF:0,COL| RCN opc2
-#EXTVLCOPT:network-caching=3000
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2121
-#EXTINF:0,COL| RCN opc3
-#EXTVLCOPT:network-caching=3000
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHJkD-9dBuk0s2k0Pmn1RIOc
-#EXTINF:0,COL| RCN Internacional  
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318383
-#EXTINF:0,COL| Señal Colombia  
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155811
-#EXTINF:0,COL| TeleAntioquia  
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155801
-#EXTINF:0,COL| cali tv
-#EXTVLCOPT:network-caching=3000
-https://5ab772334c39c.streamlock.net:443/live-calitv/_definst_/calitv1/chunklist_w44416927_tkd293emF0b2tlbmVuZHRpbWU9Jndvd3phdG9rZW5oYXNoPVM1S1BjVzM5WF9raWFzNllvanhGZERVX25RbG5kU0lSRGROUldvMk1MUlk9Jndvd3phdG9rZW5zdGFydHRpbWU9.m3u8?190.60.36.91
-#EXTINF:0,COL| TeleCaribe  
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/43625
-#EXTINF:0,COL| Telemedellin
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318395
-#EXTINF:0,COL| Tele-pacifico   
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/47693
-#EXTINF:0,COL| tv agro
-#EXTVLCOPT:network-caching=3000
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2137
-#EXTINF:0,COL| telecafe
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155810
-#EXTINF:0,COL| cosmovision 
-#EXTVLCOPT:network-caching=3000
-http://magmas5.com:8000/Oscar86/40473/150372
-#EXTINF:20,COL| canal cnc 
-#EXTVLCOPT:network-caching=3000
-http://pastocnc1.ddns.net:80/pastocnc9/cnc9/tracks-v1a1/mono.m3u8
-#EXTINF:0,COL| canal trece
-#EXTVLCOPT:network-caching=3000
-https://canaltrece-live.logicideas.media:443/canaltrece-live/smil:livebk.smil/chunklist_w216528419_b2250000_sles.m3u8
-#EXTINF:0,COL| Eureka 
-#EXTVLCOPT:network-caching=3000
-https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
-#EXTINF:0,COL| canal zoom
-#EXTVLCOPT:network-caching=3000
-https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
-
-
-
 
 #EXTINF:0 group-title="CULTURA", Discovery Channel
 #EXTVLCOPT:network-caching=3000
@@ -2514,147 +2551,6 @@ http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/306264
 #EXTINF:0 group-title="INFANTIL", CHIQUITINES
 #EXTVLCOPT:network-caching=3000
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
-
-#EXTINF:0 group-title="PELICULAS", A3CINE II
-#EXTVLCOPT:network-caching=3000
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
-#EXTINF:0 group-title="PELICULAS", A3CINE 
-#EXTVLCOPT:network-caching=3000
-https://ott.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=3112&f=HLS&f=.m3u8
-#EXTINF:0 group-title="SERIES", A3SERIES 
-#EXTVLCOPT:network-caching=3000
-https://ott.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2113&f=HLS&f=.m3u8
-#EXTINF:0 group-title="SERIES", A3SERIES II
-#EXTVLCOPT:network-caching=3000
-https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
-#EXTINF:0 group-title="PELICULAS", UNIVERSAL TV
-#EXTVLCOPT:network-caching=3000
-https://ott.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=57&f=HLS&f=.m3u8
-#EXTINF:0 group-title="PELICULAS", STUDIO UNIVERSAL  
-#EXTVLCOPT:network-caching=3000
-https://ott.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=132&f=HLS&f=.m3u8
-#EXTINF:0 group-title="PELICULAS", RUN:TIME
-#EXTVLCOPT:network-caching=3000
-https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="PELICULAS", RUN:TIME EN ESPAÑOL
-#EXTVLCOPT:network-caching=3000
-https://ammo-espanol-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=VeRRLspvSX7Z8bzwMLKr&channelId=5f5132e362fe160040f26c15&uid=1fqebg2d7-u1fv-ipo-06a4-myngu59tko/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8
-
-
-
-#EXTINF:0 group-title="PELICULAS",cine terror
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/306264
-
-#EXTINF:0 group-title="PELICULAS",cine infantil 
-#EXTVLCOPT:network-caching=3000
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/305779
-
-#EXTINF:0 group-title="⭐️ Cine Premium",CINE| HBO
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155792
-#EXTINF:0 group-title="⭐️ Cine Premium",CINE| HBO 2
-#EXTVLCOPT:network-caching=3000
-http://gotv.vip:8880/Angel2023/Angel2023/88
-#EXTINF:0 group-title="⭐️ Cine Premium",CINE| HBO+
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4109
-#EXTINF:0 group-title="⭐️ Cine Premium",CINE| Familia HBO
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4017
-#EXTINF:0 group-title="⭐️ Cine Premium",CINE| HBO Extremo
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/44341
-#EXTINF:0 group-title="⭐️ Cine Premium",CINE| HBO Mundial
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1143815
-#EXTINF:0 group-title="⭐️ Cine Premium",CINE| HBO POP
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/47445
-#EXTINF:0 group-title="⭐️ Cine Premium",CINE| firma de HBO
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155796
-#EXTINF:0 group-title="⭐️ Cine Premium",CINE| Cinecanal
-#EXTVLCOPT:network-caching=3000
-http://gotv.vip:8880/Angel2023/Angel2023/36
-#EXTINF:0 group-title="PELICULAS",CINE| cine latino
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4136
-#EXTINF:0 group-title="PELICULAS",CINE| cinex
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1068350
-#EXTINF:0 group-title="PELICULAS",CINE| Cine Claro
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4145
-#EXTINF:0 group-title="PELICULAS",CINE| De Pelicula
-#EXTVLCOPT:network-caching=3000
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102361.ts
-#EXTINF:0 group-title="PELICULAS",CINE| De Pelicula Clasica
-#EXTVLCOPT:network-caching=3000
-http://gotv.vip:8880/Angel2023/Angel2023/140039
-#EXTINF:0 group-title="PELICULAS",CINE| DHE
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/24180
-#EXTINF:0 group-title="PELICULAS",CINE| Borde dorado
-#EXTVLCOPT:network-caching=3000
-http://gotv.vip:8880/Angel2023/Angel2023/85
-#EXTINF:0 group-title="PELICULAS",CINE| Primer ministro dorado
-#EXTVLCOPT:network-caching=3000
-http://gotv.vip:8880/Angel2023/Angel2023/245
-#EXTINF:0 group-title="PELICULAS",CINE| Dorado
-#EXTVLCOPT:network-caching=3000
-http://gotv.vip:8880/Angel2023/Angel2023/244%20%20
-#EXTINF:0 group-title="PELICULAS",CINE| dorado plus
-#EXTVLCOPT:network-caching=3000
-http://gotv.vip:8880/Angel2023/Angel2023/86
-#EXTINF:0 group-title="PELICULAS",CINE| Espacio
-#EXTVLCOPT:network-caching=3000
-http://gotv.vip:8880/Angel2023/Angel2023/113
-#EXTINF:0 group-title="PELICULAS",CINE| primer ministro universal
-#EXTVLCOPT:network-caching=3000
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHI1phC-Npv73caM2Q53jCkc
-#EXTINF:0 group-title="PELICULAS",CINE| Supremo+
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155799
-#EXTINF:0 group-title="PELICULAS",CINE| SYFY
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/3958
-#EXTINF:0 group-title="PELICULAS",CINE| CINE DINAMITA
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4142
-#EXTINF:0 group-title="PELICULAS",CINE| ME SENTÉ
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155798
-#EXTINF:0 group-title="PELICULAS",CINE| SONY
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1143816
-#EXTINF:0 group-title="PELICULAS",CINE| EUROPA EUROPA
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/33359
-#EXTINF:0 group-title="PELICULAS",CINE| Canal primordial
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155799
-#EXTINF:0 group-title="PELICULAS",CINE| tu cine
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/7981
-#EXTINF:0 group-title="PELICULAS",CINE| fusión fmtv
-#EXTVLCOPT:network-caching=3000
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:0 group-title="PELICULAS",CINE| toda la vida
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155873
-#EXTINF:0 group-title="PELICULAS",CINE| TV SUNDANCE
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4101
-#EXTINF:0 group-title="PELICULAS",CINE| PÁNICO TV
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/7436
-#EXTINF:0 group-title="PELICULAS",CINE| TV MÓRBIDA
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/33364
-#EXTINF:0 group-title="PELICULAS",CINE| CINE ESTELAR
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1156007
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRYWs2s2/claro-sport.jpg" group-title="DEPORTES",CLARO SPORTS
@@ -2907,6 +2803,25 @@ https://i.mjh.nz/PlutoTV/5dd6dc7480e3550009133d4a-alt.m3u8
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/6076c74daa05ac0007d0eb07-alt.m3u8
 
+#EXTINF:0 group-title="MUSICA", MTV Biggest Pop
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/6047fabfce6e8e00070bcc9f-alt.m3u8
+
+#EXTINF:0 group-title="MUSICA", MTV Spankin' New
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/6047fd723b5bd00007de7092-alt.m3u8
+
+#EXTINF:0 group-title="MUSICA", MTV Flow Latino
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/62b218fc511d4b00070ddc0c-alt.m3u8
+
+#EXTINF:0 group-title="MUSICA", Conciertos por Stingray
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5f85ca40eda1b10007b967cd-alt.m3u8
+
+#EXTINF:0 group-title="MUSICA", Karaoke por Stingray
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5f85cf621d6d2200079f1de0-alt.m3u8
 #EXTINF:30 group-title="MUSICA", XITE
 #EXTVLCOPT:network-caching=2000
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/.m3u8
