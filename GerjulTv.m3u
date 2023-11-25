@@ -134,7 +134,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:0 group-title="ARGENTINA",AR | Telefe Noticias (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=3000
 https://siloh-mcdn.plutotv.net/lilo/production/LATAM/Telefe/master.m3u8
-#EXTINF:30,AR | Canal 3 Formosa (720p)
+#EXTINF:30 group-title="ARGENTINA",AR | Canal 3 Formosa (720p)
 #EXTVLCOPT:network-caching=3000
 https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
 #EXTINF:0 group-title="ARGENTINA",AR | Canal 6 Posadas (1080p)
@@ -157,10 +157,11 @@ https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 group-title="ARGENTINA",AR | Todo Noticias AR
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Argentina", A24
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="ARGENTINA", A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Argentina",AR | 13Max Televisión
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="ARGENTINA",AR | 13Max Televisión
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 
@@ -1060,8 +1061,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007e
 https://i.mjh.nz/PlutoTV/5dcdde78f080d900098550e4-alt.m3u8
 #EXTINF:0 group-title="PELICULAS", Xtrema Cine Comedy (344p)
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
 #EXTINF:25 group-title="PELICULAS", CINE COMEDIA
 #EXTVLCOPT:network-caching=1000
@@ -2702,279 +2701,269 @@ https://i.mjh.nz/PlutoTV/5dd6d935d000120009bc1132-alt.m3u8
 #EXTINF:0 group-title="DEPORTES", * Velocidad
 #EXTVLCOPT:network-caching=2000
 https://i.mjh.nz/PlutoTV/5dd6dc7480e3550009133d4a-alt.m3u8
+
 #EXTINF:25 group-title="DEPORTES",Service
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/6076c74daa05ac0007d0eb07-alt.m3u8
-#EXTINF:30, XITE
+
+#EXTINF:30 group-title="MUSICA", XITE
 #EXTVLCOPT:network-caching=2000
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/.m3u8
-#EXTINF:28, HIT 360
+#EXTINF:28 group-title="MUSICA", HIT 360
 #EXTVLCOPT:network-caching=2000
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
-#EXTINF:29, Colosal TV 
+#EXTINF:29 group-title="MUSICA", Colosal TV 
 #EXTVLCOPT:network-caching=2000
 https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
-#EXTINF:28, Vallenato Internacional
+#EXTINF:28 group-title="MUSICA", Vallenato Internacional
 #EXTVLCOPT:network-caching=2000
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
-#EXTINF:30, Ocko Star
+#EXTINF:30 group-title="MUSICA", Ocko Star
 #EXTVLCOPT:network-caching=2000
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
-#EXTINF:15, 88 STEREO
+#EXTINF:15 group-title="MUSICA", 88 STEREO
 #EXTVLCOPT:network-caching=2000
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
-#EXTINF:2700, KRONEHITS
+#EXTINF:27 group-title="MUSICA", KRONEHITS
 #EXTVLCOPT:network-caching=2000
 https://bitcdn-kronehit.bitmovin.com/v2/hls/.m3u8
-#EXTINF:60, QWEST JAZZ
+#EXTINF:60 group-title="MUSICA", QWEST JAZZ
 #EXTVLCOPT:network-caching=2000
 https://qwest-jazz-plex.amagi.tv/playlist.m3u8
-#EXTINF:60, Stingray Holiday Hits
+#EXTINF:60 group-title="MUSICA", Stingray Holiday Hits
 #EXTVLCOPT:network-caching=2000
 https://ott-linear-channels.stingray.com/hls/stirr/155.m3u8
-#EXTINF:60, Stingray Flashback 70s
+#EXTINF:60 group-title="MUSICA", Stingray Flashback 70s
 #EXTVLCOPT:network-caching=2000
 https://ott-linear-channels.stingray.com/hls/stirr/115.m3u8
-#EXTINF:53, Stingray Pop Adult
+#EXTINF:53 group-title="MUSICA", Stingray Pop Adult
 #EXTVLCOPT:network-caching=2000
 https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
-#EXTINF:60, Stingray Rock Alternative
+#EXTINF:60 group-title="MUSICA", Stingray Rock Alternative
 #EXTVLCOPT:network-caching=2000
 https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
-#EXTINF:30, GO-RTV
+#EXTINF:30 group-title="MUSICA", GO-RTV
 #EXTVLCOPT:network-caching=2000
 https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/chunklist_w1291658822.m3u8
-#EXTINF:60, QMusic
+#EXTINF:60 group-title="MUSICA", QMusic
 #EXTVLCOPT:network-caching=2000
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:20, Ocko Chequia 
+#EXTINF:20 group-title="MUSICA", Ocko Chequia 
 #EXTVLCOPT:network-caching=2000
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:20, Ocko Expres
+#EXTINF:20 group-title="MUSICA", Ocko Expres
 #EXTVLCOPT:network-caching=2000
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:53, Stingray Urban Beats
+#EXTINF:53 group-title="MUSICA", Stingray Urban Beats
 #EXTVLCOPT:network-caching=2000
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
-#EXTINF:60, Stingray Today's Latin Pop
+#EXTINF:60group-title="MUSICA", Stingray Today's Latin Pop
 #EXTVLCOPT:network-caching=2000
 https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
-#EXTINF:15, First Music Channel
+#EXTINF:15 group-title="MUSICA", First Music Channel
 #EXTVLCOPT:network-caching=2000
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:54, California Music Channel
+#EXTINF:54 group-title="MUSICA", California Music Channel
 #EXTVLCOPT:network-caching=2000
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8?device=TDTChannels
-#EXTINF:21, Muzzik
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+#EXTINF:21 group-title="MUSICA", Muzzik
 #EXTVLCOPT:network-caching=2000
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:25, Muzzik Rock&Roll
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+#EXTINF:25 group-title="MUSICA", Muzzik Rock&Roll
 #EXTVLCOPT:network-caching=2000
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:0, Muzzik Cafe&Club
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+#EXTINF:0 group-title="MUSICA", Muzzik Cafe&Club
 #EXTVLCOPT:network-caching=2000
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:0, Muzzik Worldwide
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+#EXTINF:0 group-title="MUSICA", Muzzik Worldwide
 #EXTVLCOPT:network-caching=2000
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-#EXTINF:0, Muzzik Jeka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+#EXTINF:0 group-title="MUSICA", Muzzik Jeka
 #EXTVLCOPT:network-caching=2000
 https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-#EXTINF:0, Muzzik ZZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+#EXTINF:0 group-title="MUSICA", Muzzik ZZ
 #EXTVLCOPT:network-caching=2000
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:0, Muzzik Glazzba
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+#EXTINF:0 group-title="MUSICA", Muzzik Glazzba
 #EXTVLCOPT:network-caching=3000
 https://muzzik-live.morescreens.com/mts-a7/playlist.m3u8
-#EXTINF:22, Muzzik T REX 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+#EXTINF:22 group-title="MUSICA", Muzzik T REX 
 #EXTVLCOPT:network-caching=2000
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:0, Muzzik OKK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+#EXTINF:0 group-title="MUSICA", Muzzik OKK
 #EXTVLCOPT:network-caching=3000
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:27, Canal VM Latino
+#EXTINF:27 group-title="MUSICA", Canal VM Latino
 #EXTVLCOPT:network-caching=3000
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-#EXTINF:32, Fabulosa FM
+#EXTINF:32 group-title="MUSICA", Fabulosa FM
 #EXTVLCOPT:network-caching=3000
 http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8
-#EXTINF:30, AURORA LIVE
+#EXTINF:30 group-title="MUSICA", AURORA LIVE
 #EXTVLCOPT:network-caching=3000
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
-#EXTINF:0, FOREST LIVE
+#EXTINF:0 group-title="MUSICA", FOREST LIVE
 #EXTVLCOPT:network-caching=3000
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
-#EXTINF:0, LAKES LIVE
+#EXTINF:0 group-title="MUSICA", LAKES LIVE
 #EXTVLCOPT:network-caching=3000
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
-#EXTINF:0, MOUNTAINS LIVE
+#EXTINF:0 group-title="MUSICA", MOUNTAINS LIVE
 #EXTVLCOPT:network-caching=3000
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
-#EXTINF:0, BEACHES LIVE
+#EXTINF:0 group-title="MUSICA", BEACHES LIVE
 #EXTVLCOPT:network-caching=3000
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
-#EXTINF:0, RIVERS LIVE
+#EXTINF:0 group-title="MUSICA", RIVERS LIVE
 #EXTVLCOPT:network-caching=3000
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:0, SUNSETS LIVE
+#EXTINF:0 group-title="MUSICA", SUNSETS LIVE
 #EXTVLCOPT:network-caching=3000
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-#EXTINF:0, TROPICS LIVE
+#EXTINF:0 group-title="MUSICA", TROPICS LIVE
 #EXTVLCOPT:network-caching=3000
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
-#EXTINF:0, WATERFALLS LIVE
+#EXTINF:0 group-title="MUSICA", WATERFALLS LIVE
 #EXTVLCOPT:network-caching=3000
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
-#EXTINF:26,  MUSICA RETRO TV
+#EXTINF:26 group-title="MUSICA", MUSICA RETRO TV
 #EXTVLCOPT:network-caching=3000
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:28, TERRAMIA TV
+#EXTINF:28 group-title="ARGENTINA",AR | TERRAMIA TV
 #EXTVLCOPT:network-caching=3000
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-#EXTINF:27, Classica
+#EXTINF:27 group-title="MUSICA", Classica
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5f779951372da90007fd45e8-alt.m3u8
-#EXTINF:25, Vevo Retro Rock
+#EXTINF:25 group-title="MUSICA", Vevo Retro Rock
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/61d4b38226b8a50007fe03a6-alt.m3u8
-#EXTINF:0, Vevo True School Hip-Hop
+#EXTINF:0 group-title="MUSICA", Vevo True School Hip-Hop
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/61d4c2817a823d00070ba53e-alt.m3u8
-#EXTINF:25, Vevo Pop
+#EXTINF:25 group-title="MUSICA", Vevo Pop
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5d93b635b43dd1a399b39eee-alt.m3u8
-#EXTINF:0, Vevo Latino
+#EXTINF:0 group-title="MUSICA", Vevo Latino
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5da0d64d0e8a62000964ebe4-alt.m3u8
-#EXTINF:0, Vevo Country
+#EXTINF:0 group-title="MUSICA", Vevo Country
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5da0d75e84830900098a1ea0-alt.m3u8
-#EXTINF:25, VEVO COUNTRY
+#EXTINF:25 group-title="MUSICA", VEVO COUNTRY
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c808fb2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a7f46d76-39c5-4794-883c-4d22a9c41fde&userId=&serverSideAds=true
-#EXTINF:25, Vevo '80s
+#EXTINF:25 group-title="MUSICA", Vevo '80s
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
-#EXTINF:25, Vevo '90s
+#EXTINF:25 group-title="MUSICA", Vevo '90s
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
-#EXTINF:25, Vevo 2K
+#EXTINF:25 group-title="MUSICA", Vevo 2K
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5fd7bca3e0a4ee0007a38e8c-alt.m3u8
-#EXTINF:25, VEVO 70'S
+#EXTINF:25 group-title="MUSICA", VEVO 70'S
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868321-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d158533-4c2c-4f85-8afd-5c0cbcdcb90a&userId=&serverSideAds=true
-#EXTINF:25, VEVO R&B
+#EXTINF:25 group-title="MUSICA", VEVO R&B
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c80b6c0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6bc0815e-fe9a-464b-9d20-af824e8dcdc5&userId=&serverSideAds=true
-#EXTINF:0, VEVO REGGAETÓN & TRAP
+#EXTINF:0 group-title="MUSICA", VEVO REGGAETÓN & TRAP
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
-#EXTINF:60, FLASH
+#EXTINF:60 group-title="MUSICA", FLASH
 #EXTVLCOPT:network-caching=3000
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/9cf52827-4ad4-41e3-a857-024b7536661f/4.m3u8
-#EXTINF:25, STINGRAY CONCIERTOS
+#EXTINF:25 group-title="MUSICA", STINGRAY CONCIERTOS
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=25bb1260-ada8-11eb-a3cb-eb027f348c5f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e0734995-d0cf-4ff8-998e-187b9668e54d&userId=&serverSideAds=true
-#EXTINF:0, STINGRAY KARAOKE
+#EXTINF:0 group-title="MUSICA", STINGRAY KARAOKE
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=25bb3970-ada8-11eb-a3cb-eb027f348c5f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5f77d11c-2e1e-44e3-8b82-410880ecd4ab&userId=&serverSideAds=true
-#EXTINF:25, QWEST TV JAZZ & BEYOND
+#EXTINF:25 group-title="MUSICA", QWEST TV JAZZ & BEYOND
 #EXTVLCOPT:network-caching=3000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60db37b8b919720007c07fa4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:25, VH1 CLASSICS
+#EXTINF:25 group-title="MUSICA", VH1 CLASSICS
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=28f910c0-ac73-11eb-b65f-3f0a35700532&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c2ca9adf-1aa0-45dd-bb41-6a8fc0a3f5c9&userId=&serverSideAds=true
-#EXTINF:25, K-POP
+#EXTINF:25 group-title="MUSICA", K-POP
 #EXTVLCOPT:network-caching=3000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c8b3ddaaf9d4000780066f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0, NEW K-POP
+#EXTINF:0 group-title="MUSICA", NEW K-POP
 #EXTVLCOPT:network-caching=3000
 https://2d2cb770b80a4e19bded6a526e1e9c9f.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewKID/6314a980-66c5-4ec6-a1aa-b965dc7e64e2/0.m3u8
-#EXTINF:0, ON RADIO K-POP
+#EXTINF:0 group-title="MUSICA", ON RADIO K-POP
 #EXTVLCOPT:network-caching=3000
 https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8
-#EXTINF:25, CLUBBING TV
+#EXTINF:25 group-title="MUSICA", CLUBBING TV
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ad4ad6537680007be2ea6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a8e551-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=70bc0c2a-93a5-4713-b658-cad49ec55f38&userId=&serverSideAds=true
-#EXTINF:24, MUSIC TOP
+#EXTINF:24 group-title="MUSICA", MUSIC TOP
 #EXTVLCOPT:network-caching=3000
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1132959303_b2028000_sleng.m3u8
-#EXTINF:25, CMT EQUAL PLAY
+#EXTINF:25 group-title="MUSICA", CMT EQUAL PLAY
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c896951-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42bcfa63-aec5-4760-b993-bf2501603b69&userId=&serverSideAds=true
-#EXTINF:24, LIVE MUSIC REPLAY
+#EXTINF:24 group-title="MUSICA", LIVE MUSIC REPLAY
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c759330-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=98079c5b-45f4-4521-b056-6fd814776109&userId=&serverSideAds=true
-#EXTINF:25, VIDEO TOUR CHANNEL
+#EXTINF:25 group-title="MUSICA", VIDEO TOUR CHANNEL
 #EXTVLCOPT:network-caching=3000
 http://k4.usastreams.com/videotour/videotour/chunklist_w1141796442.m3u8
-#EXTINF:100, TELERITMO
+#EXTINF:100 group-title="MUSICA", TELERITMO
 #EXTVLCOPT:network-caching=3000
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8
-#EXTINF:28, EURO INDIE MUSIC
+#EXTINF:28 group-title="MUSICA", EURO INDIE MUSIC
 #EXTVLCOPT:network-caching=3000
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:24, V2BEAT
+#EXTINF:24 group-title="MUSICA", V2BEAT
 #EXTVLCOPT:network-caching=3000
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:0, WHAM TV
+#EXTINF:0 group-title="MUSICA", WHAM TV
 #EXTVLCOPT:network-caching=3000
 https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8
-#EXTINF:0, TV POP
+#EXTINF:0 group-title="MUSICA", TV POP
 #EXTVLCOPT:network-caching=3000
 https://v4.tustreaming.cl/poptv/index.m3u8
-#EXTINF:28, HITS 360
+#EXTINF:28 group-title="MUSICA", HITS 360
 #EXTVLCOPT:network-caching=3000
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
-#EXTINF:30, THE RETRO CHANNEL
+#EXTINF:30 group-title="MUSICA", THE RETRO CHANNEL
 #EXTVLCOPT:network-caching=3000
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:0, M2O
+#EXTINF:0 group-title="MUSICA", M2O
 #EXTVLCOPT:network-caching=3000
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:0, MELODY CHANNEL
+#EXTINF:0 group-title="MUSICA", MELODY CHANNEL
 #EXTVLCOPT:network-caching=3000
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunklist_b1398304.m3u8
-#EXTINF:0, TELEMÚSICA
+#EXTINF:0 group-title="MUSICA", TELEMÚSICA
 #EXTVLCOPT:network-caching=3000
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/chunklist_b1398304.m3u8
-#EXTINF:0, RADIOTECA TV
+#EXTINF:0 group-title="MUSICA", RADIOTECA TV
 #EXTVLCOPT:network-caching=3000
 https://vdohd.cl:1936/8030/8030/playlist.m3u8
-#EXTINF:0, REWIND
+#EXTINF:0 group-title="MUSICA", REWIND
 #EXTVLCOPT:network-caching=3000
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-#EXTINF:0, VIWIX MUSIC
+#EXTINF:0 group-title="MUSICA", VIWIX MUSIC
 #EXTVLCOPT:network-caching=3000
 https://s2.tvdatta.com:3548/hybrid/play.m3u8
-#EXTINF:0, RECUERDOS RETRO RADIO
+#EXTINF:0 group-title="MUSICA", RECUERDOS RETRO RADIO
 #EXTVLCOPT:network-caching=3000
 https://593b04c4c5670.streamlock.net/8002/8002/chunklist_w47191896.m3u8
-#EXTINF:0, REETRO PLAY TV
+#EXTINF:0 group-title="MUSICA", REETRO PLAY TV
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
-#EXTINF:0, MÁXIMA FM
+#EXTINF:0 group-title="MUSICA", MÁXIMA FM
 #EXTVLCOPT:network-caching=3000
 https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8
-#EXTINF:0, CMC
+#EXTINF:0 group-title="MUSICA", CMC
 #EXTVLCOPT:network-caching=3000
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
-#EXTINF:0, XTV MUSIC
+#EXTINF:0 group-title="MUSICA", XTV MUSIC
 #EXTVLCOPT:network-caching=3000
 https://tls.cdnz.cl/xtvmusic/xtvmusic/chunklist_w1301350852.m3u8
-#EXTINF:28, EURO INDIE MUSIC
+#EXTINF:28 group-title="MUSICA", EURO INDIE MUSIC
 #EXTVLCOPT:network-caching=3000
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
