@@ -162,11 +162,67 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 #EXTINF:-1 group-title="ARGENTINA",AR | Todo Noticias AR
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="ARGENTINA", A24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="ARGENTINA",AR | A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="ARGENTINA",AR | 13Max Televisión
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:30 group-title="ARGENTINA ",América Tucumán 
+#EXTVLCOPT:network-caching=3000
+https://ythls.armelin.one/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
+
+#EXTINF:29 group-title="ARGENTINA",ATV Argentina
+#EXTVLCOPT:network-caching=3000
+https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
+
+#EXTINF:0 group-title="NOTICIAS",Cablenoticias (1080p)
+#EXTVLCOPT:network-caching=3000
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+
+#EXTINF:0 group-title="NOTICIAS", Canal de Noticias (720p)
+#EXTVLCOPT:network-caching=3000
+https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
+
+#EXTINF:0 group-title="NOTICIAS",DW Español (1080p)
+#EXTVLCOPT:network-caching=3000
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:0 group-title="NOTICIAS",France 24 Español (1080p)
+#EXTVLCOPT:network-caching=3000
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+
+#EXTINF:0 group-title="NOTICIAS",Noticiero 90 Minutos (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=3000
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+
+#EXTINF:0 group-title="NOTICIAS",RT en Español (1080p)
+#EXTVLCOPT:network-caching=3000
+https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
+
+#EXTINF:0 group-title="NOTICIAS",Vatican News Español (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=3000
+https://ythls.armelin.one/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8
+
+#EXTINF:0 group-title="NOTICIAS",Meganoticias (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=3000
+https://ythls.armelin.one/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
+
+#EXTINF:0 group-title="NOTICIAS",CNN Brasil (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=3000
+https://ythls.armelin.one/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
+
+#EXTINF:0 group-title="NOTICIAS",Canal Metropolitano de Noticias (720p)
+#EXTVLCOPT:network-caching=3000
+https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
+
+#EXTINF:0 group-title="NOTICIAS",CBS News Miami (720p)
+#EXTVLCOPT:network-caching=3000
+https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
+
+#EXTINF:0, group-title="NOTICIAS"ABC News (720p)
+#EXTVLCOPT:network-caching=3000
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 
 #EXTINF:59 group-title="PELICULAS", Trailers
