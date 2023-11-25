@@ -1098,13 +1098,9 @@ https://i.mjh.nz/PlutoTV/60492bb931054f00073c0b4e-alt.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9853138d19af0007104a8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b4d24-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7b6b94ee-3d86-4a59-b406-f3548f232fe2&userId=&serverSideAds=true
 #EXTINF:25 group-title="SERIES", Pluto TV Series Comedia
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5f9853138d19af0007104a8d-alt.m3u8
 #EXTINF:0 group-title="SERIES", * Series Comedia
 #EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5f9853138d19af0007104a8d-alt.m3u8
 #EXTINF:25 group-title="ENTRETENIMIENTO", World Poker Tour
 #EXTVLCOPT:network-caching=1000
@@ -1325,157 +1321,154 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609062295c2b8f00071
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/6140a074a99e79000738162a-alt.m3u8
 
-#EXTINF:30, LOGOS TV KIDS
+#EXTINF:30 group-title="INFANTIL", LOGOS TV KIDS
 #EXTVLCOPT:network-caching=1000
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
-#EXTINF:30, LATINO KIDS
+#EXTINF:30 group-title="INFANTIL", LATINO KIDS
 #EXTVLCOPT:network-caching=1000
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
-#EXTINF:0,CANELA KIDS
+#EXTINF:0 group-title="INFANTIL",CANELA KIDS
 #EXTVLCOPT:network-caching=1000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-#EXTINF:16, PBS KIDS (Inglés)
+#EXTINF:16 group-title="INFANTIL", PBS KIDS (Inglés)
 #EXTVLCOPT:network-caching=1000
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:25, ANIMAKIDS (España)
+#EXTINF:25 group-title="INFANTIL", ANIMAKIDS (España)
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4a9081-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0c9000f4-d30c-416a-8bcb-5aa42bc26c6b&userId=&serverSideAds=true
-#EXTINF:65, MAGIC KIDS
+#EXTINF:65 group-title="INFANTIL", MAGIC KIDS
 #EXTVLCOPT:network-caching=2000
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
-#EXTINF:30, Latino Kids TV 
+#EXTINF:30 group-title="INFANTIL", Latino Kids TV 
 #EXTVLCOPT:network-caching=2000
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
-#EXTINF:20, DIOS TV VE KIDS
+#EXTINF:20 group-title="INFANTIL", DIOS TV VE KIDS
 #EXTVLCOPT:network-caching=2000
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
-#EXTINF:25, * Kids
+#EXTINF:25 group-title="INFANTIL", * Kids
 #EXTVLCOPT:network-caching=2000
 https://i.mjh.nz/PlutoTV/5dd6dae8ce788b0009eaf77b-alt.m3u8
-#EXTINF:0, Pluto TV Kids
+#EXTINF:0 group-title="INFANTIL", Pluto TV Kids
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5f1aab1d29b39600073e243f-alt.m3u8
-#EXTINF:25, PLUTO TV KIDS
+#EXTINF:25 group-title="INFANTIL", PLUTO TV KIDS
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ef84427d-008b-4c14-b485-09f974e5056f&userId=&serverSideAds=true
-#EXTINF:25, PLUTO TV KIDS (España)
+#EXTINF:25 group-title="INFANTIL", PLUTO TV KIDS (España)
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a09b16cd4ab0007d24fb8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4cb362-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=afa8239d-eea1-4295-b421-43f3852ddc10&userId=&serverSideAds=true
-#EXTINF:25, PLUTO TV KIDS 2 (España)
+#EXTINF:25 group-title="INFANTIL", PLUTO TV KIDS 2 (España)
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a09b16cd4ab0007d24fb8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4cb362-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=afa8239d-eea1-4295-b421-43f3852ddc10&userId=&serverSideAds=true
-#EXTINF:25, Pluto TV Animakids
+#EXTINF:25 group-title="INFANTIL", Pluto TV Animakids
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5f1aabee6f4a2c00076a322c-alt.m3u8
-#EXTINF:25, * Kids
+#EXTINF:25 group-title="INFANTIL", * Kids
 #EXTVLCOPT:network-caching=2000
 https://i.mjh.nz/PlutoTV/5f1aab1d29b39600073e243f-alt.m3u8
-#EXTINF:60, AnimeStation
+#EXTINF:60 group-title="INFANTIL", AnimeStation
 #EXTVLCOPT:network-caching=3000
 https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
-#EXTINF:49, Magic
+#EXTINF:49 group-title="INFANTIL", Magic
 #EXTVLCOPT:network-caching=3000
 https://magicstream.ddns.net/magicstream/stream.m3u8
-#EXTINF:28,Retro Infantil
+#EXTINF:28 group-title="INFANTIL",Retro Infantil
 #EXTVLCOPT:network-caching=3000
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
-#EXTINF:29,Latino Kids TV
+#EXTINF:29 group-title="INFANTIL",Latino Kids TV
 #EXTVLCOPT:network-caching=3000
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
-#EXTINF:60, Pitufo TV
+#EXTINF:60 group-title="INFANTIL", Pitufo TV
 #EXTVLCOPT:network-caching=3000
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
-#EXTINF:30, Planetatv family
+#EXTINF:30 group-title="INFANTIL", Planetatv family
 #EXTVLCOPT:network-caching=3000
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
-#EXTINF:33, Moni TV HD
+#EXTINF:33 group-title="INFANTIL", Moni TV HD
 #EXTVLCOPT:network-caching=3000
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
-#EXTINF:23, Xabarin TV
+#EXTINF:23 group-title="INFANTIL", Xabarin TV
 #EXTVLCOPT:network-caching=3000
 http://infantil-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:36, Rakuten TV Familia
+#EXTINF:36 group-title="INFANTIL", Rakuten TV Familia
 #EXTVLCOPT:network-caching=3000
 http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:25, Nick Clasico
+#EXTINF:25 group-title="INFANTIL", Nick Clasico
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
-#EXTINF:25, * Animakids
+#EXTINF:25 group-title="INFANTIL", * Animakids
 #EXTVLCOPT:network-caching=2000
 https://i.mjh.nz/PlutoTV/5f1aabee6f4a2c00076a322c-alt.m3u8
-#EXTINF:0, ANIMAX ASIA
+#EXTINF:0 group-title="INFANTIL", ANIMAX ASIA
 #EXTVLCOPT:network-caching=1000
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
-#EXTINF:25, YU-GI-OH!
+#EXTINF:25 group-title="INFANTIL", YU-GI-OH!
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c04e45b2-630a-11eb-8d9f-f313ae1a2a61&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=681f0ed2-2ad0-493f-9d9a-c9491e58c9ff&userId=&serverSideAds=true
-#EXTINF:25, YU-GI-OH! 2
+#EXTINF:25 group-title="INFANTIL", YU-GI-OH! 2
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604930bc28b24d0007e0e171/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121fb50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=02e68d02-b9a6-4878-9f5d-7d552a4dfa78&userId=&serverSideAds=true
-#EXTINF:25, NARUTO
+#EXTINF:25 group-title="INFANTIL", NARUTO
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27170-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1372261-d71b-427e-b9b7-e0afe4a6974b&userId=&serverSideAds=true
-#EXTINF:25, NARUTO 2
+#EXTINF:25 group-title="INFANTIL", NARUTO 2
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121d440-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=94e07421-ca3c-463f-b308-3fd75bb5431d&userId=&serverSideAds=true
-#EXTINF:25, ONE PIECE
+#EXTINF:25 group-title="INFANTIL", ONE PIECE
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c14-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c4c4d3a3-dc88-49b4-9fda-30049d73b3f2&userId=&serverSideAds=true
-#EXTINF:25, DEATH NOTE
+#EXTINF:25 group-title="INFANTIL", DEATH NOTE
 #EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:24, RETRO MAGICO
+#EXTINF:24 group-title="INFANTIL", RETRO MAGICO
 #EXTVLCOPT:network-caching=1000
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
-#EXTINF:25, TOONS CLÁSICO
+#EXTINF:25 group-title="INFANTIL", TOONS CLÁSICO
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=24628e10-de0a-11eb-994d-d7a54cf59ce6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b7875e37-1e3c-4d7a-bc4d-1dd4790bb5e5&userId=&serverSideAds=true
-#EXTINF:25, LAS TORTUGAS NINJA (ESPAÑA)
+#EXTINF:25 group-title="INFANTIL", LAS TORTUGAS NINJA (ESPAÑA)
 #EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373f1a12dd9f00077dcd6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:25, SOUTH PARK
+#EXTINF:25 group-title="INFANTIL", SOUTH PARK
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bb430b50-dea7-11eb-be60-3b6a118ac8ac&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=463c119a-456a-46c9-a878-3ce9897b7179&userId=&serverSideAds=true
-#EXTINF:30,Xtrema Anime (360p)
+#EXTINF:30 group-title="INFANTIL",Xtrema Anime (360p)
 #EXTVLCOPT:network-caching=1000
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
-#EXTINF:28, XTREMA ANIME
+#EXTINF:28 group-title="INFANTIL", XTREMA ANIME
 #EXTVLCOPT:network-caching=2000
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
-#EXTINF:25, * Anime
+#EXTINF:25 group-title="INFANTIL", * Anime
 #EXTVLCOPT:network-caching=2000
 https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
-#EXTINF:25, * Anime
+#EXTINF:25 group-title="INFANTIL", * Anime
 #EXTVLCOPT:network-caching=2000
 https://i.mjh.nz/PlutoTV/608035b8d8705f0007260287-alt.m3u8
-#EXTINF:25, Pluto TV Anime
+#EXTINF:25 group-title="INFANTIL", Pluto TV Anime
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/608035b8d8705f0007260287-alt.m3u8
-#EXTINF:0, PLUTO TV ANIME (España)
+#EXTINF:0 group-title="INFANTIL", PLUTO TV ANIME (España)
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/608035b8d8705f0007260287/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=216343b0-c804-11eb-9820-5521c83f8ae2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=aab02aec-78bc-44ef-9e5d-e1517268baa5&userId=&serverSideAds=true
-#EXTINF:25, PLUTO TV ANIME
+#EXTINF:25 group-title="INFANTIL", PLUTO TV ANIME
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e91-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf9f2657-23e0-4f9a-aed5-1895900d08da&userId=&serverSideAds=true
-#EXTINF:25, PLUTO TV ANIME ACCIÓN
+#EXTINF:25 group-title="INFANTIL", PLUTO TV ANIME ACCIÓN
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc43-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0102247d-6255-454b-b42a-4ed18335dc86&userId=&serverSideAds=true
-#EXTINF:25, * Anime Kids
+#EXTINF:25 group-title="INFANTIL", * Anime Kids
 #EXTVLCOPT:network-caching=2000
 https://i.mjh.nz/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
-#EXTINF:117, LEVEL UP TV
+#EXTINF:117 group-title="INFANTIL", LEVEL UP TV
 #EXTVLCOPT:network-caching=1000
 https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/5202b1d3-ec72-47ce-ba98-4a0046647ae2/0.m3u8
-#EXTINF:25, IGN
+#EXTINF:25 group-title="INFANTIL", IGN
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c72d411-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fd3bdfcd-3e09-44d5-89ca-daef1432299e&userId=&serverSideAds=true
-#EXTINF:25, IGN 2
+#EXTINF:25 group-title="INFANTIL", IGN 2
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecee24576bc0007a13b79/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda4eee0-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9030f60f-6b24-446e-8b43-73ed42a17db8&userId=&serverSideAds=true
-#EXTINF:0, IGN 3
+#EXTINF:0 group-title="INFANTIL", IGN 3
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac118dd7e6000077e31af/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b449ed93-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8552379d-eb98-45b8-bf09-8d25de349206&userId=&serverSideAds=true
 
@@ -1528,181 +1521,181 @@ https://i.mjh.nz/PlutoTV/5dd6ddb30a1d8a000908ed4c-alt.m3u8
 #EXTINF:0 group-title="PELICULAS", Paramount+ Presenta
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/600728952b1776000776526d-alt.m3u8
-#EXTINF:0, CSI: Miami
+#EXTINF:0 group-title="SERIES", CSI: Miami
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/63eb9255c111bc0008fe6ec4-alt.m3u8
-#EXTINF:0, NCIS
+#EXTINF:0 group-title="SERIES", NCIS
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
-#EXTINF:0, Pluto TV Series
+#EXTINF:0 group-title="SERIES", Pluto TV Series
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
-#EXTINF:0, The Night Shift
+#EXTINF:0 group-title="SERIES", The Night Shift
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/624f4d4a4321e200073f46e0-alt.m3u8
-#EXTINF:0, Schitt's Creek
+#EXTINF:0 group-title="SERIES", Schitt's Creek
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/620ac814864949000724fb77-alt.m3u8
-#EXTINF:0, Younger
+#EXTINF:0 group-title="SERIES", Younger
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/619d56d9fa3070000709e3f7-alt.m3u8
-#EXTINF:0, Pluto TV Dramas Coreanos
+#EXTINF:0 group-title="SERIES", Pluto TV Dramas Coreanos
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/6185a9a88b2ce30007de5128-alt.m3u8
-#EXTINF:0, Vive Kanal D Drama
+#EXTINF:0 group-title="PELICULAS", Vive Kanal D Drama
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/639751f81a36b400072b8f5a-alt.m3u8
-#EXTINF:0, Pluto TV España
+#EXTINF:0 group-title="SERIES", Pluto TV España
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5ffe17e3d765170007c3a4fe-alt.m3u8
-#EXTINF:0, Pluto TV Series Latinas
+#EXTINF:0 group-title="SERIES", Pluto TV Series Latinas
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
-#EXTINF:0, Pluto TV Series Retro
+#EXTINF:0 group-title="SERIES", Pluto TV Series Retro
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
-#EXTINF:0, Hechizada
+#EXTINF:0 group-title="SERIES", Hechizada
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/631fb6be21b7440007b9f606-alt.m3u8
-#EXTINF:0, Los Ángeles de Charlie
+#EXTINF:0 group-title="SERIES", Los Ángeles de Charlie
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/6487761d17f5e10008cbc000-alt.m3u8
-#EXTINF:0, Starsky & Hutch
+#EXTINF:0 group-title="SERIES", Starsky & Hutch
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/6489c45766e48500083cceb6-alt.m3u8
-#EXTINF:0, MacGyver
+#EXTINF:0 group-title="SERIES", MacGyver
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
-#EXTINF:0, Beverly Hills 90210
+#EXTINF:0 group-title="SERIES", Beverly Hills 90210
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/63eb93a1c111bc0008fe6f5b-alt.m3u8
-#EXTINF:0, Loco Por Ti
+#EXTINF:0 group-title="SERIES", Loco Por Ti
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/6489c42e976ee90008547503-alt.m3u8
-#EXTINF:0, Los Tres Chiflados
+#EXTINF:0 group-title="SERIES", Los Tres Chiflados
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
-#EXTINF:0, The Ed Sullivan Show
+#EXTINF:0 group-title="MUSICA", The Ed Sullivan Show
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/62e017e44823db000726cd9a-alt.m3u8
-#EXTINF:0, Pluto TV Retro Cartoons
+#EXTINF:0 group-title="INFANTIL", Pluto TV Retro Cartoons
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
-#EXTINF:25, Pluto TV Novelas
+#EXTINF:25 group-title="SERIES", Pluto TV Novelas
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dcde0cc2efd2700090b7ff4-alt.m3u8
-#EXTINF:0, Sin Tetas No Hay Paraíso
+#EXTINF:0 group-title="SERIES", Sin Tetas No Hay Paraíso
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/604bdf4e6d0abc0007ba77ad-alt.m3u8
-#EXTINF:0, La Selección
+#EXTINF:0 group-title="SERIES", La Selección
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/63211ba9cad976000794f988-alt.m3u8
-#EXTINF:0, Rock Story
+#EXTINF:0 group-title="SERIES", Rock Story
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/61f159209fcc3800076ed4a1-alt.m3u8
-#EXTINF:0, Pluto TV Reality
+#EXTINF:0 group-title="ENTRETENIMIENTO", Pluto TV Reality
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dcde197f6591d0009839e04-alt.m3u8
-#EXTINF:0, MTV Drag
+#EXTINF:0 group-title="ENTRETENIMIENTO", MTV Drag
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/64510d3ad3fdde00080951f2-alt.m3u8
-#EXTINF:0, MTV Pluto TV
+#EXTINF:0 group-title="ENTRETENIMIENTO", MTV Pluto TV
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5fab088b3279760007d4e4fd-alt.m3u8
-#EXTINF:0, MTV Classic
+#EXTINF:0 group-title="ENTRETENIMIENTO", MTV Classic
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5de91b7ea86ee60009d89e75-alt.m3u8
-#EXTINF:0, MTV Shore
+#EXTINF:0 group-title="ENTRETENIMIENTO", MTV Shore
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/61a52615cbef2500072876e2-alt.m3u8
-#EXTINF:0, MTV Con Mi Ex
+#EXTINF:0 group-title="ENTRETENIMIENTO", MTV Con Mi Ex
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/638693db857364000781b471-alt.m3u8
-#EXTINF:0, MTV Ridiculousness
+#EXTINF:0 group-title="ENTRETENIMIENTO", MTV Ridiculousness
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5e98a911c881310007d7aae2-alt.m3u8
-#EXTINF:0, MTV Teen Mom
+#EXTINF:0 group-title="ENTRETENIMIENTO", MTV Teen Mom
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/620fd9f4afb9a80007a9c6d5-alt.m3u8
-#EXTINF:0, MTV Catfish
+#EXTINF:0 group-title="ENTRETENIMIENTO", MTV Catfish
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/625461ef01f27a0007976ad1-alt.m3u8
-#EXTINF:0, Pluto TV  Competencias
+#EXTINF:0 group-title="ENTRETENIMIENTO", Pluto TV  Competencias
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dd6d935d000120009bc1132-alt.m3u8
-#EXTINF:0, Iron Chef
+#EXTINF:0 group-title="COCINA", Iron Chef
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/615b9855c6b58b000724477f-alt.m3u8
-#EXTINF:0, MasterChef
+#EXTINF:0 group-title="COCINA", MasterChef
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5e3ddbd27091820009f86dd9-alt.m3u8
-#EXTINF:0, MasterChef Junior
+#EXTINF:0 group-title="COCINA", MasterChef Junior
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/64bed7005dc16600089b84e9-alt.m3u8
-#EXTINF:0, Hells Kitchen
+#EXTINF:0 group-title="COCINA", Hells Kitchen
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/6095ad97351eb0000754c1e6-alt.m3u8
-#EXTINF:0, Minuto Para Ganar
+#EXTINF:0 group-title="ENTRETENIMIENTO", Minuto Para Ganar
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5e46e64dc73db400094b5f0b-alt.m3u8
-#EXTINF:0, Boom
+#EXTINF:0 group-title="ENTRETENIMIENTO", Boom
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/6099600015e88c0007ecda25-alt.m3u8
-#EXTINF:0, Wipe Out
+#EXTINF:0 group-title="ENTRETENIMIENTO", Wipe Out
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5ed6828192e8b3000743ef61-alt.m3u8
-#EXTINF:0, Desafío Super Humanos
+#EXTINF:0 group-title="ENTRETENIMIENTO", Desafío Super Humanos
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/6495af324c014a000842e923-alt.m3u8
-#EXTINF:0 group-title="CULTURA", Pluto TV Naturaleza
+#EXTINF:0 group-title="NATURALEZA", Pluto TV Naturaleza
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dd85eac039bba0009e86d1d-alt.m3u8
 #EXTINF:0 group-title="CULTURA", Paisajes por Stingray
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5f4fed840a2764000720d966-alt.m3u8
-#EXTINF:0 group-title="CULTURA", Pluto TV Animales
+#EXTINF:0 group-title="NATURALEZA", Pluto TV Animales
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
-#EXTINF:0 group-title="CULTURA", El Encantador de Perros
+#EXTINF:0 group-title="NATURALEZA", El Encantador de Perros
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/61099f2b40d0640007fc5aa2-alt.m3u8
 #EXTINF:0 group-title="CULTURA", Pluto TV Aventura
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5ddc266f80e3550009136843-alt.m3u8
-#EXTINF:0, Ice Pilots
+#EXTINF:0 group-title="SERIES", Ice Pilots
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/62154548a2be360007cb02f0-alt.m3u8
-#EXTINF:0, Pluto TV Velocidad
+#EXTINF:0 group-title="ENTRETENIMIENTO", Pluto TV Velocidad
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dd6dc7480e3550009133d4a-alt.m3u8
-#EXTINF:0, Obsesión por los Autos
+#EXTINF:0 v, Obsesión por los Autos
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/64025592953da40008bf9238-alt.m3u8
-#EXTINF:0, Motorvision TV
+#EXTINF:0 group-title="ENTRETENIMIENTO", Motorvision TV
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/60e5ea9a9bb4200008376f76-alt.m3u8
-#EXTINF:0, Pluto TV Vida Real
+#EXTINF:0 group-title="SERIES", Pluto TV Vida Real
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5df265697ec3510009df1ef0-alt.m3u8
-#EXTINF:0, COPS
+#EXTINF:0 group-title="SERIES", COPS
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/6419ab7c9189ce000865a469-alt.m3u8
-#EXTINF:0, Dog el cazarrecompensas
+#EXTINF:0 group-title="SERIES", Dog el cazarrecompensas
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5f9992c685a2a80007fa414a-alt.m3u8
-#EXTINF:0, Empeños a lo bestia
+#EXTINF:0 group-title="SERIES", Empeños a lo bestia
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5f23102d5e239d00074b092a-alt.m3u8
-#EXTINF:0 group-title="CULTURA", Pluto TV Mi Obsesión Favorita
+#EXTINF:0 group-title="SERIES", Pluto TV Mi Obsesión Favorita
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/6109ab25b84d6a0007504886-alt.m3u8
-#EXTINF:0 group-title="CULTURA", Misterios Medicos
+#EXTINF:0 group-title="SERIES", Misterios Medicos
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5f230e416b68ff00075b0139-alt.m3u8
-#EXTINF:0 group-title="CULTURA", Pluto TV Misterios
+#EXTINF:0 group-title="SERIES", Pluto TV Misterios
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dcde2f53449c50009b2b4dc-alt.m3u8
-#EXTINF:0 group-title="CULTURA", Historias de Ultratumba
+#EXTINF:0 group-title="SERIES", Historias de Ultratumba
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5f4d3696d938c900072679fd-alt.m3u8
 #EXTINF:0 group-title="CULTURA", Archivos Extraterrestres
@@ -1717,118 +1710,118 @@ https://i.mjh.nz/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
 #EXTINF:0 group-title="CULTURA", Pluto TV Ciencia
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
-#EXTINF:0 group-title="CULTURA", Pluto TV Investiga
+#EXTINF:0 group-title="SERIES", Pluto TV Investiga
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dcde27ffae9520009c0c75a-alt.m3u8
-#EXTINF:0, Cazador de Homicidas
+#EXTINF:0 group-title="SERIES", Cazador de Homicidas
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/6109a9f5531b840007a4a187-alt.m3u8
-#EXTINF:0 group-title="CULTURA", Los archivos del FBI
+#EXTINF:0 group-title="SERIES", Los archivos del FBI
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5e67d41b93312100076f3fca-alt.m3u8
-#EXTINF:0 group-title="CULTURA", Archivos Forenses
+#EXTINF:0 group-title="SERIES", Archivos Forenses
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5efb8c19b2678b000780d032-alt.m3u8
-#EXTINF:0 group-title="CULTURA", The New Detectives
+#EXTINF:0 group-title="SERIES", The New Detectives
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5ea71d48af1d0b0007d837f4-alt.m3u8
-#EXTINF:0 group-title="CULTURA", Misterios sin Resolver
+#EXTINF:0 group-title="SERIES", Misterios sin Resolver
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5f610042272f68000867685b-alt.m3u8
-#EXTINF:0, CBS News
+#EXTINF:0 group-title="NOTICIAS", CBS News
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/62310d5a5dc9550007c6f580-alt.m3u8
-#EXTINF:0, Euronews Español
+#EXTINF:0 group-title="NOTICIAS", Euronews Español
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
-#EXTINF:0, Telefe Noticias
+#EXTINF:0 group-title="ARGENTINA",AR | Telefe Noticias
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5f523aa5523ae000074745ec-alt.m3u8
-#EXTINF:0, Chilevision Noticias
+#EXTINF:0 group-title="NOTICIAS", Chilevision Noticias
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/61f94a2866401100074e9dee-alt.m3u8
-#EXTINF:0, TeleFórmula
+#EXTINF:0group-title="NOTICIAS", TeleFórmula
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
-#EXTINF:0, Chilevision Deportes Solo Chilenos
+#EXTINF:0 group-title="DEPORTES", Chilevision Deportes Solo Chilenos
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
-#EXTINF:0, DAZN Women's Football
+#EXTINF:0 group-title="DEPORTES", DAZN Women's Football
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/64b02bbd7d93410008fdae60-alt.m3u8
-#EXTINF:0, Pluto TV Deportes
+#EXTINF:0 group-title="DEPORTES", Pluto TV Deportes
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dcde07af1c85b0009b18651-alt.m3u8
-#EXTINF:0, ITV Deportes
+#EXTINF:0 group-title="DEPORTES", ITV Deportes
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
-#EXTINF:0, FUEL TV
+#EXTINF:0 group-title="DEPORTES", FUEL TV
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/6144d313b34fbf0007107714-alt.m3u8
-#EXTINF:0, Pluto TV Peleas
+#EXTINF:0 group-title="DEPORTES", Pluto TV Peleas
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5e98b0447665f200078caded-alt.m3u8
-#EXTINF:0, Lucha Libre AAA
+#EXTINF:0 group-title="DEPORTES", Lucha Libre AAA
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5f99a772c54853000797bf18-alt.m3u8
-#EXTINF:0, Comedy Central South Park
+#EXTINF:0 group-title="INFANTIL", Comedy Central South Park
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/609ae5cd48d3200007b0a98e-alt.m3u8
-#EXTINF:0, Daria
+#EXTINF:0 group-title="SERIES", Daria
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/62d0895ebe7a970008785244-alt.m3u8
-#EXTINF:0, La Familia del Barrio
+#EXTINF:0 group-title="SERIES", La Familia del Barrio
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/62d08af527ce19000731eaa0-alt.m3u8
-#EXTINF:0, Pluto TV Humor
+#EXTINF:0 group-title="SERIES", Pluto TV Humor
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5e8397936791b30007ebb5a7-alt.m3u8
-#EXTINF:0, Comedy Central Pluto TV
+#EXTINF:0 group-title="SERIES", Comedy Central Pluto TV
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5ffcc21a432945000762d06b-alt.m3u8
-#EXTINF:0, Backdoor
+#EXTINF:0 group-title="SERIES", Backdoor
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/633dc8684bf50b00074a46b1-alt.m3u8
-#EXTINF:0, FailArmy
+#EXTINF:0 group-title="ENTRETENIMIENTO", FailArmy
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5ebaccf1734aaf0007142c86-alt.m3u8
-#EXTINF:0 group-title="CULTURA", The Pet Collective
+#EXTINF:0 group-title="NATURALEZA", The Pet Collective
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5ebacbcae43a6d000787b88e-alt.m3u8
-#EXTINF:0, Best of The Drew Barrymore Show
+#EXTINF:0 group-title="ENTRETENIMIENTO", Best of The Drew Barrymore Show
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/63eb907651f5d000085e4778-alt.m3u8
-#EXTINF:0, Nosey Escándalos
+#EXTINF:0 group-title="ENTRETENIMIENTO", Nosey Escándalos
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5f9afb01816137000737f799-alt.m3u8
-#EXTINF:0, Teatrix
+#EXTINF:0 group-title="MUSICA", Teatrix
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/63ceb6ff60bc8f00088dc625-alt.m3u8
-#EXTINF:0, Reviví Gran Hermano
+#EXTINF:0 group-title="ENTRETENIMIENTO", Reviví Gran Hermano
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/6320ddef274b1b0007b2ee88-alt.m3u8
-#EXTINF:0, Telefe Hits
+#EXTINF:0 group-title="ARGENTINA",AR | Telefe Hits
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5de91cf02fc07c0009910465-alt.m3u8
-#EXTINF:0, Gran Hermano Chile
+#EXTINF:0 group-title="ENTRETENIMIENTO", Gran Hermano Chile
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/645505747cb4b10008492e03-alt.m3u8
-#EXTINF:0, Chilevision Contigo Puro Oro
+#EXTINF:0 group-title="ENTRETENIMIENTO", Chilevision Contigo Puro Oro
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/62aa5740a47b6c000769f407-alt.m3u8
 #EXTINF:0 group-title="CULTURA", Pluto TV Viajes
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dcddfbdb7cf0e0009ae09ea-alt.m3u8
-#EXTINF:0, Pluto TV Hogar
+#EXTINF:0 group-title="ENTRETENIMIENTO", Pluto TV Hogar
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dd6ab8056beb000091fc6b6-alt.m3u8
-#EXTINF:0, Pluto TV Cocina
+#EXTINF:0 group-title="ENTRETENIMIENTO", Pluto TV Cocina
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dcde0657444a40009cd2422-alt.m3u8
-#EXTINF:0, Pluto TV Recetas
+#EXTINF:0 group-title="ENTRETENIMIENTO", Pluto TV Recetas
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/609062295c2b8f0007199e7a-alt.m3u8
-#EXTINF:0, Tastemade
+#EXTINF:0 group-title="ENTRETENIMIENTO", Tastemade
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5f998c1fc54853000797bacd-alt.m3u8
 
