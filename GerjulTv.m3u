@@ -1828,106 +1828,106 @@ https://i.mjh.nz/PlutoTV/5f998c1fc54853000797bacd-alt.m3u8
 
 
 
-#EXTINF:0, Pluto TV Anime
+#EXTINF:0 group-title="INFANTIL", Pluto TV Anime
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
-#EXTINF:0, Pluto TV Animé Acción
+#EXTINF:0 group-title="INFANTIL", Pluto TV Animé Acción
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5e6a4d875d7ccf0007cc2cf1-alt.m3u8
-#EXTINF:0, Naruto
+#EXTINF:0 group-title="INFANTIL", Naruto
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5ee92e72fb286e0007285fec-alt.m3u8
-#EXTINF:0, Naruto Shippuden
+#EXTINF:0 group-title="INFANTIL", Naruto Shippuden
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/64c92fea3c3344000869e8a9-alt.m3u8
-#EXTINF:0, Death Note
+#EXTINF:0 group-title="INFANTIL", Death Note
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/626c2ed933a2890007e91422-alt.m3u8
-#EXTINF:0, Yu-Gi-Oh
+#EXTINF:0 group-title="INFANTIL", Yu-Gi-Oh
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5fceaab478f2af00080ff51f-alt.m3u8
-#EXTINF:0, Captain Tsubasa
+#EXTINF:0 group-title="INFANTIL", Captain Tsubasa
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/64666345f3f5b1000882bfb4-alt.m3u8
-#EXTINF:0, Beyblade
+#EXTINF:0 group-title="INFANTIL", Beyblade
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/632119a92c3b880007d3f5dc-alt.m3u8
-#EXTINF:0, One Piece
+#EXTINF:0 group-title="INFANTIL", One Piece
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5ff4b9ccf938f8000779eb99-alt.m3u8
-#EXTINF:0, Tokusato
+#EXTINF:0 group-title="INFANTIL", Tokusato
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5ff608e60e2996000768c366-alt.m3u8
-#EXTINF:0, Pluto TV E-Sports
+#EXTINF:0 group-title="INFANTIL", Pluto TV E-Sports
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5ff3934600d4c7000733ff49-alt.m3u8
-#EXTINF:0, ESR 24/7
+#EXTINF:0 group-title="INFANTIL", ESR 24/7
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5fb554d87a0c480007c8dada-alt.m3u8
-#EXTINF:0, Nick Teen
+#EXTINF:0 group-title="INFANTIL", Nick Teen
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5fab09a8749b1a00077d35d2-alt.m3u8
-#EXTINF:0, Nickelodeon iCarly
+#EXTINF:0 group-title="INFANTIL", Nickelodeon iCarly
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/620ff0a01f9e8700076c6f9d-alt.m3u8
-#EXTINF:0, Kenan y Kel
+#EXTINF:0 group-title="INFANTIL", Kenan y Kel
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5fcea93ffcf94500071c4b2f-alt.m3u8
-#EXTINF:0, Pluto TV Teen
+#EXTINF:0 group-title="INFANTIL", Pluto TV Teen
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dd6de52b9914200091f047a-alt.m3u8
-#EXTINF:0, PAW Patrol Patrulla de Cachorros
+#EXTINF:0 group-title="INFANTIL", PAW Patrol Patrulla de Cachorros
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/6495c6ad115d060008bf6b52-alt.m3u8
-#EXTINF:0, Nick Jr. Club
+#EXTINF:0 group-title="INFANTIL", Nick Jr. Club
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5ddd7cb2cbb9010009b4fe32-alt.m3u8
-#EXTINF:0, Las Pistas de Blue
+#EXTINF:0 group-title="INFANTIL", Las Pistas de Blue
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5f9996533c9de3000759ccb5-alt.m3u8
-#EXTINF:0, Baby Shark TV
+#EXTINF:0 group-title="INFANTIL", Baby Shark TV
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/619d5e6a093e7c0007489211-alt.m3u8
-#EXTINF:0, Babyfirst
+#EXTINF:0 group-title="INFANTIL", Babyfirst
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5ebac49ce4dc8b00078b23bc-alt.m3u8
-#EXTINF:0, Pluto TV Junior
+#EXTINF:0 group-title="INFANTIL", Pluto TV Junior
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dcde2ac4bc6c500094ab45b-alt.m3u8
-#EXTINF:0, Barney
+#EXTINF:0 group-title="INFANTIL", Barney
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5f29ada4bdaebd000708d49d-alt.m3u8
-#EXTINF:0, Babar
+#EXTINF:0 group-title="INFANTIL", Babar
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5e67e20c93312100076f3ffe-alt.m3u8
-#EXTINF:0, El Reino Infantil
+#EXTINF:0 group-title="INFANTIL", El Reino Infantil
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5f4d3d06fb60d8000781fce8-alt.m3u8
-#EXTINF:0, Nickelodeon Clásico
+#EXTINF:0 group-title="INFANTIL", Nickelodeon Clásico
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
-#EXTINF:0, Rugrats
+#EXTINF:0 group-title="INFANTIL", Rugrats
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5ea7215005d66d0007e8128a-alt.m3u8
-#EXTINF:0, Nickelodeon Rocket Power
+#EXTINF:0 group-title="INFANTIL", Nickelodeon Rocket Power
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/6202ab549654c800076ee13f-alt.m3u8
-#EXTINF:0, Nickelodeon Pluto TV
+#EXTINF:0 group-title="INFANTIL", Nickelodeon Pluto TV
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
-#EXTINF:0, Bob Esponja Pantalones Cuadrados
+#EXTINF:0 group-title="INFANTIL", Bob Esponja Pantalones Cuadrados
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
-#EXTINF:0, Los Padrinos Mágicos
+#EXTINF:0 group-title="INFANTIL", Los Padrinos Mágicos
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/6322099c822bbc00074857db-alt.m3u8
-#EXTINF:0, Las Tortugas Ninja
+#EXTINF:0 group-title="INFANTIL", Las Tortugas Ninja
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/63dd5d7a4e83e700088fbca8-alt.m3u8
-#EXTINF:0, Pluto TV Kids
+#EXTINF:0 group-title="INFANTIL", Pluto TV Kids
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dd6dae8ce788b0009eaf77b-alt.m3u8
-#EXTINF:0, Pluto TV Anime Kids
+#EXTINF:0 group-title="INFANTIL", Pluto TV Anime Kids
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
 
