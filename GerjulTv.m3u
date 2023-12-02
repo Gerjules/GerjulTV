@@ -2547,11 +2547,18 @@ http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHBffrIqJsaoi8sNueGjk6cw
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/chunklist_w112073847.m3u8
 
 
+
+#EXTINF:-1 group-tittle="DEPORTES", TUDN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
+
+#EXTINF:-1 group-title="DEPORTES", TUDN EE.UU.
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRYWs2s2/claro-sport.jpg" group-title="DEPORTES",CLARO SPORTS
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117701
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRYWs2s2/claro-sport.jpg" group-title="DEPORTES",CLARO SPORTS FULL HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117702
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/2S7XXQx4/directv-sport.jpg" group-title="DEPORTES"",DIRECTV SPORTS ECUADOR HD
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/2S7XXQx4/directv-sport.jpg" group-title="DEPORTES",DIRECTV SPORTS ECUADOR HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117703
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2S7XXQx4/directv-sport.jpg" group-title="DEPORTES",DIRECTV SPORTS URUGUAY HD
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117704
