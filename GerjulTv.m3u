@@ -127,6 +127,9 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTVLCOPT:network-caching=3000
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuM7kN1ksUFx9NNjSfOPl0emxBYKaZBxo3DdhFL3OQ&s" tvg-id="", Crónica TV
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1701541180/ei/3CBrZbjnBL6U2_gPwe-tqA8/ip/172.183.161.196/id/avly0uwZzOE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-vgqsknzy.googlevideo.com/xpc/EgVo2aDSNQ% 3D%3D/PlayList_Duration/30/Manifest_Duration/30/Spc/UWF9F5P4V_QOMI8SQOrGUV3Q5OT-D734ULGYX73COCEBKZ9ULT1/VPRV/1/PLAYLIST_TYPE/DVR/MH/9V/MM/44/MN/SN-VGQS / 5/pl/14/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1701518998/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp, rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRQIgUFUbIEPq9byWfZpIlL0Jv6XCWSKUFCwfi0PLie_w80sCIQCPtwGo0TMa20atqhHOqIcwFFkFX-eT0YDFHBn9Uu4EBA%3D%3D /lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRgIhAOFjj43NGvU-IezHrFlJ83A_9qTtyauLS36oTmtALoUSAiEAtV0ytG3IMoK7sTOZoOh12MzYo_qzbx6ejszJRJRLHKE %3D/ lista de reproducción/index.m3u8
+
 #EXTINF:0 group-title="ARGENTINA",AR | Telefe Noticias (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=3000
 https://siloh-mcdn.plutotv.net/lilo/production/LATAM/Telefe/master.m3u8
