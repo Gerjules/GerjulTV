@@ -2383,7 +2383,7 @@ http://200.24.206.132:8000/play/a0cn/index.m3u8
 http://200.24.206.132:8000/play/a0cl/index.m3u8
 #EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" tvg-id="", HBO Plus
 http://200.24.206.132:8000/play/a0cm/index.m3u8
-#EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/HBO_Pop.svg" tvg-id="", HBO Pop
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/HBO_Pop.svg" tvg-id="", HBO Pop
 http://200.24.206.132:8000/play/a012/index.m3u8
 #EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/HBO_Mundi.svg" tvg-id="", HBO Mundi
 http://200.24.206.132:8000/play/a0de/index.m3u8
@@ -2542,6 +2542,7 @@ http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHPw6CcjW_tufp-8Sl2Tpg2M
 #EXTINF:0 group-title="SERIES", RCN Novelas  
 #EXTVLCOPT:network-caching=3000
 http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHBffrIqJsaoi8sNueGjk6cw
+
 #EXTINF:30 group-title="INFANTIL", Latino kids
 #EXTVLCOPT:network-caching=3000
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/chunklist_w112073847.m3u8
