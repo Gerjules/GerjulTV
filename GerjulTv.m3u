@@ -127,6 +127,34 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTVLCOPT:network-caching=3000
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
+#EXTINF:-1 group-title="ARGENTINA",AR | Todo Noticias AR
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/AMERICA.png" group-title= "ARGENTINA",AR | AMÉRICA HD
+https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all/playlist_720p.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" group-title="ARGENTINA", AR | CANAL 9 
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aaa2eba0b638d8495561e8377/jw-octube-chubre-channelel ive.isml/.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/NET_TV.jpg" group-title= "ARGENTINA", NET TV 
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png"- title="ARGENTINA",AR | GARAJE TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:0 tvg-logo="https://www.solidariatv.com/wp-content/uploads/2022/11/logoweb2022.jpg" group-title="ARGENTINA",AR | SOLIDARIA TV ARGENTINA
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/607708464257896448/1JrRLGLc_400x400.jpg" group-title="ARGENTINA",AR | ARGENTINISIMA SATELITAL
+https://stream1.sersat.com/hls/argentinisima.m3u8
+
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="ARGENTINA",AR | TV RURAL
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-pKI6d5kptYI/XnDCiQcHe0I/AAAAAAAAw_Y/pjVT7LGqYmswBIePrX9PeXozB4UncbPEgCK8BGAsYHg/s0/2020-03-17.png" group-title="ARGENTINA",AR | CHACRA TV
+https://s8.stweb.tv/chacra/live/chunks.m3u8
+
+
 
 
 #EXTINF:30 group-title="ARGENTINA",AR | Canal 3 Formosa (720p)
@@ -151,8 +179,7 @@ https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u
 https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ARGENTINA",AR | Todo Noticias AR
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="ARGENTINA",AR | 13Max Televisión
