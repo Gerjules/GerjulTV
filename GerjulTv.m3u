@@ -423,12 +423,15 @@ https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO", Hola TV Play
 #EXTVLCOPT:network-caching=3000
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:0 group-title="ENTRETENIMIENTO", AZ CORAZON
 #EXTVLCOPT:network-caching=3000
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
+
 #EXTINF:0 group-title="ENTRETENIMIENTO", AZ MUNDO
 #EXTVLCOPT:network-caching=3000
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
+
 #EXTINF:0 group-title="ENTRETENIMIENTO", AZ CLIP
 #EXTVLCOPT:network-caching=3000
 https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
@@ -444,12 +447,15 @@ https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 group-title="NOTICIAS", DW ALEMANIA EN ESPAÑOL 
 #EXTVLCOPT:network-caching=3000
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
 #EXTINF:0 group-title="NOTICIAS", RT NOTICIAS 
 #EXTVLCOPT:network-caching=3000
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
 #EXTINF:0 group-title="NOTICIAS", HISPAN TV  
 #EXTVLCOPT:network-caching=3000
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
+
 #EXTINF:0 group-title="NOTICIAS", EuroNews
 #EXTVLCOPT:network-caching=3000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
@@ -461,16 +467,20 @@ https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 group-title="NOTICIAS", TV Málaga 
 #EXTVLCOPT:network-caching=3000
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+
 #EXTINF:0 group-title="NOTICIAS", TELESUR VENEZUELA  
 #EXTVLCOPT:network-caching=3000
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?
+
 #EXTINF:0 group-title="NOTICIAS", FRANCE 24 
 #EXTVLCOPT:network-caching=3000
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
+
 #EXTINF:0 group-title="NOTICIAS", RCN más 
 #EXTVLCOPT:network-caching=3000
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:0 group-title="NOTICIAS",El País
+
+EXTINF:0 group-title="NOTICIAS",El País
 #EXTVLCOPT:network-caching=3000
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
@@ -783,7 +793,7 @@ https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTVLCOPT:network-caching=3000
 https://6362ca6f1fc28.streamlock.net/8078/8078/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0,Somos Cultura TV (720p)
+#EXTINF:0 group-title="CULTURA",Somos Cultura TV (720p)
 #EXTVLCOPT:network-caching=3000
 https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 
