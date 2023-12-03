@@ -148,6 +148,9 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-pKI6d5kptYI/XnDCiQcHe0I/AAAAAAAAw_Y/pjVT7LGqYmswBIePrX9PeXozB4UncbPEgCK8BGAsYHg/s0/2020-03-17.png" group-title="ARGENTINA",AR | CHACRA TV
 https://s8.stweb.tv/chacra/live/chunks.m3u8
 
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" group-title="ARGENTINA",AR | CANAL 9 
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aaa2eba0b638d8495561e8377/jw-octube-chubre-channelel ive.isml/.m3u8
+
 
 
 
