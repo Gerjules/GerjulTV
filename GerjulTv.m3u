@@ -2385,6 +2385,9 @@ https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrjCJn3X/id.jpg" group-title="⭐️ Cultura Premium",LAT: Investigation Discovery Full HD (MX) 漏
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29282
 
+#EXTINF:-1 group-title="⭐️ Cultura Premium" tvg-logo="https://pbs.twimg.com/profile_images/1697655140616982529/CZjS0-zk_400x400.jpg", Teatrix 
+https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jhh8vM7Z/Sin-t-tulo-4.jpg" group-title="⭐️ Cultura Premium",LAT: Discovery Channel HD (CO)
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29287
 
