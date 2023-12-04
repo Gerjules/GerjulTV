@@ -161,6 +161,9 @@ https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
 #EXTVLCOPT:network-caching=3000
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Tango_TV_canal_de_tv_online.png",AR | Tango TV
+https://video.misistemareseller.com/8118/8118/chunklist_w2067675982.m3u8?PlaylistM3UCL
+
 
 #EXTINF:0 group-title="ARGENTINA",AR | 33,5TV Corrientes (480p) [Not 24/7]
 #EXTVLCOPT:network-caching=3000
