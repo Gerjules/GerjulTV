@@ -463,7 +463,7 @@ https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
 #EXTVLCOPT:network-caching=3000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:0,¡HOLA! PLAY
+#EXTINF:0 group-title="ENTRETENIMIENTO",¡HOLA! PLAY
 #EXTVLCOPT:network-caching=3000
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8?ads.wurl_channel=790&ads.wurl_name=HolaPlay&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
@@ -483,13 +483,14 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 #EXTVLCOPT:network-caching=3000
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
-EXTINF:0 group-title="NOTICIAS",El País
+#EXTINF:0 group-title="NOTICIAS",El País
 #EXTVLCOPT:network-caching=3000
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
 #EXTINF:0 group-title="ENTRETENIMIENTO", ESTRELLA TV 
 #EXTVLCOPT:network-caching=3000
 https://estrellatv-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:0 group-title="ENTRETENIMIENTO", ESTRELLA GAMES
 #EXTVLCOPT:network-caching=3000
 https://estrella-games-oando.amagi.tv/playlist.m3u8
