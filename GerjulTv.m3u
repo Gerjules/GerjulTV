@@ -2279,6 +2279,8 @@ http://pinkpanther.uk:8080/35W7xfhYuS3L/7vgMsC6Y7brA/50929
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="⭐️ Cine Premium", cinema 08
 http://pinkpanther.uk:8080/35W7xfhYuS3L/7vgMsC6Y7brA/50930
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",roup-title="⭐️ Cine Premium",CINE| HBO
+http://extremeplus.xyz:8080/miarea/VfVbMyh38f/77056
 
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" group-title="⭐️ Cine Premium",CINE| HBO 2
 http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/574413
@@ -2288,6 +2290,12 @@ http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318647
 
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-family.png" group-title="⭐️ Cine Premium",CINE| HBO Family
 http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318650
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="⭐️ Cine Premium",CINE| Cinecanal
+http://170.82.37.21:8000/play/a022/index.m3u8
+
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png"group-title="⭐️ Cine Premium",CINE| CINEMAX
+http://170.82.37.21:8000/play/a023/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-de-pelicula.png" group-title="⭐️ Cine Premium",CINE| De Pelicula
 http://motivatv.club:80/LEONARDOSAN2/57155/592251
