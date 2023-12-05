@@ -19,14 +19,14 @@ https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 http://200.41.79.165:8000/play/a0hy/index.m3u8
 
 
-#EXTINF:0,PY | PARAVISIÓN 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="PARAGUAY",Bruno Masi TV (720p)
+#EXTINF:0 ,PY | PARAVISIÓN 
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235206.ts
-#EXTINF:0,PY | LA TELE 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="PARAGUAY",Bruno Masi TV (720p)
+#EXTINF:0 ,PY | LA TELE 
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235204.ts
+
+
 #EXTINF:0,PY | radio venus 
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
