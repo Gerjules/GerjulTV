@@ -1,36 +1,24 @@
 #EXTM3U
-#EXTINF:3600, ABC TV
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="PARAGUAY", ABC TV
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-#EXTINF:37, SNT
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="PARAGUAY", SNT
 https://deh05ueq91v6s.cloudfront.net/SNTPY/0bd4cfaf086c4ac0ce0101172a42ba20.sdp/SNTPY/SNTPY2/chunks.m3u8
-#EXTINF:30, TRECE
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="PARAGUAY", TRECE
 https://tigocloudgen.desdeparaguay.net/trecetv/trecetv_baja/chunklist_w1196893029.m3u8?k=406497d0d8424d72e52021fad7657d49f5887085eb535695f5715b90bad8d2c7&exp=1686070703
-#EXTINF:40,C9N (480p)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="PARAGUAY",C9N (480p)
 https://deh05ueq91v6s.cloudfront.net/C9NPY/031fe10f99063bb9e8271716ce50b133.sdp/playlist.m3u8
-#EXTINF:0,PY | UNICANAL 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="PARAGUAY",UNICANAL 
 https://tigocloudgen.desdeparaguay.net/unicanal/unicanal_baja/chunklist_w904988084.m3u8?k=7b1d356cc7ec36bb21f1e96cfbd0415bc0b0c388fe500cb07566c44d89d6d7ab&exp=1698514724
-#EXTINF:30,Bruno Masi TV (720p)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="PARAGUAY",Bruno Masi TV (720p)
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
-#EXTINF:30,Cáritas TV (1080p)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="PARAGUAY",Bruno Masi TV (720p)
+#EXTINF:0 ,Cáritas TV (1080p)
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
-#EXTINF:8,Telefuturo
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="PARAGUAY",Bruno Masi TV (720p)
+#EXTINF:0 ,Telefuturo
 http://200.41.79.165:8000/play/a0hy/index.m3u8
+
+
 #EXTINF:0,PY | PARAVISIÓN 
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
