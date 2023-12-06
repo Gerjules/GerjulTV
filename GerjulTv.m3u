@@ -1074,352 +1074,337 @@ https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 #EXTVLCOPT:network-caching=3000
 https://ott.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=3112&f=HLS&f=.m3u8
 
-#EXTINF:30,Xtrema Retro Series (360p)
+#EXTINF:0 group-title="SERIES",SER | Xtrema Retro Series (360p)
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
-#EXTINF:29,Xtrema Series (360p)
+#EXTINF:0 group-title="SERIES",SER | Xtrema Series (360p)
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
-#EXTINF:60,ViX Jajaja (1080p)
+#EXTINF:0 group-title="SERIES",SER | ViX Jajaja (1080p)
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
-#EXTINF:0, Pluto TV Novelas
+#EXTINF:0 group-title="SERIES",SER | Pluto TV Novelas
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0, Pluto TV Series
+#EXTINF:0 group-title="SERIES",SER | Pluto TV Series
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde1317578340009b751d0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:0, Pluto TV Series Latinas
+#EXTINF:0 group-title="SERIES",SER | Pluto TV Series Latinas
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0, Sony Novelas
+#EXTINF:0 group-title="SERIES",SER | Sony Novelas
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
-#EXTINF:0,TELEMUNDO NOVELAS
+#EXTINF:0 group-title="SERIES",SER | TELEMUNDO NOVELAS
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=293d&deviceDNT=0&deviceModel=0&already_redirected=true
-#EXTINF:0,NOVELAS DE ROMANCE
+#EXTINF:0 group-title="SERIES",SER | NOVELAS DE ROMANCE
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://d10xax7cor3zsm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0m7q1oxxje3uu-prod/dist/samsungtv/194/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:0, Pluto TV Series Retro
+#EXTINF:0 group-title="SERIES",SER | Pluto TV Series Retro
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0, Sin Tetas No Hay Paraíso
+#EXTINF:0 group-title="SERIES",SER | Sin Tetas No Hay Paraíso
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:36, Sony Novelas | HD | Estados Unidos
+#EXTINF:0 group-title="SERIES",SER | Sony Novelas | HD | Estados Unidos
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
-#EXTINF:25,TELEMUNDO NOVELAS
+#EXTINF:0 group-title="SERIES",SER | TELEMUNDO NOVELAS
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=293d&deviceDNT=0&deviceModel=0&already_redirected=true
-#EXTINF:60,NOVELAS DE ROMANCE
+#EXTINF:0 group-title="SERIES",SER | NOVELAS DE ROMANCE
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://d10xax7cor3zsm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0m7q1oxxje3uu-prod/dist/samsungtv/194/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:0,NOVELAS DE ORO
+#EXTINF:0 group-title="SERIES",SER | NOVELAS DE ORO
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://d1jgsg6cns4jzy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ilvjz7r1nrgb-prod/dist/samsungtv/196/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:35,Televisa Novelas
+#EXTINF:0 group-title="SERIES",SER | Televisa Novelas
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://a1a6e9e8871c44a291f1bf09a08aa5e2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Televisa/playlist.m3u8?ads.wurl_channel=819&ads.wurl_name=Televisa&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:36, SONY NOVELAS 
+#EXTINF:0 group-title="SERIES",SER | SONY NOVELAS 
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:0, SEO TV Novelas 
+#EXTINF:0 group-title="SERIES",SER | SEO TV Novelas 
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://live.seo.tv.bo/live/3SEO.m3u8
 
-#EXTINF:0, CORAZÓN TURCO
+#EXTINF:0 group-title="SERIES",SER | CORAZÓN TURCO
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/61b3e21d56fee300087e4cba-alt.m3u8
-#EXTINF:25, Sin Tetas No Hay Paraíso
+#EXTINF:0 group-title="SERIES",SER | Sin Tetas No Hay Paraíso
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/604bdf4e6d0abc0007ba77ad-alt.m3u8
-#EXTINF:0, THE WALKING DEAD
+#EXTINF:0 group-title="SERIES",SER | THE WALKING DEAD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a109b860-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=89e7768a-d856-44a6-ba93-5bff4d40757c&userId=&serverSideAds=true
-#EXTINF:0, CSI: Miami
+#EXTINF:0 group-title="SERIES",SER | Miami
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/63eb9255c111bc0008fe6ec4-alt.m3u8
-#EXTINF:0, NCIS
+#EXTINF:0 group-title="SERIES",SER | NCIS
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
-#EXTINF:0, Pluto TV Series
+#EXTINF:0 group-title="SERIES",SER | Pluto TV Series
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
-#EXTINF:0, The Night Shift
+#EXTINF:0 group-title="SERIES",SER | The Night Shift
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/624f4d4a4321e200073f46e0-alt.m3u8
-#EXTINF:0, Schitt's Creek
+#EXTINF:0 group-title="SERIES",SER | Schitt's Creek
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/620ac814864949000724fb77-alt.m3u8
-#EXTINF:0, Younger
+#EXTINF:0 group-title="SERIES",SER | Younger
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/619d56d9fa3070000709e3f7-alt.m3u8
-#EXTINF:0, Pluto TV Dramas Coreanos
+#EXTINF:0 group-title="SERIES",SER | Pluto TV Dramas Coreanos
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/6185a9a88b2ce30007de5128-alt.m3u8
-#EXTINF:0, Vive Kanal D Drama
+#EXTINF:0 group-title="SERIES",SER | Vive Kanal D Drama
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/639751f81a36b400072b8f5a-alt.m3u8
-#EXTINF:0, Pluto TV España
+#EXTINF:0 group-title="SERIES",SER | Pluto TV España
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5ffe17e3d765170007c3a4fe-alt.m3u8
-#EXTINF:0, Pluto TV Series Latinas
+#EXTINF:0 group-title="SERIES",SER | Pluto TV Series Latinas
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
-#EXTINF:0, Pluto TV Series Retro
+#EXTINF:0 group-title="SERIES",SER | Pluto TV Series Retro
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
-#EXTINF:0, Hechizada
+#EXTINF:0 group-title="SERIES",SER | Hechizada
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/631fb6be21b7440007b9f606-alt.m3u8
-#EXTINF:0, Los Ángeles de Charlie
+#EXTINF:0 group-title="SERIES",SER | Los Ángeles de Charlie
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/6487761d17f5e10008cbc000-alt.m3u8
-#EXTINF:0, Starsky & Hutch
+#EXTINF:0 group-title="SERIES",SER | Starsky & Hutch
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/6489c45766e48500083cceb6-alt.m3u8
-#EXTINF:0, MacGyver
+#EXTINF:0 group-title="SERIES",SER | MacGyver
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
-#EXTINF:0, Beverly Hills 90210
+#EXTINF:0 group-title="SERIES",SER | Beverly Hills 90210
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/63eb93a1c111bc0008fe6f5b-alt.m3u8
-#EXTINF:0, Loco Por Ti
+#EXTINF:0 group-title="SERIES",SER | Loco Por Ti
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/6489c42e976ee90008547503-alt.m3u8
-#EXTINF:0, Los Tres Chiflados
+#EXTINF:0 group-title="SERIES",SER | Los Tres Chiflados
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
-#EXTINF:25, Pluto TV Novelas
+#EXTINF:0 group-title="SERIES",SER | Pluto TV Novelas
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dcde0cc2efd2700090b7ff4-alt.m3u8
-#EXTINF:0, Sin Tetas No Hay Paraíso
+#EXTINF:0 group-title="SERIES",SER | Sin Tetas No Hay Paraíso
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/604bdf4e6d0abc0007ba77ad-alt.m3u8
-#EXTINF:0, La Selección
+#EXTINF:0 group-title="SERIES",SER | La Selección
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/63211ba9cad976000794f988-alt.m3u8
-#EXTINF:0, Rock Story
+#EXTINF:0 group-title="SERIES",SER | Rock Story
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/61f159209fcc3800076ed4a1-alt.m3u8
-#EXTINF:0, A3SERIES 
+#EXTINF:0 group-title="SERIES",SER | A3SERIES 
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://ott.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2113&f=HLS&f=.m3u8
-#EXTINF:0, A3SERIES II
+#EXTINF:0 group-title="SERIES",SER | A3SERIES II
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
 
 
-#EXTINF:0, Pluto TV Cocina
+#EXTINF:0 group-title="COCINA",COC | Pluto TV Cocina
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:60, TASTEMADE español 
+#EXTINF:0 group-title="COCINA",COC | TASTEMADE español 
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8?
-#EXTINF:0, MasterChef
+#EXTINF:0 group-title="COCINA",COC | MasterChef
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0, Tastemade
+#EXTINF:0 group-title="COCINA",COC | Tastemade
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:60, MÉXICO MIL SABORES
+#EXTINF:0 group-title="COCINA",COC | MÉXICO MIL SABORES
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://linear-317.frequency.stream/dist/vix/317/hls/master/playlist.m3u8
-#EXTINF:53,  GUSTO Tv
+#EXTINF:0 group-title="COCINA",COC | GUSTO Tv
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://gustotv-samsung-gb.samsung.wurl.tv/playlist.m3u8?
-#EXTINF:25, Hells Kitchen
+#EXTINF:0 group-title="COCINA",COC | Hells Kitchen
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/6095ad97351eb0000754c1e6-alt.m3u8
-#EXTINF:25, Iron Chef
+#EXTINF:0 group-title="COCINA",COC | Iron Chef
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/615b9855c6b58b000724477f-alt.m3u8
-#EXTINF:25, MasterChef
+#EXTINF:0 group-title="COCINA",COC | MasterChef
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5e3ddbd27091820009f86dd9-alt.m3u8
-#EXTINF:25, Tastemade
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f998c1fc54853000797bacd-alt.m3u8
-#EXTINF:0, HELL'S KITCHEN EN ESPAÑOL
+
+#EXTINF:0 group-title="COCINA",COC | HELL'S KITCHEN EN ESPAÑOL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 https://stitcher.pluto.tv/stitch/hls/channel/60492b2794116800073e32dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8ef6973d-ade6-11eb-930b-0242ac110002
-#EXTINF:0, MASTER CHEF
+#EXTINF:0 group-title="COCINA",COC | MASTER CHEF
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d532-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3935b7bb-6c42-4a74-a1c0-19d91d4ea3b7&userId=&serverSideAds=true
-#EXTINF:23, TASTEMADE
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f998c1fc54853000797bacd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b54be6f9-df4b-4c83-b6ff-d2c9a847569e&userId=&serverSideAds=true
-#EXTINF:25, * Cocina
+#EXTINF:0 group-title="COCINA",COC | Cocina
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dcde0657444a40009cd2422-alt.m3u8
-#EXTINF:25, * Recetas
+#EXTINF:0 group-title="COCINA",COC | Recetas
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/609062295c2b8f0007199e7a-alt.m3u8
-#EXTINF:25,Service
+#EXTINF:0 group-title="COCINA",COC | Service
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5f1acdaa8ba90f0007d5e760-alt.m3u8
-#EXTINF:0, PLUTO TV COCINA
+#EXTINF:0 group-title="COCINA",COC | PLUTO TV COCINA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02780-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8850b362-804f-4cf0-a920-4f711796663f&userId=&serverSideAds=true
-#EXTINF:0, PLUTO TV COCINA 2
+#EXTINF:0 group-title="COCINA",COC | PLUTO TV COCINA 2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c801a80-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0e0dc4ab-902e-4ad1-a9d5-748727626eaa&userId=&serverSideAds=true
-#EXTINF:0, PLUTO TV COCINA (España)
+#EXTINF:0 group-title="COCINA",COC | PLUTO TV COCINA (España)
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4c6543-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1fc7e1c7-88d8-4d19-915b-02a6745f031d&userId=&serverSideAds=true
-#EXTINF:25, PLUTO TV RECETAS
+#EXTINF:0 group-title="COCINA",COC | PLUTO TV RECETAS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609062295c2b8f0007199e7a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bb42e440-dea7-11eb-be60-3b6a118ac8ac&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ef972a2c-8672-41cf-b2e4-003e44fbe25a&userId=&serverSideAds=true
-#EXTINF:0, Iron Chef
+#EXTINF:0 group-title="COCINA",COC | Iron Chef
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/615b9855c6b58b000724477f-alt.m3u8
-#EXTINF:0, MasterChef
+#EXTINF:0 group-title="COCINA",COC | MasterChef
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5e3ddbd27091820009f86dd9-alt.m3u8
-#EXTINF:0, MasterChef Junior
+#EXTINF:0 group-title="COCINA",COC | MasterChef Junior
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/64bed7005dc16600089b84e9-alt.m3u8
-#EXTINF:0, Hells Kitchen
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/6095ad97351eb0000754c1e6-alt.m3u8
-#EXTINF:0, Pluto TV Hogar
+#EXTINF:0 group-title="COCINA",COC | Pluto TV Hogar
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dd6ab8056beb000091fc6b6-alt.m3u8
-#EXTINF:0, Pluto TV Cocina
+#EXTINF:0 group-title="COCINA",COC | Pluto TV Cocina
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dcde0657444a40009cd2422-alt.m3u8
-#EXTINF:0, Pluto TV Recetas
+#EXTINF:0 group-title="COCINA",COC | Pluto TV Recetas
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/609062295c2b8f0007199e7a-alt.m3u8
-#EXTINF:0, Tastemade
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f998c1fc54853000797bacd-alt.m3u8
-#EXTINF:0,LAT: El Gourmet HD (CO)
+#EXTINF:0 group-title="COCINA",COC | El Gourmet HD (CO)
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29359
-#EXTINF:0,LAT: Food Network (MX)  HD #EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="COCINA",COC | Food Network (MX)  HD #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29362
 
 
 
-#EXTINF:0, Pluto TV Deportes
+#EXTINF:0 group-title="DEPORTES",SPORT | Pluto TV Deportes
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0, Pluto TV Peleas
+#EXTINF:0 group-title="DEPORTES",SPORT | Pluto TV Peleas
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0, Lucha Libre AAA
+#EXTINF:0 group-title="DEPORTES",SPORT | Lucha Libre AAA
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:25, La Liga Premier | Paramount+
+#EXTINF:0 group-title="DEPORTES",SPORT | La Liga Premier | Paramount+
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:60, TENNIS CHANNEL 
+#EXTINF:0 group-title="DEPORTES",SPORT | TENNIS CHANNEL 
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:25, Top Gear
+#EXTINF:0 group-title="DEPORTES",SPORT | Top Gear
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/60d356a534f63f000850cdd7-alt.m3u8
-#EXTINF:25, Top Gear en español
+#EXTINF:0 group-title="DEPORTES",SPORT | Top Gear en español
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/61325566b3c86a00078e4819-alt.m3u8
-#EXTINF:0, Pluto TV Fitness
+#EXTINF:0 group-title="DEPORTES",SPORT | Pluto TV Fitness
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/6140a074a99e79000738162a-alt.m3u8
-#EXTINF:0, Ice Pilots
+#EXTINF:0 group-title="DEPORTES",SPORT | Ice Pilots
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/62154548a2be360007cb02f0-alt.m3u8
-#EXTINF:0, Pluto TV Velocidad
+#EXTINF:0 group-title="DEPORTES",SPORT | Pluto TV Velocidad
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dd6dc7480e3550009133d4a-alt.m3u8
@@ -1427,234 +1412,240 @@ https://i.mjh.nz/PlutoTV/5dd6dc7480e3550009133d4a-alt.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/64025592953da40008bf9238-alt.m3u8
-#EXTINF:0, Motorvision TV
+#EXTINF:0 group-title="DEPORTES",SPORT | Motorvision TV
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/60e5ea9a9bb4200008376f76-alt.m3u8
-#EXTINF:0, TeleFórmula
+#EXTINF:0 group-title="DEPORTES",SPORT | TeleFórmula
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
-#EXTINF:0, Chilevision Deportes Solo Chilenos
+#EXTINF:0 group-title="DEPORTES",SPORT | Chilevision Deportes Solo Chilenos
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
-#EXTINF:0, DAZN Women's Football
+#EXTINF:0 group-title="DEPORTES",SPORT | DAZN Women's Football
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/64b02bbd7d93410008fdae60-alt.m3u8
-#EXTINF:0, Pluto TV Deportes
+#EXTINF:0 group-title="DEPORTES",SPORT | Pluto TV Deportes
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dcde07af1c85b0009b18651-alt.m3u8
-#EXTINF:0, ITV Deportes
+#EXTINF:0 group-title="DEPORTES",SPORT | ITV Deportes
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
-#EXTINF:0, FUEL TV
+#EXTINF:0 group-title="DEPORTES",SPORT | FUEL TV
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/6144d313b34fbf0007107714-alt.m3u8
-#EXTINF:0, Pluto TV Peleas
+#EXTINF:0 group-title="DEPORTES",SPORT | Pluto TV Peleas
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5e98b0447665f200078caded-alt.m3u8
-#EXTINF:0, Lucha Libre AAA
+#EXTINF:0 group-title="DEPORTES",SPORT | Lucha Libre AAA
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5f99a772c54853000797bf18-alt.m3u8
-#EXTINF:0,CLARO SPORTS
+
+
+#EXTINF:0 group-title="DEPORTES",SPORT | CLARO SPORTS
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117701
-#EXTINF:0,CLARO SPORTS FULL HD
+#EXTINF:0 group-title="DEPORTES",SPORT | CLARO SPORTS FULL HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117702
-#EXTINF:0,DIRECTV SPORTS ECUADOR HD
+#EXTINF:0 group-title="DEPORTES",SPORT | DIRECTV SPORTS ECUADOR HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117703
-#EXTINF:0,DIRECTV SPORTS URUGUAY HD
+#EXTINF:0 group-title="DEPORTES",SPORT | DIRECTV SPORTS URUGUAY HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117704
-#EXTINF:0,DIRECTV SPORTS ARGENTINA HD
+#EXTINF:0 group-title="DEPORTES",SPORT | DIRECTV SPORTS ARGENTINA HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117705
-#EXTINF:0,DIRECTV SPORTS CHILE HD
+#EXTINF:0 group-title="DEPORTES",SPORT | DIRECTV SPORTS CHILE HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117706
-#EXTINF:0,DIRECTV SPORTS COLOMBIA
+#EXTINF:0 group-title="DEPORTES",SPORT | DIRECTV SPORTS COLOMBIA
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117707
-#EXTINF:0,DIRECTV SPORTS 2 COLOMBIA HD
+#EXTINF:0 group-title="DEPORTES",SPORT | DIRECTV SPORTS 2 COLOMBIA HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117708
-#EXTINF:0,DIRECTV SPORTS 2 ARGENTINA HD
+#EXTINF:0 group-title="DEPORTES",SPORT | DIRECTV SPORTS 2 ARGENTINA HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117709
-#EXTINF:0,DIRECTV SPORTS + ARGENTINA HD
+#EXTINF:0 group-title="DEPORTES",SPORT | DIRECTV SPORTS + ARGENTINA HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117710
-#EXTINF:0,DIRECTV SPORTS + ECUADOR HD
+#EXTINF:0 group-title="DEPORTES",SPORT | DIRECTV SPORTS + ECUADOR HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117711
-#EXTINF:0,DIRECTV SPORTS + COLOMBIA HD
+#EXTINF:0 group-title="DEPORTES",SPORT | DIRECTV SPORTS + COLOMBIA HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117712
-#EXTINF:0,BEIN SPORTS FULL HD
+#EXTINF:0 group-title="DEPORTES",SPORT | BEIN SPORTS FULL HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117713
-#EXTINF:0,BEIN SPORTS
+#EXTINF:0 group-title="DEPORTES",SPORT | BEIN SPORTS
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117714
-#EXTINF:0,ESPN ARGENTINA HD
+#EXTINF:0 group-title="DEPORTES",SPORT | ESPN ARGENTINA HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117715
-#EXTINF:0,ESPN 2 ARGENTINA HD
+#EXTINF:0 group-title="DEPORTES",SPORT | ESPN 2 ARGENTINA HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117716
-#EXTINF:0,ESPN 3 HD
+#EXTINF:0 group-title="DEPORTES",SPORT | ESPN 3 HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117717
-#EXTINF:0,ESPN + ARGENTINA HD
+#EXTINF:0 group-title="DEPORTES",SPORT | ESPN + ARGENTINA HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117718
-#EXTINF:0,ESPN 2 CHILE HD
+#EXTINF:0 group-title="DEPORTES",SPORT | ESPN 2 CHILE HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117719
-#EXTINF:0,ESPN 3 CHILE HD
+#EXTINF:0 group-title="DEPORTES",SPORT | ESPN 3 CHILE HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117720
-#EXTINF:0,ESPN COLOMBIA HD
+#EXTINF:0 group-title="DEPORTES",SPORT | ESPN COLOMBIA HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117721
-#EXTINF:0,ESPN 2 COLOMBIA HD
+#EXTINF:0 group-title="DEPORTES",SPORT | ESPN 2 COLOMBIA HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117722
-#EXTINF:0,ESPN 3 COLOMBIA HD
+#EXTINF:0 group-title="DEPORTES",SPORT | ESPN 3 COLOMBIA HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117723
-#EXTINF:0,ESPN MEXICO HD
+#EXTINF:0 group-title="DEPORTES",SPORT | ESPN MEXICO HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117724
-#EXTINF:0,ESPN 2 MEXICO HD
+#EXTINF:0 group-title="DEPORTES",SPORT | ESPN 2 MEXICO HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117725
-#EXTINF:0,ESPN 3 MEXICO HD
+#EXTINF:0 group-title="DEPORTES",SPORT | ESPN 3 MEXICO HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117726
-#EXTINF:0,FOX SPORTS ARGENTINA HD
+#EXTINF:0 group-title="DEPORTES",SPORT | FOX SPORTS ARGENTINA HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117727
-#EXTINF:0,FOX SPORTS 2 ARGENTINA HD
+#EXTINF:0 group-title="DEPORTES",SPORT | FOX SPORTS 2 ARGENTINA HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117728
-#EXTINF:0,FOX SPORTS 3 ARGENTINA HD
+#EXTINF:0 group-title="DEPORTES",SPORT | FOX SPORTS 3 ARGENTINA HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117729
-#EXTINF:0,ESPN PREMIUM  ARGENTINA HD
+#EXTINF:0 group-title="DEPORTES",SPORT | ESPN PREMIUM  ARGENTINA HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117730
-#EXTINF:0,FOX SPORTS 2 CHILE HD
+#EXTINF:0 group-title="DEPORTES",SPORT | FOX SPORTS 2 CHILE HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117731
-#EXTINF:0,FOX SPORTS 3 CHILE HD
+#EXTINF:0 group-title="DEPORTES",SPORT | FOX SPORTS 3 CHILE HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117732
-#EXTINF:0,FOX SPORTS  COLOMBIA HD
+#E#EXTINF:0 group-title="DEPORTES",SPORT | FOX SPORTS  COLOMBIA HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117733
-#EXTINF:0,FOX SPORTS 2 COLOMBIA HD
+#EXTINF:0 group-title="DEPORTES",SPORT | FOX SPORTS 2 COLOMBIA HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117734
-#EXTINF:0,FOX SPORTS 3 HD
+#EXTINF:0 group-title="DEPORTES",SPORT | FOX SPORTS 3 HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117735
-#EXTINF:0,FOX SPORTS MEXICO HD
+#EXTINF:0 group-title="DEPORTES",SPORT | FOX SPORTS MEXICO HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117736
-#EXTINF:0,FOX SPORTS 2 MEXICO HD
+#EXTINF:0 group-title="DEPORTES",SPORT | FOX SPORTS 2 MEXICO HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117737
-#EXTINF:0,FOX SPORTS 3 MEXICO HD
+#EXTINF:0 group-title="DEPORTES",SPORT | FOX SPORTS 3 MEXICO HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117738
-#EXTINF:0,SKY SPORTS MEXICO HD
+#EXTINF:0 group-title="DEPORTES",SPORT | SKY SPORTS MEXICO HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117739
 #EXTINF:0,TENNIS CHANNEL HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117745
-#EXTINF:0,MOVISTAR DEPORTES PERU FULL HD
+#EXTINF:0 group-title="DEPORTES",SPORT | MOVISTAR DEPORTES PERU FULL HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117749
-#EXTINF:0,TNT SPORTS ARGENTINA HD OPCION 1
+#EXTINF:0 group-title="DEPORTES",SPORT | TNT SPORTS ARGENTINA HD OPCION 1
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117752
-#EXTINF:0,TNT SPORTS ARGENTINA HD OPCION 2
+#EXTINF:0 group-title="DEPORTES",SPORT | TNT SPORTS ARGENTINA HD OPCION 2
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117753
-#EXTINF:0,TNT SPORTS CHILE HD OPCION 2
+#EXTINF:0 group-title="DEPORTES",SPORT | TNT SPORTS CHILE HD OPCION 2
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117754
-#EXTINF:0,TNT SPORTS 2 SD CHILE OPCION 2
+#EXTINF:0 group-title="DEPORTES",SPORT | TNT SPORTS 2 SD CHILE OPCION 2
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117755
-#EXTINF:0,TNT SPORTS 3 HD CHILE OPCION 1
+#EXTINF:0 group-title="DEPORTES",SPORT | TNT SPORTS 3 HD CHILE OPCION 1
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117756
-#EXTINF:0,TNT SPORTS 3 CHILE OPCION 2
+#EXTINF:#EXTINF:0 group-title="DEPORTES",SPORT | TNT SPORTS 3 CHILE OPCION 2
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117757
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="DEPORTES",SPORT | ??
+#EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117758
-#EXTINF:0,#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="DEPORTES",SPORT | ??
+#EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117759
-#EXTINF:0,TYC SPORTS HD ARGENTINA OPCION 1
+#EXTINF:0 group-title="DEPORTES",SPORT | TYC SPORTS HD ARGENTINA OPCION 1
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117760
-#EXTINF:0,TYC SPORTS HD ARGENTINA OPCION 2
+#EXTINF:0 group-title="DEPORTES",SPORT | TYC SPORTS HD ARGENTINA OPCION 2
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117761
-#EXTINF:0,VTV URUGUAY HD OPCION 1
+#EXTI#EXTINF:0 group-title="DEPORTES",SPORT | VTV URUGUAY HD OPCION 1
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117777
-#EXTINF:0,VTV URUGUAY HD OPCION 2
+#EXTINF:0 group-title="DEPORTES",SPORT | VTV URUGUAY HD OPCION 2
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117778
-#EXTINF:0,VTV + URUGUAY HD OPCION 1
+#EXTINF:0 group-title="DEPORTES",SPORT | VTV + URUGUAY HD OPCION 1
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117779
-#EXTINF:0,VTV + URUGUAY SD OPCION 2
+#EXTINF:0 group-title="DEPORTES",SPORT | VTV + URUGUAY SD OPCION 2
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117780
-#EXTINF:0,MOVISTAR DEPORTES PERU HD OPCION 1
+#EXTINF:0 group-title="DEPORTES",SPORT | MOVISTAR DEPORTES PERU HD OPCION 1
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117781
-#EXTINF:0,MOVISTAR DEPORTES PERU SD OPCION 2
+#EXTINF:0 group-title="DEPORTES",SPORT | MOVISTAR DEPORTES PERU SD OPCION 2
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117782
-#EXTINF:0,MOVISTAR PLUS PERU HD OPCION 2
+#EXTINF:0 group-title="DEPORTES",SPORT | MOVISTAR PLUS PERU HD OPCION 2
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117783
-#EXTINF:0,WIN SPORTS COLOMBIA HD OPCION 2
+#EXTINF:0 group-title="DEPORTES",SPORT | WIN SPORTS COLOMBIA HD OPCION 2
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117784
-#EXTINF:0,WIN SPORTS PLUS COLOMBIA SD OPCION 2
+#EXTINF:0 group-title="DEPORTES",SPORT | WIN SPORTS PLUS COLOMBIA SD OPCION 2
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117785
-#EXTINF:0,UFC FIGTH PASS HD
+#EXTINF:0 group-title="DEPORTES",SPORT | UFC FIGTH PASS HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/117786
-#EXTINF:0,Espn 4 HD
+#EXTINF:0 group-title="DEPORTES",SPORT | Espn 4 HD
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/135242
-#EXTINF:0,ESPN EXTRA
+#EXTINF:0 group-title="DEPORTES",SPORT | ESPN EXTRA
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/138197
-#EXTINF:0,SP: Sky Sports Liga Espa#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="DEPORTES",SPORT | SP: Sky Sports Liga Espa
+#EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/28379
-#EXTINF:0,ESPN 4 (MX)
+#EXTINF:0 group-title="DEPORTES",SPORT | ESPN 4 (MX)
 #EXTVLCOPT:network-caching=3000
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/154892
+
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT " tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="⭐️ Deporte Colombia",COL |  WIN SPORTS 
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/170167.ts
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT " tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="⭐️ Deporte Colombia",COL |  WIN SPORTS opc 2
