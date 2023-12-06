@@ -1,20 +1,20 @@
-#EXTM3U
-#EXTINF:0 group-title="PARAGUAY", ABC TV
+j#EXTM3U
+#EXTINF:0 group-title="PARAGUAY",PY | ABC TV
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-#EXTINF:0 group-title="PARAGUAY", SNT
+#EXTINF:0 group-title="PARAGUAY",PY | SNT
 https://deh05ueq91v6s.cloudfront.net/SNTPY/0bd4cfaf086c4ac0ce0101172a42ba20.sdp/SNTPY/SNTPY2/chunks.m3u8
-#EXTINF:0 group-title="PARAGUAY", TRECE
+#EXTINF:0 group-title="PARAGUAY",PY | TRECE
 https://tigocloudgen.desdeparaguay.net/trecetv/trecetv_baja/chunklist_w1196893029.m3u8?k=406497d0d8424d72e52021fad7657d49f5887085eb535695f5715b90bad8d2c7&exp=1686070703
-#EXTINF:0 group-title="PARAGUAY",C9N (480p)
+#EXTINF:0 group-title="PARAGUAY",PY | C 9N (480p)
 https://deh05ueq91v6s.cloudfront.net/C9NPY/031fe10f99063bb9e8271716ce50b133.sdp/playlist.m3u8
-#EXTINF:0 group-title="PARAGUAY",UNICANAL 
+#EXTINF:0 group-title="PARAGUAY",PY | UNICANAL 
 https://tigocloudgen.desdeparaguay.net/unicanal/unicanal_baja/chunklist_w904988084.m3u8?k=7b1d356cc7ec36bb21f1e96cfbd0415bc0b0c388fe500cb07566c44d89d6d7ab&exp=1698514724
-#EXTINF:0 group-title="PARAGUAY",Bruno Masi TV (720p)
+#EXTINF:0 group-title="PARAGUAY",PY | Bruno Masi TV (720p)
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
-#EXTINF:0 group-title="PARAGUAY",Cáritas TV (1080p)
+#EXTINF:0 group-title="PARAGUAY",PY | Cáritas TV (1080p)
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 
-#EXTINF:0 group-title="PARAGUAY",Telefuturo
+#EXTINF:0 group-title="PARAGUAY",PY |Telefuturo
 http://200.41.79.165:8000/play/a0hy/index.m3u8
 
 #EXTINF:0 group-title="PARAGUAY" ,PY | PARAVISIÓN 
@@ -24,209 +24,174 @@ http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235206.ts
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235204.ts
 
 
-#EXTINF:0,PY | radio venus 
+#EXTINF:0,PY | Radio Venus 
 http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlNTso9IFZLD7iowly816h6M/ts
 
-#EXTINF:0 group-title="PARAGUAY", ÑANDUTÍ TV
+#EXTINF:0 group-title="PARAGUAY",PY | ÑANDUTÍ TV
 https://tvdatta.com:3839/live/nandutitvlive.m3u8
 
 #EXTINF:0 group-title="PARAGUAY",PY | NOTICIAS PY
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235205.ts
 
-#EXTINF:0 group-title="PARAGUAY", ALMAYA TV
+#EXTINF:0 group-title="PARAGUAY",PY | ALMAYA TV
 https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
 
-#EXTINF:0 group-title="PARAGUAY", MI TV
+#EXTINF:0 group-title="PARAGUAY",PY | MI TV
 https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w735296660.m3u8
 
-#EXTINF:0 group-title="PARAGUAY", TVS
+#EXTINF:0 group-title="PARAGUAY",PY | TVS
 https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8?k=1d25209afd7c9b0e4898d35c8295d449ff87b42c53ea4da38aae4d2d9614c9a7&exp=1611679347
 
-#EXTINF:0 group-title="PARAGUAY",4DmásNoticias TV (1080p)
+#EXTINF:0 group-title="PARAGUAY",PY | 4DmásNoticias TV (1080p)
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 
-#EXTINF:0 group-title="PARAGUAY",Dismar TV
+#EXTINF:0 group-title="PARAGUAY",PY | Dismar TV
 https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 
 #EXTINF:0 group-title="PARAGUAY", TAPUA TV
 https://59ce1298bfb98.streamlock.net/marianotv/marianotv/playlist.m3u8
 
-#EXTINF:0 group-title="PARAGUAY",Obedira TV
+#EXTINF:0 group-title="PARAGUAY",PY | Obedira TV
 https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8
 
-#EXTINF:0 group-title="PARAGUAY",Oviedo TV
+#EXTINF:0 group-title="PARAGUAY",PY | Oviedo TV
 https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/playlist.m3u8
 
-#EXTINF:0 group-title="PARAGUAY",Suceso TV
+#EXTINF:0 group-title="PARAGUAY",PY | Suceso TV
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
 
-#EXTINF:0 group-title="PARAGUAY", ESTACIÓN CRISTAL TV
+#EXTINF:0 group-title="PARAGUAY",PY | ESTACIÓN CRISTAL TV
 https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
 
-#EXTINF:0 group-title="PARAGUAY",Somos Del Este (720p)
+#EXTINF:0 group-title="PARAGUAY",PY |Somos Del Este (720p)
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 
-#EXTINF:0 group-title="PARAGUAY",TVS Encarnación (720p)
+#EXTINF:0 group-title="PARAGUAY",PY |TVS Encarnación (720p)
 https://rds3gen.desdeparaguay.net/tvs/tvs/playlist.m3u8
 
-#EXTINF:0 group-title="PARAGUAY",Educanal
+#EXTINF:0 group-title="PARAGUAY",PY |Educanal
 https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
 
-#EXTINF:0 group-title="PARAGUAY", RTV CANAL 12
+#EXTINF:0 group-title="PARAGUAY",PY | RTV CANAL 12
 https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
 
-#EXTINF:0 group-title="PARAGUAY", SUCESO TV
+#EXTINF:0 group-title="PARAGUAY",PY | SUCESO TV
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
 
-#EXTINF:0 group-title="PARAGUAY", FARRA PLAY
+#EXTINF:0 group-title="PARAGUAY",PY | FARRA PLAY
 http://159.203.148.226/live/farra_low.m3u8
 
-#EXTINF:0 group-title="PARAGUAY", KOA TV
+#EXTINF:0 group-title="PARAGUAY",PY | KOA TV
 https://panel.dattalive.com/8028/8028/playlist.m3u8
 
-#EXTINF:0 group-title="PARAGUAY", UGA TV
+#EXTINF:0 group-title="PARAGUAY",PY | UGA TV
 https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
 
-#EXTINF:0 group-title="PARAGUAY",Fanpop TV (720p) [Not 24/7]
+#EXTINF:0 group-title="PARAGUAY",PY | Fanpop TV (720p) [Not 24/7]
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
-#EXTINF:0 group-title="PARAGUAY",Farra Play (720p) [Not 24/7]
+#EXTINF:0 group-title="PARAGUAY",PY | Farra Play (720p) [Not 24/7]
 http://159.203.148.226/live/farra.m3u8
 
 
-#EXTINF: 0 group-title="ARGENTINA", EL TRECE
+#EXTINF: 0 group-title="ARGENTINA",AR | EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF: 0 group-title="ARGENTINA",Telefe Noticias 
+#EXTINF: 0 group-title="ARGENTINA",AR | Telefe Noticias 
 https://siloh-mcdn.plutotv.net/lilo/production/LATAM/Telefe/master.m3u8
 
-#EXTINF:0  group-title="ARGENTINA",Canal 3 Formosa (720p)
+#EXTINF:0  group-title="ARGENTINA",AR | Canal 3 Formosa (720p)
 https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
 
-#EXTINF: 0 group-title="ARGENTINA",Canal 6 Posadas (1080p)
+#EXTINF: 0 group-title="ARGENTINA",AR | Canal 6 Posadas (1080p)
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 
-#EXTINF:0  group-title="ARGENTINA",Ciudad TV Resistencia (Chaco) (720p) [Not 24/7]
+#EXTINF:0  group-title="ARGENTINA",AR | Ciudad TV Resistencia (Chaco) (720p) [Not 24/7]
 http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
 
-#EXTINF: 0 group-title="ARGENTINA",5TV Corrientes (480p) [Not 24/7]
+#EXTINF: 0 group-title="ARGENTINA",AR | 5TV Corrientes (480p) [Not 24/7]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
-#EXTINF: 0 group-title="ARGENTINA",Aire de Santa Fe (1080p)
+#EXTINF: 0 group-title="ARGENTINA",AR | Aire de Santa Fe (1080p)
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
 
-#EXTINF: 0 group-title="ARGENTINA", Mar del Plata 
+#EXTINF: 0 group-title="ARGENTINA",AR | Mar del Plata 
 https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
 
-#EXTINF: 0 group-title="ARGENTINA",TV Pública (TVP) 
+#EXTINF: 0 group-title="ARGENTINA",AR | TV Pública (TVP) 
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
-#EXTINF:0  group-title="ARGENTINA", Todo Noticias AR
+#EXTINF:0  group-title="ARGENTINA",AR | Todo Noticias AR
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
-#EXTINF: 0 group-title="ARGENTINA",A24 (720p)
+#EXTINF: 0 group-title="ARGENTINA",AR | A24 (720p)
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
-#EXTINF: 0 group-title="ARGENTINA", 13Max Televisión (1080p)
+#EXTINF: 0 group-title="ARGENTINA",AR | 13Max Televisión (1080p)
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
-#EXTINF:0, Telefe Clásico
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="ARGENTINA",AR |  Telefe Clásico
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel-alt.m3u8
 
 
-#EXTINF:0, DW ALEMANIA EN ESPAÑOL 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="NOTICIAS",NOT | DW ALEMANIA EN ESPAÑOL 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-#EXTINF:0, RT NOTICIAS 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="NOTICIAS",NOT | RT NOTICIAS 
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:0, HISPAN TV  
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="NOTICIAS",NOT | HISPAN TV  
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
-#EXTINF:0, EuroNews
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="NOTICIAS",NOT | EuroNews
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-#EXTINF:0, TV Málaga 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="NOTICIAS",NOT | TV Málaga 
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
-#EXTINF:0, TELESUR VENEZUELA  
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="NOTICIAS",NOT | TELESUR VENEZUELA  
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?
-#EXTINF:0, FRANCE 24 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="NOTICIAS",NOT | FRANCE 24 
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
-#EXTINF:0, RCN más 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="NOTICIAS",NOT | RCN más 
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:0,El País
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="NOTICIAS",NOT | El País
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
-
-#EXTINF:30, Las Estrellas 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="NOTICIAS",NOT | Las Estrellas 
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
-#EXTINF:40, Multimedios
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="NOTICIAS",NOT | Multimedios
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:60, CNN en Español 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="NOTICIAS",NOT | CNN en Español 
 https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
-#EXTINF:0, CBS News
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="NOTICIAS",NOT | CBS News
 https://i.mjh.nz/PlutoTV/62310d5a5dc9550007c6f580-alt.m3u8
-#EXTINF:0, Euronews Español
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="NOTICIAS",NOT | Euronews Español
 https://i.mjh.nz/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
-#EXTINF:0, Telefe Noticias
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="NOTICIAS",NOT | Telefe Noticias
 https://i.mjh.nz/PlutoTV/5f523aa5523ae000074745ec-alt.m3u8
-#EXTINF:0, Chilevision Noticias
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="NOTICIAS",NOT | Chilevision Noticias
 https://i.mjh.nz/PlutoTV/61f94a2866401100074e9dee-alt.m3u8
 
 
 
-#EXTINF:0 group-title="PELICULAS", Trailers
+#EXTINF:0 group-title="PELICULAS",PELIS | Trailers
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
-#EXTINF: 0 group-title="PELICULAS", Runtime Accion
+#EXTINF:0 group-title="PELICULAS",PELIS | Runtime Accion
 https://run-rt-ac.otteravision.com/run/rt_ac/rt_ac_720.m3u8
 
-#EXTINF:29,Xtrema Cine Acción (268p)
+#EXTINF:0 group-title="PELICULAS",PELIS | Xtrema Cine Acción (268p)
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:0,Xtrema Cine Asia (268p)
+#EXTINF:0 group-title="PELICULAS",PELIS | Xtrema Cine Asia (268p)
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
-#EXTINF:0,Xtrema Cine Comedy (344p)
+#EXTINF:0 group-title="PELICULAS",PELIS | Xtrema Cine Comedy (344p)
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
-#EXTINF:0,Xtrema Cine Drama (360p)
+#EXTINF:0 group-title="PELICULAS",PELIS | Xtrema Cine Drama (360p)
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
-#EXTINF:0,Xtrema Cine Europa (360p)
+#EXTINF:0 group-title="PELICULAS",PELIS | Xtrema Cine Europa (360p)
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
@@ -238,271 +203,270 @@ https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
-#EXTINF:0,Xtrema Cine Latino (360p)
+#EXTINF:0 group-title="PELICULAS",PELIS | Xtrema Cine Latino (360p)
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
-#EXTINF:33,Xtrema Cine Suspenso (360p)
+#EXTINF:0 group-title="PELICULAS",PELIS | Xtrema Cine Suspenso (360p)
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
-#EXTINF:0,Xtrema Cine Terror (270p)
+#EXTINF:0 group-title="PELICULAS",PELIS | Xtrema Cine Terror (270p)
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
 
 
-#EXTINF:0, Pluto TV Cine Acción
+#EXTINF:0 group-title="PELICULAS",PELIS | Pluto TV Cine Acción
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0, Pluto TV Cine Comedia
+#EXTINF:0 group-title="PELICULAS",PELIS | Pluto TV Cine Comedia
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0, Pluto TV Cine Terror
+#EXTINF:0 group-title="PELICULAS",PELIS | Pluto TV Cine Terror
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0, Pluto TV Viajes
+#EXTINF:0 group-title="PELICULAS",PELIS | Pluto TV Viajes
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0, Pluto TV Cine Drama
+#EXTINF:0 group-title="PELICULAS",PELIS | Pluto TV Cine Drama
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:0, Pluto TV Cine Estelar
+#EXTINF:0 group-title="PELICULAS",PELIS | Pluto TV Cine Estelar
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0, Pluto TV Cine Suspenso
+#EXTINF:0 group-title="PELICULAS",PELIS | Pluto TV Cine Suspenso
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0, CINE SONY
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE SONY
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:0, MY TIME ESPAÑA
+#EXTINF:0 group-title="PELICULAS",PELIS | MY TIME ESPAÑA
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0, MY TIME MEXICO
+#EXTINF:0 group-title="PELICULAS",PELIS | MY TIME MEXICO
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:0, Pluto TV Cine
+#EXTINF:0 group-title="PELICULAS",PELIS | Pluto TV Cine
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0, Pluto TV Vida Real
+#EXTINF:0 group-title="PELICULAS",PELIS | Pluto TV Vida Real
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0, Estrellas de Acción
+#EXTINF:0 group-title="PELICULAS",PELIS | Estrellas de Acción
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:25, Paramount+ Presenta
+#EXTINF:0 group-title="PELICULAS",PELIS | Paramount+ Presenta
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0, Pluto TV Cine Clásico
+#EXTINF:0 group-title="PELICULAS",PELIS | Pluto TV Cine Clásico
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:36, Rakuten  TV Acción | HD | España
+#EXTINF:0 group-title="PELICULAS",PELIS | Rakuten  TV Acción 
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:36, Rakuten  TV Comedias | HD | España
+#EXTINF:0 group-title="PELICULAS",PELIS |  Rakuten  TV Comedias 
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:0, Rakuten  TV Drama | HD | España
-#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="PELICULAS",PELIS | Rakuten  TV Drama 
 #EXTVLCOPT:network-caching=3000
 https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0, Rakuten  TV Familia | HD | España
+#EXTINF:0 group-title="PELICULAS",PELIS | Rakuten  TV Familia 
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0, Rakuten  TV Spotlight | HD | España
+#EXTINF:0 group-title="PELICULAS",PELIS | Rakuten  TV Spotlight 
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://rakuten-spotlight-2-es.samsung.wurl.tv/1200.m3u8
-#EXTINF:96, Sony Cine
+#EXTINF:0 group-title="PELICULAS",PELIS | Sony Cine
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8?
-#EXTINF:36, AMC plex
+#EXTINF:0 group-title="PELICULAS",PELIS | AMC plex
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:0, Run:Time Comedia
+#EXTINF:0 group-title="PELICULAS",PELIS | Run:Time Comedia
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
-#EXTINF:0, Run:Time Triller
+#EXTINF:0 group-title="PELICULAS",PELIS | Run:Time Triller
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
-#EXTINF:0, Run:Time  Crimen
+#EXTINF:0 group-title="PELICULAS",PELIS | Run:Time  Crimen
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
-#EXTINF:60, Run:Time Clasico
+#EXTINF:0 group-title="PELICULAS",PELIS | Run:Time Clasico
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
-#EXTINF:60,  CORTOS 
+#EXTINF:0 group-title="PELICULAS",PELIS | CORTOS 
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://amc-cortos-1-us.plex.wurl.tv/6b2d27316f6db09cd580f408e7652200.m3u8
-#EXTINF:0, * Cine Estelar
+#EXTINF:0 group-title="PELICULAS",PELIS | Cine Estelar
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
-#EXTINF:25, * Cine Estelar
+#EXTINF:0 group-title="PELICULAS",PELIS | Cine Estelar
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5f1ac1f1b66c76000790ef27-alt.m3u8
-#EXTINF:25, CINE ESTELAR 3
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE ESTELAR 3
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0592c791-fce9-4adb-b161-20f61b7145ae&userId=&serverSideAds=true
-#EXTINF:25, CINE PREMIERE
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE PREMIERE
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eeb650-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9d68de35-eba9-49ed-8345-3e39294775b8&userId=&serverSideAds=true
-#EXTINF:25,Service
+#EXTINF:0 group-title="PELICULAS",PELIS | Service
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
-#EXTINF:25,Service
+#EXTINF:0 group-title="PELICULAS",PELIS | Service
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eedd60-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=05e50493-989d-41b8-b7ad-f17f965c8f4a&userId=&serverSideAds=true
-#EXTINF:60, Runtime Peliculas
+#EXTINF:0 group-title="PELICULAS",PELIS | Runtime Peliculas
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
-#EXTINF:60, Runtime Crimen
+#EXTINF:0 group-title="PELICULAS",PELIS | Runtime Crimen
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://run-rucrl.otteravision.com/run/rucrl/rucrl_720.m3u8
-#EXTINF:25,Service
+#EXTINF:0 group-title="PELICULAS",PELIS | Service
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
-#EXTINF:25, * Sci-Fi
+#EXTINF:0 group-title="PELICULAS",PELIS | Sci-Fi
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5f6a38eaa5b68b0007a00e7a-alt.m3u8
-#EXTINF:25, SCI-FI
+#EXTINF:0 group-title="PELICULAS",PELIS | SCI-FI
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff29881-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=69952490-17b7-4b2b-92ec-4525b187cbe6&userId=&serverSideAds=true
-#EXTINF:21,SCI-FI (España)
+#EXTINF:0 group-title="PELICULAS",PELIS | SCI-FI (España)
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4d2891-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd9d9781-2910-4dd2-9b1f-a1fd662d0cc3&userId=&serverSideAds=true
-#EXTINF:25, CINE ADRENALINA
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE ADRENALINA
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0ffcd50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6a432784-0445-4dce-b1c8-3ec58a005793&userId=&serverSideAds=true
-#EXTINF:36, Bjgtjme 
+#EXTINF:0 group-title="PELICULAS",PELIS | Bjgtjme 
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8?ads.wurl_channel=1251&ads.wurl_name=BjgtjmePeliculasGratis&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:60, Golden Plus
+#EXTINF:0 group-title="PELICULAS",PELIS | Golden Plus
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:25,Service
+#EXTINF:0 group-title="PELICULAS",PELIS | Service
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:25, * Cine Suspenso
+#EXTINF:0 group-title="PELICULAS",PELIS | Cine Suspenso
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5ddc4e8bcbb9010009b4e84f-alt.m3u8
-#EXTINF:25, * Cine Crimen
+#EXTINF:0 group-title="PELICULAS",PELIS | Cine Crimen
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/624af40c004f8000079b784d-alt.m3u8
-#EXTINF:25,Service
+#EXTINF:0 group-title="PELICULAS",PELIS | Service
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/61b793ccf571b80007b7a610-alt.m3u8
-#EXTINF:25, * Thrillers
+#EXTINF:0 group-title="PELICULAS",PELIS | Thrillers
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5f1ac8a87cd38d000745d7cf-alt.m3u8
-#EXTINF:60, Cine Latino
+#EXTINF:0 group-title="PELICULAS",PELIS | Cine Latino
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/295
-#EXTINF:60, TU CINE
+#EXTINF:0 group-title="PELICULAS",PELIS | TU CINE
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/25f414bc-75d2-4b01-b340-576f49ba41b4/4.m3u8
-#EXTINF:0, TU CINE
+#EXTINF:0 group-title="PELICULAS",PELIS | TU CINE
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
-#EXTINF:54, Flou Cine
+#EXTINF:0 group-title="PELICULAS",PELIS | Flou Cine
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-canelatv/playlist.m3u8?device_id=2a54a3cf5226de279654ec88859087d0
-#EXTINF:60, TOP CINE
+#EXTINF:0 group-title="PELICULAS",PELIS | TOP CINE
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/520936ec-fb0d-453e-bff9-98f7e65d2c13/4.m3u8
-#EXTINF:60, CINE REAL
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE REAL
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/c2ad726d-bf69-4f75-8e5f-1007ef768eb8/4.m3u8
-#EXTINF:25, CINE JAJA!!
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE JAJA!!
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a115c650-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c2c24e3d-01f5-4d23-a4be-a53210dbc21c&userId=&serverSideAds=true
-#EXTINF:0, CINE CLÁSICO
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE CLÁSICO
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6026fca0-c970-11eb-8484-c3c002d1fa3f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2d0e47f8-f10a-4450-8221-6f3976c9f746&userId=&serverSideAds=true
-#EXTINF:0, CINE CLÁSICO (España)
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE CLÁSICO (España)
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:25, CINE FAMILIA
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE FAMILIA
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fa508f20-2870-486b-a716-7a14ab7ab7fb&userId=&serverSideAds=true
-#EXTINF:25, CINE ACCIÓN (España)
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE ACCIÓN (España)
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4ba1f1-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2ef6bc3f-95cc-43bd-98df-11ffd10b28fc&userId=&serverSideAds=true
-#EXTINF:25, CINE SUSPENSO
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE SUSPENSO
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18710-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6602c30d-29cf-40ea-9379-390b2d9b72bb&userId=&serverSideAds=true
-#EXTINF:25, CINE XOXO
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE XOXO
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a115ed60-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f83ca203-9359-411e-a06a-f401bb16ab3a&userId=&serverSideAds=true
-#EXTINF:25, CINE ROMANCE
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE ROMANCE
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
-#EXTINF:36, RAKUTEN TV ACCIÓN
+#EXTINF:0 group-title="PELICULAS",PELIS | RAKUTEN TV ACCIÓN
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/playlist.m3u8?ads.wurl_channel%3D427%26ads.wurl_name%3DRakutenActionMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
-#EXTINF:36, RAKUTEN TV FAMILIA
+#EXTINF:0 group-title="PELICULAS",PELIS | RAKUTEN TV FAMILIA
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel%3D718%26ads.wurl_name%3DRakutenFamily%26ads.coppa%3D1%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7D
@@ -510,269 +474,253 @@ https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0,CINE JUNTOS
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE JUNTOS
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
-#EXTINF:60, CINE SUREÑO
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE SUREÑO
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
-#EXTINF:0, PLANETA TV MOVIES
+#EXTINF:0 group-title="PELICULAS",PELIS | PLANETA TV MOVIES
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
-#EXTINF:25, CINE
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae24-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b1c7f116-fa08-488b-a213-5bb1f7ee5ad2&userId=&serverSideAds=true
-#EXTINF:25, CINE 2
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE 2
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3548ea01-ec9a-4077-95c1-67068b0dfecd&userId=&serverSideAds=true
-#EXTINF:120, Free tv
+#EXTINF:0 group-title="PELICULAS",PELIS | Free tv
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
-#EXTINF:53, MY TIME MOVIES
+#EXTINF:0 group-title="PELICULAS",PELIS | TIME MOVIES
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:60, MY TIME MOVIES 2
+#EXTINF:0 group-title="PELICULAS",PELIS | MY TIME MOVIES 2
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:25, ESTRELLAS DE ACCIÓN
+#EXTINF:0 group-title="PELICULAS",PELIS | ESTRELLAS DE ACCIÓN
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22351-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=988908ef-9cb1-4bfd-9346-d817932e3a37&userId=&serverSideAds=true
-#EXTINF:36, RAKUTEN SPOTLIGHT
+#EXTINF:0 group-title="PELICULAS",PELIS | RAKUTEN SPOTLIGHT
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://bbfb189d0b5442118b9541714950d36c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenSpotlight/playlist.m3u8?ads.wurl_channel%3D430%26ads.wurl_name%3DRakutenSpotlight%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
-#EXTINF:36, RAKUTEN ACCION
+#EXTINF:0 group-title="PELICULAS",PELIS | RAKUTEN ACCION
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/playlist.m3u8?ads.wurl_channel%3D427%26ads.wurl_name%3DRakutenActionMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
-#EXTINF:0, RAKUTEN FAMILIA
+#EXTINF:0 group-title="PELICULAS",PELIS | RAKUTEN FAMILIA
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel%3D718%26ads.wurl_name%3DRakutenFamily%26ads.coppa%3D1%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7D
-#EXTINF:60, Cine 4
+#EXTINF:0 group-title="PELICULAS",PELIS | Cine 4
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://linear-330.frequency.stream/dist/localnow/330/hls/master/playlist.m3u8
-#EXTINF:59, Nimbus Playout
+#EXTINF:0 group-title="PELICULAS",PELIS | Nimbus Playout
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://dfekb8hx1gqcg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nmsvybp4gie0j-ssai-prd/hls/main.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:36, Grjngo
+#EXTINF:0 group-title="PELICULAS",PELIS | Grjngo
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:0, COSMOS TV
+#EXTINF:0 group-title="PELICULAS",PELIS | COSMOS TV
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:60, Movies Central by TV Player
+#EXTINF:0 group-title="PELICULAS",PELIS | Movies Central by TV Player
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:0, Runtime Familia
+#EXTINF:0 group-title="PELICULAS",PELIS | Runtime Familia
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
-#EXTINF:0, Cines Verdi TV
+#EXTINF:0 group-title="PELICULAS",PELIS | Cines Verdi TV
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://d2vxs6a73h4kai.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gson0whk7ox3g-ssai-prd/hls/main.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:28, Cine Accion
+#EXTINF:0 group-title="PELICULAS",PELIS | Cine Accion
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:25, Cine Suspenso
+#EXTINF:0 group-title="PELICULAS",PELIS | Cine Suspenso
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
-#EXTINF:30, Cinerama
+#EXTINF:0 group-title="PELICULAS",PELIS | Cinerama
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
-#EXTINF:0, MY TIME MOVIES 1
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0, MY TIME MOVIES 2
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:0, NUESTRA VISIÓN
+#EXTINF:0 group-title="PELICULAS",PELIS | NUESTRA VISIÓN
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f78158/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d880-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=26dab85a-c1e2-4023-9cde-864e1c0d5f94&userId=&serverSideAds=true
-#EXTINF:25, REETRO PLAY TV
+#EXTINF:0 group-title="PELICULAS",PELIS | REETRO PLAY TV
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
-#EXTINF:30, RETRO PLUS TV CINE
+#EXTINF:0 group-title="PELICULAS",PELIS | RETRO PLUS TV CINE
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
-#EXTINF:0, BBC DRAMA
+#EXTINF:0 group-title="PELICULAS",PELIS | BBC DRAMA
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0, CINE DRAMA
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE DRAMA
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff00072-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6e24734a-39dc-48e4-8068-40d233385993&userId=&serverSideAds=true
-#EXTINF:0, CINE DRAMA (España)
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE DRAMA (España)
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a62c1-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99870be5-05f2-48d8-b695-39dfabde3232&userId=&serverSideAds=true
-#EXTINF:0, Xtrema Cine Drama (360p)
+#EXTINF:0 group-title="PELICULAS",PELIS | Xtrema Cine Drama (360p)
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
-#EXTINF:25, * Cine Drama
+#EXTINF:0 group-title="PELICULAS",PELIS | Cine Drama
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dcddfcb229eff00091b6bdf-alt.m3u8
-#EXTINF:0, RAKUTEN TV DRAMA
+#EXTINF:0 group-title="PELICULAS",PELIS | RAKUTEN TV DRAMA
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://3de281cc31cf4835a3769dd13743f40c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenTVShows/playlist.m3u8?ads.wurl_channel%3D429%26ads.wurl_name%3DRakutenTVShows%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
-#EXTINF:54, Kanal D Drama
+#EXTINF:0 group-title="PELICULAS",PELIS | Kanal D Drama
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
-#EXTINF:0, CINE ROMÁNTICO
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE ROMÁNTICO
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a89d0-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b946b5ad-df98-4df0-a5c3-637b325d942e&userId=&serverSideAds=true
-#EXTINF:0, Runtime Romance
+#EXTINF:0 group-title="PELICULAS",PELIS | Runtime Romance
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
-#EXTINF:0,ViX Parejas (1080p)
+#EXTINF:0 group-title="PELICULAS",PELIS | ViX Parejas (1080p)
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
-#EXTINF:0, JUNTOS
+#EXTINF:0 group-title="PELICULAS",PELIS | JUNTOS
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/27d354f8-74a3-476f-a2b8-d5d691f2ff2b/4.m3u8
-#EXTINF:25, CINE ESTELAR 2
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE ESTELAR 2
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f59f50cc36a94000749fd3f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44aff04-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236222be-74f0-4d28-b58b-70f75ce8319a&userId=&serverSideAds=true
-#EXTINF:60, CINE HORRORFY
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE HORRORFY
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
-#EXTINF:60, HORRORFY
+#EXTINF:0 group-title="PELICULAS",PELIS | HORRORFY
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/6105ccc7-7a04-41f9-b07c-2705f56a0d8b/4.m3u8
-#EXTINF:30, Cine Terror
+#EXTINF:0 group-title="PELICULAS",PELIS | Cine Terror
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://v3.playerlatino.live/stream/m3u8/693
-#EXTINF:0, * Cine Terror
+#EXTINF:0 group-title="PELICULAS",PELIS | Cine Terror
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dcddf1ed95e740009fef7ab-alt.m3u8
-#EXTINF:0, CINE TERROR
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE TERROR
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff00070-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c808f376-3c51-4ce4-8dc1-f9b1e9c494cc&userId=&serverSideAds=true
-#EXTINF:0, CINE TERROR 2
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE TERROR 2
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31d6ed5a-e18e-40e7-86c3-072f2b86df3c&userId=&serverSideAds=true
-#EXTINF:0, Cine terror
+#EXTINF:0 group-title="PELICULAS",PELIS | Cine terror
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5d8d180092e97a5e107638d3-alt.m3u8
-#EXTINF:25, Pluto TV Horror
+#EXTINF:0 group-title="PELICULAS",PELIS | Pluto TV Horror
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/6267d4d1fb694f0007a6af0e-alt.m3u8
-#EXTINF:0, Runtime Terror
+#EXTINF:0 group-title="PELICULAS",PELIS | Runtime Terror
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8
-#EXTINF:0, CINEAR  22.4
+#EXTINF:0 group-title="PELICULAS",PELIS | CINEAR  22.4
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:0, NUESTRO CINE
+#EXTINF:0 group-title="PELICULAS",PELIS | NUESTRO CINE
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=1eea50e2-1023-4937-8ef9-336fcffb8d82&clientModelNumber=na&deviceDNT=false&deviceId=1eea50e2-1023-4937-8ef9-336fcffb8d82&deviceLat=21.0180&deviceLon=-101.2407&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=021906df-85ee-11eb-b4b0-0242ac110002&sid=021906df-85ee-11eb-b4b0-0242ac110002&userId=&already_redirected=true
-#EXTINF:0, CINE CLÁSICO 
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE CLÁSICO 
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
-#EXTINF:0, TU CINE 
+#EXTINF:0 group-title="PELICULAS",PELIS | TU CINE 
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
-#EXTINF:0, CANELA TV 
+#EXTINF:0 group-title="PELICULAS",PELIS | CANELA TV 
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65
-#EXTINF:0, CINE REAL
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE REAL
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
-#EXTINF:0, HORRORFY
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
-#EXTINF:0, JUNTOS
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
-#EXTINF:0, CINE SUREÑO
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE SUREÑO
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
-#EXTINF:0, TOP CINE
+#EXTINF:0 group-title="PELICULAS",PELIS | TOP CINE
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF:25, * Cine Comedia
+#EXTINF:0 group-title="PELICULAS",PELIS | Cine Comedia
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dcdde78f080d900098550e4-alt.m3u8
-#EXTINF:0,Xtrema Cine Comedy (344p)
+#EXTINF:0 group-title="PELICULAS",PELIS | Xtrema Cine Comedy (344p)
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
-#EXTINF:25, CINE COMEDIA
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE COMEDIA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfefd960-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=91842cfa-96ff-4c3a-b034-234b53b31245&userId=&serverSideAds=true
-#EXTINF:0, CINE COMEDIA (España)
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE COMEDIA (España)
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb0-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9679f680-433b-41b5-b65b-d3f9c407f275&userId=&serverSideAds=true
-#EXTINF:0, RAKUTEN TV COMEDIA
+#EXTINF:0 group-title="PELICULAS",PELIS | RAKUTEN TV COMEDIA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel%3D428%26ads.wurl_name%3DRakutenComedyMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
-#EXTINF:0, Pluto TV Cine Acción
+#EXTINF:0 group-title="PELICULAS",PELIS | Pluto TV Cine Acción
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
@@ -780,344 +728,348 @@ https://i.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
-#EXTINF:0, Pluto TV Adrenalina Freezone
+#EXTINF:0 group-title="PELICULAS",PELIS | Pluto TV Adrenalina Freezone
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/61b793ccf571b80007b7a610-alt.m3u8
-#EXTINF:0, Pluto TV Cine Comedia
+#EXTINF:0 group-title="PELICULAS",PELIS | Pluto TV Cine Comedia
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dcdde78f080d900098550e4-alt.m3u8
-#EXTINF:0, Pluto TV Cine Drama
+#EXTINF:0 group-title="PELICULAS",PELIS | Pluto TV Cine Drama
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dcddfcb229eff00091b6bdf-alt.m3u8
-#EXTINF:0, Pluto TV Cine Romance
+#EXTINF:0 group-title="PELICULAS",PELIS | Pluto TV Cine Romance
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dd7ea2aeab5230009986735-alt.m3u8
-#EXTINF:0, Pluto TV Cine Suspenso
+#EXTINF:0 group-title="PELICULAS",PELIS | Pluto TV Cine Suspenso
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5ddc4e8bcbb9010009b4e84f-alt.m3u8
-#EXTINF:0, Pluto TV Cine Crimen
+#EXTINF:0 group-title="PELICULAS",PELIS | Pluto TV Cine Crimen
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/624af40c004f8000079b784d-alt.m3u8
-#EXTINF:0, Pluto TV Cine Terror
+#EXTINF:0 group-title="PELICULAS",PELIS | Pluto TV Cine Terror
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dcddf1ed95e740009fef7ab-alt.m3u8
-#EXTINF:0, Pluto TV Sci-Fi
+#EXTINF:0 group-title="PELICULAS",PELIS | Pluto TV Sci-Fi
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5f2817d3d7573a00080f9175-alt.m3u8
-#EXTINF:0, Runtime
+#EXTINF:0 group-title="PELICULAS",PELIS | Runtime
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
-#EXTINF:0, Pluto TV Filmstream
+#EXTINF:0 group-title="PELICULAS",PELIS | Pluto TV Filmstream
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5fcea359e533cb0007215c71-alt.m3u8
-#EXTINF:0, Pluto TV  Nuestro Cine
+#EXTINF:0 group-title="PELICULAS",PELIS | Pluto TV  Nuestro Cine
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5defde6d6c07b50009cf0757-alt.m3u8
-#EXTINF:0, Pluto TV Cine Clásico
+#EXTINF:0 group-title="PELICULAS",PELIS | Pluto TV Cine Clásico
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/609059dc63be6e0007b4eca6-alt.m3u8
-#EXTINF:0, Pluto TV Cine Familia
+#EXTINF:0 group-title="PELICULAS",PELIS | Pluto TV Cine Familia
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dd6ddb30a1d8a000908ed4c-alt.m3u8
-#EXTINF:0, Paramount+ Presenta
+#EXTINF:0 group-title="PELICULAS",PELIS | Paramount+ Presenta
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/600728952b1776000776526d-alt.m3u8
-#EXTINF:0,CINE| HBO
+
+
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| HBO
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155792
-#EXTINF:0,CINE| HBO 2
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| HBO 2
 #EXTVLCOPT:network-caching=3000
 http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/574413
-#EXTINF:0,CINE| HBO +
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| HBO +
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4109
-#EXTINF:0,CINE| HBO Family
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| HBO Family
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4017
-#EXTINF:0,CINE| HBO Xtreme
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| HBO Xtreme
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/44341
-#EXTINF:0,CINE| HBO Mundi
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| HBO Mundi
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1143815
-#EXTINF:0,CINE| HBO POP
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| HBO POP
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/47445
-#EXTINF:0,CINE| HBO signature
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| HBO signature
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155796
-#EXTINF:0,CINE| Cinecanal
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| Cinecanal
 #EXTVLCOPT:network-caching=3000
 http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318710
-#EXTINF:0,CINE| Cine Latino
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| Cine Latino
 #EXTVLCOPT:network-caching=3000
 http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318702
-#EXTINF:0,CINE| Cinemax
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| Cinemax
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1068350
-#EXTINF:0,CINE| Claro Cinema
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| Claro Cinema
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4145
-#EXTINF:0,CINE| De Pelicula
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| De Pelicula
 #EXTVLCOPT:network-caching=3000
 http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/574442
-#EXTINF:0,CINE| DHE
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| DHE
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/24180
-#EXTINF:0,CINE| Golden EDGE
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| Golden EDGE
 #EXTVLCOPT:network-caching=3000
 http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318693
-#EXTINF:0,CINE| Golden Premier
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| Golden Premier
 #EXTVLCOPT:network-caching=3000
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/190737.ts
-#EXTINF:0,CINE| Golden
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| Golden
 #EXTVLCOPT:network-caching=3000
 http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318690%20%20
-#EXTINF:0,CINE| Golden Plus
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| Golden Plus
 #EXTVLCOPT:network-caching=3000
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/190738.ts
-#EXTINF:0,CINE| Space
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| Space
 #EXTVLCOPT:network-caching=3000
 http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1891
-#EXTINF:0,CINE| universal channel
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| universal channel
 #EXTVLCOPT:network-caching=3000
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/170903.ts
-#EXTINF:0,CINE| universal cinema
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| universal cinema
 #EXTVLCOPT:network-caching=3000
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4248
-#EXTINF:0,CINE| universal reality
+#EXTINF:0 group-title="PELICULAS",PELIS | universal reality
 #EXTVLCOPT:network-caching=3000
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/204899.ts
-#EXTINF:0,CINE| universal premier
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| universal premier
 #EXTVLCOPT:network-caching=3000
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4250#EXTINF:25,%20Pluto%20TV%20Cine%20Estelar
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
-#EXTINF:0,cine terror
+#EXTINF:0 group-title="PELICULAS",PELIS | cine terror
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/306264
-#EXTINF:0,cine infantil 
+#EXTINF:0 group-title="PELICULAS",PELIS | cine infantil 
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/305779
-#EXTINF:0,CINE| HBO
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| HBO
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155792
-#EXTINF:0,CINE| HBO 2
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| HBO 2
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://gotv.vip:8880/Angel2023/Angel2023/88
-#EXTINF:0,CINE| HBO+
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| HBO+
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4109
-#EXTINF:0,CINE| Familia HBO
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| Familia HBO
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4017
-#EXTINF:0,CINE| HBO Extremo
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| HBO Extremo
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/44341
-#EXTINF:0,CINE| HBO Mundial
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| HBO Mundial
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1143815
-#EXTINF:0,CINE| HBO POP
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| HBO POP
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/47445
-#EXTINF:0,CINE| firma de HBO
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| firma de HBO
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155796
-#EXTINF:0,CINE| Cinecanal
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| Cinecanal
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://gotv.vip:8880/Angel2023/Angel2023/36
-#EXTINF:0,CINE| cine latino
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| cine latino
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4136
-#EXTINF:0,CINE| cinex
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| cinex
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1068350
-#EXTINF:0,CINE| Cine Claro
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| Cine Claro
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4145
-#EXTINF:0,CINE| De Pelicula
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| De Pelicula
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102361.ts
-#EXTINF:0,CINE| De Pelicula Clasica
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| De Pelicula Clasica
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://gotv.vip:8880/Angel2023/Angel2023/140039
-#EXTINF:0,CINE| DHE
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| DHE
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/24180
-#EXTINF:0,CINE| Borde dorado
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| Borde dorado
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://gotv.vip:8880/Angel2023/Angel2023/85
-#EXTINF:0,CINE| Primer ministro dorado
+#EXTINF:0 group-title="PELICULAS",PELIS | CINE| Primer ministro dorado
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://gotv.vip:8880/Angel2023/Angel2023/245
-#EXTINF:0,CINE| Dorado
+#EXTINF:0 group-title="PELICULAS",PELIS |CINE| Dorado
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://gotv.vip:8880/Angel2023/Angel2023/244%20%20
-#EXTINF:0,CINE| dorado plus
+#EXTINF:0 group-title="PELICULAS",PELIS |CINE| dorado plus
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://gotv.vip:8880/Angel2023/Angel2023/86
-#EXTINF:0,CINE| Espacio
+#EXTINF:0 group-title="PELICULAS",PELIS |CINE| Espacio
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://gotv.vip:8880/Angel2023/Angel2023/113
-#EXTINF:0,CINE| primer ministro universal
+#EXTINF:0 group-title="PELICULAS",PELIS |CINE| primer ministro universal
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHI1phC-Npv73caM2Q53jCkc
-#EXTINF:0,CINE| Supremo+
+#EXTINF:0 group-title="PELICULAS",PELIS |CINE| Supremo+
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155799
-#EXTINF:0,CINE| SYFY
+#EXTINF:0 group-title="PELICULAS",PELIS |CINE| SYFY
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/3958
-#EXTINF:0,CINE| CINE DINAMITA
+#EXTINF:0 group-title="PELICULAS",PELIS |CINE| CINE DINAMITA
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4142
-#EXTINF:0,CINE| ME SENTÉ
+#EXTINF:0 group-title="PELICULAS",PELIS |CINE| ME SENTÉ
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155798
-#EXTINF:0,CINE| SONY
+#EXTINF:0 group-title="PELICULAS",PELIS |CINE| SONY
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1143816
-#EXTINF:0,CINE| EUROPA EUROPA
+#EXTINF:0 group-title="PELICULAS",PELIS |CINE| EUROPA EUROPA
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/33359
-#EXTINF:0,CINE| Canal primordial
+#EXTINF:0 group-title="PELICULAS",PELIS |CINE| Canal primordial
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155799
-#EXTINF:0,CINE| tu cine
+#EXTINF:0 group-title="PELICULAS",PELIS |CINE| tu cine
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/7981
-#EXTINF:0,CINE| fusión fmtv
+#EXTINF:0 group-title="PELICULAS",PELIS |CINE| fusión fmtv
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:0,CINE| toda la vida
+#EXTINF:0 group-title="PELICULAS",PELIS |CINE| toda la vida
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155873
-#EXTINF:0,CINE| TV SUNDANCE
+#EXTINF:0 group-title="PELICULAS",PELIS |CINE| TV SUNDANCE
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4101
-#EXTINF:0,CINE| PÁNICO TV
+#EXTINF:0 group-title="PELICULAS",PELIS |CINE| PÁNICO TV
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/7436
-#EXTINF:0,CINE| TV MÓRBIDA
+#EXTINF:0 group-title="PELICULAS",PELIS |CINE| TV MÓRBIDA
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/33364
-#EXTINF:0,CINE| CINE ESTELAR
+#EXTINF:0 group-title="PELICULAS",PELIS |CINE| CINE ESTELAR
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1156007
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/b42clampdlbemhuw66z6h/terror.png?rlkey=50umnbvkc7x3mqz8yjadqxcmj&dl=0" group-title="✅ 24/7 Cine",cine terror
+
+
+#EXTINF:0 group-title="PELICULAS",PELIS |tvg-logo="https://dl.dropboxusercontent.com/scl/fi/b42clampdlbemhuw66z6h/terror.png?rlkey=50umnbvkc7x3mqz8yjadqxcmj&dl=0" group-title="✅ 24/7 Cine",cine terror
 http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/306264
-#EXTINF:-1 tvg-id="" tvg-name="Cine Estelar ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ua14wawtuzuw96dhfnktr/estelar.png?rlkey=ck7nl2l89chx3gtksetfgvaja&dl=0" group-title="✅ 24/7 Cine",Cine Estelar ⁽ᴴᴰ⁾
+#EXTINF:0 group-title="PELICULAS",PELIS |tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ua14wawtuzuw96dhfnktr/estelar.png?rlkey=ck7nl2l89chx3gtksetfgvaja&dl=0" group-title="✅ 24/7 Cine",Cine Estelar ⁽ᴴᴰ⁾
 http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318598
-#EXTINF:-1 tvg-id="" tvg-name="Cinema DC Comics ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wall34fkzo2kli9idik09/dc_comics.png?rlkey=54sdogxmiraiabctshdf20t53&dl=0" group-title="✅ 24/7 Cine",Cinema DC Comics ⁽ᴴᴰ⁾
+#EXTINF:0 group-title="PELICULAS",PELIS | tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wall34fkzo2kli9idik09/dc_comics.png?rlkey=54sdogxmiraiabctshdf20t53&dl=0" group-title="✅ 24/7 Cine",Cinema DC Comics ⁽ᴴᴰ⁾
 http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318470
-#EXTINF:-1 tvg-id="" tvg-name="Cinema DC Universe ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mec5qt4epswy9jd7kszys/DC_Universe.png?rlkey=p9z9evzgnvod73od1y2xipp7l&dl=0" group-title="✅ 24/7 Cine",Cinema DC Universe ⁽ᴴᴰ⁾
+#EXTINF:0 group-title="PELICULAS",PELIS | tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mec5qt4epswy9jd7kszys/DC_Universe.png?rlkey=p9z9evzgnvod73od1y2xipp7l&dl=0" group-title="✅ 24/7 Cine",Cinema DC Universe ⁽ᴴᴰ⁾
 http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318471
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Family ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xts7zy5ypr6et1hqu97k2/disneyfamily.png?rlkey=wshlcpyi3p6gg5kxecbcauu79&dl=0" group-title="✅ 24/7 Cine",Cinema Disney Family ⁽ᴴᴰ⁾
+#EXTINF:0 group-title="PELICULAS",PELIS | tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xts7zy5ypr6et1hqu97k2/disneyfamily.png?rlkey=wshlcpyi3p6gg5kxecbcauu79&dl=0" group-title="✅ 24/7 Cine",Cinema Disney Family ⁽ᴴᴰ⁾
 http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318472
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Pixar ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a7rekky8c537z7tzt83qx/pixar.png?rlkey=57o13vmkh4z4wbh5kc79mzlv0&dl=0" group-title="✅ 24/7 Cine",Cinema Disney Pixar ⁽ᴴᴰ⁾
+#EXTINF:0 group-title="PELICULAS",PELIS | tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a7rekky8c537z7tzt83qx/pixar.png?rlkey=57o13vmkh4z4wbh5kc79mzlv0&dl=0" group-title="✅ 24/7 Cine",Cinema Disney Pixar ⁽ᴴᴰ⁾
 http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318473
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Dreamworks ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/sife3adgeayl9wwtj1hzs/Dreamworks.png?rlkey=czbukahkshi4adz75bzuxrowo&dl=0" group-title="✅ 24/7 Cine",Cinema Dreamworks ⁽ᴴᴰ⁾
+#EXTINF:0 group-title="PELICULAS",PELIS | tvg-logo="https://dl.dropboxusercontent.com/scl/fi/sife3adgeayl9wwtj1hzs/Dreamworks.png?rlkey=czbukahkshi4adz75bzuxrowo&dl=0" group-title="✅ 24/7 Cine",Cinema Dreamworks ⁽ᴴᴰ⁾
 http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318474
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Familia ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ikc2v9khxgwzigr7mnmym/cinemafani.png?rlkey=8ysunbzswfy82g718g8q0ad8i&dl=0" group-title="✅ 24/7 Cine",Cinema Familia ⁽ᴴᴰ⁾
+#EXTINF:0 group-title="PELICULAS",PELIS | tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ikc2v9khxgwzigr7mnmym/cinemafani.png?rlkey=8ysunbzswfy82g718g8q0ad8i&dl=0" group-title="✅ 24/7 Cine",Cinema Familia ⁽ᴴᴰ⁾
 http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318475
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Happy Madison ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/nsp7467m4754reuuo5faw/madison.png?rlkey=5uifc07ixi69c8aim9r9wg42j&dl=0" group-title="✅ 24/7 Cine",Cinema Happy Madison ⁽ᴴᴰ⁾
+#EXTINF:0 group-title="PELICULAS",PELIS | tvg-logo="https://dl.dropboxusercontent.com/scl/fi/nsp7467m4754reuuo5faw/madison.png?rlkey=5uifc07ixi69c8aim9r9wg42j&dl=0" group-title="✅ 24/7 Cine",Cinema Happy Madison ⁽ᴴᴰ⁾
 http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318476
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Horror Classics ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/w6ufd4fa4iy3nm4yf0g6z/horrorclasic.png?rlkey=311xctkzarma796ro0reh8g1k&dl=0" group-title="✅ 24/7 Cine",Cinema Horror Classics ⁽ᴴᴰ⁾
+#EXTINF:0 group-title="PELICULAS",PELIS | tvg-logo="https://dl.dropboxusercontent.com/scl/fi/w6ufd4fa4iy3nm4yf0g6z/horrorclasic.png?rlkey=311xctkzarma796ro0reh8g1k&dl=0" group-title="✅ 24/7 Cine",Cinema Horror Classics ⁽ᴴᴰ⁾
 http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318477
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Horror ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zylu3z75aqagtezazsmkb/horror.png?rlkey=96h63g3jcv57dj7alkxeanvph&dl=0" group-title="✅ 24/7 Cine",Cinema Horror ⁽ᴴᴰ⁾
+#EXTINF:0 group-title="PELICULAS",PELIS | tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zylu3z75aqagtezazsmkb/horror.png?rlkey=96h63g3jcv57dj7alkxeanvph&dl=0" group-title="✅ 24/7 Cine",Cinema Horror ⁽ᴴᴰ⁾
 http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318478
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Lego Movies ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/j7j64a990goiyg41mdft5/lego.png?rlkey=ir4gpj7gchg3cz2ipase5s2rz&dl=0" group-title="✅ 24/7 Cine",Cinema Lego Movies ⁽ᴴᴰ⁾
+#EXTINF:0 group-title="PELICULAS",PELIS | tvg-logo="https://dl.dropboxusercontent.com/scl/fi/j7j64a990goiyg41mdft5/lego.png?rlkey=ir4gpj7gchg3cz2ipase5s2rz&dl=0" group-title="✅ 24/7 Cine",Cinema Lego Movies ⁽ᴴᴰ⁾
 http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318479
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Marvel Animated ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7yjqta6ggf396zdqhxrxv/marvelanim.png?rlkey=itggj9mpyp0zb1lctd3iyhagz&dl=0" group-title="✅ 24/7 Cine",Cinema Marvel Animated ⁽ᴴᴰ⁾
+#EXTINF:0 group-title="PELICULAS",PELIS | tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7yjqta6ggf396zdqhxrxv/marvelanim.png?rlkey=itggj9mpyp0zb1lctd3iyhagz&dl=0" group-title="✅ 24/7 Cine",Cinema Marvel Animated ⁽ᴴᴰ⁾
 http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318480
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Marvel Studios ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8lyzyc5knxogr3249c6gv/marvelstud.png?rlkey=kc2o9d79zc2lba63mavm0574i&dl=0" group-title="✅ 24/7 Cine",Cinema Marvel Studios ⁽ᴴᴰ⁾
+#EXTINF:0 group-title="PELICULAS",PELIS | tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8lyzyc5knxogr3249c6gv/marvelstud.png?rlkey=kc2o9d79zc2lba63mavm0574i&dl=0" group-title="✅ 24/7 Cine",Cinema Marvel Studios ⁽ᴴᴰ⁾
 http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318481
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema 00
+#EXTINF:0 group-title="PELICULAS",PELIS | tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema 00
 http://pinkpanther.uk:8080/35W7xfhYuS3L/7vgMsC6Y7brA/50920
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema  01
+#EXTINF:0 group-title="PELICULAS",PELIS | tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema  01
 http://pinkpanther.uk:8080/35W7xfhYuS3L/7vgMsC6Y7brA/50921
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema 02
+#EXTINF:0 group-title="PELICULAS",PELIS | tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema 02
 http://pinkpanther.uk:8080/35W7xfhYuS3L/7vgMsC6Y7brA/50923
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema 03
+#EXTINF:0 group-title="PELICULAS",PELIS | tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema 03
 http://pinkpanther.uk:8080/35W7xfhYuS3L/7vgMsC6Y7brA/50925
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema 04
+#EXTINF:0 group-title="PELICULAS",PELIS | tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema 04
 http://pinkpanther.uk:8080/35W7xfhYuS3L/7vgMsC6Y7brA/50926
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema 05
+#EXTINF:0 group-title="PELICULAS",PELIS | tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema 05
 http://pinkpanther.uk:8080/35W7xfhYuS3L/7vgMsC6Y7brA/50927
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema 06
+#EXTINF:0 group-title="PELICULAS",PELIS | tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema 06
 http://pinkpanther.uk:8080/35W7xfhYuS3L/7vgMsC6Y7brA/50928
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema 07
+#EXTINF:0 group-title="PELICULAS",PELIS | tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema 07
 http://pinkpanther.uk:8080/35W7xfhYuS3L/7vgMsC6Y7brA/50929
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema 08
+#EXTINF:0 group-title="PELICULAS",PELIS | tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema 08
 http://pinkpanther.uk:8080/35W7xfhYuS3L/7vgMsC6Y7brA/50930
 
-#EXTINF:0, UNIVERSAL TV
+#EXTINF:0 group-title="PELICULAS",PELIS | UNIVERSAL TV
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://ott.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=57&f=HLS&f=.m3u8
-#EXTINF:0, STUDIO UNIVERSAL  
+#EXTINF:0 group-title="PELICULAS",PELIS | STUDIO UNIVERSAL  
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://ott.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=132&f=HLS&f=.m3u8
-#EXTINF:0, A3CINE II
+#EXTINF:0 group-title="PELICULAS",PELIS | A3CINE II
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
-#EXTINF:0, A3CINE 
+#EXTINF:0 group-title="PELICULAS",PELIS | A3CINE 
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://ott.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=3112&f=HLS&f=.m3u8
