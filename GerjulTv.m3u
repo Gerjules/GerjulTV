@@ -864,6 +864,100 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde1317578340009b751d0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine Premium",CINE| HBO
+http://motivatv.club:80/LEONARDOSAN2/57155/592277 
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="2MB | HBO 2" tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" grupo -title="⭐️ Cine Premium",CINE| HBO 2
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318643
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="2MB | HBO + LQ" tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png" grupo -title="⭐️ Cine Premium",CINE| HBO +
+http://factoryplay.online:8080/Klev73Arm/AR73xnet/281094
+#EXTINF:-1 tvg-id="HBOHDA" tvg-name="P | HBO Family" tvg-logo="http://descargas.podzone.net/logos/-HBO-family.png" group-title="⭐️ Cine Premium",CINE| HBO Family
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318650
+#EXTINF:-1 tvg-id="HBOXLAM" tvg-name="P | HBO Xtreme" tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png" group-title="⭐️ Cine Premium",CINE| HBO Xtreme
+http://motivatv.club:80/LEONARDOSAN2/57155/592343
+#EXTINF:-1 tvg-id="MUNLEH" tvg-name="P | HBO Mundi" tvg-logo="http://descargas.podzone.net/logos/-HBO-mundi.png" group-title="⭐️ Cine Premium",CINE| HBO Mundi
+http://motivatv.club:80/LEONARDOSAN2/57155/592334
+#EXTINF:-1 tvg-id="POPAM" tvg-name="P | HBO POP" tvg-logo="http://descargas.podzone.net/logos/-HBO-pop.png" group-title="⭐️ Cine Premium",CINE| HBO POP
+http://factoryplay.online:8080/Klev73Arm/AR73xnet/237115
+#EXTINF:-1 tvg-id="HBOSIG" tvg-name="P | Firma HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO-signature.png" grupo-title="⭐️ Cine Premium",CINE| HBO signature
+http://motivatv.club:80/LEONARDOSAN2/57155/592341
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="2MB | Cinecanal"  tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png" group-title="⭐️ Cine Premium",CINE| Cinecanal
+https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/169789.ts
+#EXTINF:-1 tvg-id="CINL" tvg-name="P | Cine Latino" tvg-logo="http://descargas.podzone.net/logos/-cine-latino.png" group-title="⭐️ Cine Premium",CINE| Cine Latino
+http://factoryplay.online:8080/Klev73Arm/AR73xnet/393101
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="2MB | CINEMAX LQ" tvg-logo="http://descargas.podzone.net/logos2/-CINEMAX.png" group-title="⭐️ Cine Premium",CINE| Cinemax
+http://motivatv.club:80/LEONARDOSAN2/57155/602688
+#EXTINF:-1 tvg-id="CLACIAM" tvg-name="P | Claro Cinema" tvg-logo="http://descargas.podzone.net/logos/-claro-cinema.png" group-title="⭐️ Cine Premium",CINE| Claro Cinema
+http://273859821804690689.of1124.xyz:80/play/Nael624L/NaelM122/690689.ts
+#EXTINF:-1 tvg-id="DPLUSSD" tvg-name="P | De Pelicula" tvg-logo="http://descargas.podzone.net/logos/-de-pelicula.png" group-title="⭐️ Cine Premium",CINE| De Pelicula
+http://motivatv.club:80/LEONARDOSAN2/57155/592251
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="P | De Pelicula Clásico" tvg-logo="http://descargas.podzone.net/logos/-de-pelicula-plus.png" group-title="⭐️ Cine Premium",CINE| De Pelicula Clásico
+https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/169790.ts
+#EXTINF:-1 tvg-id="CNLDHEN" tvg-name="P | DHE" tvg-logo="http://descargas.podzone.net/logos/-DHE.png" group-title="⭐️ Cine Premium",CINE| DHE
+http://factoryplay.online:8080/Klev73Arm/AR73xnet/393104
+#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="2MB | Golden Edge" tvg-logo="http://descargas.podzone.net/logos/-golden-edge.png" group-title="⭐️ Cine Premium",CINE| Golden EDGE
+https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/190737.ts
+#EXTINF:-1 tvg-id="GLDPREM" tvg-name="P | Golden Premier" tvg-logo="http://descargas.podzone.net/logos/-golden-premiere.png" group-title="⭐️ Cine Premium",CINE| Golden Premier
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318696
+#EXTINF:-1 tvg-id="GOLDAMC" tvg-name="P | Golden" tvg-logo="http://descargas.podzone.net/logos/-golden.png" group-title="⭐️ Cine Premium",CINE| Golden
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318690  
+#EXTINF:-1 tvg-id="GOLDNHD" tvg-name="P | Golden Plus" tvg-logo="http://descargas.podzone.net/logos/-golden.png" group-title="⭐️ Cine Premium",CINE| Golden Plus
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318700
+#EXTINF:-1 tvg-id="space.mx" tvg-name="2MB | Space" tvg-logo="http://descargas.podzone.net/logos/-space.png" group-title="⭐️ Cine Premium",CINE| Space
+http://motivatv.club:80/LEONARDOSAN2/57155/592365
+#EXTINF:-1 tvg-id="UNTVCHD" tvg-name="E | Universal TV" tvg-logo="http://descargas.podzone.net/logos/-universal-channel.png" group-title="⭐️ Cine Premium",CINE| universal channel
+https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/170903.ts
+#EXTINF:-1 tvg-id="UNTVCHD" tvg-name="E | Universal TV" tvg-logo="http://descargas.podzone.net/logos/-universal-cinema.png" group-title="⭐️ Cine Premium",CINE| universal cinema
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4248
+#EXTINF:-1 tvg-id="UNTVCHD" tvg-name="E | Universal TV" tvg-logo="http://descargas.podzone.net/logos/-universal-reality.png" group-title="⭐️ Cine Premium",CINE| universal reality
+https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/204899.ts
+#EXTINF:-1 tvg-id="UNTVCHD" tvg-name="E | Universal TV" tvg-logo="http://descargas.podzone.net/logos/-universal-premier.png" group-title="⭐️ Cine Premium",CINE| universal premier
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4250
+#EXTINF:-1 tvg-id="" tvg-name="P | Paramount+ Presenta" tvg-logo="http://descargas.podzone.net/logos/-paramount.png" group-title="⭐️ Cine Premium",CINE| Paramount+
+http://motivatv.club:80/LEONARDOSAN2/57155/592346
+#EXTINF:-1  tvg-logo="http://descargas.podzone.net/logos/-AMC.png" group-title="⭐️ Cine Premium",CINE| amc
+http://motivatv.club:80/LEONARDOSAN2/57155/593948
+#EXTINF:-1 tvg-id="andemundo.mx" tvg-name="E | A&E" tvg-logo="http://descargas.podzone.net/logos/-AyE.png" group-title="⭐️ Cine Premium",CINE| A&E
+http://motivatv.club:80/LEONARDOSAN2/57155/592219
+#EXTINF:-1 tvg-id="fox.mx" tvg-name="2MB | STAR CHANNEL LQ" tvg-logo="http://descargas.podzone.net/logos/-star-channel.png" group-title="⭐️ Cine Premium",CINE| START CHANNEL
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318641
+#EXTINF:-1 tvg-id="" tvg-name="P | Paramount+ Presenta" tvg-logo="http://descargas.podzone.net/logos/-AXN.png" group-title="⭐️ Cine Premium",CINE| AXN
+http://motivatv.club:80/LEONARDOSAN2/57155/593951
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="2MB | FX LQ" tvg-logo="http://descargas.podzone.net/logos/-FX.png" group-title="⭐️ Cine Premium",CINE| FX
+http://273859821804657197.of1124.xyz:80/play/Nael624L/NaelM122/657197.ts
+#EXTINF:-1 tvg-id="warnerchannel.mx" tvg-name="2MB| WARNER LQ" tvg-logo="http://descargas.podzone.net/logos/-warner.png" group-title="⭐️ Cine Premium",CINE| WARNER
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318669
+#EXTINF:-1 tvg-id="TCMARHD" tvg-name="P | TCM" tvg-logo="http://descargas.podzone.net/logos/-TCM.png" group-title="⭐️ Cine Premium",CINE| TCM
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318674
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="2MB | TNT LQ" tvg-logo="http://descargas.podzone.net/logos/-TNT.png" group-title="⭐️ Cine Premium",CINE| TNT
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318659
+#EXTINF:-1 tvg-id="TNTLVHD" tvg-name="P | TNT" tvg-logo="http://descargas.podzone.net/logos/-TNT-series.png" group-title="⭐️ Cine Premium",CINE| TNT SERIES
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/191
+#EXTINF:-1 tvg-id="SYFYLAH" tvg-name="P | SYFY" tvg-logo="http://descargas.podzone.net/logos/-SYFY.png" group-title="⭐️ Cine Premium",CINE| SYFY
+https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/190773.ts
+#EXTINF:-1 tvg-id="CinemaDinamita.co" tvg-name="CINE - CINEMA DINAMITA" tvg-logo="http://descargas.podzone.net/logos/-cinema-dinamita.png" group-title="⭐️ Cine Premium",CINE| CINEMA DINAMITA
+http://cineplay.vip:8080/fcorzo23/UqZqrEkQcY/25581
+#EXTINF:-1 tvg-id="ISAT.mx" tvg-name="CINE - I-SAT" tvg-logo="http://descargas.podzone.net/logos/-I-SAT.png" group-title="⭐️ Cine Premium",CINE| I-SAT
+http://motivatv.club:80/LEONARDOSAN2/57155/592349
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="CINE - SONY" tvg-logo="http://descargas.podzone.net/logos/-sony.png" group-title="⭐️ Cine Premium",CINE| SONY
+http://motivatv.club:80/LEONARDOSAN2/57155/592363
+#EXTINF:-1 tvg-id="" tvg-name="CINE - EUROPA EUROPA" tvg-logo="http://descargas.podzone.net/logos/-europa-europa.png" group-title="⭐️ Cine Premium",CINE| EUROPA EUROPA
+http://motivatv.club:80/LEONARDOSAN2/57155/592264
+#EXTINF:-1 tvg-id="MPREL" tvg-name="P | Multipremier" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/oqccogvw2k3tmpul6heb0/multipremier.png?rlkey=u954lcq1gn6d9zwwys5jhmlik&dl=0" group-title="⭐️ Cine Premium",CINE| Multipremier
+http://motivatv.club:80/LEONARDOSAN2/57155/602694
+#EXTINF:-1 tvg-id="5f513564e4622a0007c578c0" tvg-name="P | Cine ¡¡jaja!!" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2uos7rleuxwdig6i5z23k/fmtv.png?rlkey=fyoa2s4fxlp4rmvd0zlcagokq&dl=0" group-title="⭐️ Cine Premium",CINE| fmtv fusion
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CINE - SUNDANCE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-iR_qCtCJu8gSjcVN75hbraNqGtxWIvhqPQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| MULTICINEMA
+http://motivatv.club:80/LEONARDOSAN2/57155/592610
+#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CINE - PANICO TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFeqSCI_9RZTfpysXQ6RqD__sLSTAiAJRzjA&usqp=CAU" group-title="⭐️ Cine Premium",CINE| CINE FAMILIAR 
+http://motivatv.club:80/LEONARDOSAN2/57155/592607
+#EXTINF:-1 tvg-id="" tvg-name="CINE - MORBID TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYBH6aMl5DFShtHjfO_NQVRIDj2slKugvS1g&usqp=CAU" group-title="⭐️ Cine Premium",CINE| TBS
+http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/574056
+#EXTINF:-1 tvg-id="" tvg-name="CINE - CINE ESTELAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8QE6of53V9UHIhOf1ZQofwaORNxkG5SArdA&usqp=CAU" group-title="⭐️ Cine Premium",CINE| A3CINE
+http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/578429
+#EXTINF:-1 tvg-id="" tvg-name="CINE - CINE ESTELAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHiUZdmcSB9rltExRtM73_Ji73c-6XedWYtw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| A3SERIES
+http://motivatv.club:80/LEONARDOSAN2/57155/592226
+
+
 #EXTINF:0 group-title="SERIES",SER | Pluto TV Series Latinas
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
