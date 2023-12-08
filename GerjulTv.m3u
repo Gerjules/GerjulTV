@@ -959,79 +959,80 @@ http://190.61.57.2:1010/play/a01a/index.m3u8
 http://190.61.57.2:1010/play/a01s/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qej2Zvt.jpg" group-title="Entretenimiento Premium", DHE HD
 http://190.61.57.2:1010/play/a02l/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium", HBO HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium",CINE| HBO HD
 http://204.157.251.250:8000/play/a06t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium", HBO HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium",CINE|  HBO HD
 http://181.205.130.194:4000/play/a08u/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium", HBO HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium",CINE|  HBO HD
 http://186.28.229.140:8000/play/a07i/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium", HBO2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium",CINE|  HBO2 HD
 http://204.157.251.250:8000/play/a06u/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium", HBO2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium",CINE|  HBO2 HD
 http://186.28.229.140:8000/play/a0ai/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium", HBO 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium",CINE|  HBO 2 HD
 http://181.129.198.235:8000/play/a022/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MciBaNx.png" ggroup-title="⭐️ Cine Premium", HBO Family HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MciBaNx.png" group-title="⭐️ Cine Premium",CINE|  HBO Family HD
 http://186.148.163.18:8000/play/a052/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium", HBO Plus HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium",CINE|  HBO Plus HD
 http://204.157.251.250:8000/play/a06v/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HR9jECo.png" group-title="⭐️ Cine Premium", HBO XTREME
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HR9jECo.png" group-title="⭐️ Cine Premium",CINE|  HBO XTREME
 http://204.157.251.250:8000/play/a06x/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HR9jECo.png" group-title="⭐️ Cine Premium", HBO XTREME
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HR9jECo.png" group-title="⭐️ Cine Premium",CINE|  HBO XTREME
 http://186.148.163.18:8000/play/a053/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HR9jECo.png" group-title="⭐️ Cine Premium", HBO XTREME HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HR9jECo.png" group-title="⭐️ Cine Premium",CINE|  HBO XTREME HD
 http://181.129.198.235:8000/play/a01h/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium", HBO POP HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium",CINE|  HBO POP HD
 http://38.43.150.126:8000/play/a034/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium", HBO Family HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium",CINE|  HBO Family HD
 http://204.157.251.250:8000/play/a06w/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nuv4kk4.png" group-title="⭐️ Cine Premium", FX HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nuv4kk4.png" group-title="⭐️ Cine Premium",CINE|  FX HD
 http://190.61.57.2:1010/play/a021/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nuv4kk4.png" ggroup-title="⭐️ Cine Premium", FX HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nuv4kk4.png" group-title="⭐️ Cine Premium",CINE|  FX HD
 http://190.109.23.4:8000/play/a03m/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YvpthIA.png" group-title="⭐️ Cine Premium", Paramount HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvpthIA.png" group-title="⭐️ Cine Premium",CINE|  Paramount HD
 http://200.114.68.133:8999/play/a0tl/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YvpthIA.png" group-title="⭐️ Cine Premium", Paramount HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvpthIA.png" group-title="⭐️ Cine Premium",CINE|  Paramount HD
 http://190.61.57.2:1010/play/a026/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YvpthIA.png" group-title="Entretenimiento", Paramount HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvpthIA.png" group-title="⭐️ Cine Premium",CINE|  Paramount HD
 http://190.109.23.4:8000/play/a0c7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iiGco6R.png" group-title="⭐️ Cine Premium", TNT HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iiGco6R.png" group-title="⭐️ Cine Premium",CINE| TNT HD
 http://190.61.57.2:1010/play/a01m/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iiGco6R.png" group-title="⭐️ Cine Premium", TNT HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iiGco6R.png" group-title="⭐️ Cine Premium",CINE|  TNT HD
 http://38.43.150.126:8000/play/a038/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bFUuo5t.png" group-title="⭐️ Cine Premium", Serie TNT HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bFUuo5t.png" group-title="⭐️ Cine Premium",CINE|  Serie TNT HD
 http://191.102.106.46:15028/play/a02b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4TaBISZ.png" group-title="⭐️ Cine Premium", Estudio Universal HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4TaBISZ.png" group-title="⭐️ Cine Premium",CINE|  Estudio Universal HD
 http://190.61.57.2:1010/play/a027/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lG64AHb.png" group-title="⭐️ Cine Premium", CANAL UNIVERSAL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lG64AHb.png" group-title="⭐️ Cine Premium",CINE|  CANAL UNIVERSAL HD
 http://190.61.57.2:1010/play/a01z/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BDyOOdm.png" group-title="⭐️ Cine Premium", Sony HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BDyOOdm.png" group-title="⭐️ Cine Premium",CINE|  Sony HD
 http://38.43.150.126:8000/play/a031/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KZaoGzO.png" group-title="⭐️ Cine Premium", Espacio HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KZaoGzO.png" group-title="⭐️ Cine Premium",CINE|  Espacio HD
 http://38.43.150.126:8000/play/a033/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KZaoGzO.png" group-title="⭐️ Cine Premium", Espacio HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KZaoGzO.png" group-title="⭐️ Cine Premium",CINE|  Espacio HD
 http://45.5.151.151:8000/play/a082/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KZaoGzO.png" group-title="⭐️ Cine Premium", Espacio HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KZaoGzO.png" group-title="⭐️ Cine Premium",CINE|  Espacio HD
 http://190.61.57.2:1010/play/a01b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i0Ybr7h.png" group-title="⭐️ Cine Premium", Dorado HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i0Ybr7h.png" group-title="⭐️ Cine Premium",CINE|  Dorado HD
 http://190.61.57.2:1010/play/a02b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i0Ybr7h.png" group-title="⭐️ Cine Premium", Golden Plus HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i0Ybr7h.png" group-title="⭐️ Cine Premium",CINE|  Golden Plus HD
 http://190.109.23.4:8000/play/a03v/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XMs9JPb.png" group-title="Entretenimiento", Cinecanal HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XMs9JPb.png" group-title="⭐️ Cine Premium",CINE|  Cinecanal HD
 http://190.61.57.2:1010/play/a046/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XMs9JPb.png" group-title="⭐️ Cine Premium", Cinecanal HD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XMs9JPb.png" group-title="⭐️ Cine Premium",CINE|  Cinecanal HD
 http://190.109.23.4:8000/play/a03q/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1dWt5jI.png" group-title="⭐️ Cine Premium", Cinemax HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1dWt5jI.png" group-title="⭐️ Cine Premium",CINE|  Cinemax HD
 http://190.61.57.2:1010/play/a01r/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1dWt5jI.png" group-title="⭐️ Cine Premium", Cinemax HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1dWt5jI.png" group-title="⭐️ Cine Premium",CINE|  Cinemax HD
 http://190.109.23.4:8000/play/a0bv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DIHRgw6.png" group-title="⭐️ Cine Premium", Warner Channel HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DIHRgw6.png" group-title="⭐️ Cine Premium",CINE|  Warner Channel HD
 http://190.61.57.2:1010/play/a019/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DIHRgw6.png" group-title="⭐️ Cine Premium", Warner Channel HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DIHRgw6.png" group-title="⭐️ Cine Premium",CINE|  Warner Channel HD
 http://38.43.150.127:8000/play/a032/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xJ0FecU.png" group-title="⭐️ Cine Premium", De Pelicula
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xJ0FecU.png" group-title="⭐️ Cine Premium",CINE|  De Pelicula
 http://38.43.150.126:8000/play/a04i/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ftBmXEq.jpg" group-title="⭐️ Cine Premium", AZ Cinema HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ftBmXEq.jpg" group-title="⭐️ Cine Premium",CINE|  AZ Cinema HD
 
 
 
