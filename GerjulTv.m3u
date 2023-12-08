@@ -1420,7 +1420,7 @@ https://i.mjh.nz/PlutoTV/5f99a772c54853000797bf18-alt.m3u8
 
 #EXTINF:0 tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="DEPORTES",SPORT | WIN SPORTS CO
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/170167.ts
-tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="DEPORTES",SPORT | WIN SPORTS opc 2
+#EXTINF:0 tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="DEPORTES",SPORT | WIN SPORTS opc 2
 http://motivatv.club:80/LEONARDOSAN2/57155/590948
 #EXTINF:0 tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="DEPORTES",SPORT | WIN SPORTS opc 3
 http://430386921133663580.of1030ok.xyz:80/play/Nael624L/NaelM122/663580.ts
