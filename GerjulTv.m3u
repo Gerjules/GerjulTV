@@ -2029,132 +2029,18 @@ https://i.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5dcde27ffae9520009c0c75a-alt.m3u8
-#EXTINF:0 group-title="CULTURA", Teatrix
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/63ceb6ff60bc8f00088dc625
-#EXTINF:0 group-title="CULTURA", Investigation Discovery HD (CO)
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29279
-#EXTINF:0 group-title="CULTURA", Investigation Discovery Full HD (MX) #EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29282
-#EXTINF:0 group-title="CULTURA", Discovery Channel HD (CO)
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29287
-#EXTINF:0 group-title="CULTURA", Discovery Channel Full HD (CO)
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29288
-#EXTINF:0 group-title="CULTURA", Discovery Channel Full HD (MX) #EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29290
-#EXTINF:0 group-title="CULTURA", Discovery H&H HD (CO)
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29295
-#EXTINF:0 group-title="CULTURA", Discovery H&H Full HD (CO)
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29296
-#EXTINF:0 group-title="CULTURA", Discovery H&H Full HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29298
-#EXTINF:0 group-title="CULTURA", HGTV en Espa#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29301
-#EXTINF:0 group-title="CULTURA", History HD (CO) #EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29303
-#EXTINF:0 group-title="CULTURA", History Full HD (CO)
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29304
-#EXTINF:0 group-title="CULTURA", History Full HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29306
-#EXTINF:0 group-title="CULTURA", History 2 Full HD#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29310
-#EXTINF:0 group-title="CULTURA", NAT GEO
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29311
-#EXTINF:0 group-title="CULTURA", NatGeo HD (CO) #EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29313
-#EXTINF:0 group-title="CULTURA", NatGeo Full HD (CO)
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29314
-#EXTINF:0 group-title="CULTURA", NatGeo Full HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29316
-#EXTINF:0 group-title="CULTURA", NatGeo Wild Full HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29323
-#EXTINF:0 group-title="CULTURA",Animal Planet HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29326
-#EXTINF:0 group-title="CULTURA", Animal Planet Full HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29327
-#EXTINF:0 group-title="CULTURA", Tru TV (MX)
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29330
-#EXTINF:0 group-title="CULTURA", Discovery Science #EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29332
-#EXTINF:0 group-title="CULTURA", Discovery Theater Full HD (CO) #EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29334
-#EXTINF:0 group-title="CULTURA", Discovery TLC Full HD
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29342
-#EXTINF:0 group-title="CULTURA", Discovery Turbo FHD
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29344
-#EXTINF:0 group-title="CULTURA",Discovery World Full HD #EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29347
+
 
 #EXTINF:0 group-title="CULTURA", Discovery Familia
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHPw6CcjW_tufp-8Sl2Tpg2M
-#EXTINF:0 group-title="CULTURA", Discovery Investigation
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4123
-#EXTINF:0 group-title="CULTURA", Discovery SCI
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155818
-#EXTINF:0 group-title="CULTURA", Discovery World
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155812
-#EXTINF:0 group-title="CULTURA", History Channel
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155804
-#EXTINF:0 group-title="CULTURA",History Channel 2
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHIIjE2M4NdeKzMAtqcMb2vs
-#EXTINF:0 group-title="CULTURA", HGTV
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155823
 
-#EXTINF:0 group-title="CULTURA", Smithsonian Channel
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/134356
-#EXTINF:0 group-title="CULTURA", AFV en Español
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/134357
-
-#EXTINF:0 group-title="CULTURA", NatGeoMundo
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/288217
-#EXTINF:0 group-title="CULTURA", NatGeo Mundo HD
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/288218
-#EXTINF:0 group-title="CULTURA", NBC Universo HD
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/134351
-#EXTINF:0 group-title="CULTURA", NBC Universo
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/134352
 
 
 #EXTINF:0 group-title="ENTRETENIMIENTO", World Poker Tour
 https://i.mjh.nz/PlutoTV/6080381ab7c9ea00074ec64c-alt.m3u8
+
 #EXTINF:0 group-title="ENTRETENIMIENTO", PokerGo
 https://i.mjh.nz/PlutoTV/5fc54366b04b2300072e31af-alt.m3u8
 
@@ -2232,6 +2118,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047fd723
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:0 group-title="ENTRETENIMIENTO", AMC en español
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
@@ -2240,40 +2127,58 @@ https://i.mjh.nz/PlutoTV/62fa81ccd1a7e90007c1ada0-alt.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO", FailArmy
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5f1abf5fafb5ee0007d4d0ca-alt.m3u8
+
 #EXTINF:0 group-title="ENTRETENIMIENTO",Just for Laughs
 https://i.mjh.nz/PlutoTV/60a286daf888610007669801-alt.m3u8
+
 #EXTINF:0 group-title="ENTRETENIMIENTO",Humor
 https://i.mjh.nz/PlutoTV/5e8397936791b30007ebb5a7-alt.m3u8
+
 #EXTINF:0 group-title="ENTRETENIMIENTO", PLUTO TV HUMOR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc45-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6125129c-5aac-4b90-ba29-7333c93545b2&userId=&serverSideAds=true
-#EXTINF:0 group-title="ENTRETENIMIENTO"Comedy Central
+
+#EXTINF:0 group-title="ENTRETENIMIENTO", Comedy Central
 https://i.mjh.nz/PlutoTV/5ffcc21a432945000762d06b-alt.m3u8
-#EXTINF:0 group-title="ENTRETENIMIENTO"COMEDY CENTRAL
+
+#EXTINF:0 group-title="ENTRETENIMIENTO", COMEDY CENTRAL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c15-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd904709-6614-46f7-80bd-de128553e6f3&userId=&serverSideAds=true
+
 #EXTINF:0 group-title="ENTRETENIMIENTO", COMEDY CENTRAL LATINO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e1eb1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=21b9ab81-ee95-4efe-8594-158f8ea6d0c7&userId=&serverSideAds=true
+
 #EXTINF:0 group-title="ENTRETENIMIENTO",COMEDIA MADE IN SPAIN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b449c681-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=01d86952-90df-4d0a-b9ae-c63701be5b5c&userId=&serverSideAds=true
+
 #EXTINF:0 group-title="ENTRETENIMIENTO",Runtime Comedia
 https://run-rc-la.otteravision.com/run/rc_la/rc_la_720.m3u8
+
 #EXTINF:0 group-title="ENTRETENIMIENTO",RAKUTEN COMEDIA    
 https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel%3D428%26ads.wurl_name%3DRakutenComedyMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+
 #EXTINF:0 group-title="ENTRETENIMIENTO",Sony Canal Comedias
 https://i.mjh.nz/PlutoTV/60492bb931054f00073c0b4e-alt.m3u8
+
 #EXTINF:0 group-title="ENTRETENIMIENTO",SERIES COMEDIA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9853138d19af0007104a8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b4d24-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7b6b94ee-3d86-4a59-b406-f3548f232fe2&userId=&serverSideAds=true
+
 #EXTINF:0 group-title="ENTRETENIMIENTO",Pluto TV Series Comedia
 https://i.mjh.nz/PlutoTV/5f9853138d19af0007104a8d-alt.m3u8
+
 #EXTINF:0 group-title="ENTRETENIMIENTO",Series Comedia
 https://i.mjh.nz/PlutoTV/5f9853138d19af0007104a8d-alt.m3u8
+
 #EXTINF:0 group-title="ENTRETENIMIENTO",People are Awesome
 https://i.mjh.nz/PlutoTV/5f1ac1780e94100007f94b3f-alt.m3u8
+
 #EXTINF:0 group-title="ENTRETENIMIENTO",El Encantador de Perros
 https://i.mjh.nz/PlutoTV/61099f2b40d0640007fc5aa2-alt.m3u8
+
 #EXTINF:0 group-title="ENTRETENIMIENTO",Investiga
 https://i.mjh.nz/PlutoTV/5cf96b8f4f1ca3f0629f4bf1-alt.m3u8
+
 #EXTINF:0 group-title="ENTRETENIMIENTO",Investiga
 https://i.mjh.nz/PlutoTV/5dcde27ffae9520009c0c75a-alt.m3u8
+
 #EXTINF:0 group-title="ENTRETENIMIENTO", Sony Canal Escape Perfecto
 https://i.mjh.nz/PlutoTV/605e479d5b8229000763e697-alt.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO", Minuto Para Ganar
