@@ -480,7 +480,7 @@ https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel%3D718%26ads.wurl_name%3DRakutenFamily%26ads.coppa%3D1%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7D
-#EXTINF:35, RAKUTEN TV TOP FREE
+#EXTINF:0 group-title="PELICULAS",PELIS | RAKUTEN TV TOP FREE
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
