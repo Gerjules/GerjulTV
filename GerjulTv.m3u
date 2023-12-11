@@ -1200,119 +1200,14 @@ https://a1a6e9e8871c44a291f1bf09a08aa5e2.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTVLCOPT:network-caching=3000
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:0 group-title="SERIES",SER | SEO TV Novelas 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://live.seo.tv.bo/live/3SEO.m3u8
 
-#EXTINF:0 group-title="SERIES",SER | CORAZÓN TURCO
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/61b3e21d56fee300087e4cba-alt.m3u8
-#EXTINF:0 group-title="SERIES",SER | Sin Tetas No Hay Paraíso
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/604bdf4e6d0abc0007ba77ad-alt.m3u8
 #EXTINF:0 group-title="SERIES",SER | THE WALKING DEAD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a109b860-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=89e7768a-d856-44a6-ba93-5bff4d40757c&userId=&serverSideAds=true
-#EXTINF:0 group-title="SERIES",SER | Miami
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/63eb9255c111bc0008fe6ec4-alt.m3u8
-#EXTINF:0 group-title="SERIES",SER | NCIS
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
-#EXTINF:0 group-title="SERIES",SER | Pluto TV Series
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
-#EXTINF:0 group-title="SERIES",SER | The Night Shift
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/624f4d4a4321e200073f46e0-alt.m3u8
-#EXTINF:0 group-title="SERIES",SER | Schitt's Creek
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/620ac814864949000724fb77-alt.m3u8
-#EXTINF:0 group-title="SERIES",SER | Younger
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/619d56d9fa3070000709e3f7-alt.m3u8
-#EXTINF:0 group-title="SERIES",SER | Pluto TV Dramas Coreanos
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/6185a9a88b2ce30007de5128-alt.m3u8
-#EXTINF:0 group-title="SERIES",SER | Vive Kanal D Drama
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/639751f81a36b400072b8f5a-alt.m3u8
-#EXTINF:0 group-title="SERIES",SER | Pluto TV España
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5ffe17e3d765170007c3a4fe-alt.m3u8
-#EXTINF:0 group-title="SERIES",SER | Pluto TV Series Latinas
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
-#EXTINF:0 group-title="SERIES",SER | Pluto TV Series Retro
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
-#EXTINF:0 group-title="SERIES",SER | Hechizada
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/631fb6be21b7440007b9f606-alt.m3u8
-#EXTINF:0 group-title="SERIES",SER | Los Ángeles de Charlie
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/6487761d17f5e10008cbc000-alt.m3u8
-#EXTINF:0 group-title="SERIES",SER | Starsky & Hutch
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/6489c45766e48500083cceb6-alt.m3u8
-#EXTINF:0 group-title="SERIES",SER | MacGyver
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
-#EXTINF:0 group-title="SERIES",SER | Beverly Hills 90210
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/63eb93a1c111bc0008fe6f5b-alt.m3u8
-#EXTINF:0 group-title="SERIES",SER | Loco Por Ti
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/6489c42e976ee90008547503-alt.m3u8
-#EXTINF:0 group-title="SERIES",SER | Los Tres Chiflados
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
-#EXTINF:0 group-title="SERIES",SER | Pluto TV Novelas
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5dcde0cc2efd2700090b7ff4-alt.m3u8
-#EXTINF:0 group-title="SERIES",SER | Sin Tetas No Hay Paraíso
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/604bdf4e6d0abc0007ba77ad-alt.m3u8
-#EXTINF:0 group-title="SERIES",SER | La Selección
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/63211ba9cad976000794f988-alt.m3u8
-#EXTINF:0 group-title="SERIES",SER | Rock Story
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/61f159209fcc3800076ed4a1-alt.m3u8
-#EXTINF:0 group-title="SERIES",SER | A3SERIES 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://ott.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2113&f=HLS&f=.m3u8
-#EXTINF:0 group-title="SERIES",SER | A3SERIES II
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
+
+
+
 
 
 #EXTINF:0 group-title="COCINA",COC | Pluto TV Cocina
