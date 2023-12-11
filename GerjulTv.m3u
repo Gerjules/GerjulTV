@@ -107,8 +107,26 @@ https://rds3gen.desdeparaguay.net/tvs/tvs/playlist.m3u8
 #EXTINF:0 group-title="ARGENTINA",AR | EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:0 group-title="ARGENTINA",AR | Telefe Noticias 
-https://siloh-mcdn.plutotv.net/lilo/production/LATAM/Telefe/master.m3u8
+#EXTINF:-1 tvg-name="El Nueve" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS83.png" group-title="Canales TDA",Canal LS83 9
+http://myteve.online:8080/30fe809e/ec00cbf3/3202
+
+#EXTINF:-1 tvg-name="Telefe" tvg-logo="http://www.radiosargentina.com.ar/png/VITELEFE.png" group-title="Canales TDA",LS84 Telefe
+http://myteve.online:8080/30fe809e/ec00cbf3/3199
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--26TV.png" group-title="Canales TDA", Canal 26
+http://sdmx.vip:8080/u8334525209/65213/210841
+
+#EXTINF:0  group-title="ARGENTINA",AR | Todo Noticias AR
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
+#EXTINF:0 group-title="ARGENTINA",AR | A24 (720p)
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+
+#EXTINF:0 group-title="ARGENTINA",AR | TV Pública (TVP) 
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+
+
+
 
 #EXTINF:0  group-title="ARGENTINA",AR | Canal 3 Formosa (720p)
 https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
@@ -128,20 +146,20 @@ https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u
 #EXTINF:0 group-title="ARGENTINA",AR | Mar del Plata 
 https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
 
-#EXTINF:0 group-title="ARGENTINA",AR | TV Pública (TVP) 
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
-#EXTINF:0  group-title="ARGENTINA",AR | Todo Noticias AR
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
-#EXTINF:0 group-title="ARGENTINA",AR | A24 (720p)
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+
 
 #EXTINF:0 group-title="ARGENTINA",AR | 13Max Televisión (1080p)
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 #EXTINF:0 group-title="ARGENTINA",AR |  Telefe Clásico
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel-alt.m3u8
+
+#EXTINF:-1 tvg-name="Volver" tvg-logo="https://1.bp.blogspot.com/_mBmoS0RssN0/TClxVNjJAJI/AAAAAAAABio/de3i3kqBkXA/s400/LOGOVOLVER2010+Baja.JPG" group-title=" Cable", Volver
+http://myteve.online:8080/30fe809e/ec00cbf3/49329
+
+
 
 
 #EXTINF:0 group-title="NOTICIAS",NOT | DW ALEMANIA EN ESPAÑOL 
