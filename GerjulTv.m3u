@@ -107,19 +107,25 @@ https://rds3gen.desdeparaguay.net/tvs/tvs/playlist.m3u8
 #EXTINF:0 group-title="ARGENTINA",AR | EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-name="El Nueve" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS83.png" group-title="Canales TDA",Canal LS83 9
+#EXTINF:-1 oup-title="ARGENTINA",AR |Canal LS83 9
 http://myteve.online:8080/30fe809e/ec00cbf3/3202
 
-#EXTINF:-1 tvg-name="Telefe" tvg-logo="http://www.radiosargentina.com.ar/png/VITELEFE.png" group-title="Canales TDA",LS84 Telefe
+#EXTINF:-1 oup-title="ARGENTINA",AR |LS84 Telefe
 http://myteve.online:8080/30fe809e/ec00cbf3/3199
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--26TV.png" group-title="Canales TDA", Canal 26
+#EXTINF:-1 oup-title="ARGENTINA",AR | Canal 26
 http://sdmx.vip:8080/u8334525209/65213/210841
 
-#EXTINF:0  group-title="ARGENTINA",AR | Todo Noticias AR
+#EXTINF:-1 group-title="ARGENTINA",AR | C5N
+http://tv.nousiptv.com:8080/AR10465/10465R/17901
+
+#EXTINF:-1 group-title="ARGENTINA",AR | CRÓNICA
+http://tv.nousiptv.com:8080/AR10465/10465R/4188
+
+#EXTINF:0 group-title="ARGENTINA",AR | Todo Noticias AR
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
-#EXTINF:-1 tvg-name="A24" tvg-logo="http://www.radiosargentina.com.ar/png/VI---A24.png" group-title="Canales TDA",A24
+#EXTINF:-1 oup-title="ARGENTINA",AR | A24
 http://sdmx.vip:8080/u8334525209/65213/210833
 
 #EXTINF:0 group-title="ARGENTINA",AR | TV Pública (TVP) 
