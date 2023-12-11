@@ -5,20 +5,28 @@ https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/
 https://deh05ueq91v6s.cloudfront.net/SNTPY/0bd4cfaf086c4ac0ce0101172a42ba20.sdp/SNTPY/SNTPY2/chunks.m3u8
 #EXTINF:0 group-title="PARAGUAY",PY | TRECE
 https://tigocloudgen.desdeparaguay.net/trecetv/trecetv_baja/chunklist_w1196893029.m3u8?k=406497d0d8424d72e52021fad7657d49f5887085eb535695f5715b90bad8d2c7&exp=1686070703
-#EXTINF:0 group-title="PARAGUAY",PY | C 9N (480p)
+
+#EXTINF:-1 group-title="PARAGUAY",PY |TELEFUTURO
+http://tv.nousiptv.com:8080/AR10465/10465R/7529
+
+#EXTINF:0 group-title="PARAGUAY",PY | LA TELE
+http://tv.nousiptv.com:8080/AR10465/10465R/23224
+
+#EXTINF:-1 group-title="PARAGUAY",PY | NOTICIAS PY
+http://tv.nousiptv.com:8080/AR10465/10465R/7428
+
+#EXTINF:0 group-title="PARAGUAY",PY | C9N (480p)
 https://deh05ueq91v6s.cloudfront.net/C9NPY/031fe10f99063bb9e8271716ce50b133.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="PARAGUAY",PY | ÑANDUTÍ TV
+https://tvdatta.com:3839/live/nandutitvlive.m3u8
+
 #EXTINF:0 group-title="PARAGUAY",PY | UNICANAL 
 https://tigocloudgen.desdeparaguay.net/unicanal/unicanal_baja/chunklist_w904988084.m3u8?k=7b1d356cc7ec36bb21f1e96cfbd0415bc0b0c388fe500cb07566c44d89d6d7ab&exp=1698514724
 #EXTINF:0 group-title="PARAGUAY",PY | Bruno Masi TV (720p)
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
 #EXTINF:0 group-title="PARAGUAY",PY | Cáritas TV (1080p)
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
-
-
-
-
-#EXTINF:0 group-title="PARAGUAY",PY | ÑANDUTÍ TV
-https://tvdatta.com:3839/live/nandutitvlive.m3u8
 
 
 
@@ -75,22 +83,23 @@ https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
 #EXTINF:0 group-title="PARAGUAY",PY | Fanpop TV (720p) [Not 24/7]
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
+#EXTINF:-1 group-title="PARAGUAY",PY | TIGO DEPORTES + HD
+http://tv.nousiptv.com:8080/AR10465/10465R/53029
+
+#EXTINF:-1 group-title="PARAGUAY",PY | TIGO SPORTS HD
+http://tv.nousiptv.com:8080/AR10465/10465R/7435
+
+#EXTINF:-1 group-title="PARAGUAY",PY |  TIGO DEPORTES 2
+http://tv.nousiptv.com:8080/AR10465/10465R/7450
 
 
 
-#EXTINF:0 group-title="PARAGUAY",PY |Telefuturo (En breve Disponible)
-http://200.41.79.165:8000/play/a0hy/index.m3u8
 
-#EXTINF:0 group-title="PARAGUAY" ,PY | PARAVISIÓN (En breve Disponible)
+#EXTINF:0 group-title="PARAGUAY",PY | PARAVISIÓN (En breve Disponible)
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235206.ts
 
-#EXTINF:0 group-title="PARAGUAY",PY | LA TELE (En breve Disponible)
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235204.ts
-
-#EXTINF:0,PY | Radio Venus (En breve Disponible)
+#EXTINF:0 group-title="PARAGUAY",PY |Radio Venus (En breve Disponible)
 http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlNTso9IFZLD7iowly816h6M/ts
-#EXTINF:0 group-title="PARAGUAY",PY | NOTICIAS PY (En breve Disponible)
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235205.ts
 
 #EXTINF:0 group-title="PARAGUAY",PY | TVS (En breve Disponible)
 https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8?k=1d25209afd7c9b0e4898d35c8295d449ff87b42c53ea4da38aae4d2d9614c9a7&exp=1611679347
@@ -159,10 +168,10 @@ https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
 #EXTINF:0 group-title="ARGENTINA",AR | 13Max Televisión (1080p)
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
-#EXTINF:0 group-title="ARGENTINA",AR |  Telefe Clásico
+#EXTINF:0 group-title="ARGENTINA",AR | Telefe Clásico
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel-alt.m3u8
 
-#EXTINF:-1 tvg-name="Volver" tvg-logo="https://1.bp.blogspot.com/_mBmoS0RssN0/TClxVNjJAJI/AAAAAAAABio/de3i3kqBkXA/s400/LOGOVOLVER2010+Baja.JPG" group-title=" Cable", Volver
+#EXTINF:-1 group-title="ARGENTINA",AR | Volver
 http://myteve.online:8080/30fe809e/ec00cbf3/49329
 
 
@@ -982,6 +991,11 @@ http://190.61.57.2:1010/play/a01a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/28F3Dxs.png" group-title="Entretenimiento Premium", Comedy Central HD
 http://190.61.57.2:1010/play/a01s/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qej2Zvt.jpg" group-title="Entretenimiento Premium", DHE HD
+
+
+
+
+
 http://190.61.57.2:1010/play/a02l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium",CINE| HBO HD
 http://204.157.251.250:8000/play/a06t/index.m3u8
