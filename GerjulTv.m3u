@@ -1720,40 +1720,19 @@ https://i.mjh.nz/PlutoTV/6076c74daa05ac0007d0eb07-alt.m3u8
 
 
 
-#EXTINF:0 group-title="MUSICA", MUNDO DE LA MUSICA 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://6362ca6f1fc28.streamlock.net/8078/8078/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:0 group-title="MUSICA", Clubbing TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/600ad4ad6537680007be2ea6-alt.m3u8
-
-#EXTINF:0 group-title="MUSICA", The Ed Sullivan Show
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/62e017e44823db000726cd9a-alt.m3u8
 
 #EXTINF:0 group-title="MUSICA", MTV Biggest Pop
 #EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/6047fabfce6e8e00070bcc9f-alt.m3u8
-
-#EXTINF:0 group-title="MUSICA", MTV Spankin' New
+#EXTINF:0 group-title="MUSICA",MTV Spankin' New
+#EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/6047fd723b5bd00007de7092-alt.m3u8
-
-#EXTINF:0 group-title="MUSICA", MTV Flow Latino
+#EXTINF:0 group-title="MUSICA",MTV Flow Latino
+#EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/62b218fc511d4b00070ddc0c-alt.m3u8
-
-#EXTINF:0 group-title="MUSICA", Conciertos por Stingray
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f85ca40eda1b10007b967cd-alt.m3u8
-
-#EXTINF:0 group-title="MUSICA", Karaoke por Stingray
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f85cf621d6d2200079f1de0-alt.m3u8
 
 #EXTINF:30 group-title="MUSICA", XITE
 #EXTVLCOPT:network-caching=2000
@@ -2107,49 +2086,6 @@ http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHPw6CcjW_tufp-8Sl2Tpg2M
 
 
 
-#EXTINF:0 group-title="ENTRETENIMIENTO", World Poker Tour
-https://i.mjh.nz/PlutoTV/6080381ab7c9ea00074ec64c-alt.m3u8
-
-#EXTINF:0 group-title="ENTRETENIMIENTO", PokerGo
-https://i.mjh.nz/PlutoTV/5fc54366b04b2300072e31af-alt.m3u8
-
-#EXTINF:0 group-title="ENTRETENIMIENTO",Pluto TV Reality
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde197f6591d0009839e04/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="ENTRETENIMIENTO",Pluto TV Investiga
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="ENTRETENIMIENTO",Pluto TV Misterios
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="ENTRETENIMIENTO",Pluto TV  Competencias
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd6d935d000120009bc1132/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="ENTRETENIMIENTO",Pluto TV Aventura
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="ENTRETENIMIENTO",Sony Competencias
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
-#EXTINF:0 group-title="ENTRETENIMIENTO",MTV Classic
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:0 group-title="ENTRETENIMIENTO", Minuto Para Ganar
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="ENTRETENIMIENTO", Pluto TV Humor
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0 group-title="ENTRETENIMIENTO", MTV Pranks
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
@@ -2162,10 +2098,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebaccf17
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="ENTRETENIMIENTO", MTV Animaciones
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+
 #EXTINF:0 group-title="ENTRETENIMIENTO", MTV Pluto TV
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
@@ -2188,26 +2122,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047fd723
 #EXTVLCOPT:network-caching=3000
 https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:0 group-title="ENTRETENIMIENTO", AMC en español
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/62fa81ccd1a7e90007c1ada0-alt.m3u8
 
-#EXTINF:0 group-title="ENTRETENIMIENTO", FailArmy
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/5f1abf5fafb5ee0007d4d0ca-alt.m3u8
 
-#EXTINF:0 group-title="ENTRETENIMIENTO",Just for Laughs
-https://i.mjh.nz/PlutoTV/60a286daf888610007669801-alt.m3u8
-
-#EXTINF:0 group-title="ENTRETENIMIENTO",Humor
-https://i.mjh.nz/PlutoTV/5e8397936791b30007ebb5a7-alt.m3u8
 
 #EXTINF:0 group-title="ENTRETENIMIENTO", PLUTO TV HUMOR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc45-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6125129c-5aac-4b90-ba29-7333c93545b2&userId=&serverSideAds=true
 
-#EXTINF:0 group-title="ENTRETENIMIENTO", Comedy Central
-https://i.mjh.nz/PlutoTV/5ffcc21a432945000762d06b-alt.m3u8
+
 
 #EXTINF:0 group-title="ENTRETENIMIENTO", COMEDY CENTRAL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c15-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd904709-6614-46f7-80bd-de128553e6f3&userId=&serverSideAds=true
@@ -2224,138 +2145,35 @@ https://run-rc-la.otteravision.com/run/rc_la/rc_la_720.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO",RAKUTEN COMEDIA    
 https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel%3D428%26ads.wurl_name%3DRakutenComedyMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
 
-#EXTINF:0 group-title="ENTRETENIMIENTO",Sony Canal Comedias
-https://i.mjh.nz/PlutoTV/60492bb931054f00073c0b4e-alt.m3u8
 
 #EXTINF:0 group-title="ENTRETENIMIENTO",SERIES COMEDIA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9853138d19af0007104a8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b4d24-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7b6b94ee-3d86-4a59-b406-f3548f232fe2&userId=&serverSideAds=true
 
-#EXTINF:0 group-title="ENTRETENIMIENTO",Pluto TV Series Comedia
-https://i.mjh.nz/PlutoTV/5f9853138d19af0007104a8d-alt.m3u8
 
-#EXTINF:0 group-title="ENTRETENIMIENTO",Series Comedia
-https://i.mjh.nz/PlutoTV/5f9853138d19af0007104a8d-alt.m3u8
 
-#EXTINF:0 group-title="ENTRETENIMIENTO",People are Awesome
-https://i.mjh.nz/PlutoTV/5f1ac1780e94100007f94b3f-alt.m3u8
-
-#EXTINF:0 group-title="ENTRETENIMIENTO",El Encantador de Perros
-https://i.mjh.nz/PlutoTV/61099f2b40d0640007fc5aa2-alt.m3u8
-
-#EXTINF:0 group-title="ENTRETENIMIENTO",Investiga
-https://i.mjh.nz/PlutoTV/5cf96b8f4f1ca3f0629f4bf1-alt.m3u8
 
 #EXTINF:0 group-title="ENTRETENIMIENTO",Investiga
 https://i.mjh.nz/PlutoTV/5dcde27ffae9520009c0c75a-alt.m3u8
 
-#EXTINF:0 group-title="ENTRETENIMIENTO", Sony Canal Escape Perfecto
-https://i.mjh.nz/PlutoTV/605e479d5b8229000763e697-alt.m3u8
-#EXTINF:0 group-title="ENTRETENIMIENTO", Minuto Para Ganar
-https://i.mjh.nz/PlutoTV/5e46e64dc73db400094b5f0b-alt.m3u8
-#EXTINF:0 group-title="ENTRETENIMIENTO", Wipe Out
-https://i.mjh.nz/PlutoTV/5ed6828192e8b3000743ef61-alt.m3u8
-#EXTINF:0 group-title="ENTRETENIMIENTO", Mi Extraña Obsesión
-https://i.mjh.nz/PlutoTV/60e4573c9f963e00077ecf25-alt.m3u8
-#EXTINF:0 group-title="ENTRETENIMIENTO", Mi obsesión favorita
-https://i.mjh.nz/PlutoTV/5d93b4d71754e6a4298d086e-alt.m3u8
-#EXTINF:0 group-title="ENTRETENIMIENTO",Empeños a lo bestia
-https://i.mjh.nz/PlutoTV/60218baa464ef900073168c1-alt.m3u8
+
 #EXTINF:0 group-title="ENTRETENIMIENTO",PLUTO TV MISTERIOS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=143bd56d-49f4-4f1d-af28-384df378b15d&userId=&serverSideAds=true
-#EXTINF:0 group-title="ENTRETENIMIENTO",Misterios Medicos
-https://i.mjh.nz/PlutoTV/5f230e416b68ff00075b0139-alt.m3u8
+
 #EXTINF:0 group-title="ENTRETENIMIENTO", MISTERIOS MÉDICOS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27173-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25a22310-9312-4b9f-b9e9-92dac7411fe9&userId=&serverSideAds=true
 #EXTINF:0 group-title="ENTRETENIMIENTO", MISTERIOS SIN RESOLVER 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d882d5233170007ee880e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a1155120-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=88135a72-e32e-4ffd-b14e-f345a944ab79&userId=&serverSideAds=true
-#EXTINF:0 group-title="ENTRETENIMIENTO", Archivos Forenses
-https://i.mjh.nz/PlutoTV/5f984f4a09e92d0007d74647-alt.m3u8
-#EXTINF:0 group-title="ENTRETENIMIENTO", Mundo paranormal
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/60492a9bbca75b0007b1bfd5-alt.m3u8
-#EXTINF:0 group-title="ENTRETENIMIENTO", Cazador de Homicidas
-https://i.mjh.nz/PlutoTV/60ed5fb9c4716d0007d180c5-alt.m3u8
-#EXTINF:0 group-title="ENTRETENIMIENTO", Crímenes imperfectos
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5e94cd036cc69d0007e8a1ba-alt.m3u8
-#EXTINF:0 group-title="ENTRETENIMIENTO", Los archivos del FBI
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5e67d41b93312100076f3fca-alt.m3u8
-#EXTINF:0 group-title="ENTRETENIMIENTO",Historias de Ultratumba
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f4d3696d938c900072679fd-alt.m3u8
+
+
 #EXTINF:0 group-title="SERIES",SER | MacGyver
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
-#EXTINF:0 group-title="ENTRETENIMIENTO",El Conquistador del Fin
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f280149cec6be00072ab1fc-alt.m3u8
-#EXTINF:0 group-title="ENTRETENIMIENTO", Service
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/60d3574e97f10800078455de-alt.m3u8
 
 
-#EXTINF:0 group-title="SERIES",SER | The Walking Dead
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8
-#EXTINF:0 group-title="SERIES",SER | CSI: Miami en español
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/632b5950b515b000079e6b81-alt.m3u8
-#EXTINF:0 group-title="SERIES",SER | CSI: NY en español
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/632b606e12a67b0007c9e371-alt.m3u8
-#EXTINF:0 group-title="SERIES",SER | CSI: Miami
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/63eb9255c111bc0008fe6ec4-alt.m3u8
-#EXTINF:0 group-title="SERIES",SER | CSI EN ESPAÑOL
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a11f8a50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=38041b3f-c9d2-4524-8784-12dc0b2a0c11&userId=&serverSideAds=true
-#EXTINF:0 group-title="SERIES",SER | NCIS
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
-
-#EXTINF:0 group-title="ENTRETENIMIENTO", Minuto Para Ganar
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5e46e64dc73db400094b5f0b-alt.m3u8
-#EXTINF:0 group-title="ENTRETENIMIENTO", Boom
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/6099600015e88c0007ecda25-alt.m3u8
-#EXTINF:0 group-title="ENTRETENIMIENTO", Wipe Out
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5ed6828192e8b3000743ef61-alt.m3u8
-#EXTINF:0 group-title="ENTRETENIMIENTO",Desafío Super Humanos
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/6495af324c014a000842e923-alt.m3u8
 
 
-#EXTINF:0 group-title="MUSICA", MTV Biggest Pop
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/6047fabfce6e8e00070bcc9f-alt.m3u8
-#EXTINF:0 group-title="MUSICA",MTV Spankin' New
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/6047fd723b5bd00007de7092-alt.m3u8
-#EXTINF:0 group-title="MUSICA",MTV Flow Latino
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/62b218fc511d4b00070ddc0c-alt.m3u8
+
 
 
 
