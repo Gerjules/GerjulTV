@@ -1035,19 +1035,19 @@ http://tv.nousiptv.com:8080/AR10465/10465R/7980
 #EXTINF:-1 group-title="⭐️ Cine Premium",CINE|PPV - CINE 31 FHD (ES).
 http://tv.nousiptv.com:8080/AR10465/10465R/7979
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fVXDy92.png" group-title="Entretenimiento Premium", E! alta definición
 http://190.61.57.2:1010/play/a02d/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eW0KMym.png" group-title="Entretenimiento Premium", A&E HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fVXDy92.png" group-title="ENTRETENIMIENTO",ent  E! alta definición
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eW0KMym.png" group-title="ENTRETENIMIENTO", A&E HD
 http://190.61.57.2:1010/play/a017/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FgZEjGp.png" group-title="Entretenimiento Premium", AMC HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FgZEjGp.png" group-title="ENTRETENIMIENTO", AMC HD
 http://190.61.57.2:1010/play/a023/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UuONBTV.png" group-title="Entretenimiento Premium", CANAL ESTRELLA HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UuONBTV.png" group-title="ENTRETENIMIENTO", CANAL ESTRELLA HD
 http://190.61.57.2:1010/play/a02r/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/buaQc9r.png" group-title="Entretenimiento Premium", AXN HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/buaQc9r.png" group-title="ENTRETENIMIENTO", AXN HD
 http://190.61.57.2:1010/play/a01a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/28F3Dxs.png" group-title="Entretenimiento Premium", Comedy Central HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/28F3Dxs.png" group-title="ENTRETENIMIENTO", Comedy Central HD
 http://190.61.57.2:1010/play/a01s/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qej2Zvt.jpg" group-title="Entretenimiento Premium", DHE HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qej2Zvt.jpg" group-title="ENTRETENIMIENTO", DHE HD
 http://190.61.57.2:1010/play/a02l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium",CINE| HBO HD
@@ -1927,97 +1927,92 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
 
 
-#EXTINF:0 group-title="CULTURA", Pluto TV Ciencia
+#EXTINF:0 group-title="CULTURA",CULT | Pluto TV Ciencia
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:0 group-title="CULTURA", CLASSIC ARTS SHOWCASE  
 #EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="CULTURA",CULT | CLASSIC ARTS SHOWCASE  
 #EXTVLCOPT:network-caching=3000
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
-#EXTINF:0 group-title="CULTURA", QELLO CONCIERTOS DE STINGRAY
+#EXTINF:0 group-title="CULTURA",CULT | QELLO CONCIERTOS DE STINGRAY
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=568&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=VeRRLspvSX7Z8bzwMLKr&content_series=5fe27da28c198b002d179199&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=VeRRLspvSX7Z8bzwMLKr&custom_7=5fe27da28c198b002d179199
 
-#EXTINF:0 group-title="CULTURA", PLUTO VIAJES  
+#EXTINF:0 group-title="CULTURA",CULT | PLUTO VIAJES  
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=727fd000-5fe9-11eb-affa-0242ac110002&sid=727fd000-5fe9-11eb-affa-0242ac110002&userId=
 
-#EXTINF:0 group-title="CULTURA", Pluto TV Historia
+#EXTINF:0 group-title="CULTURA",CULT | Pluto TV Historia
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="CULTURA", Pluto TV Sci-Fi
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="CULTURA", Paisajes por Stingray
+
+#EXTINF:0 group-title="CULTURA",CULT | Paisajes por Stingray
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d966/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="CULTURA", Conciertos por Stingray
+#EXTINF:0 group-title="CULTURA",CULT | Conciertos por Stingray
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="CULTURA", Karaoke por Stingray
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="CULTURA", MEDICI TV
+#EXTINF:0 group-title="CULTURA",CULT | MEDICI TV
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://sdn-global-streaming-cache-3qsdn.akamaized.net/9378/files/19/05/1188496/M4HLGyCDz6937jYxfcmFVZp2nKvPN8tT-drm-aes.ism/M4HLGyCDz6937jYxfcmFVZp2nKvPN8tT-drm-aes-audio=160000-video=553000.m3u8
-#EXTINF:0 group-title="CULTURA", TURISTIK TV
+#EXTINF:0 group-title="CULTURA",CULT | TURISTIK TV
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://5fa5de1a545ae.streamlock.net:443/8030/8030/chun%C3%B1llist_w591358697.m3u8
-#EXTINF:0 group-title="CULTURA", PRESUMIENDO MÉXICO  
+#EXTINF:0 group-title="CULTURA",CULT | PRESUMIENDO MÉXICO  
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 group-title="CULTURA", Mundo viajero
+#EXTINF:0 group-title="CULTURA",CULT | Mundo viajero
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/60511efd71ec430007f50d97-alt.m3u8
-#EXTINF:0 group-title="CULTURA", MUNDO VIAJERO
+#EXTINF:0 group-title="CULTURA",CULT | MUNDO VIAJERO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://stitcher.pluto.tv/stitch/hls/channel/60511efd71ec430007f50d97/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8ef6973d-ade6-11eb-930b-0242ac110002
-#EXTINF:0 group-title="CULTURA", Pluto TV Viajes
+#EXTINF:0 group-title="CULTURA",CULT | Pluto TV Viajes
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/60c343ad476ec00007c2ec1a-alt.m3u8
-#EXTINF:0 group-title="CULTURA", Smithsonian Channel *
+#EXTINF:0 group-title="CULTURA",CULT | Smithsonian Channel *
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/63a084934734f30007457b2c-alt.m3u8
-#EXTINF:0 group-title="CULTURA", Service
+#EXTINF:0 group-title="CULTURA",CULT | Service
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18713-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3efb2623-4d66-4ffa-b1f5-4b9d5f63d16c&userId=&serverSideAds=true
-#EXTINF:0 group-title="CULTURA", Service
+#EXTINF:0 group-title="CULTURA",CULT | Service
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/61cd7b49543066000713b620-alt.m3u8
+
+
 #EXTINF:0 group-title="CULTURA", Service
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
