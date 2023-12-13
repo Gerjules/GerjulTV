@@ -118,13 +118,13 @@ https://rds3gen.desdeparaguay.net/tvs/tvs/playlist.m3u8
 #EXTINF:0 group-title="ARGENTINA",AR | EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 oup-title="ARGENTINA",AR |Canal LS83 9
+#EXTINF:-1 group-title="ARGENTINA",AR |Canal LS83 9
 http://myteve.online:8080/30fe809e/ec00cbf3/3202
 
-#EXTINF:-1 oup-title="ARGENTINA",AR |LS84 Telefe
+#EXTINF:-1 group-title="ARGENTINA",AR |LS84 Telefe
 http://myteve.online:8080/30fe809e/ec00cbf3/3199
 
-#EXTINF:-1 oup-title="ARGENTINA",AR | Canal 26
+#EXTINF:-1 group-title="ARGENTINA",AR | Canal 26
 http://sdmx.vip:8080/u8334525209/65213/210841
 
 #EXTINF:-1 group-title="ARGENTINA",AR | C5N
@@ -136,7 +136,7 @@ http://tv.nousiptv.com:8080/AR10465/10465R/4188
 #EXTINF:0 group-title="ARGENTINA",AR | Todo Noticias AR
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
-#EXTINF:-1 oup-title="ARGENTINA",AR | A24
+#EXTINF:-1 group-title="ARGENTINA",AR | A24
 http://sdmx.vip:8080/u8334525209/65213/210833
 
 #EXTINF:0 group-title="ARGENTINA",AR | TV Pública (TVP) 
@@ -889,7 +889,7 @@ http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1156007
 
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine Premium",CINE| HBO
 http://motivatv.club:80/LEONARDOSAN2/57155/592277 
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" grupo -title="⭐️ Cine Premium",CINE| HBO 2
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" group -title="⭐️ Cine Premium",CINE| HBO 2
 http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318643
 #EXTINF:-1  tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png" grupo -title="⭐️ Cine Premium",CINE| HBO +
 http://factoryplay.online:8080/Klev73Arm/AR73xnet/281094
@@ -901,7 +901,7 @@ http://motivatv.club:80/LEONARDOSAN2/57155/592343
 http://motivatv.club:80/LEONARDOSAN2/57155/592334
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-pop.png" group-title="⭐️ Cine Premium",CINE| HBO POP
 http://factoryplay.online:8080/Klev73Arm/AR73xnet/237115
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-signature.png" grupo-title="⭐️ Cine Premium",CINE| HBO signature
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-signature.png" group-title="⭐️ Cine Premium",CINE| HBO signature
 http://motivatv.club:80/LEONARDOSAN2/57155/592341
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png" group-title="⭐️ Cine Premium",CINE| Cinecanal
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/169789.ts
@@ -1513,7 +1513,7 @@ https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/184466.ts
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/170101.ts
 #EXTINF:0 tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="DEPORTES",SPORT | AR DIREC TV DEPORTES 2
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/169961.ts
-#EXTINF:0 tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" ,AR | DIREC TV SPORTS PLUS
+#EXTINF:0 tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="DEPORTES",SPORT | AR | DIREC TV SPORTS PLUS
 http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1914
 
 #EXTINF:0tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="DEPORTES",SPORT | FOX SPORTS  1 (mexico)
@@ -1526,7 +1526,7 @@ https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/182340.ts
 http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/426033
 #EXTINF:0 tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES",SPORT | ESPN SPORT 2 (mexico)
 http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/426034
-#EXTINF:0 tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png"group-title="DEPORTES",SPORT | ESPN SPORT 3 (mexico)
+#EXTINF:0 tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="DEPORTES",SPORT | ESPN SPORT 3 (mexico)
 http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/426035
 #EXTINF:0 tvg-logo="http://descargas.podzone.net/logos/-afizzionados.png" group-title="DEPORTES",SPORT | AFIZZIONADOS (mexico)
 http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/523080
@@ -1536,13 +1536,13 @@ http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/523078
 http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/167771
 #EXTINF:0 tvg-logo="http://descargas.podzone.net/logos/-TUDN.png" group-title="DEPORTES",SPORT | TUDN (mexico)
 http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/396794
-#EXTINF:0 tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png"group-title="DEPORTES",SPORT | TUDN (Usa)
+#EXTINF:0 tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title="DEPORTES",SPORT | TUDN (Usa)
 http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/200946
-#EXTINF:0 tvg-logo="http://descargas.podzone.net/logos/-tvc.png"group-title="DEPORTES",SPORT | TVC SPORTS (mexico)
+#EXTINF:0 tvg-logo="http://descargas.podzone.net/logos/-tvc.png" group-title="DEPORTES",SPORT | TVC SPORTS (mexico)
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/181254.ts
 #EXTINF:0 tvg-logo="https://encryp group-title="DEPORTES",SPORT | ??
 http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2139
-#EXTINF:0 tvg-logo="http://descargas.podzone.net/logos/-TENNIS-CHANNEL.png"group-title="DEPORTES",SPORT | TENNIS CHANNEL 
+#EXTINF:0 tvg-logo="http://descargas.podzone.net/logos/-TENNIS-CHANNEL.png" group-title="DEPORTES",SPORT | TENNIS CHANNEL 
 http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/509141
 #EXTINF:0 tvg-logo="http://descargas.podzone.net/logos/-UFC-live.png" group-title="DEPORTES",SPORT | FIGHT SPORTS 
 http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/508840
@@ -1550,7 +1550,7 @@ http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/508840
 http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/509128
 #EXTINF:0 tvg-logo="http://descargas.podzone.net/logos/-NBA.png" group-title="DEPORTES",SPORT | N.B.A TV (usa)
 http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/509126
-#EXTINF:0 tvg-logo="http://descargas.podzone.net/logos/-MLB.png"group-title="DEPORTES",SPORT | M.L.B TV (usa)
+#EXTINF:0 tvg-logo="http://descargas.podzone.net/logos/-MLB.png" group-title="DEPORTES",SPORT | M.L.B TV (usa)
 
 
 
@@ -1778,7 +1778,7 @@ https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:53 group-title="MUSICA",MUS | Stingray Urban Beats
 #EXTVLCOPT:network-caching=2000
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
-#EXTINF:60group-title="MUSICA",MUS | Stingray Today's Latin Pop
+#EXTINF:60 group-title="MUSICA",MUS | Stingray Today's Latin Pop
 #EXTVLCOPT:network-caching=2000
 https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
 #EXTINF:15 group-title="MUSICA",MUS | First Music Channel
