@@ -1478,16 +1478,22 @@ https://i.mjh.nz/PlutoTV/5f99a772c54853000797bf18-alt.m3u8
 
 #EXTINF:0 tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="DEPORTES",SPORT | WIN SPORTS CO
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/170167.ts
+
 #EXTINF:0 tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="DEPORTES",SPORT | WIN SPORTS opc 2
 http://motivatv.club:80/LEONARDOSAN2/57155/590948
+
 #EXTINF:0 tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="DEPORTES",SPORT | WIN SPORTS opc 3
 http://430386921133663580.of1030ok.xyz:80/play/Nael624L/NaelM122/663580.ts
+
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/frb4p3hyjori50ai7oh3f/win-sports.png?rlkey=hkluj62z2ihegojc24d08km87&dl=0" group-title="DEPORTES",SPORT | WIN SPORT+ 
 http://pinkpanther.uk:8080/35W7xfhYuS3L/7vgMsC6Y7brA/43723
+
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/frb4p3hyjori50ai7oh3f/win-sports.png?rlkey=hkluj62z2ihegojc24d08km87&dl=0" group-title="DEPORTES",SPORT | WIN SPORT+ opc 2
 http://motivatv.club:80/LEONARDOSAN2/57155/590950
+
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/frb4p3hyjori50ai7oh3f/win-sports.png?rlkey=hkluj62z2ihegojc24d08km87&dl=0" group-title="DEPORTES",SPORT | WIN SPORT+ opc 3
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/172523.ts
+
 #EXTINF:0 tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="DEPORTES",SPORT | ESPN SPORTS
 http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/287812
 
@@ -2136,7 +2142,7 @@ https://i.mjh.nz/PlutoTV/164510d3ad3fdde00080951f2-alt.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO",ENT | MTV Pluto TV
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/15fab088b3279760007d4e4fd-alt.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",ENT | MTV Classic
+#EXTINF:0 group-title="ENTRETENIMIENTO",ENT | MTV Classic
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/15de91b7ea86ee60009d89e75-alt.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO",ENT | MTV Shore
