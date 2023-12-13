@@ -2335,24 +2335,25 @@ https://i.mjh.nz/PlutoTV/61099f2b40d0640007fc5aa2-alt.m3u8
 https://i.mjh.nz/PlutoTV/5ddc266f80e3550009136843-alt.m3u8
 
 
-#EXTINF:0, ESTRELLA Tv
+
+
+#EXTINF:0 group-title="VARIEDADES",VAR | ESTRELLA Tv
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
-
-#EXTINF:0, AZ CORAZON
+#EXTINF:0 group-title="VARIEDADES",VAR |  AZ CORAZON
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
-#EXTINF:0, AZ MUNDO
+#EXTINF:0 group-title="VARIEDADES",VAR |  AZ MUNDO
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
-#EXTINF:0, AZ CLIP
+#EXTINF:0 group-title="VARIEDADES",VAR |  AZ CLIP
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
-#EXTINF:0,¡HOLA! PLAY
+#EXTINF:0 group-title="VARIEDADES",VAR | ¡HOLA! PLAY
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8?ads.wurl_channel=790&ads.wurl_name=HolaPlay&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -2384,193 +2385,17 @@ https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8?
 
 #EXTINF:0 group-title="VARIEDADES",VAR | Service
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff16001-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4420bd28-3750-4503-ab32-d76a0c1ec97d&userId=&serverSideAds=true
-#EXTINF:0 group-title="VARIEDADES",VAR | Ciudadanos por el mundo
-https://i.mjh.nz/PlutoTV/622f42b831233300078658cc-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | Service
-https://i.mjh.nz/PlutoTV/5ddc266f80e3550009136843-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | Investiga
-https://i.mjh.nz/PlutoTV/602ba1cfb386d30007aecbbe-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | Fashion TV
-https://i.mjh.nz/PlutoTV/60c882460ea4a200076a2a37-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | La Media Inglesa
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/6335a79d10efe80007297a94-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | Érase una vez...
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/63c69c87808b740007599fe1-alt.m3u8
 
-#EXTINF:0 group-title="VARIEDADES",VAR | Nosey Escándalos
-https://i.mjh.nz/PlutoTV/5f9afb01816137000737f799-alt.m3u8
+
+
 
 
 #EXTINF:0 group-title="VARIEDADES",VAR | Service
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8f99b228-251b-4230-bbe0-7bc14292a7e0&userId=&serverSideAds=true
-#EXTINF:0 group-title="VARIEDADES",VAR | Pluto TV Reality
-https://i.mjh.nz/PlutoTV/61b87bc867b03a0007864e0d-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | Reality
-https://i.mjh.nz/PlutoTV/61b87bc867b03a0007864e0d-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | Pluto TV Reality
-https://i.mjh.nz/PlutoTV/5dcde197f6591d0009839e04-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | MTV Drag
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/64510d3ad3fdde00080951f2-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | MTV Pluto TV
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5fab088b3279760007d4e4fd-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | MTV Classic
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5de91b7ea86ee60009d89e75-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | MTV Shore
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/61a52615cbef2500072876e2-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | MTV Con Mi Ex
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/638693db857364000781b471-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | MTV Ridiculousness
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5e98a911c881310007d7aae2-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | MTV Teen Mom
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/620fd9f4afb9a80007a9c6d5-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | MTV Catfish
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/625461ef01f27a0007976ad1-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | Pluto TV  Competencias
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5dd6d935d000120009bc1132-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | Pluto TV Vida Real
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5df265697ec3510009df1ef0-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | COPS
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/6419ab7c9189ce000865a469-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | Dog el cazarrecompensas
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f9992c685a2a80007fa414a-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | Empeños a lo bestia
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f23102d5e239d00074b092a-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | Pluto TV Mi Obsesión Favorita
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/6109ab25b84d6a0007504886-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | Misterios Medicos
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f230e416b68ff00075b0139-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | Pluto TV Misterios
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5dcde2f53449c50009b2b4dc-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | Historias de Ultratumba
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f4d3696d938c900072679fd-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | Cazador de Homicidas
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/6109a9f5531b840007a4a187-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | Los archivos del FBI
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5e67d41b93312100076f3fca-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | Archivos Forenses
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5efb8c19b2678b000780d032-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | The New Detectives
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5ea71d48af1d0b0007d837f4-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | Misterios sin Resolver
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f610042272f68000867685b-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | Daria
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/62d0895ebe7a970008785244-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | La Familia del Barrio
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/62d08af527ce19000731eaa0-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | Pluto TV Humor
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5e8397936791b30007ebb5a7-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | Comedy Central Pluto TV
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5ffcc21a432945000762d06b-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | Backdoor
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/633dc8684bf50b00074a46b1-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | FailArmy
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5ebaccf1734aaf0007142c86-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | The Pet Collective
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5ebacbcae43a6d000787b88e-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | Best of The Drew Barrymore Show
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/63eb907651f5d000085e4778-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | Nosey Escándalos
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f9afb01816137000737f799-alt.m3u8
-#EXTINF:0, Reviví Gran Hermano
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/6320ddef274b1b0007b2ee88-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | Telefe Hits
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5de91cf02fc07c0009910465-alt.m3u8
-#EXTINF:0, Gran Hermano Chile
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/645505747cb4b10008492e03-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | Chilevision Contigo Puro Oro
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/62aa5740a47b6c000769f407-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | Discovery Familia HD
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29364
-#EXTINF:0 group-title="VARIEDADES",VAR | Estrella TV HD
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29365
-#EXTINF:0 group-title="VARIEDADES",VAR | Lifetime (CO)
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29371
-#EXTINF:0 group-title="VARIEDADES",VAR | Lifetime (MX)
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29372
-#EXTINF:0 group-title="VARIEDADES",VAR | Mas Chic Full HD
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29375
-#EXTINF:0 group-title="VARIEDADES",VAR | TBS HD (MX)
-#EXTVLCOPT:network-caching=3000
-http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29377
+
+
+
+
 
 
 #EXTINF:0 group-title="INFANTIL",INF | Xtrema Anime (360p)
