@@ -1715,26 +1715,12 @@ https://i.mjh.nz/PlutoTV/6076c74daa05ac0007d0eb07-alt.m3u8
 
 
 
-#EXTINF:0 group-title="MUSICA",MUS | MTV Biggest Pop
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/6047fabfce6e8e00070bcc9f-alt.m3u8
-#EXTINF:0 group-title="MUSICA",MUS |MTV Spankin' New
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/6047fd723b5bd00007de7092-alt.m3u8
-#EXTINF:0 group-title="MUSICA",MUS |MTV Flow Latino
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/62b218fc511d4b00070ddc0c-alt.m3u8
+
 
 #EXTINF:30 group-title="MUSICA",MUS | XITE
 #EXTVLCOPT:network-caching=2000
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/.m3u8
 
-#EXTINF:28 group-title="MUSICA",MUS | HIT 360
-#EXTVLCOPT:network-caching=2000
-http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 
 #EXTINF:29 group-title="MUSICA",MUS | Colosal TV 
 #EXTVLCOPT:network-caching=2000
@@ -1760,32 +1746,13 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/.m3u8
 #EXTVLCOPT:network-caching=2000
 https://qwest-jazz-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:60 group-title="MUSICA",MUS | Stingray Holiday Hits
-#EXTVLCOPT:network-caching=2000
-https://ott-linear-channels.stingray.com/hls/stirr/155.m3u8
-
-#EXTINF:60 group-title="MUSICA",MUS | Stingray Flashback 70s
-#EXTVLCOPT:network-caching=2000
-https://ott-linear-channels.stingray.com/hls/stirr/115.m3u8
-
-#EXTINF:53 group-title="MUSICA",MUS | Stingray Pop Adult
-#EXTVLCOPT:network-caching=2000
-https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
-#EXTINF:60 group-title="MUSICA",MUS | Stingray Rock Alternative
-#EXTVLCOPT:network-caching=2000
-https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
 #EXTINF:30 group-title="MUSICA",MUS | GO-RTV
 #EXTVLCOPT:network-caching=2000
 https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/chunklist_w1291658822.m3u8
 #EXTINF:60 group-title="MUSICA",MUS | QMusic
 #EXTVLCOPT:network-caching=2000
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:53 group-title="MUSICA",MUS | Stingray Urban Beats
-#EXTVLCOPT:network-caching=2000
-https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
-#EXTINF:60 group-title="MUSICA",MUS | Stingray Today's Latin Pop
-#EXTVLCOPT:network-caching=2000
-https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
+
 #EXTINF:15 group-title="MUSICA",MUS | First Music Channel
 #EXTVLCOPT:network-caching=2000
 http://hz1.teleport.cc/HLS/HD.m3u8
@@ -1823,37 +1790,7 @@ https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
 #EXTVLCOPT:network-caching=3000
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
-#EXTINF:28 group-title="ARGENTINA",MUS | TERRAMIA TV
-#EXTVLCOPT:network-caching=3000
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
-#EXTINF:27 group-title="MUSICA",MUS | Classica
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f779951372da90007fd45e8-alt.m3u8
-#EXTINF:25 group-title="MUSICA",MUS | Vevo Retro Rock
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/61d4b38226b8a50007fe03a6-alt.m3u8
-#EXTINF:0 group-title="MUSICA",MUS | Vevo True School Hip-Hop
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/61d4c2817a823d00070ba53e-alt.m3u8
-#EXTINF:25 group-title="MUSICA",MUS | Vevo Pop
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5d93b635b43dd1a399b39eee-alt.m3u8
-#EXTINF:0 group-title="MUSICA",MUS | Vevo Latino
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5da0d64d0e8a62000964ebe4-alt.m3u8
-#EXTINF:0 group-title="MUSICA",MUS | Vevo Country
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5da0d75e84830900098a1ea0-alt.m3u8
-#EXTINF:25 group-title="MUSICA",MUS | Vevo '80s
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
-#EXTINF:25 group-title="MUSICA",MUS | Vevo '90s
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
-#EXTINF:25 group-title="MUSICA",MUS | Vevo 2K
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5fd7bca3e0a4ee0007a38e8c-alt.m3u8
 #EXTINF:25 group-title="MUSICA",MUS | VEVO 70'S
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868321-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d158533-4c2c-4f85-8afd-5c0cbcdcb90a&userId=&serverSideAds=true
@@ -1878,9 +1815,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c
 #EXTINF:25 group-title="MUSICA",MUS | K-POP
 #EXTVLCOPT:network-caching=3000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c8b3ddaaf9d4000780066f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:25 group-title="MUSICA",MUS | CLUBBING TV
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ad4ad6537680007be2ea6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a8e551-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=70bc0c2a-93a5-4713-b658-cad49ec55f38&userId=&serverSideAds=true
 #EXTINF:25 group-title="MUSICA",MUS | CMT EQUAL PLAY
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c896951-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42bcfa63-aec5-4760-b993-bf2501603b69&userId=&serverSideAds=true
@@ -1902,21 +1836,12 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:0 group-title="MUSICA",MUS | TV POP
 #EXTVLCOPT:network-caching=3000
 https://v4.tustreaming.cl/poptv/index.m3u8
-#EXTINF:0 group-title="MUSICA",MUS | MELODY CHANNEL
-#EXTVLCOPT:network-caching=3000
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunklist_b1398304.m3u8
-#EXTINF:0 group-title="MUSICA",MUS | TELEMÚSICA
-#EXTVLCOPT:network-caching=3000
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/chunklist_b1398304.m3u8
-#EXTINF:0 group-title="MUSICA",MUS | RADIOTECA TV
-#EXTVLCOPT:network-caching=3000
-https://vdohd.cl:1936/8030/8030/playlist.m3u8
+
+
 #EXTINF:0 group-title="MUSICA",MUS | REWIND
 #EXTVLCOPT:network-caching=3000
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-#EXTINF:0 group-title="MUSICA",MUS | REETRO PLAY TV
-#EXTVLCOPT:network-caching=1000
-https://v4.tustreaming.cl/retroplaytv/index.m3u8
+
 #EXTINF:28 group-title="MUSICA",MUS | EURO INDIE MUSIC
 #EXTVLCOPT:network-caching=3000
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
