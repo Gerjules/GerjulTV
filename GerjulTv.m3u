@@ -1,4 +1,6 @@
-#EXTM3U
+
+_8,.ng+/#EXTM3U
+
 #EXTINF:0 group-title="PARAGUAY",PY | ABC TV
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:0 group-title="PARAGUAY",PY | SNT
@@ -2349,10 +2351,7 @@ https://i.mjh.nz/PlutoTV/5ddc266f80e3550009136843-alt.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
-#EXTINF:0, Hola TV Play
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:0, AZ CORAZON
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
@@ -2371,18 +2370,7 @@ https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8?ads.wurl_channel=790&ads.wurl_name=HolaPlay&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 
-#EXTINF:0 group-title="VARIEDADES",VAR | MI TELE
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://5e50264bd6766.streamlock.net/gks/videogks/chunklist_w42483601.m3u8	
-#EXTINF:0 group-title="VARIEDADES",VAR | Pluto TV Fashionstream
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5ee8d84bfb286e0007285aad-alt.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | Fashion TV
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/63974ebedcd9100008c2f59c-alt.m3u8
+
 #EXTINF:0 group-title="VARIEDADES",VAR | FASHION HD PLUTO  
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
@@ -2405,19 +2393,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9afb018
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8?
-#EXTINF:0 group-title="VARIEDADES",VAR | ESTRELLA NEWS 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://estrellanews-roku.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | ESTRELLA Tv
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
-#EXTINF:0 group-title="VARIEDADES",VAR | HOLA TV
-https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
-#EXTINF:0 group-title="VARIEDADES",VAR | Service
-https://i.mjh.nz/PlutoTV/61cd78920b90cb0007e28231-alt.m3u8
 #EXTINF:0 group-title="VARIEDADES",VAR | Service
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff16001-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4420bd28-3750-4503-ab32-d76a0c1ec97d&userId=&serverSideAds=true
 #EXTINF:0 group-title="VARIEDADES",VAR | Ciudadanos por el mundo
