@@ -891,11 +891,11 @@ http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1156007
 http://motivatv.club:80/LEONARDOSAN2/57155/592277 
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" group-title="⭐️ Cine Premium",CINE| HBO 2
 http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318643
-#EXTINF:-1  tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png" grupo-title="⭐️ Cine Premium",CINE| HBO +
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png" group-title="⭐️ Cine Premium",CINE| HBO +
 http://factoryplay.online:8080/Klev73Arm/AR73xnet/281094
-#EXTINF:-1  tvg-logo="http://descargas.podzone.net/logos/-HBO-family.png" group-title="⭐️ Cine Premium",CINE| HBO Family
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-family.png" group-title="⭐️ Cine Premium",CINE| HBO Family
 http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/318650
-#EXTINF:-1  tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png" group-title="⭐️ Cine Premium",CINE| HBO Xtreme
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png" group-title="⭐️ Cine Premium",CINE| HBO Xtreme
 http://motivatv.club:80/LEONARDOSAN2/57155/592343
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-mundi.png" group-title="⭐️ Cine Premium",CINE| HBO Mundi
 http://motivatv.club:80/LEONARDOSAN2/57155/592334
@@ -2136,7 +2136,7 @@ https://i.mjh.nz/PlutoTV/164510d3ad3fdde00080951f2-alt.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO",ENT | MTV Pluto TV
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/15fab088b3279760007d4e4fd-alt.m3u8
-#EXTINF:-1, group-title="ENTRETENIMIENTO",ENT | MTV Classic
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENT | MTV Classic
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/15de91b7ea86ee60009d89e75-alt.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO",ENT | MTV Shore
