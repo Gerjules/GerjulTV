@@ -1038,18 +1038,6 @@ http://tv.nousiptv.com:8080/AR10465/10465R/7980
 http://tv.nousiptv.com:8080/AR10465/10465R/7979
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eW0KMym.png" group-title="ENTRETENIMIENTO", A&E HD
-http://190.61.57.2:1010/play/a017/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FgZEjGp.png" group-title="ENTRETENIMIENTO", AMC HD
-http://190.61.57.2:1010/play/a023/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UuONBTV.png" group-title="ENTRETENIMIENTO", CANAL ESTRELLA HD
-http://190.61.57.2:1010/play/a02r/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/buaQc9r.png" group-title="ENTRETENIMIENTO", AXN HD
-http://190.61.57.2:1010/play/a01a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/28F3Dxs.png" group-title="ENTRETENIMIENTO", Comedy Central HD
-http://190.61.57.2:1010/play/a01s/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qej2Zvt.jpg" group-title="ENTRETENIMIENTO", DHE HD
-http://190.61.57.2:1010/play/a02l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium",CINE| HBO HD
 http://204.157.251.250:8000/play/a06t/index.m3u8
