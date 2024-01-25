@@ -121,7 +121,7 @@ https://rds3gen.desdeparaguay.net/tvs/tvs/playlist.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA",AR |Canal LS83 9
-http://myteve.online:8080/30fe809e/ec00cbf3/3202
+http://oo-ott.net:80/live/68999779004/43467888754/d7c04526-a7fa-45c5-860f-286a5846a223.m3u
 
 #EXTINF:-1 group-title="ARGENTINA",AR |LS84 Telefe
 http://myteve.online:8080/30fe809e/ec00cbf3/3199
@@ -1350,6 +1350,54 @@ http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29362
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612289&extension=ts&play_token=3zpQUO1DmQ
+
+#EXTINF: 0 tvg-logo="https://1.bp.blogspot.com/-_a04T085R7k/X-p6kFyAXTI/AAAAAAAA69M/VqLD2L7aKfwcBRjcNzMXg6OIc9mWAHLiwCLcBGAsYHQ/s1080/NGW.png" group-title="VARIOS (Nuevo)",VAR | Nat Geo Wild
+http://myteve.online:8080/30fe809e/ec00cbf3/38698
+#EXTINF: 0 tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png" group-title="VARIOS (Nuevo)",VAR | CNN en Español 
+http://thevdm.xyz:25461/Emma10380/8881/19860
+#EXTINF: 0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2jffSRcnoVnb_Pvc6v5K3czjQYtVYuSbbvCzZvocyBhIIOKDpRlC4RYhJBQcdDLWhaE&usqp=CAU" group-title="VARIOS (Nuevo)",VAR |E Entertainment 
+http://thevdm.xyz:25461/Emma10380/8881/19881
+
+#EXTINF:0 tvg-logo="https://static.epg.best/co/HolaTv.co.png" group-title="VARIOS (Nuevo)",VAR | HOLA TV 
+http://thevdm.xyz:25461/Emma10380/8881/19915
+#EXTINF: 0 group-title="VARIOS (Nuevo)",VAR | A&E
+http://thevdm.xyz:25461/Emma10380/8881/19830
+#EXTINF: 0 group-title="VARIOS (Nuevo)",VAR | AMC
+http://thevdm.xyz:25461/Emma10380/8881/19832
+#EXTINF: 0 tvg-logo="https://1.bp.blogspot.com/-cR6vhHg7CDs/X_HaqKoyQNI/AAAAAAAA7QQ/eSn_Tw1Djz4GLjxJu_4rZEgOAUx-wMFhQCLcBGAsYHQ/s1080/axxn.png" group-title="VARIOS (Nuevo)",VAR | AXN
+http://xloxttv.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/104
+#EXTINF: 0 group-title="VARIOS (Nuevo)",VAR | Comedy Central
+http://xloxttv.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/10
+
+#EXTINF: 0 tvg-logo="https://image.pngaaa.com/0/3423000-small.png" group-title="VARIOS (Nuevo)",VAR | HGTV
+http://xloxttv.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/410
+#EXTINF: 0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/250?cb=20210918005322&path-prefix=es" group-title="VARIOS (Nuevo)",VAR | Animal Planet 
+http://thevdm.xyz:25461/Emma10380/8881/19833
+#EXTINF: 0 tvg-logo="https://1.bp.blogspot.com/-vVLKGNk49rE/X-p6hIEr6MI/AAAAAAAA68w/JOq2dPGf7nA-2-GL8IhZYqtVdI8JpypQQCLcBGAsYHQ/s1080/DH.png" group-title="VARIOS (Nuevo)",VAR | Discovery h&h
+http://xloxttv.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/153
+#EXTINF: 0 tvg-logo="https://www.totalmedios.com/img/noticias/2009/07/Noticia5811__838x390.jpg" group-title="VARIOS (Nuevo)",VAR | Discovery Theater HD 
+http://4ksuper.live:80/13cfc0ead4/422fcdc94be6/926546
+#EXTINF: 0 tvg-logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg" group-title="VARIOS (Nuevo)",VAR | Discovery World
+http://4ksuper.live:80/13cfc0ead4/422fcdc94be6/926541
+#EXTINF: 0 group-title="VARIOS (Nuevo)",VAR |Discovery ID
+http://thevdm.xyz:25461/Emma10380/8881/19870
+#EXTINF: 0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="VARIOS (Nuevo)",VAR | Film & Arts
+http://4ksuper.live:80/13cfc0ead4/422fcdc94be6/926531
+
+#EXTINF: 0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Elgourmet.com_logo_2.png/revision/latest?cb=20190606041345&path-prefix=es" group-title="VARIOS (Nuevo)",VAR |El Gourmet 
+http://thevdm.xyz:25461/Emma10380/8881/19882
+#EXTINF: 0 group-title="VARIOS (Nuevo)",VAR | History Channel
+http://4ksuper.live:80/13cfc0ead4/422fcdc94be6/926518
+#EXTINF: 0 tvg-logo="https://cdn.mitvstatic.com/channels/ar_h2_m.png" group-title="VARIOS (Nuevo)",VAR | History 2
+http://4ksuper.live:80/13cfc0ead4/422fcdc94be6/926520
+#EXTINF: 0 tvg-logo="https://www.pngkit.com/png/full/302-3027387_fx-hd-fx-hd-logo-png.png" group-title="VARIOS (Nuevo)",VAR | FXHD 
+http://myteve.online:8080/30fe809e/ec00cbf3/172268
+#EXTINF: 0 tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png" group-title="VARIOS (Nuevo)",VAR | Viajar
+https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
+#EXTINF: 0 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NETTV.png" group-title="VARIOS (Nuevo)",VAR | NET TV
+http://4ksuper.live:80/13cfc0ead4/422fcdc94be6/926501
+#EXTINF: 0 tvg-logo="https://1.bp.blogspot.com/_mBmoS0RssN0/TClxVNjJAJI/AAAAAAAABio/de3i3kqBkXA/s400/LOGOVOLVER2010+Baja.JPG" group-title="VARIOS (Nuevo)",VAR | Volver 
+http://myteve.online:8080/30fe809e/ec00cbf3/49329
 
 
 
