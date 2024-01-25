@@ -286,6 +286,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600728952
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+
 #EXTINF:0 group-title="PELICULAS",PELIS | Rakuten  TV Acción 
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
@@ -329,6 +331,8 @@ https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
+
+
 #EXTINF:0 group-title="PELICULAS",PELIS | CORTOS 
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
