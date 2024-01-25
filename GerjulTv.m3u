@@ -1078,14 +1078,6 @@ http://38.43.150.126:8000/play/a04i/index.m3u8
 
 
 
-#EXTINF:0 group-title="SERIES",SER | Xtrema Retro Series (360p)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
-#EXTINF:0 group-title="SERIES",SER | Xtrema Series (360p)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
 #EXTINF:0 group-title="SERIES",SER | ViX Jajaja (1080p)
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
@@ -1100,87 +1092,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde1317578340009b751d0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
-
-#EXTINF:-1 group-title="SERIES",SER | CSI: Miami
-https://i.mjh.nz/PlutoTV/163eb9255c111bc0008fe6ec4-alt.m3u8
-
-#EXTINF:-1 group-title="SERIES",SER | NCIS
-https://i.mjh.nz/PlutoTV/163eb947c4e83e70008ab877b-alt.m3u8
-
-#EXTINF:-1 group-title="SERIES",SER | Rookie Blue: Policías Novatos
-https://i.mjh.nz/PlutoTV/164ff270f30ab3300084e259c-alt.m3u8
-
-#EXTINF:-1 group-title="SERIES",SER | Infierno Sobre Ruedas
-https://i.mjh.nz/PlutoTV/164ff26233efb5100082eeb2e-alt.m3u8
-
-#EXTINF:-1 group-title="SERIES",SER | Pluto TV Series
-https://i.mjh.nz/PlutoTV/15dcde1317578340009b751d0-alt.m3u8
-
-#EXTINF:-1 group-title="SERIES",SER | The Night Shift
-https://i.mjh.nz/PlutoTV/1624f4d4a4321e200073f46e0-alt.m3u8
-
-#EXTINF:-1 group-title="SERIES",SER | Schitt's Creek
-https://i.mjh.nz/PlutoTV/1620ac814864949000724fb77-alt.m3u8
-
-#EXTINF:-1 group-title="SERIES",SER | Younger
-https://i.mjh.nz/PlutoTV/1619d56d9fa3070000709e3f7-alt.m3u8
-
-#EXTINF:-1 group-title="SERIES",SER | Pluto TV Dramas Coreanos
-https://i.mjh.nz/PlutoTV/16185a9a88b2ce30007de5128-alt.m3u8
-
-#EXTINF:-1 group-title="SERIES",SER | Vive Kanal D Drama
-https://i.mjh.nz/PlutoTV/1639751f81a36b400072b8f5a-alt.m3u8
-
-#EXTINF:-1 group-title="SERIES",SER | Pluto TV España
-https://i.mjh.nz/PlutoTV/15ffe17e3d765170007c3a4fe-alt.m3u8
-
-#EXTINF:-1 group-title="SERIES",SER | Pluto TV Series Latinas
-https://i.mjh.nz/PlutoTV/15dd837642c6e9300098ad484-alt.m3u8
-
-#EXTINF:-1 group-title="SERIES",SER | Pluto TV Series Retro
-https://i.mjh.nz/PlutoTV/15de802659167b10009e7deba-alt.m3u8
-
-#EXTINF:-1 group-title="SERIES",SER | Hechizada
-https://i.mjh.nz/PlutoTV/1631fb6be21b7440007b9f606-alt.m3u8
-
-#EXTINF:-1 group-title="SERIES",SER | Los Ángeles de Charlie
-https://i.mjh.nz/PlutoTV/16487761d17f5e10008cbc000-alt.m3u8
-
-#EXTINF:-1 group-title="SERIES",SER | Starsky & Hutch
-https://i.mjh.nz/PlutoTV/16489c45766e48500083cceb6-alt.m3u8
-
-#EXTINF:-1 group-title="SERIES",SER |  MacGyver
-https://i.mjh.nz/PlutoTV/163eb95baa99571000898a078-alt.m3u8
-
-#EXTINF:-1 group-title="SERIES",SER |  Beverly Hills 90210
-https://i.mjh.nz/PlutoTV/163eb93a1c111bc0008fe6f5b-alt.m3u8
-
-#EXTINF:-1 group-title="SERIES",SER | Loco Por Ti
-https://i.mjh.nz/PlutoTV/16489c42e976ee90008547503-alt.m3u8
-
-#EXTINF:-1 group-title="SERIES",SER | Los Tres Chiflados
-https://i.mjh.nz/PlutoTV/15f85f1dc1418bd0007e11eb9-alt.m3u8
-
-#EXTINF:-1 group-title="SERIES",SER | The Ed Sullivan Show
-https://i.mjh.nz/PlutoTV/162e017e44823db000726cd9a-alt.m3u8
-
-#EXTINF:-1 group-title="SERIES",SER |  Pluto TV Retro Cartoons
-https://i.mjh.nz/PlutoTV/160142258a54aeb0007751c15-alt.m3u8
-
-#EXTINF:-1 group-title="SERIES",SER |  Pluto TV Novelas
-https://i.mjh.nz/PlutoTV/15dcde0cc2efd2700090b7ff4-alt.m3u8
-
-#EXTINF:-1 group-title="SERIES",SER | Sin Tetas No Hay Paraíso
-https://i.mjh.nz/PlutoTV/1604bdf4e6d0abc0007ba77ad-alt.m3u8
-
-#EXTINF:-1 group-title="SERIES",SER |  La Selección
-https://i.mjh.nz/PlutoTV/163211ba9cad976000794f988-alt.m3u8
-
-#EXTINF:-1 group-title="SERIES",SER |  Rock Story
-https://i.mjh.nz/PlutoTV/161f159209fcc3800076ed4a1-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="SERIES",SER | Pluto TV Reality
-https://i.mjh.nz/PlutoTV/15dcde197f6591d0009839e04-alt.m3u8
 
 #EXTINF:0 group-title="SERIES",SER | Pluto TV Series Latinas
 #EXTVLCOPT:network-caching=3000
