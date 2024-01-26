@@ -1054,14 +1054,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f59f50cc36a9400074
 #EXTVLCOPT:network-caching=3000
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
-#EXTINF:0 group-title="PELICULAS",PELIS | Cine Terror
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://v3.playerlatino.live/stream/m3u8/693
-#EXTINF:0 group-title="PELICULAS",PELIS | Cine Terror
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5dcddf1ed95e740009fef7ab-alt.m3u8
+
 #EXTINF:0 group-title="PELICULAS",PELIS | CINE TERROR
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
@@ -1244,62 +1237,51 @@ http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/578429
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHiUZdmcSB9rltExRtM73_Ji73c-6XedWYtw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| A3SERIES
 http://motivatv.club:80/LEONARDOSAN2/57155/592226
 
-#EXTINF:-1  group-title="⭐️ Cine Premium",CINE| PPV - CINE 01 FHD (ES)
-http://tv.nousiptv.com:8080/AR10465/10465R/7964
-#EXTINF:-1 group-title="⭐️ Cine Premium",CINE| PPV - CINE INFANTIL 03
-http://tv.nousiptv.com:8080/AR10465/10465R/29415
-#EXTINF:-1  group-title="⭐️ Cine Premium",CINE| PPV - CINE 05 FHD (ES).
-http://tv.nousiptv.com:8080/AR10465/10465R/8005
-#EXTINF:-1  group-title="⭐️ Cine Premium",CINE| PPV - CINE 06 FHD (ES).
-http://tv.nousiptv.com:8080/AR10465/10465R/8004
-#EXTINF:-1  group-title="⭐️ Cine Premium",CINE| PPV - CINE 07 FHD (ES).
-http://tv.nousiptv.com:8080/AR10465/10465R/8003
-#EXTINF:-1  group-title="⭐️ Cine Premium",CINE| PPV - CINE 08 FHD (ES).
-http://tv.nousiptv.com:8080/AR10465/10465R/8002
-#EXTINF:-1 group-title="⭐️ Cine Premium",CINE| PPV - CINE 09 FHD (ES).
-http://tv.nousiptv.com:8080/AR10465/10465R/8001
-#EXTINF:-1 group-title="⭐️ Cine Premium",CINE| PPV - CINE 10 FHD (ES).
-http://tv.nousiptv.com:808 0/AR10465/10465R/8000
-#EXTINF:-1  group-title="⭐️ Cine Premium",CINE| PPV - CINE 11 FHD (ES).
-http://tv.nousiptv.com:8080/AR10465/10465R/7999
-#EXTINF:-1  group-title="⭐️ Cine Premium",CINE| PPV - CINE 12 FHD (ES).
-http://tv.nousiptv.com:8080/AR10465/10465R/7998
-#EXTINF:-1 group-title="⭐️ Cine Premium",CINE| PPV - CINE 13 FHD (ES).
-http://tv.nousiptv.com:8080/AR10465/10465R/7997
-#EXTINF:-1  group-title="⭐️ Cine Premium",CINE| PPV - CINE 14 FHD (ES).
-http://tv.nousiptv.com:8080/AR10465/10465R/7996
-#EXTINF:-1  group-title="⭐️ Cine Premium",CINE| PPV - CINE 15 FHD (ES).
-http://tv.nousiptv.com:8080/AR10465/10465R/7995
-#EXTINF:-1  group-title="⭐️ Cine Premium",CINE| PPV - CINE 16 FHD (ES).
-http://tv.nousiptv.com:8080/AR10465/10465R/7994
-#EXTINF:-1  group-title="⭐️ Cine Premium",CINE| PPV - CINE 17 FHD (ES).
-http://tv.nousiptv.com:8080/AR10465/10465R/7993
-#EXTINF:-1  group-title="⭐️ Cine Premium",CINE| PPV - CINE 18 FHD (ES).
-http://tv.nousiptv.com:8080/AR10465/10465R/7992
-#EXTINF:-1  group-title="⭐️ Cine Premium",CINE| PPV - CINE 19 FHD (ES).
-http://tv.nousiptv.com:8080/AR10465/10465R/7991
-#EXTINF:-1  group-title="⭐️ Cine Premium",CINE| PPV - CINE 20 FHD (ES).
-http://tv.nousiptv.com:8080/AR10465/10465R/7990
-#EXTINF:-1  group-title="⭐️ Cine Premium",CINE| PPV - CINE 21 FHD (ES).
-http://tv.nousiptv.com:8080/AR10465/10465R/7989
-#EXTINF:-1  group-title="⭐️ Cine Premium",CINE| PPV - CINE 22 FHD (ES).
-http://tv.nousiptv.com:8080/AR10465/10465R/7988
-#EXTINF:-1  group-title="⭐️ Cine Premium",CINE| PPV - CINE 23 FHD (ES).
-http://tv.nousiptv.com:8080/AR10465/10465R/7987
-#EXTINF:-1  group-title="⭐️ Cine Premium",CINE| PPV - CINE 24 FHD (ES).
-http://tv.nousiptv.com:8080/AR10465/10465R/7986
-#EXTINF:-1 group-title="⭐️ Cine Premium",CINE| PPV - CINE 25 FHD (ES).
-http://tv.nousiptv.com:8080/AR10465/10465R/7985
-#EXTINF:-1  group-title="⭐️ Cine Premium",CINE| PPV - CINE 26 FHD (ES).
-http://tv.nousiptv.com:8080/AR10465/10465R/7984
-#EXTINF:-1  group-title="⭐️ Cine Premium",CINE| PPV - CINE 27 FHD (ES).
-http://tv.nousiptv.com:8080/AR10465/10465R/7983
-#EXTINF:-1 group-title="⭐️ Cine Premium",CINE| PPV - CINE 28 FHD (ES).
-http://tv.nousiptv.com:8080/AR10465/10465R/7982
-#EXTINF:-1  group-title="⭐️ Cine Premium",CINE| PPV - CINE 30 FHD (ES).
-http://tv.nousiptv.com:8080/AR10465/10465R/7980
-#EXTINF:-1 group-title="⭐️ Cine Premium",CINE|PPV - CINE 31 FHD (ES).
-http://tv.nousiptv.com:8080/AR10465/10465R/7979
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/b42clampdlbemhuw66z6h/terror.png?rlkey=50umnbvkc7x3mqz8yjadqxcmj&dl=0" group-title="✅ 24/7 VIP",cine terror
+http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/357050
+#EXTINF:-1 tvg-id="" tvg-name="Cine Estelar ⁽ᴴᴰ⁾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWWCmEKV8KbKYp7QPWMDGoh4eEHJ5Vn3qA-w&usqp=CAU" group-title="✅ 24/7 VIP", Chespirito 
+http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/367101
+#EXTINF:-1 tvg-id="" tvg-name="Cinema DC Comics ⁽ᴴᴰ⁾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx-BPGzNjIlB6mvtdDM8qc1Hh4in9rQzhbQw&usqp=CAU" group-title="✅ 24/7 VIP",el chavo del 8
+http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/367100
+#EXTINF:-1 tvg-id="" tvg-name="Cinema DC Universe ⁽ᴴᴰ⁾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5WYex-yZug6galWeutldrQp5RHc8CrjWXSQ&usqp=CAU" group-title="✅ 24/7 VIP",el chapulin colorado 
+http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/357017
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Family ⁽ᴴᴰ⁾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIfG1PFS7szBEVf5Fe8VtWqTsh-565xX5iDg&usqp=CAU" group-title="✅ 24/7 VIP",alf
+http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/357003
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Pixar ⁽ᴴᴰ⁾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxGn0MNpsBPV8dZ8fbqGGiuCjR0H0WLc_kYQ&usqp=CAU" group-title="✅ 24/7 VIP",mr bean
+http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/357038
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Dreamworks ⁽ᴴᴰ⁾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9yBlJwM3pCwKAhvDk16_dx2_4JP99unLeeQ&usqp=CAU" group-title="✅ 24/7 VIP",mi bella genio
+http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/357034
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Familia ⁽ᴴᴰ⁾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRrZ9lGA9WDQiigYzS98PijcboJmEnPnTE0w&usqp=CAU" group-title="✅ 24/7 VIP",Caso cerrado 
+http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/357007
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Happy Madison ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/nsp7467m4754reuuo5faw/madison.png?rlkey=5uifc07ixi69c8aim9r9wg42j&dl=0" group-title="✅ 24/7 VIP", Clásicos de Disney ⁽ᴴᴰ⁾
+http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/357008
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Horror Classics ⁽ᴴᴰ⁾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDOILiItXbbXeGZx4nFJr_IorP9KGCDmBdBA&usqp=CAU" group-title="✅ 24/7 VIP",dragon ball
+http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/357013
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Horror ⁽ᴴᴰ⁾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfKv6uPOuKA0d6dHgdAZnij4YZAv9GA2uMwQ&usqp=CAU" group-title="✅ 24/7 VIP",dragon ball gt
+http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/357014
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Lego Movies ⁽ᴴᴰ⁾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6UpEglEmAqCr33L3VfXZKKJjkFM81opFbYA&usqp=CAU" group-title="✅ 24/7 VIP",dragon ball super
+http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/357015
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Marvel Animated ⁽ᴴᴰ⁾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1gcUHqDyKm6VTmH51jiwgcJxkzb18C58wrw&usqp=CAU" group-title="✅ 24/7 VIP",dragon ball z
+http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/357016
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Marvel Studios ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8lyzyc5knxogr3249c6gv/marvelstud.png?rlkey=kc2o9d79zc2lba63mavm0574i&dl=0" group-title="✅ 24/7 VIP",Cinema Marvel Studios ⁽ᴴᴰ⁾
+http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/357033
+#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 VIP", cinema 00
+http://tv.nousiptv.com:8080/Angela/3475599848/1188392
+#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 VIP", cinema  01
+http://tv.nousiptv.com:8080/Angela/3475599848/7987
+#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 VIP", cinema 02
+http://novared.pro:8080/motors/checkmotors131021/99076
+#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 VIP", cinema 03
+http://novared.pro:8080/motors/checkmotors131021/99077
+#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 VIP", cinema 04
+http://tv.nousiptv.com:8080/Angela/3475599848/7984
+#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 VIP", cinema 05
+http://tv.nousiptv.com:8080/Angela/3475599848/7983
+#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 VIP", cinema 06
+http://novared.pro:8080/motors/checkmotors131021/99083
+#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 VIP", cinema 07
+http://novared.pro:8080/motors/checkmotors131021/99084
+#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 VIP", cinema 08
 
 
 
