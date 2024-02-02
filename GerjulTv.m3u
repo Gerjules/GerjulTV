@@ -1145,6 +1145,9 @@ https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
 
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="HBO PLUS HD" tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif" group-title="Peliculas" audio-track="spa",HBO PLUS
+http://sdmx.vip:8080/Joseluis/Joseluis123/2092585
+
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine Premium",CINE| HBO
 http://motivatv.club:80/LEONARDOSAN2/57155/592277 
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" group-title="⭐️ Cine Premium",CINE| HBO 2
