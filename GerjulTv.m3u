@@ -1164,23 +1164,25 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
 
 
-#EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine Premium",CINE| HBO
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine Premium",CINE| HBO
 http://tvbross.com:8090/comandoalmache/almache2022../431
-#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="2MB | HBO 2" tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" grupo -title="⭐️ Cine Premium",CINE| HBO 2
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" grupo -title="⭐️ Cine Premium",CINE| HBO 2
 http://tvbross.com:8090/comandoalmache/almache2022../429
-#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="2MB | HBO + LQ" tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png" grupo -title="⭐️ Cine Premium",CINE| HBO +
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png" grupo -title="⭐️ Cine Premium",CINE| HBO +
 http://iptvtree.net:8080/F27279/bdad41ff/3058
-#EXTINF:-1 tvg-id="HBOHDA" tvg-name="P | HBO Family" tvg-logo="http://descargas.podzone.net/logos/-HBO-family.png" group-title="⭐️ Cine Premium",CINE| HBO Family
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-family.png" group-title="⭐️ Cine Premium",CINE| HBO Family
 http://iptvtree.net:8080/F27279/bdad41ff/3057
-#EXTINF:-1 tvg-id="HBOXLAM" tvg-name="P | HBO Xtreme" tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png" group-title="⭐️ Cine Premium",CINE| HBO Xtreme
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png" group-title="⭐️ Cine Premium",CINE| HBO Xtreme
 https://m3u-editor.com/serve/99c44300-ca0a-11ee-b1fe-b98976305a99/1089239087
-#EXTINF:-1 tvg-id="MUNLEH" tvg-name="P | HBO Mundi" tvg-logo="http://descargas.podzone.net/logos/-HBO-mundi.png" group-title="⭐️ Cine Premium",CINE| HBO Mundi
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-mundi.png" group-title="⭐️ Cine Premium",CINE| HBO Mundi
 http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/137.m3u8
-#EXTINF:-1 tvg-id="POPAM" tvg-name="P | HBO POP" tvg-logo="http://descargas.podzone.net/logos/-HBO-pop.png" group-title="⭐️ Cine Premium",CINE| HBO POP
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-pop.png" group-title="⭐️ Cine Premium",CINE| HBO POP
 http://rasaiptv.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/1242
-#EXTINF:-1 tvg-id="HBOSIG" tvg-name="P | Firma HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO-signature.png" grupo-title="⭐️ Cine Premium",CINE| HBO signature
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-signature.png" grupo-title="⭐️ Cine Premium",CINE| HBO signature
 http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/136.m3u8
-#EXTINF:-1 tvg-id="fx.mx" tvg-name="2MB | FX LQ" tvg-logo="http://descargas.podzone.net/logos/-FX.png" group-title="⭐️ Cine Premium",CINE| FX
+
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-FX.png" group-title="⭐️ Cine Premium",CINE| FX
 http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhb9ga1hqM2ZIJJuzseaF0qXu7hiOLof47Pw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Space
 http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
@@ -1365,60 +1367,12 @@ http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/578429
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHiUZdmcSB9rltExRtM73_Ji73c-6XedWYtw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| A3SERIES
 http://motivatv.club:80/LEONARDOSAN2/57155/592226
 
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/b42clampdlbemhuw66z6h/terror.png?rlkey=50umnbvkc7x3mqz8yjadqxcmj&dl=0" group-title="✅ 24/7 VIP",cine terror
-http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/357050
-#EXTINF:-1 tvg-id="" tvg-name="Cine Estelar ⁽ᴴᴰ⁾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWWCmEKV8KbKYp7QPWMDGoh4eEHJ5Vn3qA-w&usqp=CAU" group-title="✅ 24/7 VIP", Chespirito 
-http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/367101
-#EXTINF:-1 tvg-id="" tvg-name="Cinema DC Comics ⁽ᴴᴰ⁾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx-BPGzNjIlB6mvtdDM8qc1Hh4in9rQzhbQw&usqp=CAU" group-title="✅ 24/7 VIP",el chavo del 8
-http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/367100
-#EXTINF:-1 tvg-id="" tvg-name="Cinema DC Universe ⁽ᴴᴰ⁾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5WYex-yZug6galWeutldrQp5RHc8CrjWXSQ&usqp=CAU" group-title="✅ 24/7 VIP",el chapulin colorado 
-http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/357017
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Family ⁽ᴴᴰ⁾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIfG1PFS7szBEVf5Fe8VtWqTsh-565xX5iDg&usqp=CAU" group-title="✅ 24/7 VIP",alf
-http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/357003
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Pixar ⁽ᴴᴰ⁾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxGn0MNpsBPV8dZ8fbqGGiuCjR0H0WLc_kYQ&usqp=CAU" group-title="✅ 24/7 VIP",mr bean
-http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/357038
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Dreamworks ⁽ᴴᴰ⁾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9yBlJwM3pCwKAhvDk16_dx2_4JP99unLeeQ&usqp=CAU" group-title="✅ 24/7 VIP",mi bella genio
-http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/357034
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Familia ⁽ᴴᴰ⁾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRrZ9lGA9WDQiigYzS98PijcboJmEnPnTE0w&usqp=CAU" group-title="✅ 24/7 VIP",Caso cerrado 
-http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/357007
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Happy Madison ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/nsp7467m4754reuuo5faw/madison.png?rlkey=5uifc07ixi69c8aim9r9wg42j&dl=0" group-title="✅ 24/7 VIP", Clásicos de Disney ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/357008
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Horror Classics ⁽ᴴᴰ⁾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDOILiItXbbXeGZx4nFJr_IorP9KGCDmBdBA&usqp=CAU" group-title="✅ 24/7 VIP",dragon ball
-http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/357013
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Horror ⁽ᴴᴰ⁾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfKv6uPOuKA0d6dHgdAZnij4YZAv9GA2uMwQ&usqp=CAU" group-title="✅ 24/7 VIP",dragon ball gt
-http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/357014
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Lego Movies ⁽ᴴᴰ⁾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6UpEglEmAqCr33L3VfXZKKJjkFM81opFbYA&usqp=CAU" group-title="✅ 24/7 VIP",dragon ball super
-http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/357015
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Marvel Animated ⁽ᴴᴰ⁾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1gcUHqDyKm6VTmH51jiwgcJxkzb18C58wrw&usqp=CAU" group-title="✅ 24/7 VIP",dragon ball z
-http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/357016
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Marvel Studios ⁽ᴴᴰ⁾" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8lyzyc5knxogr3249c6gv/marvelstud.png?rlkey=kc2o9d79zc2lba63mavm0574i&dl=0" group-title="✅ 24/7 VIP",Cinema Marvel Studios ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/357033
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 VIP", cinema 00
-http://tv.nousiptv.com:8080/Angela/3475599848/1188392
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 VIP", cinema  01
-http://tv.nousiptv.com:8080/Angela/3475599848/7987
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 VIP", cinema 02
-http://novared.pro:8080/motors/checkmotors131021/99076
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 VIP", cinema 03
-http://novared.pro:8080/motors/checkmotors131021/99077
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 VIP", cinema 04
-http://tv.nousiptv.com:8080/Angela/3475599848/7984
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 VIP", cinema 05
-http://tv.nousiptv.com:8080/Angela/3475599848/7983
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 VIP", cinema 06
-http://novared.pro:8080/motors/checkmotors131021/99083
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 VIP", cinema 07
-http://novared.pro:8080/motors/checkmotors131021/99084
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 VIP", cinema 08
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium",CINE| HBO HD
 http://204.157.251.250:8000/play/a06t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium",CINE|  HBO HD
-http://181.205.130.194:4000/play/a08u/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium",CINE|  HBO HD
-http://186.28.229.140:8000/play/a07i/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium",CINE|  HBO2 HD
 http://204.157.251.250:8000/play/a06u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium",CINE|  HBO2 HD
@@ -1439,50 +1393,11 @@ http://181.129.198.235:8000/play/a01h/index.m3u8
 http://38.43.150.126:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium",CINE|  HBO Family HD
 http://204.157.251.250:8000/play/a06w/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nuv4kk4.png" group-title="⭐️ Cine Premium",CINE|  FX HD
-http://190.61.57.2:1010/play/a021/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nuv4kk4.png" group-title="⭐️ Cine Premium",CINE|  FX HD
-http://190.109.23.4:8000/play/a03m/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvpthIA.png" group-title="⭐️ Cine Premium",CINE|  Paramount HD
 http://200.114.68.133:8999/play/a0tl/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YvpthIA.png" group-title="⭐️ Cine Premium",CINE|  Paramount HD
-http://190.61.57.2:1010/play/a026/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YvpthIA.png" group-title="⭐️ Cine Premium",CINE|  Paramount HD
-http://190.109.23.4:8000/play/a0c7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iiGco6R.png" group-title="⭐️ Cine Premium",CINE| TNT HD
-http://190.61.57.2:1010/play/a01m/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iiGco6R.png" group-title="⭐️ Cine Premium",CINE|  TNT HD
-http://38.43.150.126:8000/play/a038/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bFUuo5t.png" group-title="⭐️ Cine Premium",CINE|  Serie TNT HD
-http://191.102.106.46:15028/play/a02b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4TaBISZ.png" group-title="⭐️ Cine Premium",CINE|  Estudio Universal HD
-http://190.61.57.2:1010/play/a027/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lG64AHb.png" group-title="⭐️ Cine Premium",CINE|  CANAL UNIVERSAL HD
-http://190.61.57.2:1010/play/a01z/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BDyOOdm.png" group-title="⭐️ Cine Premium",CINE|  Sony HD
-http://38.43.150.126:8000/play/a031/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KZaoGzO.png" group-title="⭐️ Cine Premium",CINE|  Espacio HD
-http://38.43.150.126:8000/play/a033/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KZaoGzO.png" group-title="⭐️ Cine Premium",CINE|  Espacio HD
-http://45.5.151.151:8000/play/a082/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KZaoGzO.png" group-title="⭐️ Cine Premium",CINE|  Espacio HD
-http://190.61.57.2:1010/play/a01b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i0Ybr7h.png" group-title="⭐️ Cine Premium",CINE|  Dorado HD
-http://190.61.57.2:1010/play/a02b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i0Ybr7h.png" group-title="⭐️ Cine Premium",CINE|  Golden Plus HD
-http://190.109.23.4:8000/play/a03v/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XMs9JPb.png" group-title="⭐️ Cine Premium",CINE|  Cinecanal HD
-http://190.61.57.2:1010/play/a046/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XMs9JPb.png" group-title="⭐️ Cine Premium",CINE|  Cinecanal HD
-http://190.109.23.4:8000/play/a03q/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1dWt5jI.png" group-title="⭐️ Cine Premium",CINE|  Cinemax HD
-http://190.61.57.2:1010/play/a01r/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1dWt5jI.png" group-title="⭐️ Cine Premium",CINE|  Cinemax HD
-http://190.109.23.4:8000/play/a0bv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DIHRgw6.png" group-title="⭐️ Cine Premium",CINE|  Warner Channel HD
-http://190.61.57.2:1010/play/a019/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DIHRgw6.png" group-title="⭐️ Cine Premium",CINE|  Warner Channel HD
+
 http://38.43.150.127:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xJ0FecU.png" group-title="⭐️ Cine Premium",CINE|  De Pelicula
 http://38.43.150.126:8000/play/a04i/index.m3u8
@@ -1676,43 +1591,7 @@ http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612289&
 
 #EXTINF: 0 tvg-logo="https://1.bp.blogspot.com/-_a04T085R7k/X-p6kFyAXTI/AAAAAAAA69M/VqLD2L7aKfwcBRjcNzMXg6OIc9mWAHLiwCLcBGAsYHQ/s1080/NGW.png" group-title="VARIOS (Nuevo)",VAR | Nat Geo Wild
 http://myteve.online:8080/30fe809e/ec00cbf3/38698
-#EXTINF: 0 tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png" group-title="VARIOS (Nuevo)",VAR | CNN en Español 
-http://thevdm.xyz:25461/Emma10380/8881/19860
-#EXTINF: 0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2jffSRcnoVnb_Pvc6v5K3czjQYtVYuSbbvCzZvocyBhIIOKDpRlC4RYhJBQcdDLWhaE&usqp=CAU" group-title="VARIOS (Nuevo)",VAR |E Entertainment 
-http://thevdm.xyz:25461/Emma10380/8881/19881
 
-#EXTINF:0 tvg-logo="https://static.epg.best/co/HolaTv.co.png" group-title="VARIOS (Nuevo)",VAR | HOLA TV 
-http://thevdm.xyz:25461/Emma10380/8881/19915
-#EXTINF: 0 group-title="VARIOS (Nuevo)",VAR | A&E
-http://thevdm.xyz:25461/Emma10380/8881/19830
-#EXTINF: 0 group-title="VARIOS (Nuevo)",VAR | AMC
-http://thevdm.xyz:25461/Emma10380/8881/19832
-#EXTINF: 0 tvg-logo="https://1.bp.blogspot.com/-cR6vhHg7CDs/X_HaqKoyQNI/AAAAAAAA7QQ/eSn_Tw1Djz4GLjxJu_4rZEgOAUx-wMFhQCLcBGAsYHQ/s1080/axxn.png" group-title="VARIOS (Nuevo)",VAR | AXN
-http://xloxttv.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/104
-#EXTINF: 0 group-title="VARIOS (Nuevo)",VAR | Comedy Central
-http://xloxttv.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/10
-
-#EXTINF: 0 tvg-logo="https://image.pngaaa.com/0/3423000-small.png" group-title="VARIOS (Nuevo)",VAR | HGTV
-http://xloxttv.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/410
-#EXTINF: 0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/250?cb=20210918005322&path-prefix=es" group-title="VARIOS (Nuevo)",VAR | Animal Planet 
-http://thevdm.xyz:25461/Emma10380/8881/19833
-#EXTINF: 0 tvg-logo="https://1.bp.blogspot.com/-vVLKGNk49rE/X-p6hIEr6MI/AAAAAAAA68w/JOq2dPGf7nA-2-GL8IhZYqtVdI8JpypQQCLcBGAsYHQ/s1080/DH.png" group-title="VARIOS (Nuevo)",VAR | Discovery h&h
-http://xloxttv.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/153
-#EXTINF: 0 tvg-logo="https://www.totalmedios.com/img/noticias/2009/07/Noticia5811__838x390.jpg" group-title="VARIOS (Nuevo)",VAR | Discovery Theater HD 
-http://4ksuper.live:80/13cfc0ead4/422fcdc94be6/926546
-#EXTINF: 0 tvg-logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg" group-title="VARIOS (Nuevo)",VAR | Discovery World
-http://4ksuper.live:80/13cfc0ead4/422fcdc94be6/926541
-#EXTINF: 0 group-title="VARIOS (Nuevo)",VAR |Discovery ID
-http://thevdm.xyz:25461/Emma10380/8881/19870
-#EXTINF: 0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="VARIOS (Nuevo)",VAR | Film & Arts
-http://4ksuper.live:80/13cfc0ead4/422fcdc94be6/926531
-
-#EXTINF: 0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Elgourmet.com_logo_2.png/revision/latest?cb=20190606041345&path-prefix=es" group-title="VARIOS (Nuevo)",VAR |El Gourmet 
-http://thevdm.xyz:25461/Emma10380/8881/19882
-#EXTINF: 0 group-title="VARIOS (Nuevo)",VAR | History Channel
-http://4ksuper.live:80/13cfc0ead4/422fcdc94be6/926518
-#EXTINF: 0 tvg-logo="https://cdn.mitvstatic.com/channels/ar_h2_m.png" group-title="VARIOS (Nuevo)",VAR | History 2
-http://4ksuper.live:80/13cfc0ead4/422fcdc94be6/926520
 #EXTINF: 0 tvg-logo="https://www.pngkit.com/png/full/302-3027387_fx-hd-fx-hd-logo-png.png" group-title="VARIOS (Nuevo)",VAR | FXHD 
 http://myteve.online:8080/30fe809e/ec00cbf3/172268
 #EXTINF: 0 tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png" group-title="VARIOS (Nuevo)",VAR | Viajar
