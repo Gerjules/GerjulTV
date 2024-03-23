@@ -3,34 +3,26 @@
 #EXTINF:0 group-title="PARAGUAY",PY | ABC TV
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 
-#EXTINF:0 group-title="PARAGUAY",PY | SNT 
-https://deh05ueq91v6s.cloudfront.net/SNTPY/0bd4cfaf086c4ac0ce0101172a42ba20.sdp/playlist.m3u8
+
 
 
 #EXTINF:0 group-title="PARAGUAY",PY | TRECE
-https://tigocloudgen.desdeparaguay.net/trecetv/trecetv_baja/chunklist_w1196893029.m3u8?k=406497d0d8424d72e52021fad7657d49f5887085eb535695f5715b90bad8d2c7&exp=1686070703
-
-#EXTINF:-1 group-title="PARAGUAY",PY |TELEFUTURO
-http://tv.nousiptv.com:8080/AR10465/10465R/7529
-
-#EXTINF:0 group-title="PARAGUAY",PY | LA TELE
-http://tv.nousiptv.com:8080/AR10465/10465R/23224
-
-#EXTINF:-1 group-title="PARAGUAY",PY | NOTICIAS PY
-http://tv.nousiptv.com:8080/AR10465/10465R/7428
+https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 
 #EXTINF:0 group-title="PARAGUAY",PY | C9N (480p)
-https://deh05ueq91v6s.cloudfront.net/C9NPY/031fe10f99063bb9e8271716ce50b133.sdp/playlist.m3u8
-
-#EXTINF:0 group-title="PARAGUAY",PY | ÑANDUTÍ TV
-https://tvdatta.com:3839/live/nandutitvlive.m3u8
+https://alba-py-c9n-c9n.stream.mediatiquestream.com/playlist.m3u8
 
 #EXTINF:0 group-title="PARAGUAY",PY | UNICANAL 
-https://tigocloudgen.desdeparaguay.net/unicanal/unicanal_baja/chunklist_w904988084.m3u8?k=7b1d356cc7ec36bb21f1e96cfbd0415bc0b0c388fe500cb07566c44d89d6d7ab&exp=1698514724
+https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
+
 #EXTINF:0 group-title="PARAGUAY",PY | Bruno Masi TV (720p)
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
+
 #EXTINF:0 group-title="PARAGUAY",PY | Cáritas TV (1080p)
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
+
+#EXTINF:0 group-title="PARAGUAY",PY | Oviedo TV
+https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8
 
 
 
@@ -39,6 +31,9 @@ https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
 
 #EXTINF:0 group-title="PARAGUAY",PY | MI TV
 https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w735296660.m3u8
+
+#EXTINF:0 group-title="PARAGUAY",PY |Radio Pykasú TV (720p)
+https://59ce1298bfb98.streamlock.net/pykasutv/pykasutv/playlist.m3u8
 
 
 #EXTINF:0 group-title="PARAGUAY",PY | 4DmásNoticias TV (1080p)
@@ -53,18 +48,31 @@ https://59ce1298bfb98.streamlock.net/marianotv/marianotv/playlist.m3u8
 #EXTINF:0 group-title="PARAGUAY",PY | Obedira TV
 https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8
 
+#EXTINF:0 group-title="PARAGUAY",PY |Campo 9 Online (720p)
+#EXTVLCOPT:network-caching=5000
+https://59ce1298bfb98.streamlock.net/campo9tv/campo9tv/playlist.m3u8
 
+#EXTINF:0 group-title="PARAGUAY",PY |Ñemby Noticias HD (720p)
+https://rpn3.bozztv.com/ssh101/ssh101/streaminghd/playlist.m3u8
 
-#EXTINF:0 group-title="PARAGUAY",PY | Suceso TV
+#EXTINF:0  group-title="PARAGUAY",PY |TV Lambaré (720p) [Not 24/7]
+https://59ce1298bfb98.streamlock.net/tvlambare/tvlambare/playlist.m3u8
+
+#EXTINF:0, group-title="PARAGUAY",PY |DMpy (720p)
+https://59ce1298bfb98.streamlock.net/digitalmediapy/digitalmediapy/playlist.m3u8
+
+#EXTINF:0 group-title="PARAGUAY",PY |Suceso TV
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
 
-#EXTINF:0 group-title="PARAGUAY",PY | ESTACIÓN CRISTAL TV
+#EXTINF:0 group-title="PARAGUAY",PY |ESTACIÓN CRISTAL TV
 https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
 
 #EXTINF:0 group-title="PARAGUAY",PY |Somos Del Este (720p)
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 
-
+#EXTINF:0, group-title="PARAGUAY",PY |FM Frutillar TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=5000
+https://59ce1298bfb98.streamlock.net/frutillarfm/frutillarfm/playlist.m3u8
 
 #EXTINF:0 group-title="PARAGUAY",PY |Educanal
 https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
@@ -87,6 +95,8 @@ https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
 #EXTINF:0 group-title="PARAGUAY",PY | Fanpop TV (720p) [Not 24/7]
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
+
+
 #EXTINF:-1 group-title="PARAGUAY",PY | TIGO DEPORTES + HD
 http://tv.nousiptv.com:8080/AR10465/10465R/53029
 
@@ -97,19 +107,26 @@ http://tv.nousiptv.com:8080/AR10465/10465R/7435
 http://tv.nousiptv.com:8080/AR10465/10465R/7450
 
 
+#EXTINF:0 group-title="PARAGUAY",PY | SNT 
+https://deh05ueq91v6s.cloudfront.net/SNTPY/0bd4cfaf086c4ac0ce0101172a42ba20.sdp/playlist.m3u8
 
+#EXTINF:-1 group-title="PARAGUAY",PY |TELEFUTURO
+http://tv.nousiptv.com:8080/AR10465/10465R/7529
+
+#EXTINF:0 group-title="PARAGUAY",PY | LA TELE
+http://tv.nousiptv.com:8080/AR10465/10465R/23224
+
+#EXTINF:-1 group-title="PARAGUAY",PY | NOTICIAS PY
+http://tv.nousiptv.com:8080/AR10465/10465R/7428
+
+#EXTINF:0 group-title="PARAGUAY",PY | ÑANDUTÍ TV
+https://tvdatta.com:3839/live/nandutitvlive.m3u8
 
 #EXTINF:0 group-title="PARAGUAY",PY | PARAVISIÓN (En breve Disponible)
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235206.ts
 
 #EXTINF:0 group-title="PARAGUAY",PY |Radio Venus (En breve Disponible)
 http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlNTso9IFZLD7iowly816h6M/ts
-
-#EXTINF:0 group-title="PARAGUAY",PY | TVS (En breve Disponible)
-https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8?k=1d25209afd7c9b0e4898d35c8295d449ff87b42c53ea4da38aae4d2d9614c9a7&exp=1611679347
-
-#EXTINF:0 group-title="PARAGUAY",PY | Oviedo TV (En breve Disponible)
-https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/playlist.m3u8
 
 #EXTINF:0 group-title="PARAGUAY",PY |TVS Encarnación (En breve Disponible)
 https://rds3gen.desdeparaguay.net/tvs/tvs/playlist.m3u8
