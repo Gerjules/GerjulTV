@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 group-title="PARAGUAY",PY | ABC TV
+#EXTINF:0 tvg-chno="01" group-title="PARAGUAY",PY | ABC TV
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 
 
@@ -234,6 +234,21 @@ https://i.mjh.nz/PlutoTV/5f523aa5523ae000074745ec-alt.m3u8
 #EXTINF:0 group-title="NOTICIAS",NOT | Chilevision Noticias
 https://i.mjh.nz/PlutoTV/61f94a2866401100074e9dee-alt.m3u8
 
+#EXTINF:-1 channel-id="pluto-62310d5a5dc9550007c6f580" tvg-id="62310d5a5dc9550007c6f580" tvg-logo="https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG.png" tvg-chno="677" group-title="NOTICIAS",NOT |CBS News
+https://r.mjh.nz/PlutoTV/62310d5a5dc9550007c6f580-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-619d59b7cbef25000728221c" tvg-id="619d59b7cbef25000728221c" tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png" tvg-chno="685" group-title="NOTICIAS",NOT |Euronews Español
+https://r.mjh.nz/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f523aa5523ae000074745ec" tvg-id="5f523aa5523ae000074745ec" tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" tvg-chno="690" group-title="NOTICIAS",NOT |Telefe Noticias
+https://r.mjh.nz/PlutoTV/5f523aa5523ae000074745ec-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-61f94a2866401100074e9dee" tvg-id="61f94a2866401100074e9dee" tvg-logo="https://images.pluto.tv/channels/61f94a2866401100074e9dee/colorLogoPNG.png" tvg-chno="695" group-title="NOTICIAS",NOT |Chilevision Noticias
+https://r.mjh.nz/PlutoTV/61f94a2866401100074e9dee-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-63d2c140c111bc0008cb890b" tvg-id="63d2c140c111bc0008cb890b" tvg-logo="https://images.pluto.tv/channels/63d2c140c111bc0008cb890b/colorLogoPNG.png" tvg-chno="705" group-title="NOTICIAS",NOT |TeleFórmula
+https://r.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
+
 
 
 #EXTINF:0 group-title="PELICULAS",PELIS | Trailers
@@ -241,6 +256,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees
 
 #EXTINF:0 group-title="PELICULAS",PELIS | Runtime Accion
 https://run-rt-ac.otteravision.com/run/rt_ac/rt_ac_720.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png" group-title="Películas" , Guía de canales
@@ -294,8 +310,11 @@ https://r.mjh.nz/PlutoTV/609059dc63be6e0007b4eca6-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5dd6ddb30a1d8a000908ed4c" tvg-id="5dd6ddb30a1d8a000908ed4c" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png" tvg-chno="90" group-title="Películas" , Pluto TV Cine Familia
 https://r.mjh.nz/PlutoTV/5dd6ddb30a1d8a000908ed4c-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-600728952b1776000776526d" tvg-id="600728952b1776000776526d" tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" tvg-chno="100" group-title="Paramount+ Presenta" , Paramount+ Presenta
+#EXTINF:-1 channel-id="pluto-600728952b1776000776526d" tvg-id="600728952b1776000776526d" tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" tvg-chno="100" group-title="Películas", Paramount+ Presenta
 https://r.mjh.nz/PlutoTV/600728952b1776000776526d-alt.m3u8
+
+
+
 
 #EXTINF:-1 channel-id="pluto-63eb9255c111bc0008fe6ec4" tvg-id="63eb9255c111bc0008fe6ec4" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" tvg-chno="104" group-title="Series" , CSI: Miami
 https://r.mjh.nz/PlutoTV/63eb9255c111bc0008fe6ec4-alt.m3u8
@@ -333,6 +352,8 @@ https://r.mjh.nz/PlutoTV/5ffe17e3d765170007c3a4fe-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5dd837642c6e9300098ad484" tvg-id="5dd837642c6e9300098ad484" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" tvg-chno="195" group-title="Series" , Pluto TV Series Latinas
 https://r.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
 
+
+
 #EXTINF:-1 channel-id="pluto-5de802659167b10009e7deba" tvg-id="5de802659167b10009e7deba" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" tvg-chno="203" group-title="Retro" , Pluto TV Series Retro
 https://r.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
 
@@ -360,6 +381,9 @@ https://r.mjh.nz/PlutoTV/62e017e44823db000726cd9a-alt.m3u8
 #EXTINF:-1 channel-id="pluto-60142258a54aeb0007751c15" tvg-id="60142258a54aeb0007751c15" tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" tvg-chno="265" group-title="Retro" , Pluto TV Retro Cartoons
 https://r.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 
+
+
+
 #EXTINF:-1 channel-id="pluto-5dcde0cc2efd2700090b7ff4" tvg-id="5dcde0cc2efd2700090b7ff4" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" tvg-chno="278" group-title="Novelas" , Pluto TV Novelas
 https://r.mjh.nz/PlutoTV/5dcde0cc2efd2700090b7ff4-alt.m3u8
 
@@ -371,6 +395,9 @@ https://r.mjh.nz/PlutoTV/63211ba9cad976000794f988-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-61f159209fcc3800076ed4a1" tvg-id="61f159209fcc3800076ed4a1" tvg-logo="https://images.pluto.tv/channels/61f159209fcc3800076ed4a1/colorLogoPNG.png" tvg-chno="367" group-title="Novelas" , Rock Story
 https://r.mjh.nz/PlutoTV/61f159209fcc3800076ed4a1-alt.m3u8
+
+
+
 
 #EXTINF:-1 channel-id="pluto-5dcde197f6591d0009839e04" tvg-id="5dcde197f6591d0009839e04" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" tvg-chno="380" group-title="Reality" , Pluto TV Reality
 https://r.mjh.nz/PlutoTV/5dcde197f6591d0009839e04-alt.m3u8
@@ -399,6 +426,9 @@ https://r.mjh.nz/PlutoTV/620fd9f4afb9a80007a9c6d5-alt.m3u8
 #EXTINF:-1 channel-id="pluto-625461ef01f27a0007976ad1" tvg-id="625461ef01f27a0007976ad1" tvg-logo="https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png" tvg-chno="397" group-title="Reality" , MTV Catfish
 https://r.mjh.nz/PlutoTV/625461ef01f27a0007976ad1-alt.m3u8
 
+
+
+
 #EXTINF:-1 channel-id="pluto-5dd6d935d000120009bc1132" tvg-id="5dd6d935d000120009bc1132" tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png" tvg-chno="427" group-title="Competencia" , Pluto TV  Competencias
 https://r.mjh.nz/PlutoTV/5dd6d935d000120009bc1132-alt.m3u8
 
@@ -425,6 +455,9 @@ https://r.mjh.nz/PlutoTV/5ed6828192e8b3000743ef61-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-6495af324c014a000842e923" tvg-id="6495af324c014a000842e923" tvg-logo="https://images.pluto.tv/channels/6495af324c014a000842e923/colorLogoPNG.png" tvg-chno="462" group-title="Competencia" , Desafío Super Humanos
 https://r.mjh.nz/PlutoTV/6495af324c014a000842e923-alt.m3u8
+
+
+
 
 #EXTINF:-1 channel-id="pluto-5dd85eac039bba0009e86d1d" tvg-id="5dd85eac039bba0009e86d1d" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" tvg-chno="477" group-title="Curiosidad" , Pluto TV Naturaleza
 https://r.mjh.nz/PlutoTV/5dd85eac039bba0009e86d1d-alt.m3u8
@@ -489,6 +522,9 @@ https://r.mjh.nz/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5dd8364ea1d6780009929902" tvg-id="5dd8364ea1d6780009929902" tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" tvg-chno="572" group-title="Curiosidad" , Pluto TV Ciencia
 https://r.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
 
+
+
+
 #EXTINF:-1 channel-id="pluto-5dcde27ffae9520009c0c75a" tvg-id="5dcde27ffae9520009c0c75a" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" tvg-chno="578" group-title="Investigación" , Pluto TV Investiga
 https://r.mjh.nz/PlutoTV/5dcde27ffae9520009c0c75a-alt.m3u8
 
@@ -507,20 +543,11 @@ https://r.mjh.nz/PlutoTV/5ea71d48af1d0b0007d837f4-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f610042272f68000867685b" tvg-id="5f610042272f68000867685b" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" tvg-chno="601" group-title="Investigación" , Misterios sin Resolver
 https://r.mjh.nz/PlutoTV/5f610042272f68000867685b-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-62310d5a5dc9550007c6f580" tvg-id="62310d5a5dc9550007c6f580" tvg-logo="https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG.png" tvg-chno="677" group-title="Noticias" , CBS News
-https://r.mjh.nz/PlutoTV/62310d5a5dc9550007c6f580-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-619d59b7cbef25000728221c" tvg-id="619d59b7cbef25000728221c" tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png" tvg-chno="685" group-title="Noticias" , Euronews Español
-https://r.mjh.nz/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5f523aa5523ae000074745ec" tvg-id="5f523aa5523ae000074745ec" tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" tvg-chno="690" group-title="Noticias" , Telefe Noticias
-https://r.mjh.nz/PlutoTV/5f523aa5523ae000074745ec-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-61f94a2866401100074e9dee" tvg-id="61f94a2866401100074e9dee" tvg-logo="https://images.pluto.tv/channels/61f94a2866401100074e9dee/colorLogoPNG.png" tvg-chno="695" group-title="Noticias" , Chilevision Noticias
-https://r.mjh.nz/PlutoTV/61f94a2866401100074e9dee-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-63d2c140c111bc0008cb890b" tvg-id="63d2c140c111bc0008cb890b" tvg-logo="https://images.pluto.tv/channels/63d2c140c111bc0008cb890b/colorLogoPNG.png" tvg-chno="705" group-title="Noticias" , TeleFórmula
-https://r.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
+
 
 #EXTINF:-1 channel-id="pluto-638df6f8b63cf100075ccfa1" tvg-id="638df6f8b63cf100075ccfa1" tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/colorLogoPNG.png" tvg-chno="795" group-title="Fútbol" , Chilevision Deportes
 https://r.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
