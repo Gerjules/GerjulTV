@@ -547,33 +547,6 @@ https://r.mjh.nz/PlutoTV/5f610042272f68000867685b-alt.m3u8
 
 
 
-
-
-#EXTINF:-1 channel-id="pluto-638df6f8b63cf100075ccfa1" tvg-id="638df6f8b63cf100075ccfa1" tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/colorLogoPNG.png" tvg-chno="795" group-title="Fútbol" , Chilevision Deportes
-https://r.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-64b02bbd7d93410008fdae60" tvg-id="64b02bbd7d93410008fdae60" tvg-logo="https://images.pluto.tv/channels/64b02bbd7d93410008fdae60/colorLogoPNG.png" tvg-chno="815" group-title="Fútbol" , DAZN Women's Football
-https://r.mjh.nz/PlutoTV/64b02bbd7d93410008fdae60-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5dcde07af1c85b0009b18651" tvg-id="5dcde07af1c85b0009b18651" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" tvg-chno="827" group-title="Deportes" , Pluto TV Deportes
-https://r.mjh.nz/PlutoTV/5dcde07af1c85b0009b18651-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6320d80a66666000086712d7" tvg-id="6320d80a66666000086712d7" tvg-logo="https://images.pluto.tv/channels/6320d80a66666000086712d7/colorLogoPNG.png" tvg-chno="835" group-title="Deportes" , Claro Sports
-https://r.mjh.nz/PlutoTV/6320d80a66666000086712d7-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-63f7e3f9dff38e00082a57af" tvg-id="63f7e3f9dff38e00082a57af" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png" tvg-chno="839" group-title="Deportes" , ITV Deportes
-https://r.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6144d313b34fbf0007107714" tvg-id="6144d313b34fbf0007107714" tvg-logo="https://images.pluto.tv/channels/6144d313b34fbf0007107714/colorLogoPNG.png" tvg-chno="845" group-title="Deportes" , FUEL TV
-https://r.mjh.nz/PlutoTV/6144d313b34fbf0007107714-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5e98b0447665f200078caded" tvg-id="5e98b0447665f200078caded" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" tvg-chno="850" group-title="Deportes" , Pluto TV Peleas
-https://r.mjh.nz/PlutoTV/5e98b0447665f200078caded-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f99a772c54853000797bf18" tvg-id="5f99a772c54853000797bf18" tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" tvg-chno="855" group-title="Deportes" , Lucha Libre AAA
-https://r.mjh.nz/PlutoTV/5f99a772c54853000797bf18-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-64f6163a30ab3300083d870e" tvg-id="64f6163a30ab3300083d870e" tvg-logo="https://images.pluto.tv/channels/64f6163a30ab3300083d870e/colorLogoPNG.png" tvg-chno="862" group-title="Deportes" , PFL MMA
 https://r.mjh.nz/PlutoTV/64f6163a30ab3300083d870e-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-609ae5cd48d3200007b0a98e" tvg-id="609ae5cd48d3200007b0a98e" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" tvg-chno="929" group-title="Comedia" , Comedy Central South Park
@@ -1630,10 +1603,6 @@ http://4ksuper.live:80/13cfc0ead4/422fcdc94be6/926501
 #EXTINF: 0 tvg-logo="https://1.bp.blogspot.com/_mBmoS0RssN0/TClxVNjJAJI/AAAAAAAABio/de3i3kqBkXA/s400/LOGOVOLVER2010+Baja.JPG" group-title="VARIOS (Nuevo)",VAR | Volver 
 http://myteve.online:8080/30fe809e/ec00cbf3/49329
 
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="⚽ Deporte Colombia",COL |  WIN SPORTS
-http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/346734.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORT +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9iUKf7e6EdC0sGXXNhraCLOo77y0YWMamQ&usqp=CAU" group-title="⚽ Deporte Colombia",COL | WIN SPORT+ 
-http://tvbross.com:8090/comandoalmache/almache2022../17255
 
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOzUbC3TwMglW0YBja9vOPLa9HhrJo4pBTAw&usqp=CAU" group-title=" ⭐️ Deporte VIP",FOX SPORTS  1
@@ -1750,6 +1719,14 @@ http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/8918
 http://rasaiptv.com:8080/live/pollitoconpapas24/srhVaNQCwZpK/112091.ts
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="DEPORTES",SPORT | WIN SPORTS
+http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/346734.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORT +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9iUKf7e6EdC0sGXXNhraCLOo77y0YWMamQ&usqp=CAU" group-title="DEPORTES",SPORT | WIN SPORT+ 
+http://tvbross.com:8090/comandoalmache/almache2022../17255
+
+
+
 #EXTINF:0 group-title="DEPORTES",SPORT | Pluto TV Deportes
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
@@ -1832,6 +1809,37 @@ https://i.mjh.nz/PlutoTV/5e98b0447665f200078caded-alt.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5f99a772c54853000797bf18-alt.m3u8
+
+
+
+
+#EXTINF:-1 channel-id="pluto-638df6f8b63cf100075ccfa1" tvg-id="638df6f8b63cf100075ccfa1" tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/colorLogoPNG.png" tvg-chno="795" group-title="DEPORTES",SPORT | Chilevision Deportes
+https://r.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-64b02bbd7d93410008fdae60" tvg-id="64b02bbd7d93410008fdae60" tvg-logo="https://images.pluto.tv/channels/64b02bbd7d93410008fdae60/colorLogoPNG.png" tvg-chno="815" group-title="DEPORTES",SPORT | DAZN Women's Football
+https://r.mjh.nz/PlutoTV/64b02bbd7d93410008fdae60-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5dcde07af1c85b0009b18651" tvg-id="5dcde07af1c85b0009b18651" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" tvg-chno="827" group-title="DEPORTES",SPORT | Pluto TV Deportes
+https://r.mjh.nz/PlutoTV/5dcde07af1c85b0009b18651-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-6320d80a66666000086712d7" tvg-id="6320d80a66666000086712d7" tvg-logo="https://images.pluto.tv/channels/6320d80a66666000086712d7/colorLogoPNG.png" tvg-chno="835" group-title="DEPORTES",SPORT | Claro Sports
+https://r.mjh.nz/PlutoTV/6320d80a66666000086712d7-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-63f7e3f9dff38e00082a57af" tvg-id="63f7e3f9dff38e00082a57af" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png" tvg-chno="839" group-title="DEPORTES",SPORT | ITV Deportes
+https://r.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-6144d313b34fbf0007107714" tvg-id="6144d313b34fbf0007107714" tvg-logo="https://images.pluto.tv/channels/6144d313b34fbf0007107714/colorLogoPNG.png" tvg-chno="845" group-title="DEPORTES",SPORT | FUEL TV
+https://r.mjh.nz/PlutoTV/6144d313b34fbf0007107714-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5e98b0447665f200078caded" tvg-id="5e98b0447665f200078caded" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" tvg-chno="850" group-title="DEPORTES",SPORT | Pluto TV Peleas
+https://r.mjh.nz/PlutoTV/5e98b0447665f200078caded-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f99a772c54853000797bf18" tvg-id="5f99a772c54853000797bf18" tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" tvg-chno="855" group-title="DEPORTES",SPORT | Lucha Libre AAA
+https://r.mjh.nz/PlutoTV/5f99a772c54853000797bf18-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-64f6163a30ab3300083d870e" tvg-id="64f6163a30ab3300083d870e" tvg-logo="https://images.pluto.tv/channels/64f6163a30ab3300083d870e/colorLogoPNG.png" tvg-chno="862" group-title="DEPORTES",SPORT | PFL MMA
+
+
 
 
 
