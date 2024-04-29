@@ -320,17 +320,7 @@ https://r.mjh.nz/PlutoTV/600728952b1776000776526d-alt.m3u8
 
 
 
-#EXTINF:-1 channel-id="pluto-5dcde0cc2efd2700090b7ff4" tvg-id="5dcde0cc2efd2700090b7ff4" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" tvg-chno="278" group-title="Novelas" , Pluto TV Novelas
-https://r.mjh.nz/PlutoTV/5dcde0cc2efd2700090b7ff4-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-604bdf4e6d0abc0007ba77ad" tvg-id="604bdf4e6d0abc0007ba77ad" tvg-logo="https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png" tvg-chno="328" group-title="Novelas" , Sin Tetas No Hay Paraíso
-https://r.mjh.nz/PlutoTV/604bdf4e6d0abc0007ba77ad-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-63211ba9cad976000794f988" tvg-id="63211ba9cad976000794f988" tvg-logo="https://images.pluto.tv/channels/63211ba9cad976000794f988/colorLogoPNG.png" tvg-chno="331" group-title="Novelas" , La Selección
-https://r.mjh.nz/PlutoTV/63211ba9cad976000794f988-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-61f159209fcc3800076ed4a1" tvg-id="61f159209fcc3800076ed4a1" tvg-logo="https://images.pluto.tv/channels/61f159209fcc3800076ed4a1/colorLogoPNG.png" tvg-chno="367" group-title="Novelas" , Rock Story
-https://r.mjh.nz/PlutoTV/61f159209fcc3800076ed4a1-alt.m3u8
 
 
 
@@ -2748,7 +2738,17 @@ http://cincotv.org:25461/Fermand693/Toapa475/182138
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | MERLIN" tvg-logo="https://i.ibb.co/DCfhSFH/pngegg-4.png" group-title="TV 24/7",24/7 | MERLIN
 http://cincotv.org:25461/Fermand693/Toapa475/182139
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="TV 24/7",24/7 | Pluto TV Novelas
+https://r.mjh.nz/PlutoTV/5dcde0cc2efd2700090b7ff4-alt.m3u8
 
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png" group-title="TV 24/7",24/7 | Sin Tetas No Hay Paraíso
+https://r.mjh.nz/PlutoTV/604bdf4e6d0abc0007ba77ad-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63211ba9cad976000794f988/colorLogoPNG.png" group-title="TV 24/7",24/7 | La Selección
+https://r.mjh.nz/PlutoTV/63211ba9cad976000794f988-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61f159209fcc3800076ed4a1/colorLogoPNG.png" group-title="TV 24/7",24/7 | Rock Story
+https://r.mjh.nz/PlutoTV/61f159209fcc3800076ed4a1-alt.m3u8
 
 
 
