@@ -315,70 +315,7 @@ https://r.mjh.nz/PlutoTV/600728952b1776000776526d-alt.m3u8
 
 
 
-#EXTINF:-1 channel-id="pluto-63eb9255c111bc0008fe6ec4" tvg-id="63eb9255c111bc0008fe6ec4" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" tvg-chno="104" group-title="Series" , CSI: Miami
-https://r.mjh.nz/PlutoTV/63eb9255c111bc0008fe6ec4-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-63eb947c4e83e70008ab877b" tvg-id="63eb947c4e83e70008ab877b" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" tvg-chno="108" group-title="Series" , NCIS
-https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-64ff270f30ab3300084e259c" tvg-id="64ff270f30ab3300084e259c" tvg-logo="https://images.pluto.tv/channels/64ff270f30ab3300084e259c/colorLogoPNG.png" tvg-chno="127" group-title="Series" , Rookie Blue: Policías Novatos
-https://r.mjh.nz/PlutoTV/64ff270f30ab3300084e259c-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-64ff26233efb5100082eeb2e" tvg-id="64ff26233efb5100082eeb2e" tvg-logo="https://images.pluto.tv/channels/64ff26233efb5100082eeb2e/colorLogoPNG.png" tvg-chno="128" group-title="Series" , Infierno Sobre Ruedas
-https://r.mjh.nz/PlutoTV/64ff26233efb5100082eeb2e-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5dcde1317578340009b751d0" tvg-id="5dcde1317578340009b751d0" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" tvg-chno="140" group-title="Series" , Pluto TV Series
-https://r.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-624f4d4a4321e200073f46e0" tvg-id="624f4d4a4321e200073f46e0" tvg-logo="https://images.pluto.tv/channels/624f4d4a4321e200073f46e0/colorLogoPNG.png" tvg-chno="146" group-title="Series" , The Night Shift
-https://r.mjh.nz/PlutoTV/624f4d4a4321e200073f46e0-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-620ac814864949000724fb77" tvg-id="620ac814864949000724fb77" tvg-logo="https://images.pluto.tv/channels/620ac814864949000724fb77/colorLogoPNG.png" tvg-chno="153" group-title="Series" , Schitt's Creek
-https://r.mjh.nz/PlutoTV/620ac814864949000724fb77-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-619d56d9fa3070000709e3f7" tvg-id="619d56d9fa3070000709e3f7" tvg-logo="https://images.pluto.tv/channels/619d56d9fa3070000709e3f7/colorLogoPNG.png" tvg-chno="175" group-title="Series" , Younger
-https://r.mjh.nz/PlutoTV/619d56d9fa3070000709e3f7-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6185a9a88b2ce30007de5128" tvg-id="6185a9a88b2ce30007de5128" tvg-logo="https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG.png" tvg-chno="180" group-title="Series" , Pluto TV Dramas Coreanos
-https://r.mjh.nz/PlutoTV/6185a9a88b2ce30007de5128-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-639751f81a36b400072b8f5a" tvg-id="639751f81a36b400072b8f5a" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png" tvg-chno="184" group-title="Series" , Vive Kanal D Drama
-https://r.mjh.nz/PlutoTV/639751f81a36b400072b8f5a-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5ffe17e3d765170007c3a4fe" tvg-id="5ffe17e3d765170007c3a4fe" tvg-logo="https://images.pluto.tv/channels/5ffe17e3d765170007c3a4fe/colorLogoPNG.png" tvg-chno="190" group-title="Series" , Pluto TV España
-https://r.mjh.nz/PlutoTV/5ffe17e3d765170007c3a4fe-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5dd837642c6e9300098ad484" tvg-id="5dd837642c6e9300098ad484" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" tvg-chno="195" group-title="Series" , Pluto TV Series Latinas
-https://r.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
-
-
-
-#EXTINF:-1 channel-id="pluto-5de802659167b10009e7deba" tvg-id="5de802659167b10009e7deba" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" tvg-chno="203" group-title="Retro" , Pluto TV Series Retro
-https://r.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-631fb6be21b7440007b9f606" tvg-id="631fb6be21b7440007b9f606" tvg-logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png" tvg-chno="211" group-title="Retro" , Hechizada
-https://r.mjh.nz/PlutoTV/631fb6be21b7440007b9f606-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6487761d17f5e10008cbc000" tvg-id="6487761d17f5e10008cbc000" tvg-logo="https://images.pluto.tv/channels/6487761d17f5e10008cbc000/colorLogoPNG.png" tvg-chno="223" group-title="Retro" , Los Ángeles de Charlie
-https://r.mjh.nz/PlutoTV/6487761d17f5e10008cbc000-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6489c45766e48500083cceb6" tvg-id="6489c45766e48500083cceb6" tvg-logo="https://images.pluto.tv/channels/6489c45766e48500083cceb6/colorLogoPNG.png" tvg-chno="231" group-title="Retro" , Starsky & Hutch
-https://r.mjh.nz/PlutoTV/6489c45766e48500083cceb6-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-63eb95baa99571000898a078" tvg-id="63eb95baa99571000898a078" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" tvg-chno="235" group-title="Retro" , MacGyver
-https://r.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6489c42e976ee90008547503" tvg-id="6489c42e976ee90008547503" tvg-logo="https://images.pluto.tv/channels/6489c42e976ee90008547503/colorLogoPNG.png" tvg-chno="253" group-title="Retro" , Loco Por Ti
-https://r.mjh.nz/PlutoTV/6489c42e976ee90008547503-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f85f1dc1418bd0007e11eb9" tvg-id="5f85f1dc1418bd0007e11eb9" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" tvg-chno="259" group-title="Retro" , Los Tres Chiflados
-https://r.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-62e017e44823db000726cd9a" tvg-id="62e017e44823db000726cd9a" tvg-logo="https://images.pluto.tv/channels/62e017e44823db000726cd9a/colorLogoPNG.png" tvg-chno="261" group-title="Retro" , The Ed Sullivan Show
-https://r.mjh.nz/PlutoTV/62e017e44823db000726cd9a-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60142258a54aeb0007751c15" tvg-id="60142258a54aeb0007751c15" tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" tvg-chno="265" group-title="Retro" , Pluto TV Retro Cartoons
-https://r.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 
 
 
@@ -2659,91 +2596,156 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298
 
 #EXTINF:0 group-title="PELICULAS",PELIS | Rakuten TV Familia
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000 
 http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" group-title="TV 24/7",24/7 | CSI: Miami
+https://r.mjh.nz/PlutoTV/63eb9255c111bc0008fe6ec4-alt.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | ALERTA AEROPUERTO" tvg-logo="https://i.ibb.co/BTsG7rZ/AEROPUERTO.png" group-title="TV 24/7", | ALERTA AEROPUERTO
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" group-title="TV 24/7",24/7 | NCIS
+https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64ff270f30ab3300084e259c/colorLogoPNG.png" group-title="TV 24/7",24/7 | Rookie Blue: Policías Novatos
+https://r.mjh.nz/PlutoTV/64ff270f30ab3300084e259c-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64ff26233efb5100082eeb2e/colorLogoPNG.png" group-title="TV 24/7",24/7 | Infierno Sobre Ruedas
+https://r.mjh.nz/PlutoTV/64ff26233efb5100082eeb2e-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" group-title="TV 24/7",24/7 | Pluto TV Series
+https://r.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/624f4d4a4321e200073f46e0/colorLogoPNG.png" group-title="TV 24/7",24/7 | The Night Shift
+https://r.mjh.nz/PlutoTV/624f4d4a4321e200073f46e0-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ac814864949000724fb77/colorLogoPNG.png" group-title="TV 24/7",24/7 | Schitt's Creek
+https://r.mjh.nz/PlutoTV/620ac814864949000724fb77-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619d56d9fa3070000709e3f7/colorLogoPNG.png" group-title="TV 24/7",24/7 | Younger
+https://r.mjh.nz/PlutoTV/619d56d9fa3070000709e3f7-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG.png" group-title="TV 24/7",24/7 | Pluto TV Dramas Coreanos
+https://r.mjh.nz/PlutoTV/6185a9a88b2ce30007de5128-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png" group-title="TV 24/7",24/7 | Vive Kanal D Drama
+https://r.mjh.nz/PlutoTV/639751f81a36b400072b8f5a-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ffe17e3d765170007c3a4fe/colorLogoPNG.png" group-title="TV 24/7",24/7 | , Pluto TV España
+https://r.mjh.nz/PlutoTV/5ffe17e3d765170007c3a4fe-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" group-title="TV 24/7",24/7 | Pluto TV Series Latinas
+https://r.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="TV 24/7",24/7 | Pluto TV Series Retro
+https://r.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png" group-title="TV 24/7",24/7 | Hechizada
+https://r.mjh.nz/PlutoTV/631fb6be21b7440007b9f606-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6487761d17f5e10008cbc000/colorLogoPNG.png" group-title="TV 24/7",24/7 | Los Ángeles de Charlie
+https://r.mjh.nz/PlutoTV/6487761d17f5e10008cbc000-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6489c45766e48500083cceb6/colorLogoPNG.png"  group-title="TV 24/7",24/7 | Starsky & Hutch
+https://r.mjh.nz/PlutoTV/6489c45766e48500083cceb6-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png"  group-title="TV 24/7",24/7 | MacGyver
+https://r.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
+
+#EXTINF:-1 tvg-id="6489c42e976ee90008547503" tvg-logo="https://images.pluto.tv/channels/6489c42e976ee90008547503/colorLogoPNG.png"  group-title="TV 24/7",24/7 | Loco Por Ti
+https://r.mjh.nz/PlutoTV/6489c42e976ee90008547503-alt.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png"  group-title="TV 24/7",24/7 | Los Tres Chiflados
+https://r.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e017e44823db000726cd9a/colorLogoPNG.png" group-title="TV 24/7",24/7 | The Ed Sullivan Show
+https://r.mjh.nz/PlutoTV/62e017e44823db000726cd9a-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" group-title="TV 24/7",24/7 | Pluto TV Retro Cartoons
+https://r.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | ALERTA AEROPUERTO" tvg-logo="https://i.ibb.co/BTsG7rZ/AEROPUERTO.png" group-title="TV 24/7",24/7 | ALERTA AEROPUERTO
 http://cincotv.org:25461/Fermand693/Toapa475/101570
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | THE MANDALORIAN" tvg-logo="https://i.ibb.co/BTzvzbP/pngwing-com-4.png" group-title="TV 24/7", | THE MANDALORIAN
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | THE MANDALORIAN" tvg-logo="https://i.ibb.co/BTzvzbP/pngwing-com-4.png" group-title="TV 24/7",24/7 | THE MANDALORIAN
 http://cincotv.org:25461/Fermand693/Toapa475/139703
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | JUEGO DE TRONOS" tvg-logo="https://i.postimg.cc/yYv6r6Jm/JUEGO.png" group-title="TV 24/7", | JUEGO DE TRONOS
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | JUEGO DE TRONOS" tvg-logo="https://i.postimg.cc/yYv6r6Jm/JUEGO.png" group-title="TV 24/7",24/7 | JUEGO DE TRONOS
 http://cincotv.org:25461/Fermand693/Toapa475/139704
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ZOMBIE" tvg-logo="https://i.postimg.cc/YC4w600j/zombie.png" group-title="TV 24/7", |ZOMBIE
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ZOMBIE" tvg-logo="https://i.postimg.cc/YC4w600j/zombie.png" group-title="TV 24/7",24/7 |ZOMBIE
 http://cincotv.org:25461/Fermand693/Toapa475/181926
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 TERROR" tvg-logo="https://i.postimg.cc/kgSxRNQ4/tERROR.png" group-title="TV 24/7", |TERROR
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TERROR" tvg-logo="https://i.postimg.cc/kgSxRNQ4/tERROR.png" group-title="TV 24/7",24/7 |TERROR
 http://cincotv.org:25461/Fermand693/Toapa475/181927
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 THE WALKING DEAD" tvg-logo="https://i.postimg.cc/vZJ3CNmG/WALKING.png" group-title="TV 24/7", |THE WALKING DEAD
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE WALKING DEAD" tvg-logo="https://i.postimg.cc/vZJ3CNmG/WALKING.png" group-title="TV 24/7",24/7 |THE WALKING DEAD
 http://cincotv.org:25461/Fermand693/Toapa475/181928
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SCREAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTRUcUnAydqboYfis0IhhY1edDt.jpg" group-title="TV 24/7, |SCREAM
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SCREAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTRUcUnAydqboYfis0IhhY1edDt.jpg" group-title="TV 24/7,24/7 | SCREAM
 http://cincotv.org:25461/Fermand693/Toapa475/181929
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | GRAVITY FALLS" tvg-logo="https://i.ibb.co/GvXnYXR/gravity.png" group-title="TV 24/7", | GRAVITY FALLS
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | GRAVITY FALLS" tvg-logo="https://i.ibb.co/GvXnYXR/gravity.png" group-title="TV 24/7",24/7 | GRAVITY FALLS
 http://cincotv.org:25461/Fermand693/Toapa475/186864
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | LAURA BOZZO" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/laura-bozzo-png.png" group-title="TV 24/7", | LAURA BOZZO
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LAURA BOZZO" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/laura-bozzo-png.png" group-title="TV 24/7",24/7 | LAURA BOZZO
 http://cincotv.org:25461/Fermand693/Toapa475/186867
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MR. BEAN" tvg-logo="https://i.ibb.co/gr5gVC6/bean.png" group-title="TV 24/7", | MR. BEAN
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MR. BEAN" tvg-logo="https://i.ibb.co/gr5gVC6/bean.png" group-title="TV 24/7",24/7 | MR. BEAN
 http://cincotv.org:25461/Fermand693/Toapa475/186868
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ROCKY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rocky_Logo.svg/1200px-Rocky_Logo.svg.png" group-title="TV 24/7", |ROCKY
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ROCKY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rocky_Logo.svg/1200px-Rocky_Logo.svg.png" group-title="TV 24/7",24/7 |ROCKY
 http://cincotv.org:25461/Fermand693/Toapa475/26339
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | CANTINFLAS" tvg-logo="http://miarea.vip:8080/images/3c0775a906a0e93bb52a858a9d4f083b.png" group-title="TV 24/7", |CANTINFLAS
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | CANTINFLAS" tvg-logo="http://miarea.vip:8080/images/3c0775a906a0e93bb52a858a9d4f083b.png" group-title="TV 24/7",24/7 |CANTINFLAS
 http://cincotv.org:25461/Fermand693/Toapa475/28069
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | LA FAMILIA PELUCHE" tvg-logo="https://i.ibb.co/HXLthDJ/imagen.png" group-title="TV 24/7", | LA FAMILIA PELUCHE
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LA FAMILIA PELUCHE" tvg-logo="https://i.ibb.co/HXLthDJ/imagen.png" group-title="TV 24/7",24/7 | LA FAMILIA PELUCHE
 http://cincotv.org:25461/Fermand693/Toapa475/25195
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | UNA FAMILIA DE DIEZ" tvg-logo="" group-title="TV 24/7", | UNA FAMILIA DE DIEZ
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | UNA FAMILIA DE DIEZ" tvg-logo="" group-title="TV 24/7",24/7 | UNA FAMILIA DE DIEZ
 http://cincotv.org:25461/Fermand693/Toapa475/23852
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | ALF" tvg-logo="https://i.ibb.co/tJc50WH/imagen.png" group-title="TV 24/7", | ALF
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | ALF" tvg-logo="https://i.ibb.co/tJc50WH/imagen.png" group-title="TV 24/7",24/7 | ALF
 http://cincotv.org:25461/Fermand693/Toapa475/23940
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SAGAS" tvg-logo="https://i.postimg.cc/2jZqjjrd/SAGAS.png" group-title="TV 24/7", | SAGAS
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SAGAS" tvg-logo="https://i.postimg.cc/2jZqjjrd/SAGAS.png" group-title="TV 24/7",24/7 | SAGAS
 http://cincotv.org:25461/Fermand693/Toapa475/181930
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ROMANCE" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="TV 24/7", | ROMANCE
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ROMANCE" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="TV 24/7",24/7 | ROMANCE
 http://cincotv.org:25461/Fermand693/Toapa475/181931
 
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La rosa de Guadalupe" tvg-logo="https://i.ibb.co/0G8bPFb/Sin-t-tulo-1.png" group-title="TV 24/7", | La rosa de Guadalupe
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La rosa de Guadalupe" tvg-logo="https://i.ibb.co/0G8bPFb/Sin-t-tulo-1.png" group-title="TV 24/7",24/7 | La rosa de Guadalupe
 http://cincotv.org:25461/Fermand693/Toapa475/139706
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chapo" tvg-logo="https://i.ibb.co/7r8P7kc/pngegg-1.png" group-title="TV 24/7", | El Chapo
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chapo" tvg-logo="https://i.ibb.co/7r8P7kc/pngegg-1.png" group-title="TV 24/7",24/7 | El Chapo
 http://cincotv.org:25461/Fermand693/Toapa475/139707
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LOPS LOCOS ADDAMS" tvg-logo="https://i.ibb.co/sJSdhMH/locos.png" group-title="TV 24/7", |LOS LOCOS ADDAMS
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOPS LOCOS ADDAMS" tvg-logo="https://i.ibb.co/sJSdhMH/locos.png" group-title="TV 24/7",24/7 |LOS LOCOS ADDAMS
 http://cincotv.org:25461/Fermand693/Toapa475/186870
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | VIVOS" tvg-logo="https://www.larepublica.ec/wp-content/uploads/2014/04/Vivos2.png" group-title="TV 24/7", | VIVOS
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | VIVOS" tvg-logo="https://www.larepublica.ec/wp-content/uploads/2014/04/Vivos2.png" group-title="TV 24/7",24/7 | VIVOS
 http://cincotv.org:25461/Fermand693/Toapa475/25163
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El final del paraíso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B2upXyWC74tRmg6UEtuvIm08rQ.jpg" group-title="TV 24/7", |El final del paraíso
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El final del paraíso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B2upXyWC74tRmg6UEtuvIm08rQ.jpg" group-title="TV 24/7",24/7 | El final del paraíso
 http://cincotv.org:25461/Fermand693/Toapa475/169282
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | PEAKY BLINDERS" tvg-logo="https://i.ibb.co/Jxkk7nY/peaky.png" group-title="TV 24/7", | PEAKY BLINDERS
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | PEAKY BLINDERS" tvg-logo="https://i.ibb.co/Jxkk7nY/peaky.png" group-title="TV 24/7",24/7 | PEAKY BLINDERS
 http://cincotv.org:25461/Fermand693/Toapa475/182136
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | SONIC X" tvg-logo="https://info.sonicretro.org/images/b/b7/Sonicx.png" group-title="TV 24/7", | SONIC X
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | SONIC X" tvg-logo="https://info.sonicretro.org/images/b/b7/Sonicx.png" group-title="TV 24/7",24/7 | SONIC X
 http://cincotv.org:25461/Fermand693/Toapa475/182137
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | DARK" tvg-logo="https://dark.netflix.io/share/global.png" group-title="TV 24/7", | DARK
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DARK" tvg-logo="https://dark.netflix.io/share/global.png" group-title="TV 24/7",24/7 | DARK
 http://cincotv.org:25461/Fermand693/Toapa475/182138
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | MERLIN" tvg-logo="https://i.ibb.co/DCfhSFH/pngegg-4.png" group-title="TV 24/7", | MERLIN
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | MERLIN" tvg-logo="https://i.ibb.co/DCfhSFH/pngegg-4.png" group-title="TV 24/7",24/7 | MERLIN
 http://cincotv.org:25461/Fermand693/Toapa475/182139
 
 
