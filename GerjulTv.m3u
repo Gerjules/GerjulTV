@@ -258,8 +258,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees
 #EXTINF:0 group-title="PELICULAS",PELIS | Runtime Accion
 https://run-rt-ac.otteravision.com/run/rt_ac/rt_ac_720.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png" group-title="PELICULAS",PELIS | Guía de canales
 https://r.mjh.nz/PlutoTV/5e793a7cfbdf780007f7eb75-alt.m3u8
 
@@ -3052,6 +3050,55 @@ http://infantil-crtvg.flumotion.com/chunks.m3u8
 http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LA FAMILIA PELUCHE" tvg-logo="https://i.ibb.co/HXLthDJ/imagen.png" group-title="TV || 24/7 SERIES",24/7 | LA FAMILIA PELUCHE
+http://cincotv.org:25461/Fermand693/Toapa475/25195
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | UNA FAMILIA DE DIEZ" tvg-logo="" group-title="TV || 24/7 SERIES",UNA FAMILIA DE DIEZ
+http://cincotv.org:25461/Fermand693/Toapa475/23852
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | ALF" tvg-logo="https://i.ibb.co/tJc50WH/imagen.png" group-title="TV || 24/7 SERIES",24/7 |ALF
+http://cincotv.org:25461/Fermand693/Toapa475/23940
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | VIVOS" tvg-logo="https://www.larepublica.ec/wp-content/uploads/2014/04/Vivos2.png" group-title="TV || 24/7 SERIES",24/7 | VIVOS
+http://cincotv.org:25461/Fermand693/Toapa475/25163
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | SCOOBY DOO" tvg-logo="https://irs.www.warnerbros.com/mobile-app-games-square-png/game/media/browser/ScoobyDooMystery_icon.png" group-title="INFANTIL",INF | SCOOBY DOO
+http://cincotv.org:25461/Fermand693/Toapa475/23854
+
+#EXTINF:-1 tvg-id="Boing" tvg-name="BOING KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Boing.png" group-title="INFANTIL",INF | BOING KIDS HD
+http://cincotv.org:25461/Fermand693/Toapa475/23857
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LA CASA DE MICKEY MOUSE" tvg-logo="https://i.ibb.co/wKkHdLw/Nice-Png-mickey-mouse-logo-png-478826.png" group-title="INFANTIL",INF | LA CASA DE MICKEY MOUSE
+http://cincotv.org:25461/Fermand693/Toapa475/23964
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | MALCOLM EL DEL MEDIO" tvg-logo="https://images5.alphacoders.com/407/thumb-1920-407425.png" group-title="INFANTIL",INF | MALCOLM EL DEL MEDIO
+http://cincotv.org:25461/Fermand693/Toapa475/23974
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | CHESPIRITO" tvg-logo="https://i.ibb.co/zPtzGV0/chespirito.png" group-title="INFANTIL",INF | CHESPIRITO
+http://cincotv.org:25461/Fermand693/Toapa475/25154
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | PAW PATROL" tvg-logo="http://miarea.vip:8080/images/f8c4b9c957939b596d8fef4c6c880119.png" group-title="INFANTIL",INF | PAW PATROL
+http://cincotv.org:25461/Fermand693/Toapa475/25155
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | 2 PERROS TONTOS" tvg-logo="https://i.ibb.co/hg3yhz8/pngwing-com-3.png" group-title="INFANTIL",INF | 2 PERROS TONTOS
+http://cincotv.org:25461/Fermand693/Toapa475/25156
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL PAJARO LOCO" tvg-logo="https://i.ibb.co/X7k2bsj/PAJARO.png" group-title="INFANTIL",INF | EL PAJARO LOCO
+http://cincotv.org:25461/Fermand693/Toapa475/25158
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LA FAMILIA MONSTER" tvg-logo="https://i.ibb.co/v1NCJwW/MONSTER.png" group-title="INFANTIL",INF | LA FAMILIA MONSTER
+http://cincotv.org:25461/Fermand693/Toapa475/25159
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LOS SUPER CAMPEONES" tvg-logo="https://i.ibb.co/hVZ2mFf/SUPER-CAMPEONES.jpg" group-title="INFANTIL",INF | LOS SUPER CAMPEONES
+http://cincotv.org:25461/Fermand693/Toapa475/25160
+
+
 #EXTINF:0 group-title="INFANTIL",INF | Nick Clasico
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
@@ -3102,14 +3149,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373f1a12dd9f00077dcd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bb430b50-dea7-11eb-be60-3b6a118ac8ac&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=463c119a-456a-46c9-a878-3ce9897b7179&userId=&serverSideAds=true
-#EXTINF:0 group-title="INFANTIL",INF | Xtrema Anime (360p)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
-#EXTINF:0 group-title="INFANTIL",INF | XTREMA ANIME
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
+
 #EXTINF:0 group-title="INFANTIL",INF | Anime
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=3000
@@ -3122,18 +3162,6 @@ https://i.mjh.nz/PlutoTV/608035b8d8705f0007260287-alt.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/608035b8d8705f0007260287-alt.m3u8
-#EXTINF:0 group-title="INFANTIL",INF | PLUTO TV ANIME (España)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/608035b8d8705f0007260287/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=216343b0-c804-11eb-9820-5521c83f8ae2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=aab02aec-78bc-44ef-9e5d-e1517268baa5&userId=&serverSideAds=true
-#EXTINF:0 group-title="INFANTIL",INF | PLUTO TV ANIME
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e91-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf9f2657-23e0-4f9a-aed5-1895900d08da&userId=&serverSideAds=true
-#EXTINF:0 group-title="INFANTIL",INF | PLUTO TV ANIME ACCIÓN
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc43-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0102247d-6255-454b-b42a-4ed18335dc86&userId=&serverSideAds=true
 #EXTINF:0 group-title="INFANTIL",INF | Anime Kids
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=3000
@@ -3286,14 +3314,11 @@ https://i.mjh.nz/PlutoTV/6322099c822bbc00074857db-alt.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/63dd5d7a4e83e700088fbca8-alt.m3u8
-#EXTINF:0 group-title="INFANTIL",INF | Pluto TV Kids
+#EXTINF:0 group-title="INFANTIL",INF | PLUTO TV ANIME (España)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5dd6dae8ce788b0009eaf77b-alt.m3u8
-#EXTINF:0 group-title="INFANTIL",INF | Pluto TV Anime Kids
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/608035b8d8705f0007260287/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=216343b0-c804-11eb-9820-5521c83f8ae2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=aab02aec-78bc-44ef-9e5d-e1517268baa5&userId=&serverSideAds=true
+
 
 #EXTINF:-1 group-title="" tvg-logo="https://pelisimg.online/cover/blue-beetle-1692423798.png",Escarabajo Azul
 https://server09.peliscdn.online/newhls/ff2a97300310a75dd7b7b4083afe3008/EP.0.2.v1.1695149195.720.m3u8
