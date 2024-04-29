@@ -2863,186 +2863,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298
 
 
 
-#EXTINF:0 group-title="INFANTIL",INF | Xtrema Anime (360p)
-https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
 
-#EXTINF:0 group-title="INFANTIL",INF | Xtrema Cartoons (360p)
-https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 
-#EXTINF:0 group-title="INFANTIL",INF | Xtrema Retro Cartoons (360p)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
-
-#EXTINF:0 group-title="INFANTIL",INF | Pluto TV Anime
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="INFANTIL",INF | Pluto TV Junior
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="INFANTIL",INF | Pluto TV Kids
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="INFANTIL",INF | Pluto TV Teen
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd6de52b9914200091f047a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="INFANTIL",INF | Nick Clásico
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="INFANTIL",INF | Nick Jr. Club
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="INFANTIL",INF | Babar
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="INFANTIL",INF | Pluto TV Animé Acción
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:0 group-title="INFANTIL",INF | Rugrats Crecidos
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="INFANTIL",INF | Naruto
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="INFANTIL",INF | Barney
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="INFANTIL",INF | El Reino Infantil
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="INFANTIL",INF | Las Pistas de Blue
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="INFANTIL",INF | Nick Teen
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="INFANTIL",INF | ESR 24/7
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb554d87a0c480007c8dada/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="INFANTIL",INF | Kenan y Kel
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="INFANTIL",INF | Yu-Gi-Oh
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="INFANTIL",INF | One Piece
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="INFANTIL",INF | Tokusato
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c366/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="INFANTIL",INF | LOGOS TV KIDS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
-#EXTINF:0 group-title="INFANTIL",INF | LATINO KIDS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
-#EXTINF:0 group-title="INFANTIL",INF | CANELA KIDS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-#EXTINF:0 group-title="INFANTIL",INF | PBS KIDS (Inglés)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:0 group-title="INFANTIL",INF | ANIMAKIDS (España)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4a9081-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0c9000f4-d30c-416a-8bcb-5aa42bc26c6b&userId=&serverSideAds=true
-#EXTINF:0 group-title="INFANTIL",INF | MAGIC KIDS
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://magicstream.ddns.net:443/magicstream/stream.m3u8
-#EXTINF:0 group-title="INFANTIL",INF | Latino Kids TV 
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
-#EXTINF:0 group-title="INFANTIL",INF | DIOS TV VE KIDS
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="INFANTIL",INF | Kids
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5dd6dae8ce788b0009eaf77b-alt.m3u8
-#EXTINF:0 group-title="INFANTIL",INF | Pluto TV Kids
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f1aab1d29b39600073e243f-alt.m3u8
-#EXTINF:0 group-title="INFANTIL",INF | PLUTO TV KIDS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ef84427d-008b-4c14-b485-09f974e5056f&userId=&serverSideAds=true
-#EXTINF:0 group-title="INFANTIL",INF | PLUTO TV KIDS (España)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a09b16cd4ab0007d24fb8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4cb362-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=afa8239d-eea1-4295-b421-43f3852ddc10&userId=&serverSideAds=true
-#EXTINF:0 group-title="INFANTIL",INF | PLUTO TV KIDS 2 (España)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a09b16cd4ab0007d24fb8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4cb362-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=afa8239d-eea1-4295-b421-43f3852ddc10&userId=&serverSideAds=true
-#EXTINF:0 group-title="INFANTIL",INF | Pluto TV Animakids
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f1aabee6f4a2c00076a322c-alt.m3u8
-#EXTINF:0 group-title="INFANTIL",INF | Kids
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f1aab1d29b39600073e243f-alt.m3u8
-#EXTINF:0 group-title="INFANTIL",INF | AnimeStation
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
-#EXTINF:0 group-title="INFANTIL",INF | Magic
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://magicstream.ddns.net/magicstream/stream.m3u8
-#EXTINF:0 group-title="INFANTIL",INF | Retro Infantil
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
-#EXTINF:0 group-title="INFANTIL",INF | Latino Kids TV
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
-#EXTINF:0 group-title="INFANTIL",INF | Pitufo TV
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
-#EXTINF:0 group-title="INFANTIL",INF | Planetatv family
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
-#EXTINF:0 group-title="INFANTIL",INF | Moni TV HD
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
-#EXTINF:0 group-title="INFANTIL",INF | Xabarin TV
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://infantil-crtvg.flumotion.com/chunks.m3u8
 
 #EXTINF:0 group-title="PELICULAS",PELIS | Rakuten TV Familia
 #EXTVLCOPT:network-caching=3000
@@ -3277,7 +3099,175 @@ http://cincotv.org:25461/Fermand693/Toapa475/186450
 #EXTINF:-1 tvg-id="" tvg-name="BABY TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="INFANTIL",INF | BABY TV HD
 http://cincotv.org:25461/Fermand693/Toapa475/186451
 
+#EXTINF:0 group-title="INFANTIL",INF | Pluto TV Anime
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 group-title="INFANTIL",INF | Pluto TV Junior
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 group-title="INFANTIL",INF | Pluto TV Kids
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 group-title="INFANTIL",INF | Pluto TV Teen
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd6de52b9914200091f047a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 group-title="INFANTIL",INF | Nick Clásico
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 group-title="INFANTIL",INF | Nick Jr. Club
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 group-title="INFANTIL",INF | Babar
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 group-title="INFANTIL",INF | Pluto TV Animé Acción
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:0 group-title="INFANTIL",INF | Rugrats Crecidos
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 group-title="INFANTIL",INF | Naruto
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 group-title="INFANTIL",INF | Barney
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 group-title="INFANTIL",INF | El Reino Infantil
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 group-title="INFANTIL",INF | Las Pistas de Blue
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 group-title="INFANTIL",INF | Nick Teen
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 group-title="INFANTIL",INF | ESR 24/7
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb554d87a0c480007c8dada/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 group-title="INFANTIL",INF | Kenan y Kel
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 group-title="INFANTIL",INF | Yu-Gi-Oh
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 group-title="INFANTIL",INF | One Piece
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 group-title="INFANTIL",INF | Tokusato
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c366/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 group-title="INFANTIL",INF | LOGOS TV KIDS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
+#EXTINF:0 group-title="INFANTIL",INF | LATINO KIDS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
+#EXTINF:0 group-title="INFANTIL",INF | CANELA KIDS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+#EXTINF:0 group-title="INFANTIL",INF | PBS KIDS (Inglés)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:0 group-title="INFANTIL",INF | ANIMAKIDS (España)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4a9081-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0c9000f4-d30c-416a-8bcb-5aa42bc26c6b&userId=&serverSideAds=true
+#EXTINF:0 group-title="INFANTIL",INF | MAGIC KIDS
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=3000
+https://magicstream.ddns.net:443/magicstream/stream.m3u8
+#EXTINF:0 group-title="INFANTIL",INF | Latino Kids TV 
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=3000
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+#EXTINF:0 group-title="INFANTIL",INF | DIOS TV VE KIDS
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=3000
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="INFANTIL",INF | Kids
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5dd6dae8ce788b0009eaf77b-alt.m3u8
+#EXTINF:0 group-title="INFANTIL",INF | Pluto TV Kids
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5f1aab1d29b39600073e243f-alt.m3u8
+#EXTINF:0 group-title="INFANTIL",INF | PLUTO TV KIDS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ef84427d-008b-4c14-b485-09f974e5056f&userId=&serverSideAds=true
+#EXTINF:0 group-title="INFANTIL",INF | PLUTO TV KIDS (España)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a09b16cd4ab0007d24fb8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4cb362-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=afa8239d-eea1-4295-b421-43f3852ddc10&userId=&serverSideAds=true
+#EXTINF:0 group-title="INFANTIL",INF | PLUTO TV KIDS 2 (España)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a09b16cd4ab0007d24fb8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4cb362-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=afa8239d-eea1-4295-b421-43f3852ddc10&userId=&serverSideAds=true
+#EXTINF:0 group-title="INFANTIL",INF | Pluto TV Animakids
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5f1aabee6f4a2c00076a322c-alt.m3u8
+#EXTINF:0 group-title="INFANTIL",INF | Kids
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5f1aab1d29b39600073e243f-alt.m3u8
+#EXTINF:0 group-title="INFANTIL",INF | AnimeStation
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
+#EXTINF:0 group-title="INFANTIL",INF | Magic
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:0 group-title="INFANTIL",INF | Retro Infantil
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+#EXTINF:0 group-title="INFANTIL",INF | Latino Kids TV
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+#EXTINF:0 group-title="INFANTIL",INF | Pitufo TV
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
+#EXTINF:0 group-title="INFANTIL",INF | Planetatv family
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
+#EXTINF:0 group-title="INFANTIL",INF | Moni TV HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+#EXTINF:0 group-title="INFANTIL",INF | Xabarin TV
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+http://infantil-crtvg.flumotion.com/chunks.m3u8
 
 #EXTINF:0 group-title="INFANTIL",INF | Nick Clasico
 #EXTVLCOPT:network-caching=3000
