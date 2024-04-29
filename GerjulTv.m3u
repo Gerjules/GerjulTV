@@ -235,10 +235,10 @@ https://i.mjh.nz/PlutoTV/5f523aa5523ae000074745ec-alt.m3u8
 #EXTINF:0 group-title="NOTICIAS",NOT | Chilevision Noticias
 https://i.mjh.nz/PlutoTV/61f94a2866401100074e9dee-alt.m3u8
 
-#EXTINF:-1 tvg-id="62310d5a5dc9550007c6f580" tvg-logo="https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG.png"  group-title="NOTICIAS",NOT |CBS News
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG.png"  group-title="NOTICIAS",NOT |CBS News
 https://r.mjh.nz/PlutoTV/62310d5a5dc9550007c6f580-alt.m3u8
 
-#EXTINF:-1 tvg-id="619d59b7cbef25000728221c" tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png" group-title="NOTICIAS",NOT |Euronews Español
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png" group-title="NOTICIAS",NOT |Euronews Español
 https://r.mjh.nz/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
 
 #EXTINF:-1 tvg-id="5f523aa5523ae000074745ec" tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="NOTICIAS",NOT |Telefe Noticias
@@ -1458,41 +1458,6 @@ http://motivatv.club:80/LEONARDOSAN2/57155/592226
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium",CINE| HBO HD
-http://204.157.251.250:8000/play/a06t/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium",CINE|  HBO2 HD
-http://204.157.251.250:8000/play/a06u/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium",CINE|  HBO2 HD
-http://186.28.229.140:8000/play/a0ai/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium",CINE|  HBO 2 HD
-http://181.129.198.235:8000/play/a022/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MciBaNx.png" group-title="⭐️ Cine Premium",CINE|  HBO Family HD
-http://186.148.163.18:8000/play/a052/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium",CINE|  HBO Plus HD
-http://204.157.251.250:8000/play/a06v/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HR9jECo.png" group-title="⭐️ Cine Premium",CINE|  HBO XTREME
-http://204.157.251.250:8000/play/a06x/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HR9jECo.png" group-title="⭐️ Cine Premium",CINE|  HBO XTREME
-http://186.148.163.18:8000/play/a053/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HR9jECo.png" group-title="⭐️ Cine Premium",CINE|  HBO XTREME HD
-http://181.129.198.235:8000/play/a01h/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium",CINE|  HBO POP HD
-http://38.43.150.126:8000/play/a034/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="⭐️ Cine Premium",CINE|  HBO Family HD
-http://204.157.251.250:8000/play/a06w/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YvpthIA.png" group-title="⭐️ Cine Premium",CINE|  Paramount HD
-http://200.114.68.133:8999/play/a0tl/index.m3u8
-
-
-http://38.43.150.127:8000/play/a032/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xJ0FecU.png" group-title="⭐️ Cine Premium",CINE|  De Pelicula
-http://38.43.150.126:8000/play/a04i/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ftBmXEq.jpg" group-title="⭐️ Cine Premium",CINE|  AZ Cinema HD
-
-
-
 #EXTINF:0 group-title="SERIES",SER | ViX Jajaja (1080p)
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
@@ -1680,14 +1645,7 @@ http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612289&
 #EXTINF: 0 tvg-logo="https://1.bp.blogspot.com/-_a04T085R7k/X-p6kFyAXTI/AAAAAAAA69M/VqLD2L7aKfwcBRjcNzMXg6OIc9mWAHLiwCLcBGAsYHQ/s1080/NGW.png" group-title="VARIOS (Nuevo)",VAR | Nat Geo Wild
 http://myteve.online:8080/30fe809e/ec00cbf3/38698
 
-#EXTINF: 0 tvg-logo="https://www.pngkit.com/png/full/302-3027387_fx-hd-fx-hd-logo-png.png" group-title="VARIOS (Nuevo)",VAR | FXHD 
-http://myteve.online:8080/30fe809e/ec00cbf3/172268
-#EXTINF: 0 tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png" group-title="VARIOS (Nuevo)",VAR | Viajar
-https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
-#EXTINF: 0 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NETTV.png" group-title="VARIOS (Nuevo)",VAR | NET TV
-http://4ksuper.live:80/13cfc0ead4/422fcdc94be6/926501
-#EXTINF: 0 tvg-logo="https://1.bp.blogspot.com/_mBmoS0RssN0/TClxVNjJAJI/AAAAAAAABio/de3i3kqBkXA/s400/LOGOVOLVER2010+Baja.JPG" group-title="VARIOS (Nuevo)",VAR | Volver 
-http://myteve.online:8080/30fe809e/ec00cbf3/49329
+
 
 
 
