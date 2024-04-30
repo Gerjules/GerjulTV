@@ -1662,29 +1662,26 @@ https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/in
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jBtEvjgeuflxAOaGw6m010QXQz4xhvdNFkLEsOK_e7Caiub_1UCS8MDFA1EC7Z51cSsJHBq0=s176-c-k-c0x00ffffff-no-rj" group-title="DEPORTES",SPORT | EVENTOS TyC PLAY 12
 https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",SPORT | TNT SPORTS 🇧🇷 
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="DEPORTES",SPORT | ESPNᴴᴰ 🇧🇷 🟡
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/1
 
-#EXTINF:-1 group-title="DEPORTES",SPORT | TNT SPORTS 🇧🇷 
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="DEPORTES",SPORT | ESPNᴴᴰ 🇧🇷 🟢
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium81/index.m3u8$OPT:http-referrer=https://claplivehdplay.ru/$OPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title="DEPORTES",SPORT | TNTSPORTS 1 🇧🇷 
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",SPORT | TNTSPORTS 2 🇧🇷 
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="DEPORTES",SPORT | ESPN 3ᴴᴰ 🇧🇷 🟢
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium83/index.m3u8$OPT:http-referrer=https://claplivehdplay.ru/$OPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title="DEPORTES",SPORT | TNTSPORTS 3 🇧🇷 
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",SPORT | TNTSPORTS 4 🇧🇷 
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="DEPORTES",SPORT | ESPN 4 🇧🇷 🟡
+http://globo.xphost18.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/66
 
-#EXTINF:-1 group-title="DEPORTES",SPORT | TNTSPORTS 5 🇧🇷 
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="DEPORTES",SPORT | ESPN 4ᴴᴰ 🇧🇷 🟢
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium85/index.m3u8$OPT:http-referrer=https://claplivehdplay.ru/$OPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title="DEPORTES",SPORT | ESPORTE INTERACTIVO 🇧🇷 
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
 
 
