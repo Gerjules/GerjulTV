@@ -306,6 +306,8 @@ http://cincotv.org:25461/Fermand693/Toapa475/186481
 http://cincotv.org:25461/Fermand693/Toapa475/186482
 #EXTINF:-1 tvg-id="0814" tvg-name="PREMIUM | HBO 2" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBO.png" group-title="PELICULAS",PELIS | HBO 2
 http://cincotv.org:25461/Fermand693/Toapa475/186483
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="HBO PLUS HD" tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif" group-title="PELICULAS",PELIS | HBO PLUS
+http://sdmx.vip:8080/Joseluis/Joseluis123/2092585
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM | UNIVERSAL COMEDY HD" tvg-logo="https://universalplus.com/assets/logo_comedy_hero.png" group-title="PELICULAS",PELIS | UNIVERSAL COMEDY HD
 http://cincotv.org:25461/Fermand693/Toapa475/186484
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM | UNIVERSAL CINEMA HD" tvg-logo="http://miarea.vip:8080/images/5290e121f398b2a63ed3b8b720b54d33.png" group-title="PELICULAS",PELIS | UNIVERSAL CINEMA HD
@@ -958,8 +960,6 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" group-title="⭐️ Cine Premium",CINE| Bayres TV 41.1
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="⭐️ Cine Premium",CINE| Cinecanal
-https://video-weaver.ord03.hls.ttvnw.net/v1/playlist/CswEr2rj22fBQGVE-8CvNsC_j5X3KU8CwUqxHISU-vRp7_RPALGem9teQfvdMgi6Rt19MFmYuWXs7nlbk4PviX4v7PfVXu1894Qc1DdEb59Z-tfB-_kb7NmCQUuzYbxzJBzc59ib10bLTfplXUNhccNOT4YbJnY5siHXz4Ew318SWqONwqrnd16GcnAkmKLGgX8SFU1gLvsppXTN56aamZjpXTRyXf9cYrGygwtDKjQbBQZa7poXR_qgx4e4NyQRVqjIW8NeyDHAF93PEx527cNFWY1z_vUce8VtnYqE1XS8gn1XrnfCVQFGBvgdnrK8wyvqVItKUrsqee_LqdrtblG0tcl2mx1JULYXxwnGllWf-WFqnCols3iUeZpBIwPIdsmukPPCkaJZR2xiUacAC477fMUWL8wIPuUW8BoQP1HvLLWCAMAQTkDtTfzwT_bCyaPVbr6MDmNXCtpfuqVKAqvZNyvskON7vZ4LapDqPK3bdsGV-KdKbDW_hdbXVVPFLYw6ppLgMUSez8sT0wGVjjTLeispEmCufbnxjmlWrvpvcdLmiXffqovGMvkxWoBQ4RD2oftMfg6sQGYwZuXB7sHdMp9dfAwJpzsp7bY_v8SG7pUDweUIDeF3GFSYsRreO7X31An9th1_YNbyQz9l_ZOB0tC0bMmJI77eaqlnyvA2grmD1C1RbxLCwvcksRpvfuS3Ek60g-pBsOZtMnPUHdaFeXSLSNXB4g4yGofHezD3pBG-axeGcZKXpTjNXnvPvwYRnAdEZj0dezjV9IcKGgyphBQ-fMjWt_46ZuggASoJdXMtZWFzdC0yMKUJ.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HQxKLlK.png" group-title="⭐️ Cine Premium",CINE| Xtrema Animal
 https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
@@ -1155,8 +1155,7 @@ http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="HBO PLUS HD" tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif" group-title="Peliculas" audio-track="spa",HBO PLUS
-http://sdmx.vip:8080/Joseluis/Joseluis123/2092585
+
 
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine Premium",CINE| HBO
 http://motivatv.club:80/LEONARDOSAN2/57155/592277 
