@@ -1349,137 +1349,137 @@ http://myteve.online:8080/30fe809e/ec00cbf3/38698
 
 
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title=" ⭐️ Deporte VIP", ESPN
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png"group-title="DEPORTES",SPORT | ESPN
 http://181.78.105.146:2000/play/a064/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title=" ⭐️ Deporte VIP", ESPN 2
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="DEPORTES",SPORT | ESPN 2
 http://181.78.105.146:2000/play/a063/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png" group-title=" ⭐️ Deporte VIP", ESPN 5 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png" group-title="DEPORTES",SPORT | ESPN 5 
 http://181.205.130.194:4000/play/a07t/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png" group-title=" ⭐️ Deporte VIP", ESPN 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png" group-title="DEPORTES",SPORT | ESPN 7
 http://181.205.130.194:4000/play/a07s/index.m3u8
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title=" ⭐️ Deporte VIP", TyC SPORTS Internacional
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES",SPORT | TyC SPORTS Internacional
 http://177.222.108.82:2500/play/a0h5/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jBtEvjgeuflxAOaGw6m010QXQz4xhvdNFkLEsOK_e7Caiub_1UCS8MDFA1EC7Z51cSsJHBq0=s176-c-k-c0x00ffffff-no-rj" group-title=" ⭐️ Deporte VIP", EVENTOS TyC PLAY 1
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jBtEvjgeuflxAOaGw6m010QXQz4xhvdNFkLEsOK_e7Caiub_1UCS8MDFA1EC7Z51cSsJHBq0=s176-c-k-c0x00ffffff-no-rj" group-title="DEPORTES",SPORT | EVENTOS TyC PLAY 1
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jBtEvjgeuflxAOaGw6m010QXQz4xhvdNFkLEsOK_e7Caiub_1UCS8MDFA1EC7Z51cSsJHBq0=s176-c-k-c0x00ffffff-no-rj" group-title=" ⭐️ Deporte VIP", EVENTOS TyC PLAY 2
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jBtEvjgeuflxAOaGw6m010QXQz4xhvdNFkLEsOK_e7Caiub_1UCS8MDFA1EC7Z51cSsJHBq0=s176-c-k-c0x00ffffff-no-rj" group-title="DEPORTES",SPORT | EVENTOS TyC PLAY 2
 https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jBtEvjgeuflxAOaGw6m010QXQz4xhvdNFkLEsOK_e7Caiub_1UCS8MDFA1EC7Z51cSsJHBq0=s176-c-k-c0x00ffffff-no-rj" group-title=" ⭐️ Deporte VIP", EVENTOS TyC PLAY 3
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jBtEvjgeuflxAOaGw6m010QXQz4xhvdNFkLEsOK_e7Caiub_1UCS8MDFA1EC7Z51cSsJHBq0=s176-c-k-c0x00ffffff-no-rj" group-title="DEPORTES",SPORT | EVENTOS TyC PLAY 3
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jBtEvjgeuflxAOaGw6m010QXQz4xhvdNFkLEsOK_e7Caiub_1UCS8MDFA1EC7Z51cSsJHBq0=s176-c-k-c0x00ffffff-no-rj" group-title=" ⭐️ Deporte VIP", EVENTOS TyC PLAY 4
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jBtEvjgeuflxAOaGw6m010QXQz4xhvdNFkLEsOK_e7Caiub_1UCS8MDFA1EC7Z51cSsJHBq0=s176-c-k-c0x00ffffff-no-rj" group-title="DEPORTES",SPORT | EVENTOS TyC PLAY 4
 https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jBtEvjgeuflxAOaGw6m010QXQz4xhvdNFkLEsOK_e7Caiub_1UCS8MDFA1EC7Z51cSsJHBq0=s176-c-k-c0x00ffffff-no-rj" group-title=" ⭐️ Deporte VIP", EVENTOS TyC PLAY 5
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jBtEvjgeuflxAOaGw6m010QXQz4xhvdNFkLEsOK_e7Caiub_1UCS8MDFA1EC7Z51cSsJHBq0=s176-c-k-c0x00ffffff-no-rj" group-title="DEPORTES",SPORT | EVENTOS TyC PLAY 5
 https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jBtEvjgeuflxAOaGw6m010QXQz4xhvdNFkLEsOK_e7Caiub_1UCS8MDFA1EC7Z51cSsJHBq0=s176-c-k-c0x00ffffff-no-rjgroup-title=" ⭐️ Deporte VIP", EVENTOS TyC PLAY 6
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jBtEvjgeuflxAOaGw6m010QXQz4xhvdNFkLEsOK_e7Caiub_1UCS8MDFA1EC7Z51cSsJHBq0=s176-c-k-c0x00ffffff-no-rj group-title="DEPORTES",SPORT | EVENTOS TyC PLAY 6
 https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jBtEvjgeuflxAOaGw6m010QXQz4xhvdNFkLEsOK_e7Caiub_1UCS8MDFA1EC7Z51cSsJHBq0=s176-c-k-c0x00ffffff-no-rjgroup-title=" ⭐️ Deporte VIP", EVENTOS TyC PLAY 7
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jBtEvjgeuflxAOaGw6m010QXQz4xhvdNFkLEsOK_e7Caiub_1UCS8MDFA1EC7Z51cSsJHBq0=s176-c-k-c0x00ffffff-no-rj group-title="DEPORTES",SPORT | EVENTOS TyC PLAY 7
 https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jBtEvjgeuflxAOaGw6m010QXQz4xhvdNFkLEsOK_e7Caiub_1UCS8MDFA1EC7Z51cSsJHBq0=s176-c-k-c0x00ffffff-no-rj" group-title=" ⭐️ Deporte VIP", EVENTOS TyC PLAY 8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jBtEvjgeuflxAOaGw6m010QXQz4xhvdNFkLEsOK_e7Caiub_1UCS8MDFA1EC7Z51cSsJHBq0=s176-c-k-c0x00ffffff-no-rj" group-title="DEPORTES",SPORT | EVENTOS TyC PLAY 8
 https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jBtEvjgeuflxAOaGw6m010QXQz4xhvdNFkLEsOK_e7Caiub_1UCS8MDFA1EC7Z51cSsJHBq0=s176-c-k-c0x00ffffff-no-rj" group-title=" ⭐️ Deporte VIP", EVENTOS TyC PLAY 9
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jBtEvjgeuflxAOaGw6m010QXQz4xhvdNFkLEsOK_e7Caiub_1UCS8MDFA1EC7Z51cSsJHBq0=s176-c-k-c0x00ffffff-no-rj" group-title="DEPORTES",SPORT | EVENTOS TyC PLAY 9
 https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jBtEvjgeuflxAOaGw6m010QXQz4xhvdNFkLEsOK_e7Caiub_1UCS8MDFA1EC7Z51cSsJHBq0=s176-c-k-c0x00ffffff-no-rj" group-title=" ⭐️ Deporte VIP", EVENTOS TyC PLAY 10
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jBtEvjgeuflxAOaGw6m010QXQz4xhvdNFkLEsOK_e7Caiub_1UCS8MDFA1EC7Z51cSsJHBq0=s176-c-k-c0x00ffffff-no-rj" group-title="DEPORTES",SPORT | EVENTOS TyC PLAY 10
 https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jBtEvjgeuflxAOaGw6m010QXQz4xhvdNFkLEsOK_e7Caiub_1UCS8MDFA1EC7Z51cSsJHBq0=s176-c-k-c0x00ffffff-no-rj" group-title=" ⭐️ Deporte VIP", EVENTOS TyC PLAY 11
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jBtEvjgeuflxAOaGw6m010QXQz4xhvdNFkLEsOK_e7Caiub_1UCS8MDFA1EC7Z51cSsJHBq0=s176-c-k-c0x00ffffff-no-rj" group-title="DEPORTES",SPORT | EVENTOS TyC PLAY 11
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jBtEvjgeuflxAOaGw6m010QXQz4xhvdNFkLEsOK_e7Caiub_1UCS8MDFA1EC7Z51cSsJHBq0=s176-c-k-c0x00ffffff-no-rj" group-title=" ⭐️ Deporte VIP", EVENTOS TyC PLAY 12
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jBtEvjgeuflxAOaGw6m010QXQz4xhvdNFkLEsOK_e7Caiub_1UCS8MDFA1EC7Z51cSsJHBq0=s176-c-k-c0x00ffffff-no-rj" group-title="DEPORTES",SPORT | EVENTOS TyC PLAY 12
 https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
 
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png" group-title=" ⭐️ Deporte VIP”, DEPORTV
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png" group-title="DEPORTES",SPORT | DEPORTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://gostreamtv.com/wp-content/uploads/channel-logos/beine.png" group-title=" ⭐️ Deporte VIP", BEIN SPORTS XTRA Ñ
+#EXTINF:-1 tvg-logo="https://gostreamtv.com/wp-content/uploads/channel-logos/beine.png" group-title="DEPORTES",SPORT | BEIN SPORTS XTRA Ñ
 https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ek_6qw0u6haNRkFE6uGos7WgtQ6VYTeWKaxRWwg8J9easyR-1slEEPrHbfkAW6e2EVzMceQY=s176-c-k-c0x00ffffff-no-rj" group-title=" ⭐️ Deporte VIP", CLARO SPORTS
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ek_6qw0u6haNRkFE6uGos7WgtQ6VYTeWKaxRWwg8J9easyR-1slEEPrHbfkAW6e2EVzMceQY=s176-c-k-c0x00ffffff-no-rj" group-title="DEPORTES",SPORT | CLARO SPORTS
 http://131.161.53.2:8000/play/a01i/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ek_6qw0u6haNRkFE6uGos7WgtQ6VYTeWKaxRWwg8J9easyR-1slEEPrHbfkAW6e2EVzMceQY=s176-c-k-c0x00ffffff-no-rj" group-title=" ⭐️ Deporte VIP", CLARO SPORTS 2
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ek_6qw0u6haNRkFE6uGos7WgtQ6VYTeWKaxRWwg8J9easyR-1slEEPrHbfkAW6e2EVzMceQY=s176-c-k-c0x00ffffff-no-rj" group-title="DEPORTES",SPORT | CLARO SPORTS 2
 http://131.161.53.2:8000/play/a045/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/colorLogoPNG.pngg" group-title=" ⭐️ Deporte VIP", Chilevision Deportes
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/colorLogoPNG.pngg" group-title="DEPORTES",SPORT | Chilevision Deportes
 https://stitcher.pluto.tv/stitch/hls/channel/638df6f8b63cf100075ccfa1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title=" ⭐️ Deporte VIP" , La Liga Premier
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="DEPORTES",SPORT | La Liga Premier
 https://stitcher.pluto.tv/stitch/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title=" ⭐️ Deporte VIP", ALL SPORTS
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="DEPORTES",SPORT | ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a00hgroup-title=" ⭐️ Deporte VIP",DIRECTV Liga 1 Max
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a00h group-title="DEPORTES",SPORT | DIRECTV Liga 1 Max
 http://177.53.153.20:8001/play/a00h/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a065" group-title=" ⭐️ Deporte VIP",ESPN  +
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a065" group-title="DEPORTES",SPORT | ESPN  +
 http://177.53.153.20:8001/play/a065/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a021" group-title=" ⭐️ Deporte VIP",ESPN 2 HD
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a021" group-title="DEPORTES",SPORT | ESPN 2 HD
 http://177.53.153.20:8001/play/a021/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02c" group-title=" ⭐️ Deporte VIP",ESPN 3 HD
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02c" group-title="DEPORTES",SPORT | ESPN 3 HD
 http://177.53.153.20:8001/play/a02c/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a03a" group-title=" ⭐️ Deporte VIP",ESPN EXTRA HD
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a03a" group-title="DEPORTES",SPORT | ESPN EXTRA HD
 http://177.53.153.20:8001/play/a03a/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a025" group-title=" ⭐️ Deporte VIP",ESPN HD
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a025" group-title="DEPORTES",SPORT | ESPN HD
 http://177.53.153.20:8001/play/a025/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a040" group-title=" ⭐️ Deporte VIP",ElCanaldelFutbol HD
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a040" group-title="DEPORTES",SPORT | ElCanaldelFutbol HD
 http://177.53.153.20:8001/play/a040/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a09j" group-title=" ⭐️ Deporte VIP",FUTV CR
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a09j" group-title="DEPORTES",SPORT | FUTV CR
 http://177.53.153.20:8001/play/a09j/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02d" group-title=" ⭐️ Deporte VIP",Fox Sports 3 HD
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02d" group-title="DEPORTES",SPORT | Fox Sports 3 HD
 http://177.53.153.20:8001/play/a02d/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a03z" group-title=" ⭐️ Deporte VIP",GOLPERU HD
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a03z" group-title="DEPORTES",SPORT | GOLPERU HD
 http://177.53.153.20:8001/play/a03z/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a03t" group-title=" ⭐️ Deporte VIP",GolTV HD
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a03t" group-title="DEPORTES",SPORT | GolTV HD
 http://177.53.153.20:8001/play/a03t/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a07i" group-title=" ⭐️ Deporte VIP",Latin America Sport
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a07i" group-title="DEPORTES",SPORT | Latin America Sport
 http://177.53.153.20:8001/play/a07i/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0ca" group-title=" ⭐️ Deporte VIP",Movistar Deportes HD
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0ca" group-title="DEPORTES",SPORT | Movistar Deportes HD
 http://177.53.153.20:8001/play/a0ca/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01x" group-title=" ⭐️ Deporte VIP",TNT SPORTS HD
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01x" group-title="DEPORTES",SPORT | TNT SPORTS HD
 http://177.53.153.20:8001/play/a01x/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a094" group-title=" ⭐️ Deporte VIP",Tigo Sports HD
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a094" group-title="DEPORTES",SPORT | Tigo Sports HD
 http://177.53.153.20:8001/play/a094/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/419614354158280704/WBvTLeRR.jpeg" group-title=" ⭐️ Deporte VIP", PAC 12
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/419614354158280704/WBvTLeRR.jpeg" group-title="DEPORTES",SPORT | PAC 12
 https://pac12-roku-us.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/ossom.cl/wp-content/uploads/2020/03/red_bull_tv.jpg?fit=610%2C350&ssl=1" group-title=" ⭐️ Deporte VIP", RED BULL TV
+#EXTINF:-1 tvg-logo="https://i2.wp.com/ossom.cl/wp-content/uploads/2020/03/red_bull_tv.jpg?fit=610%2C350&ssl=1" group-title="DEPORTES",SPORT | RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/WE5puu1Kk8-lIoPDJwRjOj_0r6nQoRQTb3h8s7vGKoYtJhG-BpIMnwJWXAJDjBVBfAMgroup-title=" ⭐️ Deporte VIP", Dubai Sports 1
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/WE5puu1Kk8-lIoPDJwRjOj_0r6nQoRQTb3h8s7vGKoYtJhG-BpIMnwJWXAJDjBVBfAM" group-title="DEPORTES",SPORT | Dubai Sports 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/WE5puu1Kk8-lIoPDJwRjOj_0r6nQoRQTb3h8s7vGKoYtJhG-BpIMnwJWXAJDjBVBfAM" group-title=" ⭐️ Deporte VIP", Dubai Sports 2
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/WE5puu1Kk8-lIoPDJwRjOj_0r6nQoRQTb3h8s7vGKoYtJhG-BpIMnwJWXAJDjBVBfAM" group-title="DEPORTES",SPORT | Dubai Sports 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/WE5puu1Kk8-lIoPDJwRjOj_0r6nQoRQTb3h8s7vGKoYtJhG-BpIMnwJWXAJDjBVBfAM" group-title=" ⭐️ Deporte VIP", Dubai Sports 3
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/WE5puu1Kk8-lIoPDJwRjOj_0r6nQoRQTb3h8s7vGKoYtJhG-BpIMnwJWXAJDjBVBfAM" group-title="DEPORTES",SPORT | Dubai Sports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
 
@@ -1487,18 +1487,18 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 
 
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaT3gx26UVHbEUvVEyoBVsxTXAIK_9zzPX4Ux4TK=s900-c-k-c0x00ffffff-no-rj" group-title=" ⭐️ Deporte VIP", TV Turf Movil
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaT3gx26UVHbEUvVEyoBVsxTXAIK_9zzPX4Ux4TK=s900-c-k-c0x00ffffff-no-rj" group-title="DEPORTES",SPORT | TV Turf Movil
 https://tvturf4.janus.cl/playlist/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1003998133997666304/lQgs94cF_400x400.jpg" group-title=" ⭐️ Deporte VIP", Valparaiso Sporting
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1003998133997666304/lQgs94cF_400x400.jpg" group-title="DEPORTES",SPORT | Valparaiso Sporting
 https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 FHD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZ5UTCOeWgHCSzTtzIG74Qrl-0duXJhd0Rg&usqp=CAU" group-title=" ⭐️ Deporte VIP", DAZN MOVISTAR 1
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 FHD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZ5UTCOeWgHCSzTtzIG74Qrl-0duXJhd0Rg&usqp=CAU" group-title="DEPORTES",SPORT | DAZN MOVISTAR 1
 http://novared.pro:8080/motors/checkmotors131021/110232
 
 
- #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1dBIigdVLzlfRRAIBISkf7k0k4E_3KvU_bw&usqp=CAU" group-title=" ⭐️ Deporte VIP", deportes ufc 
+ #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1dBIigdVLzlfRRAIBISkf7k0k4E_3KvU_bw&usqp=CAU" group-title="DEPORTES",SPORT | Deportes UFC 
 http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/8918
 
 
@@ -1622,9 +1622,6 @@ https://r.mjh.nz/PlutoTV/5e98b0447665f200078caded-alt.m3u8
 https://r.mjh.nz/PlutoTV/5f99a772c54853000797bf18-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-64f6163a30ab3300083d870e" tvg-id="64f6163a30ab3300083d870e" tvg-logo="https://images.pluto.tv/channels/64f6163a30ab3300083d870e/colorLogoPNG.png" tvg-chno="862" group-title="DEPORTES",SPORT | PFL MMA
-
-
-
 
 
 
