@@ -253,6 +253,14 @@ https://r.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="CINE AMAZON PRIME " tvg-logo="https://i.ibb.co/7Q9n3m1/descarga.png" group-title="PELICULAS",PELIS | CINE AMAZON PRIME 
+http://cincotv.org:25461/Fermand693/Toapa475/185031
+#EXTINF:-1 tvg-id="" tvg-name="CINE DISNEY+ " tvg-logo="https://i.ibb.co/kmbwWWv/descarga.png" group-title="PELICULAS",PELIS | CINE DISNEY+ 
+http://cincotv.org:25461/Fermand693/Toapa475/185032
+#EXTINF:-1 tvg-id="" tvg-name="CINE PARAMOUNT+" tvg-logo="https://i.ibb.co/tbpK2zf/descarga.png" group-title="PELICULAS",PELIS | CINE PARAMOUNT+
+http://cincotv.org:25461/Fermand693/Toapa475/185034
+#EXTINF:-1 tvg-id="" tvg-name="CINE STAR+ " tvg-logo="https://i.ibb.co/z8t9rC6/descarga-1.png" group-title="PELICULAS",PELIS | CINE STAR+ 
+http://cincotv.org:25461/Fermand693/Toapa475/185035
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="http://miarea.vip:8080/images/37615f643c1498831bdd142763b14d49.png" group-title="PELICULAS",PELIS | CINEMAX HD
 http://cincotv.org:25461/Fermand693/Toapa475/186452
 #EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="http://miarea.vip:8080/images/973b56cda0c1aa82b64ca4ee4fa2044a.png" group-title="PELICULAS",PELIS | SPACE HD
