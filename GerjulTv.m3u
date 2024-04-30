@@ -1662,6 +1662,30 @@ https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/in
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jBtEvjgeuflxAOaGw6m010QXQz4xhvdNFkLEsOK_e7Caiub_1UCS8MDFA1EC7Z51cSsJHBq0=s176-c-k-c0x00ffffff-no-rj" group-title="DEPORTES",SPORT | EVENTOS TyC PLAY 12
 https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
 
+#EXTINF:-1 group-title="DEPORTES",SPORT | TNT SPORTS 🇧🇷 
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",SPORT | TNT SPORTS 🇧🇷 
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",SPORT | TNTSPORTS 1 🇧🇷 
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",SPORT | TNTSPORTS 2 🇧🇷 
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",SPORT | TNTSPORTS 3 🇧🇷 
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",SPORT | TNTSPORTS 4 🇧🇷 
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",SPORT | TNTSPORTS 5 🇧🇷 
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",SPORT | ESPORTE INTERACTIVO 🇧🇷 
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
 
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png" group-title="DEPORTES",SPORT | DEPORTV
