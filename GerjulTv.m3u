@@ -9,7 +9,8 @@ http://cincotv.org:25461/Fermand693/Toapa475/53468
 #EXTINF:0 group-title="PARAGUAY",PY | TRECE
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 
-
+#EXTINF:0 group-title="PARAGUAY",PY | TELEFUTURO
+http://177.234.230.226:8010/play/a033/index.m3u8
 
 #EXTINF:0 group-title="PARAGUAY",PY | C9N (480p)
 https://alba-py-c9n-c9n.stream.mediatiquestream.com/playlist.m3u8
