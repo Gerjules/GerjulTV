@@ -474,46 +474,44 @@ https://r.mjh.nz/PlutoTV/609059dc63be6e0007b4eca6-alt.m3u8
 #EXTINF:-1 tvg-id="5dd6ddb30a1d8a000908ed4c" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png" tvg-chno="90" group-title="PELICULAS",PELIS | Pluto TV Cine Familia
 https://r.mjh.nz/PlutoTV/5dd6ddb30a1d8a000908ed4c-alt.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE PREMIUM" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png" group-title="TV || CINE Y SERIES",CINE PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="CINE PREMIUM" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png" group-title="PELICULAS",PELIS |CINE PREMIUM
 http://cincotv.org:25461/Fermand693/Toapa475/173277
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE FAMILIAR" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" group-title="TV || CINE Y SERIES",CINE FAMILIAR
+#EXTINF:-1 tvg-id="" tvg-name="CINE FAMILIAR" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" group-title="PELICULAS",PELIS | CINE FAMILIAR
 http://cincotv.org:25461/Fermand693/Toapa475/173278
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE HISPANO" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinehispano.png" group-title="TV || CINE Y SERIES",CINE HISPANO
+#EXTINF:-1 tvg-id="" tvg-name="CINE HISPANO" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinehispano.png" group-title="PELICULAS",PELIS | CINE HISPANO
 http://cincotv.org:25461/Fermand693/Toapa475/173279
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 1" tvg-logo="http://miarea.vip:8080/images/b26c430b77563771ebc075c349a1e9d2.png" group-title="TV || 24/7 CINE",CINE NETFLIX 1
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 1" tvg-logo="http://miarea.vip:8080/images/b26c430b77563771ebc075c349a1e9d2.png" group-title="PELICULAS",PELIS | CINE NETFLIX 1
 http://cincotv.org:25461/Fermand693/Toapa475/176198
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 2" tvg-logo="http://miarea.vip:8080/images/9f292e1a35dc6ae083b558c76796a386.png" group-title="TV || 24/7 CINE",CINE NETFLIX 2
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 2" tvg-logo="http://miarea.vip:8080/images/9f292e1a35dc6ae083b558c76796a386.png" group-title="PELICULAS",PELIS | CINE NETFLIX 2
 http://cincotv.org:25461/Fermand693/Toapa475/176199
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 3" tvg-logo="http://miarea.vip:8080/images/e584c0392a72284e0a6db6f24a5307fe.png" group-title="TV || 24/7 CINE",CINE NETFLIX 3
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 3" tvg-logo="http://miarea.vip:8080/images/e584c0392a72284e0a6db6f24a5307fe.png"group-title="PELICULAS",PELIS | CINE NETFLIX 3
 http://cincotv.org:25461/Fermand693/Toapa475/176200
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 4" tvg-logo="http://miarea.vip:8080/images/341cb746a182ce7794a01554edb5d600.png" group-title="TV || 24/7 CINE",CINE NETFLIX 4
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 4" tvg-logo="http://miarea.vip:8080/images/341cb746a182ce7794a01554edb5d600.png" group-title="PELICULAS",PELIS | CINE NETFLIX 4
 http://cincotv.org:25461/Fermand693/Toapa475/176201
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 5" tvg-logo="http://miarea.vip:8080/images/50b07b9f0c5e702bdcec7e3626645149.png" group-title="TV || 24/7 CINE",CINE NETFLIX 5
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 5" tvg-logo="http://miarea.vip:8080/images/50b07b9f0c5e702bdcec7e3626645149.png" group-title="PELICULAS",PELIS | CINE NETFLIX 5
 http://cincotv.org:25461/Fermand693/Toapa475/176202
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 6" tvg-logo="http://miarea.vip:8080/images/e05883a56570cbdd96af5d715b197fd7.png" group-title="TV || 24/7 CINE",CINE NETFLIX 6
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 6" tvg-logo="http://miarea.vip:8080/images/e05883a56570cbdd96af5d715b197fd7.png" group-title="PELICULAS",PELIS | CINE NETFLIX 6
 http://cincotv.org:25461/Fermand693/Toapa475/17620
 3
-#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 7" tvg-logo="http://miarea.vip:8080/images/1b7552bcff0edef542970672608c35b6.png" group-title="TV || 24/7 CINE",CINE NETFLIX 7
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 7" tvg-logo="http://miarea.vip:8080/images/1b7552bcff0edef542970672608c35b6.png" group-title="PELICULAS",PELIS | CINE NETFLIX 7
 http://cincotv.org:25461/Fermand693/Toapa475/176204
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 8" tvg-logo="http://miarea.vip:8080/images/0db817b6729c1fc9f8df4d501055a3f0.png" group-title="TV || 24/7 CINE",CINE NETFLIX 8
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 8" tvg-logo="http://miarea.vip:8080/images/0db817b6729c1fc9f8df4d501055a3f0.png" group-title="PELICULAS",PELIS | CINE NETFLIX 8
 http://cincotv.org:25461/Fermand693/Toapa475/176205
 
-#EXTINF:-1 tvg-id="" tvg-name="MUSICA ll HTV" tvg-logo="http://svtv.xyz:8000/images/55e730d0262e3f8f7f45f6bfc922b8f6.png" group-title="TV || MUSICA",MUSICA ll HTV
-http://cincotv.org:25461/Fermand693/Toapa475/176994
 
-#EXTINF:-1 tvg-id="" tvg-name="EPIX WEST HD" tvg-logo="https://i.ibb.co/DzJW6dv/epix.png" group-title="TV || CINE Y SERIES",EPIX WEST HD
+#EXTINF:-1 tvg-id="" tvg-name="EPIX WEST HD" tvg-logo="https://i.ibb.co/DzJW6dv/epix.png" group-title="PELICULAS",PELIS | EPIX WEST HD
 http://cincotv.org:25461/Fermand693/Toapa475/180752
 
-#EXTINF:-1 tvg-id="" tvg-name="ACTION MAX " tvg-logo="https://i.ibb.co/zFZ2F97/max.png" group-title="TV || CINE Y SERIES",ACTION MAX 
+#EXTINF:-1 tvg-id="" tvg-name="ACTION MAX " tvg-logo="https://i.ibb.co/zFZ2F97/max.png" group-title="PELICULAS",PELIS |  ACTION MAX 
 http://cincotv.org:25461/Fermand693/Toapa475/180753
 
 
