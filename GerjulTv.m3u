@@ -383,35 +383,6 @@ http://cincotv.org:25461/Fermand693/Toapa475/126339
 #EXTINF:-1 tvg-id="" tvg-name="MY TIME NETWORK HD LATINO" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="PELICULAS",PELIS | MY TIME NETWORK HD LATINO
 http://cincotv.org:25461/Fermand693/Toapa475/139692
 
-#EXTINF:-1 tvg-id="" tvg-name="MARVEL CHANNEL 1 HD" tvg-logo="http://miarea.vip:8080/images/cc297a0068853233ebf5ee7e90a3a96e.png" group-title="PELICULAS",PELIS | MARVEL CHANNEL 1 HD
-http://cincotv.org:25461/Fermand693/Toapa475/139693
-
-#EXTINF:-1 tvg-id="" tvg-name="MARVEL CHANNEL 2 HD" tvg-logo="http://miarea.vip:8080/images/cc297a0068853233ebf5ee7e90a3a96e.png" group-title="PELICULAS",PELIS | MARVEL CHANNEL 2 HD
-http://cincotv.org:25461/Fermand693/Toapa475/139694
-
-#EXTINF:-1 tvg-id="" tvg-name="MARVEL CHANNEL 3 HD" tvg-logo="http://miarea.vip:8080/images/cc297a0068853233ebf5ee7e90a3a96e.png" group-title="PELICULAS",PELIS | MARVEL CHANNEL 3 HD
-http://cincotv.org:25461/Fermand693/Toapa475/139695
-
-#EXTINF:-1 tvg-id="" tvg-name="MARVEL CHANNEL 4 HD" tvg-logo="http://miarea.vip:8080/images/cc297a0068853233ebf5ee7e90a3a96e.png" group-title="PELICULAS",PELIS | MARVEL CHANNEL 4 HD
-http://cincotv.org:25461/Fermand693/Toapa475/139696
-
-#EXTINF:-1 tvg-id="" tvg-name="MARVEL CHANNEL 5 HD" tvg-logo="http://miarea.vip:8080/images/cc297a0068853233ebf5ee7e90a3a96e.png" group-title="PELICULAS",PELIS | MARVEL CHANNEL 5 HD
-http://cincotv.org:25461/Fermand693/Toapa475/139697
-
-#EXTINF:-1 tvg-id="" tvg-name="MARVEL CHANNEL 6 HD" tvg-logo="http://miarea.vip:8080/images/cc297a0068853233ebf5ee7e90a3a96e.png" group-title="PELICULAS",PELIS | MARVEL CHANNEL 6 HD
-http://cincotv.org:25461/Fermand693/Toapa475/139698
-
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA FAMILIA" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="PELICULAS",PELIS | CINEMA FAMILIA
-http://cincotv.org:25461/Fermand693/Toapa475/139699
-
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA COMEDIA" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="PELICULAS",PELIS | CINEMA COMEDIA
-http://cincotv.org:25461/Fermand693/Toapa475/139700
-
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA TERROR" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="PELICULAS",PELIS | CINEMA TERROR
-http://cincotv.org:25461/Fermand693/Toapa475/139701
-
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA LEGO MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/The_Lego_Movie_logo.png" group-title="PELICULAS",PELIS | CINEMA LEGO MOVIES
-http://cincotv.org:25461/Fermand693/Toapa475/139702
 
 
 
@@ -468,10 +439,10 @@ https://r.mjh.nz/PlutoTV/5fcea359e533cb0007215c71-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" tvg-chno="66" group-title="PELICULAS",PELIS | Pluto TV  Nuestro Cine
 https://r.mjh.nz/PlutoTV/5defde6d6c07b50009cf0757-alt.m3u8
 
-#EXTINF:-1 tvg-id="609059dc63be6e0007b4eca6" tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" tvg-chno="87" group-title="PELICULAS",PELIS | Pluto TV Cine Clásico
+#EXTINF:-1 tvg-id="609059dc63be6e0007b4eca6" tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png"  group-title="PELICULAS",PELIS | Pluto TV Cine Clásico
 https://r.mjh.nz/PlutoTV/609059dc63be6e0007b4eca6-alt.m3u8
 
-#EXTINF:-1 tvg-id="5dd6ddb30a1d8a000908ed4c" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png" tvg-chno="90" group-title="PELICULAS",PELIS | Pluto TV Cine Familia
+#EXTINF:-1 tvg-id="5dd6ddb30a1d8a000908ed4c" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png" group-title="PELICULAS",PELIS | Pluto TV Cine Familia
 https://r.mjh.nz/PlutoTV/5dd6ddb30a1d8a000908ed4c-alt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE PREMIUM" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png" group-title="PELICULAS",PELIS |CINE PREMIUM
@@ -489,7 +460,7 @@ http://cincotv.org:25461/Fermand693/Toapa475/176198
 #EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 2" tvg-logo="http://miarea.vip:8080/images/9f292e1a35dc6ae083b558c76796a386.png" group-title="PELICULAS",PELIS | CINE NETFLIX 2
 http://cincotv.org:25461/Fermand693/Toapa475/176199
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 3" tvg-logo="http://miarea.vip:8080/images/e584c0392a72284e0a6db6f24a5307fe.png"group-title="PELICULAS",PELIS | CINE NETFLIX 3
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 3" tvg-logo="http://miarea.vip:8080/images/e584c0392a72284e0a6db6f24a5307fe.png" group-title="PELICULAS",PELIS | CINE NETFLIX 3
 http://cincotv.org:25461/Fermand693/Toapa475/176200
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 4" tvg-logo="http://miarea.vip:8080/images/341cb746a182ce7794a01554edb5d600.png" group-title="PELICULAS",PELIS | CINE NETFLIX 4
