@@ -1119,6 +1119,9 @@ http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/278168.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="⭐️ Cultura",CUL| History Channel
 https://video-weaver.ord56.hls.ttvnw.net/v1/playlist/CskE0qqhhzny2WIBamibi74RxIBhu5mlWh0-3WlYyLB2Hsk_JD1WC44DsYnVWlnCK4Y895Zm60Vy2orLGqu6n1OS64cOS6MaNWMY5H04rDsitYFJH4CdmtRTstQdfJ0zsMTB3T2QKVq7-FNf8Oc-54mPIw_t46z7XGitsuDkWeIBlm7Lndb5PCAGnKb6Rqn0t3CJBkLCTDQwuii7b402lyzmEKuMOhb6-mDYS19KJFl31IKxuqtYoFvOfa5cko5p_aZlZfhkLXazVFeLlOzQMhVCciutl62lOMiMez4YIo6stb2ltVF96868yXi_fxaMAESO9wI1p-pcv_ZHauuw-Zium7parIRZZqzRiaPIUkJJnGqXPJPrCZ_84iAKeltilb8oElf5ioUCxIf3nKiyYuyals9bIr9czB_eSYGELlZdVn9HPBnZlpg_BPfjoEqSMKoO-T3tU6_IY5kbvQKy62kvAvu9ZjgxFDZ0iVw4qs8fIq2-EPWDKEMZa42GzmDNa2EvAA_-6tTtZSNny7cH0ny8yKcCObQj3h4YgKGeiox5olq5GkKr8OhC41EqHaaWOCQ2k5hEr4txW90XepSzZSKB_w9CLdazJXHQu89Smqi9mYLpCiIQ5v0Tjrs4yjsqZKqbXvreBHRCQoNTzQCFfgDu-Bcmgx3eEd12GHI73l-CTLdAPf0I-SkoMlHM4Q9fPUY50Oq005KVgrXNlVv9sn3ahCxlL7Xba_Tt8wBjH1nxNKnbMMmdfxBzu5WVOdmOfIlaodt9hZMhiQP1GgzyDoIo3Cb39c4bZUAgASoJdXMtZWFzdC0yMKUJ.m3u8
 
+#EXTINF: 0 tvg-logo="https://1.bp.blogspot.com/-_a04T085R7k/X-p6kFyAXTI/AAAAAAAA69M/VqLD2L7aKfwcBRjcNzMXg6OIc9mWAHLiwCLcBGAsYHQ/s1080/NGW.png" group-title="⭐️ Cultura",CUL| Nat Geo Wild
+http://myteve.online:8080/30fe809e/ec00cbf3/38698
+
 #EXTINF:-1 tvg-id="APMXHD" tvg-name="C | Animal Planet" tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png" group-title="⭐️ Cultura",CUL| Animal Planet
 http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
 #EXTINF:-1 tvg-id="DISANZ" tvg-name="C | Discovery Channel" tvg-logo="http://descargas.podzone.net/logos/-discovery-channel.png" group-title="⭐️ Cultura",CUL| Discovery Channel
@@ -1524,8 +1527,7 @@ http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29362
 #EXTVLCOPT:network-caching=3000
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612289&extension=ts&play_token=3zpQUO1DmQ
 
-#EXTINF: 0 tvg-logo="https://1.bp.blogspot.com/-_a04T085R7k/X-p6kFyAXTI/AAAAAAAA69M/VqLD2L7aKfwcBRjcNzMXg6OIc9mWAHLiwCLcBGAsYHQ/s1080/NGW.png" group-title="VARIOS (Nuevo)",VAR | Nat Geo Wild
-http://myteve.online:8080/30fe809e/ec00cbf3/38698
+
 
 
 #EXTINF:-1  group-title="DEPORTES",SPORT | ESPN HD 🇦🇷 
