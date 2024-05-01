@@ -974,51 +974,157 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="⭐️ Cultura",CUL| History Channel
-https://video-weaver.ord56.hls.ttvnw.net/v1/playlist/CskE0qqhhzny2WIBamibi74RxIBhu5mlWh0-3WlYyLB2Hsk_JD1WC44DsYnVWlnCK4Y895Zm60Vy2orLGqu6n1OS64cOS6MaNWMY5H04rDsitYFJH4CdmtRTstQdfJ0zsMTB3T2QKVq7-FNf8Oc-54mPIw_t46z7XGitsuDkWeIBlm7Lndb5PCAGnKb6Rqn0t3CJBkLCTDQwuii7b402lyzmEKuMOhb6-mDYS19KJFl31IKxuqtYoFvOfa5cko5p_aZlZfhkLXazVFeLlOzQMhVCciutl62lOMiMez4YIo6stb2ltVF96868yXi_fxaMAESO9wI1p-pcv_ZHauuw-Zium7parIRZZqzRiaPIUkJJnGqXPJPrCZ_84iAKeltilb8oElf5ioUCxIf3nKiyYuyals9bIr9czB_eSYGELlZdVn9HPBnZlpg_BPfjoEqSMKoO-T3tU6_IY5kbvQKy62kvAvu9ZjgxFDZ0iVw4qs8fIq2-EPWDKEMZa42GzmDNa2EvAA_-6tTtZSNny7cH0ny8yKcCObQj3h4YgKGeiox5olq5GkKr8OhC41EqHaaWOCQ2k5hEr4txW90XepSzZSKB_w9CLdazJXHQu89Smqi9mYLpCiIQ5v0Tjrs4yjsqZKqbXvreBHRCQoNTzQCFfgDu-Bcmgx3eEd12GHI73l-CTLdAPf0I-SkoMlHM4Q9fPUY50Oq005KVgrXNlVv9sn3ahCxlL7Xba_Tt8wBjH1nxNKnbMMmdfxBzu5WVOdmOfIlaodt9hZMhiQP1GgzyDoIo3Cb39c4bZUAgASoJdXMtZWFzdC0yMKUJ.m3u8
-
 #EXTINF: 0 tvg-logo="https://1.bp.blogspot.com/-_a04T085R7k/X-p6kFyAXTI/AAAAAAAA69M/VqLD2L7aKfwcBRjcNzMXg6OIc9mWAHLiwCLcBGAsYHQ/s1080/NGW.png" group-title="⭐️ Cultura",CUL| Nat Geo Wild
 http://myteve.online:8080/30fe809e/ec00cbf3/38698
 
-#EXTINF:-1 tvg-id="APMXHD" tvg-name="C | Animal Planet" tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png" group-title="⭐️ Cultura",CUL| Animal Planet
-http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
-#EXTINF:-1 tvg-id="DISANZ" tvg-name="C | Discovery Channel" tvg-logo="http://descargas.podzone.net/logos/-discovery-channel.png" group-title="⭐️ Cultura",CUL| Discovery Channel
-http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
-#EXTINF:-1 tvg-id="DFAMHD" tvg-name="C | Discovery Familia" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/m1xje3v01pn55zyn25lfe/Discoveryfami.png?rlkey=mwtraqj9ymtbflwsql7inctxc&dl=0" group-title="⭐️ Cultura",CUL| Discovery Familia
-http://iptvtree.net:8080/F27279/bdad41ff/147657
-#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation" tvg-logo="http://descargas.podzone.net/logos/-discovery-home-&-health.png" group-title="⭐️ Cultura",CUL| Discovery. H&H
-http://168.227.22.18:1935/live/mobile-107/playlist.m3u8
-#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation" tvg-logo="http://descargas.podzone.net/logos/-discovery-ID.png" group-title="⭐️ Cultura",CUL| Discovery Investigation
-http://iptvtree.net:8080/F27279/bdad41ff/3063
-#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="C | Discovery SCI" tvg-logo="http://descargas.podzone.net/logos/-discovery-science.png" group-title="⭐️ Cultura",CUL| Discovery SCI
-http://iptvtree.net:8080/F27279/bdad41ff/9059
-#EXTINF:-1 tvg-id="DTHLAHA" tvg-name="C | Discovery Theater" tvg-logo="http://descargas.podzone.net/logos/-discovery-theater.png" group-title="⭐️ Cultura",CUL| Discovery Theater
-http://iptvtree.net:8080/F27279/bdad41ff/3022
-#EXTINF:-1 tvg-id="DTRBLAH" tvg-name="C | Discovery Turbo" tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="⭐️ Cultura",CUL| Discovery Turbo
-http://168.227.22.18:1935/live/mobile-109/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DWRLDHE" tvg-name="C | Discovery World" tvg-logo="http://descargas.podzone.net/logos/-discovery-world.png" group-title="⭐️ Cultura",CUL| Discovery World
 http://138.59.177.34:8000/play/a078/index.m3u8
-#EXTINF:-1 tvg-id="GOURMTA" tvg-name="C | El Gourmet" tvg-logo="http://descargas.podzone.net/logos/-el-gourmet.png" group-title="⭐️ Cultura",CUL| El Gourmet
-http://168.227.22.18:1935/live/mobile-141/playlist.m3u8 
-#EXTINF:-1 tvg-id="HISTSW" tvg-name="C | History Channel" tvg-logo="http://descargas.podzone.net/logos/-history.png" group-title="⭐️ Cultura",CUL| History Channel
-http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
-#EXTINF:-1 tvg-id="history2.mx" tvg-name="C | History Channel 2" tvg-logo="http://descargas.podzone.net/logos/-H2-(history2).png" group-title="⭐️ Cultura",CUL| History Channel 2
-http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh8jqLtJqVtwJLxjjqE7ncr9S4sll9J5uS4w&usqp=CAU" group-title="⭐️ Cultura",CUL| National Geographic
-http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStlknFbYo_RzSpwuUeWgY1bM7NeRZUJMtgSA&usqp=CAU" group-title="⭐️ Cultura",CUL| Film & Arts
-http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
-http://168.227.22.18:1935/live/mobile-153/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8lH72u2zsw3qf4V4e_XlVAFKKIYGwiwdKKA&usqp=CAU" group-title="⭐️ Cultura",CUL| Lifetime
-http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOjljofNKSWZJ8bZTJJUW0KnULTp63NvEGPA&usqp=CAU" group-title="⭐️ Cultura",CUL| E!
-http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
+
+#EXTINF:0 group-title="CULTURA",CULT | Pluto TV Ciencia
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTVLCOPT:network-caching=3000
+#EXTINF:0 group-title="CULTURA",CULT | CLASSIC ARTS SHOWCASE  
+#EXTVLCOPT:network-caching=3000
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+
+#EXTINF:0 group-title="CULTURA",CULT | QELLO CONCIERTOS DE STINGRAY
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=568&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=VeRRLspvSX7Z8bzwMLKr&content_series=5fe27da28c198b002d179199&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=VeRRLspvSX7Z8bzwMLKr&custom_7=5fe27da28c198b002d179199
+
+#EXTINF:0 group-title="CULTURA",CULT | PLUTO VIAJES  
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=727fd000-5fe9-11eb-affa-0242ac110002&sid=727fd000-5fe9-11eb-affa-0242ac110002&userId=
+
+#EXTINF:0 group-title="CULTURA",CULT | Pluto TV Historia
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:0 group-title="CULTURA",CULT | Paisajes por Stingray
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d966/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 group-title="CULTURA",CULT | Conciertos por Stingray
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 group-title="CULTURA",CULT | MEDICI TV
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://sdn-global-streaming-cache-3qsdn.akamaized.net/9378/files/19/05/1188496/M4HLGyCDz6937jYxfcmFVZp2nKvPN8tT-drm-aes.ism/M4HLGyCDz6937jYxfcmFVZp2nKvPN8tT-drm-aes-audio=160000-video=553000.m3u8
+#EXTINF:0 group-title="CULTURA",CULT | TURISTIK TV
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://5fa5de1a545ae.streamlock.net:443/8030/8030/chun%C3%B1llist_w591358697.m3u8
+#EXTINF:0 group-title="CULTURA",CULT | PRESUMIENDO MÉXICO  
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="CULTURA",CULT | Mundo viajero
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/60511efd71ec430007f50d97-alt.m3u8
+#EXTINF:0 group-title="CULTURA",CULT | MUNDO VIAJERO
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://stitcher.pluto.tv/stitch/hls/channel/60511efd71ec430007f50d97/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8ef6973d-ade6-11eb-930b-0242ac110002
+#EXTINF:0 group-title="CULTURA",CULT | Pluto TV Viajes
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/60c343ad476ec00007c2ec1a-alt.m3u8
+#EXTINF:0 group-title="CULTURA",CULT | Smithsonian Channel *
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/63a084934734f30007457b2c-alt.m3u8
+#EXTINF:0 group-title="CULTURA",CULT | Service
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18713-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3efb2623-4d66-4ffa-b1f5-4b9d5f63d16c&userId=&serverSideAds=true
+#EXTINF:0 group-title="CULTURA",CULT | Service
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/61cd7b49543066000713b620-alt.m3u8
+
+
+#EXTINF:0 group-title="CULTURA",CULT | Service
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
+#EXTINF:0 group-title="CULTURA",CULT | Historia
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/61cd7b49543066000713b620-alt.m3u8
+#EXTINF:0 group-title="CULTURA",CULT | Mundo geek
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/6051201a0aa8a70007c24a2a-alt.m3u8
+#EXTINF:0 group-title="CULTURA",CULT | Saber Mas
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=6bSLyFJzzvyW_ngsjtWh&channelId=6018913ea15130002b284195
+
+#EXTINF:0 group-title="CULTURA",CULT | Paisajes por Stingray
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5f4fed840a2764000720d966-alt.m3u8
+#EXTINF:0 group-title="CULTURA",CULT | Archivos Extraterrestres
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/645d1abbe1979c0008779d5a-alt.m3u8
+#EXTINF:0 group-title="CULTURA",CULT | Smithsonian Channel Pluto TV
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/63a084934734f30007457b2c-alt.m3u8
+#EXTINF:0 group-title="CULTURA",CULT | Pluto TV Historia
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
+#EXTINF:0 group-title="CULTURA",CULT | Pluto TV Ciencia
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
+#EXTINF:0 group-title="CULTURA",CULT | Pluto TV Investiga
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+https://i.mjh.nz/PlutoTV/5dcde27ffae9520009c0c75a-alt.m3u8
+
+#EXTINF:0 group-title="CULTURA",CULT | Discovery Familia
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=3000
+http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHPw6CcjW_tufp-8Sl2Tpg2M
 
 
 
@@ -1932,150 +2038,7 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
 
 
-#EXTINF:0 group-title="CULTURA",CULT | Pluto TV Ciencia
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTVLCOPT:network-caching=3000
-#EXTINF:0 group-title="CULTURA",CULT | CLASSIC ARTS SHOWCASE  
-#EXTVLCOPT:network-caching=3000
-https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-
-#EXTINF:0 group-title="CULTURA",CULT | QELLO CONCIERTOS DE STINGRAY
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=568&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=VeRRLspvSX7Z8bzwMLKr&content_series=5fe27da28c198b002d179199&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=VeRRLspvSX7Z8bzwMLKr&custom_7=5fe27da28c198b002d179199
-
-#EXTINF:0 group-title="CULTURA",CULT | PLUTO VIAJES  
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=727fd000-5fe9-11eb-affa-0242ac110002&sid=727fd000-5fe9-11eb-affa-0242ac110002&userId=
-
-#EXTINF:0 group-title="CULTURA",CULT | Pluto TV Historia
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:0 group-title="CULTURA",CULT | Paisajes por Stingray
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d966/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="CULTURA",CULT | Conciertos por Stingray
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="CULTURA",CULT | MEDICI TV
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://sdn-global-streaming-cache-3qsdn.akamaized.net/9378/files/19/05/1188496/M4HLGyCDz6937jYxfcmFVZp2nKvPN8tT-drm-aes.ism/M4HLGyCDz6937jYxfcmFVZp2nKvPN8tT-drm-aes-audio=160000-video=553000.m3u8
-#EXTINF:0 group-title="CULTURA",CULT | TURISTIK TV
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://5fa5de1a545ae.streamlock.net:443/8030/8030/chun%C3%B1llist_w591358697.m3u8
-#EXTINF:0 group-title="CULTURA",CULT | PRESUMIENDO MÉXICO  
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 group-title="CULTURA",CULT | Mundo viajero
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/60511efd71ec430007f50d97-alt.m3u8
-#EXTINF:0 group-title="CULTURA",CULT | MUNDO VIAJERO
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://stitcher.pluto.tv/stitch/hls/channel/60511efd71ec430007f50d97/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8ef6973d-ade6-11eb-930b-0242ac110002
-#EXTINF:0 group-title="CULTURA",CULT | Pluto TV Viajes
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/60c343ad476ec00007c2ec1a-alt.m3u8
-#EXTINF:0 group-title="CULTURA",CULT | Smithsonian Channel *
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/63a084934734f30007457b2c-alt.m3u8
-#EXTINF:0 group-title="CULTURA",CULT | Service
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18713-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3efb2623-4d66-4ffa-b1f5-4b9d5f63d16c&userId=&serverSideAds=true
-#EXTINF:0 group-title="CULTURA",CULT | Service
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/61cd7b49543066000713b620-alt.m3u8
-
-
-#EXTINF:0 group-title="CULTURA",CULT | Service
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
-#EXTINF:0 group-title="CULTURA",CULT | Historia
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/61cd7b49543066000713b620-alt.m3u8
-#EXTINF:0 group-title="CULTURA",CULT | Mundo geek
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/6051201a0aa8a70007c24a2a-alt.m3u8
-#EXTINF:0 group-title="CULTURA",CULT | Saber Mas
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=6bSLyFJzzvyW_ngsjtWh&channelId=6018913ea15130002b284195
-
-#EXTINF:0 group-title="CULTURA",CULT | Paisajes por Stingray
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f4fed840a2764000720d966-alt.m3u8
-#EXTINF:0 group-title="CULTURA",CULT | Archivos Extraterrestres
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/645d1abbe1979c0008779d5a-alt.m3u8
-#EXTINF:0 group-title="CULTURA",CULT | Smithsonian Channel Pluto TV
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/63a084934734f30007457b2c-alt.m3u8
-#EXTINF:0 group-title="CULTURA",CULT | Pluto TV Historia
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
-#EXTINF:0 group-title="CULTURA",CULT | Pluto TV Ciencia
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
-#EXTINF:0 group-title="CULTURA",CULT | Pluto TV Investiga
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5dcde27ffae9520009c0c75a-alt.m3u8
-
-#EXTINF:0 group-title="CULTURA",CULT | Discovery Familia
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHPw6CcjW_tufp-8Sl2Tpg2M
 
 
 
