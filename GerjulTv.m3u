@@ -974,10 +974,44 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
 
 
-#EXTINF: 0 tvg-logo="https://1.bp.blogspot.com/-_a04T085R7k/X-p6kFyAXTI/AAAAAAAA69M/VqLD2L7aKfwcBRjcNzMXg6OIc9mWAHLiwCLcBGAsYHQ/s1080/NGW.png" group-title="⭐️ Cultura",CUL| Nat Geo Wild
+#EXTINF: 0 tvg-logo="https://1.bp.blogspot.com/-_a04T085R7k/X-p6kFyAXTI/AAAAAAAA69M/VqLD2L7aKfwcBRjcNzMXg6OIc9mWAHLiwCLcBGAsYHQ/s1080/NGW.png" group-title="CULTURA",CULT | Nat Geo Wild
 http://myteve.online:8080/30fe809e/ec00cbf3/38698
 
-#EXTINF:-1 channel-id="pluto-5f230e416b68ff00075b0139" tvg-id="5f230e416b68ff00075b0139" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" tvg-chno="542" group-title="CULTURA",CULT | Misterios Medicos
+#EXTINF:-1 tvg-id="APMXHD" tvg-name="C | Animal Planet" tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png" group-title="CULTURA",CULT | Animal Planet
+http://158.220.87.177:2095/azhaitiinterc349/tUCP4JyX4H/112991
+#EXTINF:-1 tvg-id="DISANZ" tvg-name="C | Discovery Channel" tvg-logo="http://descargas.podzone.net/logos/-discovery-channel.png" group-title="CULTURA",CULT | Discovery Channel
+http://158.220.87.177:2095/azhaitiinterc349/tUCP4JyX4H/7090
+#EXTINF:-1 tvg-id="DFAMHD" tvg-name="C | Discovery Familia" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/m1xje3v01pn55zyn25lfe/Discoveryfami.png?rlkey=mwtraqj9ymtbflwsql7inctxc&dl=0" group-title="CULTURA",CULT | Discovery Familia
+http://158.220.87.177:2095/azhaitiinterc349/tUCP4JyX4H/27243
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation" tvg-logo="http://descargas.podzone.net/logos/-discovery-home-&-health.png" group-title="CULTURA",CULT | Discovery. H&H
+http://158.220.87.177:2095/azhaitiinterc349/tUCP4JyX4H/7095
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation" tvg-logo="http://descargas.podzone.net/logos/-discovery-ID.png" group-title="CULTURA",CULT | Discovery Investigation
+http://158.220.87.177:2095/azhaitiinterc349/tUCP4JyX4H/2027
+#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="C | Discovery SCI" tvg-logo="http://descargas.podzone.net/logos/-discovery-science.png" group-title="CULTURA",CULT | Discovery SCI
+http://158.220.87.177:2095/azhaitiinterc349/tUCP4JyX4H/2015
+#EXTINF:-1 tvg-id="DTHLAHA" tvg-name="C | Discovery Theater" tvg-logo="http://descargas.podzone.net/logos/-discovery-theater.png"group-title="CULTURA",CULT | Discovery Theater
+http://158.220.87.177:2095/azhaitiinterc349/tUCP4JyX4H/7104
+#EXTINF:-1 tvg-id="DTRBLAH" tvg-name="C | Discovery Turbo" tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="CULTURA",CULT |Discovery Turbo
+http://158.220.87.177:2095/azhaitiinterc349/tUCP4JyX4H/40843
+#EXTINF:-1 tvg-id="DWRLDHE" tvg-name="C | Discovery World" tvg-logo="http://descargas.podzone.net/logos/-discovery-world.png" group-title="CULTURA",CULT | Discovery World
+http://158.220.87.177:2095/azhaitiinterc349/tUCP4JyX4H/2018 
+#EXTINF:-1 tvg-id="HISTSW" tvg-name="C | History Channel" tvg-logo="http://descargas.podzone.net/logos/-history.png" group-title="CULTURA",CULT | History Channel
+http://158.220.87.177:2095/azhaitiinterc349/tUCP4JyX4H/7369
+#EXTINF:-1 tvg-id="history2.mx" tvg-name="C | History Channel 2" tvg-logo="http://descargas.podzone.net/logos/-H2-(history2).png" group-title="CULTURA",CULT | History Channel 2
+http://158.220.87.177:2095/azhaitiinterc349/tUCP4JyX4H/233954
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh8jqLtJqVtwJLxjjqE7ncr9S4sll9J5uS4w&usqp=CAU" group-title="CULTURA",CULT | National Geographic
+http://158.220.87.177:2095/azhaitiinterc349/tUCP4JyX4H/40838
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7-hD5A997NRmK-F063VmDZG5dZdbYkl_MgQ&usqp=CAU" group-title="CULTURA",CULT | nat geo wild
+http://158.220.87.177:2095/azhaitiinterc349/tUCP4JyX4H/105941
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLWOZPvk_rWulR2blnb7c4j8VGfJaaGnh7Q&usqp=CAU" group-title="CULTURA",CULT | love nature
+http://galaxypro.online:8080/Jaime12P/JaimeU14/239460
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png"group-title="CULTURA",CULT | Animales
+https://r.mjh.nz/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="CULTURA",CULT | Naturaleza
+https://r.mjh.nz/PlutoTV/5dd85eac039bba0009e86d1d-alt.m3u8
+
+
+#EXTINF:-1 channel-id="pluto-5f230e416b68ff00075b0139" tvg-id="5f230e416b68ff00075b0139" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="CULTURA",CULT | Misterios Medicos
 https://r.mjh.nz/PlutoTV/5f230e416b68ff00075b0139-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5dcde2f53449c50009b2b4dc" tvg-id="5dcde2f53449c50009b2b4dc" tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png" group-title="CULTURA",CULT | Pluto TV Misterios
