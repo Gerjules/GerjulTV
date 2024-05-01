@@ -145,7 +145,7 @@ https://rds3gen.desdeparaguay.net/tvs/tvs/playlist.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA",AR |Canal LS83 9
-http://oo-ott.net:80/live/68999779004/43467888754/d7c04526-a7fa-45c5-860f-286a5846a223.m3u
+http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA",AR |LS84 Telefe
 http://138.59.227.148:5151/play/a0m0
