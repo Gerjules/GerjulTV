@@ -485,7 +485,7 @@ http://cincotv.org:25461/Fermand693/Toapa475/176202
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 6" tvg-logo="http://miarea.vip:8080/images/e05883a56570cbdd96af5d715b197fd7.png" group-title="PELICULAS",PELIS | CINE NETFLIX 6
 http://cincotv.org:25461/Fermand693/Toapa475/17620
-3
+
 #EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 7" tvg-logo="http://miarea.vip:8080/images/1b7552bcff0edef542970672608c35b6.png" group-title="PELICULAS",PELIS | CINE NETFLIX 7
 http://cincotv.org:25461/Fermand693/Toapa475/176204
 
@@ -1587,6 +1587,17 @@ http://177.53.153.20:8001/play/a025/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02d" group-title="DEPORTES",SPORT | Fox Sports 3 HD
 http://177.53.153.20:8001/play/a02d/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TUDN.png" group-title="DEPORTES",SPORT |  TUDN
+http://xtream.lat:8880/Alex2023/Alex2023/291
+
+#EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title="DEPORTES",SPORT |  TUDN usa
+http://tvmate.icu:8080/Alan/Alan1234/82241
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ViX_Logo.png/1200px-ViX_Logo.png" group-title="DEPORTES",SPORT | TUDN
 http://cincotv.org:25461/Fermand693/Toapa475/74741
