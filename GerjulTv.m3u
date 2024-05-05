@@ -10,7 +10,7 @@ http://cincotv.org:25461/Fermand693/Toapa475/53468
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TelefuturoLogo2022.png/640px-TelefuturoLogo2022.png" group-title="PARAGUAY",PY | TELEFUTURO
-http://138.59.227.148:5151/play/a0ix
+http://177.234.230.226:8010/play/a033/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="PARAGUAY",PY | PARAVISION 
