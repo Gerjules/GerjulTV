@@ -158,7 +158,7 @@ http://cincotv.org:25461/Fermand693/Toapa475/90965
 
 
 #EXTINF:-1 group-title="ARGENTINA",AR | CRÓNICA
-https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+http://181.78.27.128:8000/play/a04k/index.m3u8
 
 #EXTINF:0 group-title="ARGENTINA",AR | Todo Noticias AR
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
