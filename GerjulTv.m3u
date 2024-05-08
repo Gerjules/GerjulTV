@@ -1920,6 +1920,67 @@ https://i.mjh.nz/PlutoTV/5dd6dc7480e3550009133d4a-alt.m3u8
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/6076c74daa05ac0007d0eb07-alt.m3u8
 
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="LAT ®| ESPN HD" tvg-logo="https://i.ibb.co/VQ6YC6R/ESPN-LATINO-1.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT ®| ESPN HD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332869
+#EXTINF:-1 tvg-id="espnlatin.mx" tvg-name="LAT ®| ESPN FHD" tvg-logo="https://i.ibb.co/VQ6YC6R/ESPN-LATINO-1.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT ®| ESPN FHD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332870
+#EXTINF:-1 tvg-id="espn.2.ar" tvg-name="LAT ®| ESPN 2 HD" tvg-logo="https://i.ibb.co/8dFyL0J/ESPN-LATINO-2.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT ®| ESPN 2 HD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332871
+#EXTINF:-1 tvg-id="espn.2.ar" tvg-name="LAT ®| ESPN 2 FHD" tvg-logo="https://i.ibb.co/8dFyL0J/ESPN-LATINO-2.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT ®| ESPN 2 FHD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332872
+#EXTINF:-1 tvg-id="0" tvg-name="LAT ®| ESPN 3 HD" tvg-logo="https://i.ibb.co/z8gjwYG/ESPN-LATINO-3.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT ®| ESPN 3 HD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332873
+#EXTINF:-1 tvg-id="0" tvg-name="LAT ®| ESPN 3 FHD" tvg-logo="https://i.ibb.co/z8gjwYG/ESPN-LATINO-3.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT ®| ESPN 3 FHD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332874
+#EXTINF:-1 tvg-id="espn.4.latin.america.mx" tvg-name="LAT ®| ESPN 4 HD" tvg-logo="https://i.ibb.co/pfRcVsC/ESPN-LATINO-4.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT ®| ESPN 4 HD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332875
+#EXTINF:-1 tvg-id="espn.4.latin.america.mx" tvg-name="LAT ®| ESPN 4 FHD" tvg-logo="https://i.ibb.co/pfRcVsC/ESPN-LATINO-4.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT ®| ESPN 4 FHD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332877
+#EXTINF:-1 tvg-id="0" tvg-name="LAT ®| ESPN 5 HD" tvg-logo="https://i.ibb.co/Tg2F1QS/ESPN-LATINO-5.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT ®| ESPN 5 HD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332878
+#EXTINF:-1 tvg-id="0" tvg-name="LAT ®| ESPN 5 FHD" tvg-logo="https://i.ibb.co/Tg2F1QS/ESPN-LATINO-5.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT ®| ESPN 5 FHD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332879
+#EXTINF:-1 tvg-id="" tvg-name="LAT ®| ESPN 6 HD" tvg-logo="https://i.ibb.co/7KkDcMz/ESPN-LATINO-6.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT ®| ESPN 6 HD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332883
+#EXTINF:-1 tvg-id="" tvg-name="LAT ®| ESPN 6 FHD" tvg-logo="https://i.ibb.co/7KkDcMz/ESPN-LATINO-6.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT ®| ESPN 6 FHD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332884
+#EXTINF:-1 tvg-id="" tvg-name="LAT ®| ESPN 7 HD" tvg-logo="https://i.ibb.co/n3rk8TW/ESPN-LATINO-07.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT ®| ESPN 7 HD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332885
+#EXTINF:-1 tvg-id="" tvg-name="LAT ®| ESPN 7 FHD" tvg-logo="https://i.ibb.co/n3rk8TW/ESPN-LATINO-07.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT ®| ESPN 7 FHD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332886
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="MX ®| ESPN HD" tvg-logo="https://i.ibb.co/027xjVq/ESPN-MEXICO-1.jpg" group-title="DEPORTES ⏯️ | ESPN",MX ®| ESPN HD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332889
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="MX ®| ESPN FHD" tvg-logo="https://i.ibb.co/027xjVq/ESPN-MEXICO-1.jpg" group-title="DEPORTES ⏯️ | ESPN",MX ®| ESPN FHD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332891
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="MX ®| ESPN 2 HD" tvg-logo="https://i.ibb.co/0rCBRw0/ESPN-MEXICO-2.jpg" group-title="DEPORTES ⏯️ | ESPN",MX ®| ESPN 2 HD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332892
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="MX ®| ESPN 2 FHD" tvg-logo="https://i.ibb.co/0rCBRw0/ESPN-MEXICO-2.jpg" group-title="DEPORTES ⏯️ | ESPN",MX ®| ESPN 2 FHD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332893
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="MX ®| ESPN 3 HD" tvg-logo="https://i.ibb.co/d0qp4vW/ESPN-MEXICO-3.jpg" group-title="DEPORTES ⏯️ | ESPN",MX ®| ESPN 3 HD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332894
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="MX ®| ESPN 3 FHD" tvg-logo="https://i.ibb.co/d0qp4vW/ESPN-MEXICO-3.jpg" group-title="DEPORTES ⏯️ | ESPN",MX ®| ESPN 3 FHD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332895
+#EXTINF:-1 tvg-id="espnplushd.mx" tvg-name="MX ®| ESPN 4 HD" tvg-logo="https://i.ibb.co/R9QkmfF/ESPN-MEXICO-4.jpg" group-title="DEPORTES ⏯️ | ESPN",MX ®| ESPN 4 HD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332896
+#EXTINF:-1 tvg-id="espnplus.mx" tvg-name="MX ®| ESPN 4 FHD" tvg-logo="https://i.ibb.co/R9QkmfF/ESPN-MEXICO-4.jpg" group-title="DEPORTES ⏯️ | ESPN",MX ®| ESPN 4 FHD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332897
+#EXTINF:-1 tvg-id="" tvg-name="ARG ®| ESPN HD" tvg-logo="https://i.ibb.co/DRqmPBh/ESPN-ARG-1.jpg" group-title="DEPORTES ⏯️ | ESPN",ARG ®| ESPN HD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332898
+#EXTINF:-1 tvg-id="espn.ar" tvg-name="ARG ®| ESPN FHD" tvg-logo="https://i.ibb.co/DRqmPBh/ESPN-ARG-1.jpg" group-title="DEPORTES ⏯️ | ESPN",ARG ®| ESPN FHD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332899
+#EXTINF:-1 tvg-id="espn.2.ar" tvg-name="ARG ®| ESPN 2 HD" tvg-logo="https://i.ibb.co/mJWqXkp/ESPN-ARG-2.jpg" group-title="DEPORTES ⏯️ | ESPN",ARG ®| ESPN 2 HD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332900
+#EXTINF:-1 tvg-id="" tvg-name="ARG ®| ESPN 2 FHD" tvg-logo="https://i.ibb.co/mJWqXkp/ESPN-ARG-2.jpg" group-title="DEPORTES ⏯️ | ESPN",ARG ®| ESPN 2 FHD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332901
+#EXTINF:-1 tvg-id="" tvg-name="ARG ®| ESPN 3 HD" tvg-logo="https://i.ibb.co/3WsbFfB/ESPN-ARG-3.jpg" group-title="DEPORTES ⏯️ | ESPN",ARG ®| ESPN 3 HD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332910
+#EXTINF:-1 tvg-id="" tvg-name="ARG ®| ESPN 3 FHD" tvg-logo="https://i.ibb.co/3WsbFfB/ESPN-ARG-3.jpg" group-title="DEPORTES ⏯️ | ESPN",ARG ®| ESPN 3 FHD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332911
+#EXTINF:-1 tvg-id="" tvg-name="ARG ®| ESPN 4 HD" tvg-logo="https://i.ibb.co/P6QDc0R/ESPN-ARG-4.jpg" group-title="DEPORTES ⏯️ | ESPN",ARG ®| ESPN 4 HD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332912
+#EXTINF:-1 tvg-id="" tvg-name="ARG ®| ESPN 4 FHD" tvg-logo="https://i.ibb.co/P6QDc0R/ESPN-ARG-4.jpg" group-title="DEPORTES ⏯️ | ESPN",ARG ®| ESPN 4 FHD
+http://c24u.xyz:8080/LUCHO123/LUCHO123/332913
+
 
 
 
