@@ -204,6 +204,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02
 http://myteve.online:8080/30fe809e/ec00cbf3/49329
 
 
+#EXTINF:-1 group-title="NOTICIAS",NOT | AL JAZEERA EN
+https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
+#EXTINF:-1 group-title="NOTICIAS",NOT | AL JAZEERA ARAB
+https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
+
 
 #EXTINF:-1 tvg-id="France24.TV" tvg-name="NOTICIAS ®|  FRANCE 24  HD" tvg-logo="https://i.ibb.co/nBfbRQ1/FRANCE-24.jpg" group-title="NOTICIAS 24 NEWS ⏯️ | PREMIUM",NOTICIAS ®|  FRANCE 24  HD
 http://c24u.xyz:8080/LUCHO123/LUCHO123/333433
@@ -229,6 +234,7 @@ http://c24u.xyz:8080/LUCHO123/LUCHO123/333444
 http://c24u.xyz:8080/LUCHO123/LUCHO123/333446
 #EXTINF:-1 tvg-id="bbcworldnewsnorthamerica.us" tvg-name="NOTICIAS ®|  BBC WORLD NEWS HD" tvg-logo="https://i.ibb.co/k9t3h2y/BBC-WORDS-NEWS.jpg" group-title="NOTICIAS 24 NEWS ⏯️ | PREMIUM",NOTICIAS ®|  BBC WORLD NEWS HD
 http://c24u.xyz:8080/LUCHO123/LUCHO123/333447
+
 #EXTINF:0 group-title="NOTICIAS",NOT | DW ALEMANIA EN ESPAÑOL 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:0 group-title="NOTICIAS",NOT | RT NOTICIAS 
