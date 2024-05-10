@@ -141,8 +141,10 @@ https://rds3gen.desdeparaguay.net/tvs/tvs/playlist.m3u8
 #EXTINF:0 group-title="ARGENTINA",AR | EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 group-title="ARGENTINA",AR |Canal LS83 9
-http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="ARGENTINA",AR | America  Tv
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+
+
 
 #EXTINF:-1 group-title="ARGENTINA",AR |LS84 Telefe
 http://138.59.227.148:5151/play/a0m0
@@ -166,8 +168,7 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/2eaff8a0e93659e55a3e21d250aa7347.png" group-title="ARGENTINA",AR | A24
 http://sdmx.vip:8080/u8334525209/65213/210833
 
-#EXTINF:0 group-title="ARGENTINA",AR | TV Pública (TVP) 
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+
 
 
 
@@ -202,6 +203,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02
 
 #EXTINF:-1 group-title="ARGENTINA",AR | Volver
 http://myteve.online:8080/30fe809e/ec00cbf3/49329
+
+#EXTINF:-1 group-title="ARGENTINA",AR |Canal LS83 9
+http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
 
 #EXTINF:-1 group-title="NOTICIAS",NOT | AL JAZEERA EN
