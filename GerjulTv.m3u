@@ -208,10 +208,7 @@ http://myteve.online:8080/30fe809e/ec00cbf3/49329
 http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
 
-#EXTINF:-1 group-title="NOTICIAS",NOT | AL JAZEERA EN
-https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
-#EXTINF:-1 group-title="NOTICIAS",NOT | AL JAZEERA ARAB
-https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
+
 
 
 #EXTINF:-1 tvg-id="France24.TV" tvg-name="NOTICIAS ®|  FRANCE 24  HD" tvg-logo="https://i.ibb.co/nBfbRQ1/FRANCE-24.jpg" group-title="NOTICIAS 24 NEWS ⏯️ | PREMIUM",NOTICIAS ®|  FRANCE 24  HD
@@ -239,14 +236,20 @@ http://c24u.xyz:8080/LUCHO123/LUCHO123/333446
 #EXTINF:-1 tvg-id="bbcworldnewsnorthamerica.us" tvg-name="NOTICIAS ®|  BBC WORLD NEWS HD" tvg-logo="https://i.ibb.co/k9t3h2y/BBC-WORDS-NEWS.jpg" group-title="NOTICIAS 24 NEWS ⏯️ | PREMIUM",NOTICIAS ®|  BBC WORLD NEWS HD
 http://c24u.xyz:8080/LUCHO123/LUCHO123/333447
 
+#EXTINF:-1 group-title="NOTICIAS",NOT | AL JAZEERA EN
+https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
+#EXTINF:-1 group-title="NOTICIAS",NOT | AL JAZEERA ARAB
+https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
+
 #EXTINF:0 group-title="NOTICIAS",NOT | DW ALEMANIA EN ESPAÑOL 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:0 group-title="NOTICIAS",NOT | RT NOTICIAS 
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:0 group-title="NOTICIAS",NOT | HISPAN TV  
-https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
+
 #EXTINF:0 group-title="NOTICIAS",NOT | EuroNews
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+
 #EXTINF:0 group-title="NOTICIAS",NOT | TV Málaga 
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 #EXTINF:0 group-title="NOTICIAS",NOT | TELESUR VENEZUELA  
@@ -263,14 +266,8 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdn
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:0 group-title="NOTICIAS",NOT | CNN en Español 
 https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
-#EXTINF:0 group-title="NOTICIAS",NOT | CBS News
-https://i.mjh.nz/PlutoTV/62310d5a5dc9550007c6f580-alt.m3u8
-#EXTINF:0 group-title="NOTICIAS",NOT | Euronews Español
-https://i.mjh.nz/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
-#EXTINF:0 group-title="NOTICIAS",NOT | Telefe Noticias
-https://i.mjh.nz/PlutoTV/5f523aa5523ae000074745ec-alt.m3u8
-#EXTINF:0 group-title="NOTICIAS",NOT | Chilevision Noticias
-https://i.mjh.nz/PlutoTV/61f94a2866401100074e9dee-alt.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG.png"  group-title="NOTICIAS",NOT |CBS News
 https://r.mjh.nz/PlutoTV/62310d5a5dc9550007c6f580-alt.m3u8
@@ -278,26 +275,14 @@ https://r.mjh.nz/PlutoTV/62310d5a5dc9550007c6f580-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png" group-title="NOTICIAS",NOT |Euronews Español
 https://r.mjh.nz/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
 
-#EXTINF:-1 tvg-id="5f523aa5523ae000074745ec" tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="NOTICIAS",NOT |Telefe Noticias
-https://r.mjh.nz/PlutoTV/5f523aa5523ae000074745ec-alt.m3u8
-
-#EXTINF:-1 tvg-id="61f94a2866401100074e9dee" tvg-logo="https://images.pluto.tv/channels/61f94a2866401100074e9dee/colorLogoPNG.png" group-title="NOTICIAS",NOT |Chilevision Noticias
-https://r.mjh.nz/PlutoTV/61f94a2866401100074e9dee-alt.m3u8
 
 #EXTINF:-1 tvg-id="63d2c140c111bc0008cb890b" tvg-logo="https://images.pluto.tv/channels/63d2c140c111bc0008cb890b/colorLogoPNG.png" group-title="NOTICIAS",NOT |TeleFórmula
 https://r.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="NOTICIAS",NOT | TV PUBLICA ARG
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_480p.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="NOTICIAS",NOT | TV PUBLICA ARG
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/bolivia.jpg" group-title="NOTICIAS",NOT | BOLIVIA TV
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="NOTICIAS",NOT | TVGE |
-https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Caracol_2017.png/revision/latest?cb=20210217012618&path-prefix=es" group-title="NOTICIAS",NOT | NOTICIAS CARACOL |
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
@@ -305,17 +290,11 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="NOTICIAS",NOT | NEGOCIOS TV |
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/23/40/png-transparent-logo-deutsche-welle-dw-tv-dw-espanol-lacrosse-talk-radio-television-blue-text.png" ggroup-title="NOTICIAS",NOT | DW ESPAÑOL |
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/23/40/png-transparent-logo-deutsche-welle-dw-tv-dw-espanol-lacrosse-talk-radio-television-blue-text.png" group-title="NOTICIAS",NOT | DW ESPAÑOL |
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/hispantv.jpg" group-title="NOTICIAS",NOT | HISPANTV |
-https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/hispantv.jpg" group-title="NOTICIAS",NOT | HISPANTV |
-https://cdnlive.presstv.ir/live/smil:live.smil/chunklist_w121634031_b644100_slen.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/hispantv.jpg" group-title="NOTICIAS",NOT | HISPANTV |
 https://cdnlive.presstv.ir/live/smil:live.smil/chunklist_w1088451076_b644100_slen.m3u8
@@ -323,53 +302,31 @@ https://cdnlive.presstv.ir/live/smil:live.smil/chunklist_w1088451076_b644100_sle
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="NOTICIAS",NOT | CGTN EN ESPAÑOL |
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/640px-France24.png" group-title="NOTICIAS",NOT | FRANCE 24 EN ESPAÑOL |
-https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cubavision.jpg" group-title="NOTICIAS",NOT |CUBAVISION INTERNACIONAL |
-#EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b1728000.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/cubavision.jpg" group-title="NOTICIAS",NOT | CUBAVISION INTERNACIONAL |
-#EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png" group-title="NOTICIAS",NOT | TELESUR |
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png" group-title="NOTICIAS",NOT | TELESUR |
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png" group-title="NOTICIAS",NOT | TELESUR |
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="NOTICIAS",NOT | RT EN ESPAÑOL |
-https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="NOTICIAS",NOT | RT EN ESPAÑOL |
-https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-r
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="NOTICIAS",NOT | RT EN ESPAÑOL |
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",NOT | ALJAZEERA ENGLISH |
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/854/340/png-clipart-logo-canal-institucional-graphic-designer-y-40-the-deep-joy-design-text-orange-thumbnail.png" group-title="NOTICIAS",NOT | CANAL INSTITUCIONAL COLOMBIA |
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="NOTICIAS",NOT | CNN CHILE |
-https://nxt.plus:8443/jesus01/jesus01/187860
+
 
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTICIAS",NOT | CNN EN ESPAÑOL |
 https://nxt.plus:8443/jesus01/jesus01/59075
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="NOTICIAS",NOT | LA 1 TV |
-https://ztnr.rtve.es/ztnr/1688877.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="NOTICIAS",NOT | CABLE-NOTICIAS |
-https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="NOTICIAS",NOT | EURO NEWS |
-https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://www.ntn24.com/__assets/images/logo.png" group-title="NOTICIAS",NOT | NTN 24 |
 http://160.20.165.245:8000/play/a00y/index.m3u8
@@ -379,9 +336,6 @@ https://bmcc.nhkworld.jp/live2/index_1M.m3u8
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title="NOTICIAS",NOT | NHK JAPAN HD |
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",NOT | CHILEVISION NOTICIAS |
-https://jireh-2-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist_1000.m3u8?dpssid=b1341336556255657083fbcaf38&sid=ba5t1l1xb458577071865c634caf3393&ndvc=0
 
 
 
