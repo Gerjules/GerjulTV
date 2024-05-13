@@ -210,7 +210,6 @@ http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
 
 
-
 #EXTINF:-1 tvg-id="France24.TV" tvg-name="NOTICIAS ®|  FRANCE 24  HD" tvg-logo="https://i.ibb.co/nBfbRQ1/FRANCE-24.jpg" group-title="NOTICIAS 24 NEWS ⏯️ | PREMIUM",NOTICIAS ®|  FRANCE 24  HD
 http://c24u.xyz:8080/LUCHO123/LUCHO123/333433
 #EXTINF:-1 tvg-id="NTN24" tvg-name="NOTICIAS ®| VOZ DE AMERICA HD" tvg-logo="https://i.ibb.co/gygJvqV/CO-DE-AMERICA.jpg" group-title="NOTICIAS 24 NEWS ⏯️ | PREMIUM",NOTICIAS ®| VOZ DE AMERICA HD
@@ -323,9 +322,11 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklis
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTICIAS",NOT | CNN EN ESPAÑOL |
 https://nxt.plus:8443/jesus01/jesus01/59075
 
+#EXTINF:-1 group-title="NOTICIAS",NOT | TELEMUNDO AL DÍA 
+https://i.mjh.nz/SamsungTVPlus/USBB3200016HO.m3u8
 
-
-
+#EXTINF:-1 group-title="NOTICIAS",NOT | UNIVISION NOTICIAS 
+https://i.mjh.nz/SamsungTVPlus/USBD1700014QU.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.ntn24.com/__assets/images/logo.png" group-title="NOTICIAS",NOT | NTN 24 |
