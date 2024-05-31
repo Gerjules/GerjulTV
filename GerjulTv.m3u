@@ -70,18 +70,12 @@ https://59ce1298bfb98.streamlock.net/marianotv/marianotv/playlist.m3u8
 #EXTINF:0 group-title="PARAGUAY",PY | Obedira TV
 https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8
 
-#EXTINF:0 group-title="PARAGUAY",PY |Campo 9 Online (720p)
+#EXTINF:0 group-title="PARAGUAY",PY | Campo 9 Online (720p)
 #EXTVLCOPT:network-caching=5000
 https://59ce1298bfb98.streamlock.net/campo9tv/campo9tv/playlist.m3u8
 
-#EXTINF:0 group-title="PARAGUAY",PY |Ñemby Noticias HD (720p)
-https://rpn3.bozztv.com/ssh101/ssh101/streaminghd/playlist.m3u8
-
-#EXTINF:0  group-title="PARAGUAY",PY |TV Lambaré (720p) [Not 24/7]
-https://59ce1298bfb98.streamlock.net/tvlambare/tvlambare/playlist.m3u8
-
-#EXTINF:0, group-title="PARAGUAY",PY |DMpy (720p)
-https://59ce1298bfb98.streamlock.net/digitalmediapy/digitalmediapy/playlist.m3u8
+#EXTINF:0 group-title="PARAGUAY",PY | Next HD (480p)
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 #EXTINF:0 tvg-logo="https://radiosuceso.com/wp-content/uploads/2023/11/Mesa-de-trabajo-7-e1699726317334.png" group-title="PARAGUAY",PY |Suceso TV
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
