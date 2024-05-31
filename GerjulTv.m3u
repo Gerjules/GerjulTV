@@ -54,9 +54,6 @@ https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/R4rRYpX/MITV.png" group-title="PARAGUAY",PY | MI TV
 https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w735296660.m3u8
 
-#EXTINF:0 group-title="PARAGUAY",PY |Radio Pykasú TV (720p)
-https://59ce1298bfb98.streamlock.net/pykasutv/pykasutv/playlist.m3u8
-
 
 #EXTINF:0 group-title="PARAGUAY",PY | 4DmásNoticias TV (1080p)
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
