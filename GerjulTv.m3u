@@ -10,7 +10,8 @@ https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 
 
-
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TelefuturoLogo2022.png/640px-TelefuturoLogo2022.png" group-title="PARAGUAY",PY | TELEFUTURO (En breve Disponible)
+http://45.71.252.16:8000/play/a0cz/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png" group-title="PARAGUAY",PY | UNICANAL 
@@ -125,8 +126,7 @@ https://rds3gen.desdeparaguay.net/tvs/tvs/playlist.m3u8
 #EXTINF:0 tvg-logo="http://miarea.vip:8080/images/c0def78c987ca346ac27f87cbacf0ccc.png" group-title="PARAGUAY",PY | SNT (En breve Disponible)
 http://c24u.xyz:8080/LUCHO123/LUCHO123/332997
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TelefuturoLogo2022.png/640px-TelefuturoLogo2022.png" group-title="PARAGUAY",PY | TELEFUTURO (En breve Disponible)
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332991
+ 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="PARAGUAY",PY | PARAVISION (En breve Disponible)
 http://c24u.xyz:8080/LUCHO123/LUCHO123/332995
