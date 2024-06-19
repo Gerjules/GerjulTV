@@ -215,35 +215,6 @@ http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="France24.TV" tvg-name="NOTICIAS ®|  FRANCE 24  HD" tvg-logo="https://i.ibb.co/nBfbRQ1/FRANCE-24.jpg" group-title="NOTICIAS 24 NEWS ⏯️ | PREMIUM",NOTICIAS ®|  FRANCE 24  HD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/333433
-#EXTINF:-1 tvg-id="NTN24" tvg-name="NOTICIAS ®| VOZ DE AMERICA HD" tvg-logo="https://i.ibb.co/gygJvqV/CO-DE-AMERICA.jpg" group-title="NOTICIAS 24 NEWS ⏯️ | PREMIUM",NOTICIAS ®| VOZ DE AMERICA HD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/333435
-#EXTINF:-1 tvg-id="telesur.es" tvg-name="NOTICIAS ®| TELESUR  HD" tvg-logo="https://i.ibb.co/3MTwm56/TELESUR.jpg" group-title="NOTICIAS 24 NEWS ⏯️ | PREMIUM",NOTICIAS ®| TELESUR  HD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/333436
-#EXTINF:-1 tvg-id="cnnenespanol.mx" tvg-name="NOTICIAS ®|  CNN ESPAÑOL HD" tvg-logo="https://i.ibb.co/581sYbT/CNN.jpg" group-title="NOTICIAS 24 NEWS ⏯️ | PREMIUM",NOTICIAS ®|  CNN ESPAÑOL HD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/333437
-#EXTINF:-1 tvg-id="CNNInt.TV" tvg-name="NOTICIAS ®|  CNN INTERNA SD" tvg-logo="https://i.ibb.co/581sYbT/CNN.jpg" group-title="NOTICIAS 24 NEWS ⏯️ | PREMIUM",NOTICIAS ®|  CNN INTERNA SD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/333438
-#EXTINF:-1 tvg-id="CNNEURH" tvg-name="NOTICIAS ®|  CNN USA HD" tvg-logo="https://i.ibb.co/581sYbT/CNN.jpg" group-title="NOTICIAS 24 NEWS ⏯️ | PREMIUM",NOTICIAS ®|  CNN USA HD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/333439
-#EXTINF:-1 tvg-id="CNNCHE" tvg-name="NOTICIAS ®| CNN CHILE HD" tvg-logo="https://i.ibb.co/581sYbT/CNN.jpg" group-title="NOTICIAS 24 NEWS ⏯️ | PREMIUM",NOTICIAS ®| CNN CHILE HD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/333440
-#EXTINF:-1 tvg-id="euronews.mx" tvg-name="NOTICIAS ®| EURONEWS  SD" tvg-logo="https://i.ibb.co/NTtgLfQ/EURONEWS.jpg" group-title="NOTICIAS 24 NEWS ⏯️ | PREMIUM",NOTICIAS ®| EURONEWS  SD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/333441
-#EXTINF:-1 tvg-id="ALJSP" tvg-name="NOTICIAS ®|  ALJAZEERA HD" tvg-logo="https://i.ibb.co/f9tSMWd/ALJAZEERA.jpg" group-title="NOTICIAS 24 NEWS ⏯️ | PREMIUM",NOTICIAS ®|  ALJAZEERA HD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/333442
-#EXTINF:-1 tvg-id="rtespanol.es" tvg-name="NOTICIAS ®| RT HD" tvg-logo="https://i.ibb.co/mhr7w9j/RT.jpg" group-title="NOTICIAS 24 NEWS ⏯️ | PREMIUM",NOTICIAS ®| RT HD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/333444
-#EXTINF:-1 tvg-id="dwdeutschplus.mx" tvg-name="NOTICIAS ®|  DW ESPAÑOL HD" tvg-logo="https://i.ibb.co/qjD0m1D/DW.jpg" group-title="NOTICIAS 24 NEWS ⏯️ | PREMIUM",NOTICIAS ®|  DW ESPAÑOL HD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/333446
-#EXTINF:-1 tvg-id="bbcworldnewsnorthamerica.us" tvg-name="NOTICIAS ®|  BBC WORLD NEWS HD" tvg-logo="https://i.ibb.co/k9t3h2y/BBC-WORDS-NEWS.jpg" group-title="NOTICIAS 24 NEWS ⏯️ | PREMIUM",NOTICIAS ®|  BBC WORLD NEWS HD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/333447
-
-
-#EXTINF:-1 group-title="NOTICIAS",NOT | TELEMUNDO Internacional
-http://170.81.241.222:31589/play/a06f/index.m3u8
-
 #EXTINF:-1 group-title="NOTICIAS",NOT | US: TELEMUNDO
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
@@ -2026,69 +1997,223 @@ https://i.mjh.nz/PlutoTV/5dd6dc7480e3550009133d4a-alt.m3u8
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/6076c74daa05ac0007d0eb07-alt.m3u8
 
-#EXTINF:-1 tvg-id="espn.mx" tvg-name="LAT ®| ESPN HD" tvg-logo="https://i.ibb.co/VQ6YC6R/ESPN-LATINO-1.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT ®| ESPN HD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332869
-#EXTINF:-1 tvg-id="espnlatin.mx" tvg-name="LAT ®| ESPN FHD" tvg-logo="https://i.ibb.co/VQ6YC6R/ESPN-LATINO-1.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT ®| ESPN FHD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332870
-#EXTINF:-1 tvg-id="espn.2.ar" tvg-name="LAT ®| ESPN 2 HD" tvg-logo="https://i.ibb.co/8dFyL0J/ESPN-LATINO-2.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT ®| ESPN 2 HD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332871
-#EXTINF:-1 tvg-id="espn.2.ar" tvg-name="LAT ®| ESPN 2 FHD" tvg-logo="https://i.ibb.co/8dFyL0J/ESPN-LATINO-2.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT ®| ESPN 2 FHD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332872
-#EXTINF:-1 tvg-id="0" tvg-name="LAT ®| ESPN 3 HD" tvg-logo="https://i.ibb.co/z8gjwYG/ESPN-LATINO-3.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT ®| ESPN 3 HD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332873
-#EXTINF:-1 tvg-id="0" tvg-name="LAT ®| ESPN 3 FHD" tvg-logo="https://i.ibb.co/z8gjwYG/ESPN-LATINO-3.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT ®| ESPN 3 FHD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332874
-#EXTINF:-1 tvg-id="espn.4.latin.america.mx" tvg-name="LAT ®| ESPN 4 HD" tvg-logo="https://i.ibb.co/pfRcVsC/ESPN-LATINO-4.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT ®| ESPN 4 HD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332875
-#EXTINF:-1 tvg-id="espn.4.latin.america.mx" tvg-name="LAT ®| ESPN 4 FHD" tvg-logo="https://i.ibb.co/pfRcVsC/ESPN-LATINO-4.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT ®| ESPN 4 FHD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332877
-#EXTINF:-1 tvg-id="0" tvg-name="LAT ®| ESPN 5 HD" tvg-logo="https://i.ibb.co/Tg2F1QS/ESPN-LATINO-5.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT ®| ESPN 5 HD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332878
-#EXTINF:-1 tvg-id="0" tvg-name="LAT ®| ESPN 5 FHD" tvg-logo="https://i.ibb.co/Tg2F1QS/ESPN-LATINO-5.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT ®| ESPN 5 FHD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332879
-#EXTINF:-1 tvg-id="" tvg-name="LAT ®| ESPN 6 HD" tvg-logo="https://i.ibb.co/7KkDcMz/ESPN-LATINO-6.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT ®| ESPN 6 HD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332883
-#EXTINF:-1 tvg-id="" tvg-name="LAT ®| ESPN 6 FHD" tvg-logo="https://i.ibb.co/7KkDcMz/ESPN-LATINO-6.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT ®| ESPN 6 FHD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332884
-#EXTINF:-1 tvg-id="" tvg-name="LAT ®| ESPN 7 HD" tvg-logo="https://i.ibb.co/n3rk8TW/ESPN-LATINO-07.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT ®| ESPN 7 HD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332885
-#EXTINF:-1 tvg-id="" tvg-name="LAT ®| ESPN 7 FHD" tvg-logo="https://i.ibb.co/n3rk8TW/ESPN-LATINO-07.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT ®| ESPN 7 FHD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332886
-#EXTINF:-1 tvg-id="espn.mx" tvg-name="MX ®| ESPN HD" tvg-logo="https://i.ibb.co/027xjVq/ESPN-MEXICO-1.jpg" group-title="DEPORTES ⏯️ | ESPN",MX ®| ESPN HD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332889
-#EXTINF:-1 tvg-id="espn.mx" tvg-name="MX ®| ESPN FHD" tvg-logo="https://i.ibb.co/027xjVq/ESPN-MEXICO-1.jpg" group-title="DEPORTES ⏯️ | ESPN",MX ®| ESPN FHD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332891
-#EXTINF:-1 tvg-id="espn2.mx" tvg-name="MX ®| ESPN 2 HD" tvg-logo="https://i.ibb.co/0rCBRw0/ESPN-MEXICO-2.jpg" group-title="DEPORTES ⏯️ | ESPN",MX ®| ESPN 2 HD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332892
-#EXTINF:-1 tvg-id="espn2.mx" tvg-name="MX ®| ESPN 2 FHD" tvg-logo="https://i.ibb.co/0rCBRw0/ESPN-MEXICO-2.jpg" group-title="DEPORTES ⏯️ | ESPN",MX ®| ESPN 2 FHD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332893
-#EXTINF:-1 tvg-id="espn3.mx" tvg-name="MX ®| ESPN 3 HD" tvg-logo="https://i.ibb.co/d0qp4vW/ESPN-MEXICO-3.jpg" group-title="DEPORTES ⏯️ | ESPN",MX ®| ESPN 3 HD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332894
-#EXTINF:-1 tvg-id="espn3.mx" tvg-name="MX ®| ESPN 3 FHD" tvg-logo="https://i.ibb.co/d0qp4vW/ESPN-MEXICO-3.jpg" group-title="DEPORTES ⏯️ | ESPN",MX ®| ESPN 3 FHD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332895
-#EXTINF:-1 tvg-id="espnplushd.mx" tvg-name="MX ®| ESPN 4 HD" tvg-logo="https://i.ibb.co/R9QkmfF/ESPN-MEXICO-4.jpg" group-title="DEPORTES ⏯️ | ESPN",MX ®| ESPN 4 HD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332896
-#EXTINF:-1 tvg-id="espnplus.mx" tvg-name="MX ®| ESPN 4 FHD" tvg-logo="https://i.ibb.co/R9QkmfF/ESPN-MEXICO-4.jpg" group-title="DEPORTES ⏯️ | ESPN",MX ®| ESPN 4 FHD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332897
-#EXTINF:-1 tvg-id="" tvg-name="ARG ®| ESPN HD" tvg-logo="https://i.ibb.co/DRqmPBh/ESPN-ARG-1.jpg" group-title="DEPORTES ⏯️ | ESPN",ARG ®| ESPN HD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332898
-#EXTINF:-1 tvg-id="espn.ar" tvg-name="ARG ®| ESPN FHD" tvg-logo="https://i.ibb.co/DRqmPBh/ESPN-ARG-1.jpg" group-title="DEPORTES ⏯️ | ESPN",ARG ®| ESPN FHD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332899
-#EXTINF:-1 tvg-id="espn.2.ar" tvg-name="ARG ®| ESPN 2 HD" tvg-logo="https://i.ibb.co/mJWqXkp/ESPN-ARG-2.jpg" group-title="DEPORTES ⏯️ | ESPN",ARG ®| ESPN 2 HD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332900
-#EXTINF:-1 tvg-id="" tvg-name="ARG ®| ESPN 2 FHD" tvg-logo="https://i.ibb.co/mJWqXkp/ESPN-ARG-2.jpg" group-title="DEPORTES ⏯️ | ESPN",ARG ®| ESPN 2 FHD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332901
-#EXTINF:-1 tvg-id="" tvg-name="ARG ®| ESPN 3 HD" tvg-logo="https://i.ibb.co/3WsbFfB/ESPN-ARG-3.jpg" group-title="DEPORTES ⏯️ | ESPN",ARG ®| ESPN 3 HD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332910
-#EXTINF:-1 tvg-id="" tvg-name="ARG ®| ESPN 3 FHD" tvg-logo="https://i.ibb.co/3WsbFfB/ESPN-ARG-3.jpg" group-title="DEPORTES ⏯️ | ESPN",ARG ®| ESPN 3 FHD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332911
-#EXTINF:-1 tvg-id="" tvg-name="ARG ®| ESPN 4 HD" tvg-logo="https://i.ibb.co/P6QDc0R/ESPN-ARG-4.jpg" group-title="DEPORTES ⏯️ | ESPN",ARG ®| ESPN 4 HD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332912
-#EXTINF:-1 tvg-id="" tvg-name="ARG ®| ESPN 4 FHD" tvg-logo="https://i.ibb.co/P6QDc0R/ESPN-ARG-4.jpg" group-title="DEPORTES ⏯️ | ESPN",ARG ®| ESPN 4 FHD
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332913
+#EXTINF:-1 group-title="COPA EURO", AR: ESPN COPA EURO 01
+http://170.82.37.21:8000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", AR: ESPN COPA EURO 02
+http://181.78.8.90:16123/play/ch16
+#EXTINF:-1 group-title=COPA EURO", AR: ESPN COPA EURO 03
+http://200.60.124.19:29000/play/a016/index.m3u8
+#EXTINF:-1 group-title="COPA EURO", SV: CANAL 4 COPA EURO 04
+https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
+#EXTINF:-1 group-title="COPA EURO", CA: TSN 1 COPA EURO 05
+http://45.41.213.34:70/TSN1/index.m3u8
+#EXTINF:-1 group-title="COPA EURO", CA: TSN 2 COPA EURO 06
+http://45.41.213.34:70/TSN4/index.m3u8
+#EXTINF:-1 group-title="COPA EURO", CA: TSN 3 COPA EURO 07
+http://45.41.213.34:70/TSN5/index.m3u8
+#EXTINF:-1 group-title="COPA EURO", MX: CANAL 5 COPA EURO 08
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
+#EXTINF:-1 group-title="COPA EURO", ES: LA 1 COPA EURO 09
+https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
+#EXTINF:-1 group-title="COPA EURO", ES: LA 2 COPA EURO 10
+http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/117156
+#EXTINF:-1 group-title="COPA EURO", IN: SONY COPA EURO 11
+https://homeip.biz/livso/index.m3u8
+#EXTINF:-1 group-title="COPA EURO", CN: CCTV COPA EURO 12
+https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 group-title="COPA EURO", TR: TRT 1 COPA EURO 13
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
 
 
 
+#EXTINF:-1 group-title="COPA AMERICA", MX: TUDN COPA AMERICA 01
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+#EXTINF:-1 group-title="COPA AMERICA", PA: TVMAX COPA AMERICA 02
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="COPA AMERICA", PA: RPC COPA AMERICA 03
+https://live-b2.cf.dmcdn.net/sec2(9yjPJR_NLZBp4XezizRliwDIQgOmaf1vVGX9Fi3JiyDbWJ5FD7VKQuhZ2wGN3ZvZA6dEQkId0Q0qcanhPWfrHl9JAUmB5Hu9_UWN3ww3gl8)/cloud/3/x8lwrcd/s/live-2.m3u8
+#EXTINF:-1 group-title="COPA AMERICA", CR: CANAL 6 COPA AMERICA 04
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="COPA AMERICA", SV: CANAL 4 COPA AMERICA 05
+https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
+#EXTINF:-1 group-title="COPA AMERICA", NI: CANAL 13 COPA AMERICA 06
+http://tvlatino.live:8080/play/_A1diXa2YXbIu98UrBQoM9CFoCCxS-MNbukUrvdLOUB0IQGh8M7qvrrK6_2OKABd/ts
+#EXTINF:-1 group-title="COPA AMERICA", CO: WIN SPORTS COPA AMERICA 07
+http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
+#EXTINF:-1 group-title="COPA AMERICA", CO: WIN SPORTS+ COPA AMERICA 08
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
+#EXTINF:-1 group-title="COPA AMERICA", GT: TV AZTECA COPA AMERICA 09
+https://ch1-tva.duin.dev/hls/stream.m3u8
+#EXTINF:-1 group-title="COPA AMERICA", UY: TV CIUDAD COPA AMERICA 10
+https://sdmx.vip:443/belpley/sYqKZQrTZa/2055403.ts
+#EXTINF:-1 group-title="COPA AMERICA", PY: UNICANAL COPA AMERICA 11
+https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/chunklist_w984880022.m3u8?k=6980c82cf2f8826ebe702b27cedaa8378ce91c44410783288cd05392ba49f8e1&exp=1718557383
+#EXTINF:-1 group-title="COPA AMERICA", EC: ECDF COPA AMERICA 12
+http://177.53.153.20:8001/play/a040/index.m3u8
+#EXTINF:-1 group-title="COPA AMERICA", EC: ECDF COPA AMERICA 13
+http://tv.soccerplus.link:8000/julia35a/anticona34/868
+#EXTINF:-1 group-title="COPA AMERICA", CN: CCTV 5 COPA AMERICA 14
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
+
+#EXTINF:-1 group-title="COPA AMERICA", ES: M+ COPA AMERICA 15
+http://20957968804646234.otjb0606.xyz:80/play/XJAGG3528/KA855743254/646234.ts
+#EXTINF:-1 group-title="COPA AMERICA", EC: ECDF COPA AMERICA 16
+http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/468
+#EXTINF:-1 group-title="COPA AMERICA", AR: TyC SPORTS COPA AMERICA 17
+http://394127477385816648.otjb0606.xyz:80/play/vi930121/pjApv4C8Sg/816648.ts
+#EXTINF:-1 group-title="COPA AMERICA", MX: TUDN COPA AMERICA 18
+http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/24941
+#EXTINF:-1 group-title="COPA AMERICA", EC: ECDF COPA AMERICA 19
+http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzXIQ44e3FJLxqKdO0oG3odc/ts
+#EXTINF:-1 group-title="COPA AMERICA", MX: TUDN COPA AMERICA 20
+http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/553
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTES", WIN SPORTS (colombia)
+http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
+#EXTINF:-1 group-title="DEPORTES", WIN SPORT+ (colombia)
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
+#EXTINF:-1 group-title="DEPORTES", WIN SPORT+ opc.2 (colombia)
+http://galaxypro.online:8080/LuisiBarra/CVZ3cEFX2024/555690
+#EXTINF:-1 group-title="DEPORTES", vtv plus (uruguay)
+http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181758
+#EXTINF:-1 group-title="DEPORTES",  direc tv sports (argentina)
+http://tv.proyectox.vip:8080/userfruto1/H2m3De4aMA/358817
+#EXTINF:-1 group-title="DEPORTES",  direc tv sport 2 (argentina)
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/456658
+#EXTINF:-1 group-title="DEPORTES",  espn (argentina)
+http://mstrtv.com:25461/live/3N1gma2/4h51akrHnt/50087.m3u8
+#EXTINF:-1 group-title="DEPORTES",  espn 2 (argentina)
+http://tvbross.com:8090/mBEic2w7BZ/nuDwNNJLE8/18192
+#EXTINF:-1 group-title="DEPORTES",  espn 3 (argentina)
+http://217.182.213.252:8080/play/hls/eyJpdiI6IkpHSE9TOVVyUFZLSnlHUEl3RHcxc0E9PSIsInZhbHVlIjoiVjdDTDZGREtIdGJUTHVrczUvRVMyUVJ0Z2JMUDZjemlNN0pZcSt0M0Z6WEVXaGhpTXowenJsUVpIK1VrcVZ2byIsIm1hYyI6ImYzZWZkNTI5MWE2Y2I3ODg1Njc5OGEwNTVmNGVmODJlYjdiYTJjNmY4YzcxZDJmOTc0MWU3ZDIwY2IxZGQ1ODIiLCJ0YWciOiIifQ==/6d068831-b2ec-4dee-b555-bcfc801b32f0.m3u8?lvtoken=eyJpdiI6InZENzlGNDFvejdoT0VsOS9MMzV5OHc9PSIsInZhbHVlIjoibzFzNGZ5L09uYkd5a2NsK2hYSTBOSmdBc1NqRzdvaG9VWHZYQ1hZSFNzWkZaRlF4UkRnTFhGV1lhZ1JSWGJWdEtUUFlkckR2RlM5a3hxSjVhNW1kclhURHFHMlB3dkZOWnBZM2NDWldyMzcrVzc1QllUUmtjUzhEWTJNTDFpUDBFNWhWUCtDNUxBMVRTTUFZZGxEMDZXd3pjbDZnYnhyb3B1elY1OVd2TlBpd2RrUkpjK29paUZlak1md3A1OWkxVXhiWlVDUFRiRWFZNTJDRFlTUnBKUT09IiwibWFjIjoiNzIwMjk2ZThkNzVkNmY3MjZmMTNlNjE5YzRjYjEzNjYxZTU4OTZkMDBhOTZmMDFiMzkzNGM4NjRmYjEyZDFmNCIsInRhZyI6IiJ9&r=693940&rt=d4f1f59876ba91f22fdf65c72064c53c
+#EXTINF:-1 group-title="DEPORTES",  espn premium (argentina)
+http://tvbross.com:8090/mBEic2w7BZ/nuDwNNJLE8/47185
+#EXTINF:-1 group-title="DEPORTES",  fox sport (argentina)
+http://maiolve.club:8080/GalaxyQQQ6987/fR4W3NQ35DSs/2090080
+#EXTINF:-1 group-title="Bics DEPORTES",  fox sport 2 (argentina)
+http://lobo-tv.live:8080/rhin0xCPwow/yXtqbNNtmzaqU/10957
+#EXTINF:-1 group-title="Bics DEPORTES", fox 3 (argentina)
+http://tv.soccerplus.link:8000/andresmiranda/DTp1CZJ98f/34589
+#EXTINF:-1 group-title="DEPORTES", tyc SPORTS (argentina)
+http://mstrtv.com:25461/live/3N1gma2/4h51akrHnt/127555.m3u8
+#EXTINF:-1 group-title="DEPORTES", TyC sports play (argentina)
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",  TNT Sports (argentina)
+http://tvbross.com:8090/mBEic2w7BZ/nuDwNNJLE8/37542
+#EXTINF:-1 group-title="DEPORTES", Tnt sports (chile)
+http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57160
+#EXTINF:-1 group-title="DEPORTES", TNT SPORTS 2 (chile)
+http://854028012115848149.ofk0601.xyz:80/live/MFCiptv2023.7/dFxQTA3KYGWX/848149.ts
+#EXTINF:-1 group-title="DEPORTES", Tnt sports 3 (chile)
+http://maiolve.club:8080/GalaxyQQQ6987/fR4W3NQ35DSs/25366
+#EXTINF:-1 group-title="DEPORTES", Tnt estadio sports (chile)
+http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57154
+#EXTINF:-1 group-title="DEPORTES", CDO PREMIUM (chile)
+http://maiolve.club:8080/GalaxyQQQ6987/fR4W3NQ35DSs/25371
+#EXTINF:-1 group-title="DEPORTES", contacto deportivo (peru)
+https://live.obslivestream.com/cdeportivo/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", gol peru (peru)
+http://alfatv.lat:2082/diego270903/diego270903/234942
+#EXTINF:-1 group-title="Bics DEPORTES", liga 1
+http://tvbross.com:8090/comandoalmache/almache2022../140577
+#EXTINF:-1 group-title="Bics DEPORTES", liga 1 max
+http://galaxypro.online:8080/GingerAndrade1311/0984789890GA/103257
+#EXTINF:-1 group-title="DEPORTES",  movistar (peru)
+http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181756
+#EXTINF:-1 group-title="DEPORTES",  FOX SPORTS  1 (México)
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/36396
+#EXTINF:-1 group-title="DEPORTES",  FOX SPORTS 2 (México)
+http://tilinki.com:25461/caqo5939/2g7xS/24
+#EXTINF:-1 group-title="DEPORTES",  FOX SPORTS 3 (México)
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/9538
+#EXTINF:-1 group-title="DEPORTES",  ESPN SPORT 1 (México)
+https://sdmx.vip:443/belpley/sYqKZQrTZa/155472.ts
+#EXTINF:-1 group-title="DEPORTES",  ESPN SPORT 2 (mexico)
+http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/1069852
+#EXTINF:-1 group-title="DEPORTES",  ESPN SPORT 3 (México)
+http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/1069859
+#EXTINF:-1 group-title="DEPORTES",  espn 4 (México)
+http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/1069865
+#EXTINF:-1 group-title="DEPORTES",TVC SPORTS 
+http://budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159097
+#EXTINF:-1 group-title="DEPORTES", fox sport premiun (mexico)
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/158454
+#EXTINF:-1 group-title="DEPORTES",  TUDN
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+#EXTINF:-1 group-title="DEPORTES", TUDN usa
+http://tvmate.icu:8080/Alan/Alan1234/82241
+ #EXTINF:-1 group-title="EPORTES", sky sport (México)
+https://dashtvcloud.online:8443/josealbrook/panama121/144286
+#EXTINF:-1 group-title="DEPORTES", azteca deportes (México)
+http://tv.proyectox.vip:8080/Hidr13odemsww/nTAuRWcTmD/180062
+#EXTINF:-1 group-title="DEPORTES", deportes ufc (México)
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/8918
+#EXTINF:-1 group-title="DEPORTES", deportes itv (México)
+https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
+#EXTINF:-1 group-title="DEPORTES", futbol network tv (México)
+https://59d39900ebfb8.streamlock.net/8312/8312/.m3u8
+#EXTINF:-1 group-title="DEPORTES", faceta tv (bolivia)
+https://master.tucableip.com/ftv/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", tigo sports (bolivia)
+http://tilinki.com:25461/caqo5939/2g7xS/98583
+#EXTINF:-1 group-title="DEPORTES", td + (costa rica)
+https://cdn02.teletica.com/StreamTDMas1/Streamtdmas_1_04122023/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", td + 2 (costa rica)
+https://cdn02.teletica.com/StreamTDMas2/Streamtdmas_2_04122023/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", futv (costa rica)
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162220
+#EXTINF:-1 group-title="DEPORTES", tigo sports (costa rica)
+http://201.159.113.219:49000/play/a04x/index.m3u8
+ #EXTINF:-1 group-title="DEPORTES", tigo sports (panama)
+https://dashtvcloud.online:8443/josealbrook/panama121/144349
+ #EXTINF:-1 group-title="DEPORTES", ser tv (panama)
+https://dashtvcloud.online:8443/josealbrook/panama121/126568
+ #EXTINF:-1 group-title="DEPORTES", cos fc (panama)
+https://dashtvcloud.online:8443/josealbrook/panama121/213622
+ #EXTINF:-1 group-title="DEPORTES", SportTv Premiere Uno
+http://wabot.win:8080/RAX42434hh/RAX42434hh/667119
+ #EXTINF:-1 group-title="DEPORTES", SportTv Premiere dos
+http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/562
+ #EXTINF:-1 group-title="DEPORTES", SportTv Premiere tres
+http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/563
+ #EXTINF:-1 group-title="DEPORTES", SportTv Premiere cuatro
+http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/564
+ #EXTINF:-1 group-title="Bics DEPORTES", SportTv Premiere cinco
+http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/565
+ #EXTINF:-1 group-title="DEPORTES", BAND SPORTS
+http://magmas5.com:8000/live/Y78PIVSQGY/ZTY3Y2FNXB/5099.m3u8
+ #EXTINF:-1 group-title="DEPORTES", WAPA BEISBOL
+https://live.field59.com/wapa/wapa2/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", Canal 13 nicaragua
+http://tvlatino.live:8080/play/_A1diXa2YXbIu98UrBQoM9CFoCCxS-MNbukUrvdLOUB0IQGh8M7qvrrK6_2OKABd/ts
+
+#EXTINF:-1 group-title="DEPORTES", nba tv
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXn4MLNstO02YGaIQk7Vj7_
+#EXTINF:-1 group-title="DEPORTES", mlb network 
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXuEvcE6ncGKEYRubAc_MXo
+#EXTINF:-1 group-title="DEPORTES", nfl network 
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEVYJW-Q5gl89q2J5sBjKlEZ
+#EXTINF:-1 group-title="DEPORTES", tennis channels
+http://tvlatino.club:2082/devil40/VkCBMYP78uZn/243903
+#EXTINF:-1 group-title="DEPORTES", golf channels
+http://tvlatino.club:2082/devil40/VkCBMYP78uZn/190695
+#EXTINF:-1 group-title="DEPORTES", wwe network
+http://tvlatino.club:2082/devil40/VkCBMYP78uZn/243910
+#EXTINF:-1 group-title="DEPORTES", willow cricket network 
+http://tvlatino.club:2082/devil40/VkCBMYP78uZn/243908
+#EXTINF:-1 group-title="DEPORTES", nhl network
+http://home-playtv.com:8080/ArianLatino/HmzUpdy26e/36435
+#EXTINF:-1 group-title="DEPORTES", yes network (usa)
+https://dashtvcloud.online:8443/josealbrook/panama121/146532
+#EXTINF:-1 group-title="DEPORTES", gol tv (usa)
+https://dashtvcloud.online:8443/josealbrook/panama121/223552
 
 
 #EXTINF:-1 channel-id="pluto-6047fabfce6e8e00070bcc9f" tvg-id="6047fabfce6e8e00070bcc9f" tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" tvg-chno="1502" group-title="MUSICA",MUS | MTV Biggest Pop
