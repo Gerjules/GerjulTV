@@ -4,7 +4,7 @@
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 
 #EXTINF:0 tvg-logo="http://miarea.vip:8080/images/c0def78c987ca346ac27f87cbacf0ccc.png" group-title="PARAGUAY",PY | SNT
-https://alba-py-snt-snt.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
+http://45.71.252.16:8000/play/a0cy/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/3cNkkFd/TRECE.png" group-title="PARAGUAY",PY | TRECE
