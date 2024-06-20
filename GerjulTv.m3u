@@ -1510,7 +1510,7 @@ http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612289&
 
 
 #EXTINF:-1 group-title="COPA EURO", AR: ESPN COPA EURO 01
-http://170.82.37.21:8000/play/a04g/index.m3u8
+http://pe.shortgod.com/temporal/play.php?id=11
 #EXTINF:-1 group-title="COPA EURO", AR: ESPN COPA EURO 02
 http://181.78.8.90:16123/play/ch16
 #EXTINF:-1 group-title="COPA EURO", AR: ESPN COPA EURO 03
@@ -1573,7 +1573,7 @@ http://20957968804646234.otjb0606.xyz:80/play/XJAGG3528/KA855743254/646234.ts
 #EXTINF:-1 group-title="COPA AMERICA", EC: ECDF COPA AMERICA 16
 http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/468
 #EXTINF:-1 group-title="COPA AMERICA", AR: TyC SPORTS COPA AMERICA 17
-http://394127477385816648.otjb0606.xyz:80/play/vi930121/pjApv4C8Sg/816648.ts
+http://pe.shortgod.com/temporal/play.php?id=11
 #EXTINF:-1 group-title="COPA AMERICA", MX: TUDN COPA AMERICA 18
 http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/24941
 #EXTINF:-1 group-title="COPA AMERICA", EC: ECDF COPA AMERICA 19
