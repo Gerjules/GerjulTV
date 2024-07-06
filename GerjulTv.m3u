@@ -1056,26 +1056,115 @@ https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY HD*+*" tvg-logo="https://static.epg.best/mx/InvestigationDiscovery.mx.png" group-title="CULTURA",CULT | INVESTIGATION DISCOVERY HD*+*
-http://cincotv.org:25461/Fermand693/Toapa475/186501
-#EXTINF:-1 tvg-id="0" tvg-name="DISCOVERY SCIENCIE HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-latinoamerica-us.png" group-title="CULTURA",CULT | DISCOVERY SCIENCIE HD
-http://cincotv.org:25461/Fermand693/Toapa475/186503
-#EXTINF:-1 tvg-id="0" tvg-name="DISCOVERY THEATHER FHD" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="CULTURA",CULT | DISCOVERY THEATHER FHD
-http://cincotv.org:25461/Fermand693/Toapa475/186504
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CULTURA",CULT | DISCOVERY TURBO  HD
-http://cincotv.org:25461/Fermand693/Toapa475/186505
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="CULTURA",CULT | DISCOVERY WORLD HD
-http://cincotv.org:25461/Fermand693/Toapa475/186506
-#EXTINF:-1 tvg-id="0" tvg-name="H2 HD" tvg-logo="https://static.epg.best/pa/History2LatinAmerica.pa.png" group-title="CULTURA",CULT | H2 HD
-http://cincotv.org:25461/Fermand693/Toapa475/186507
-#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HISTORY CHANNEL FHD" tvg-logo="https://static.epg.best/ar/HistoryChannel.ar.png" group-title="CULTURA",CULT | HISTORY CHANNEL FHD
-http://cincotv.org:25461/Fermand693/Toapa475/186509
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD HD" tvg-logo="https://static.epg.best/es/NatGeoWild.es.png" group-title="CULTURA",CULT | NATGEO WILD HD
-http://cincotv.org:25461/Fermand693/Toapa475/186511
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAFHY HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png" group-title="CULTURA",CULT | NATIONAL GEOGRAFHY HD
-http://cincotv.org:25461/Fermand693/Toapa475/186512
-#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/TLC.png" group-title="CULTURA",CULT | LC HD
-http://cincotv.org:25461/Fermand693/Toapa475/186513
+#EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/tv1_sci-white.png" group-title="C- CULTURA",DISCOVERY SCIENCE
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/235538
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY H&H" tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="C- CULTURA",DISCOVERY H&H
+http://45.166.92.22:58001/play/a015/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY H&H HD" tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="C- CULTURA",DISCOVERY H&H HD
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/235554
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="DISCOVERY WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="C- CULTURA",DISCOVERY WORLD
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/235580
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY WORLD OP 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="C- CULTURA",DISCOVERY WORLD OP 2
+http://191.97.49.194:8000/play/a04e/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="DISCOVERY TURBO" tvg-logo="http://2.bp.blogspot.com/-050AUHplpUI/VFuobCREnsI/AAAAAAAAkCE/Zs_lGMgmA74/s1600/D.Turbo.png" group-title="C- CULTURA",DISCOVERY TURBO
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/235586
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY TURBO OP 2" tvg-logo="http://2.bp.blogspot.com/-050AUHplpUI/VFuobCREnsI/AAAAAAAAkCE/Zs_lGMgmA74/s1600/D.Turbo.png" group-title="C- CULTURA",DISCOVERY TURBO OP 2
+http://181.78.75.83:5013/play/a08q/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/4096px-2015_Discovery_theater_HD_logo.svg.png" group-title="C- CULTURA",DISCOVERY THEATER
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/235590
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="DISCOVERY THEATER OP 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/4096px-2015_Discovery_theater_HD_logo.svg.png" group-title="C- CULTURA",DISCOVERY THEATER OP 2
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/62823
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NACIONAL GEOGRAPHIC CHANNEL" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeo/Images/16c2ba84acf1e35302d1189a30433414/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png" group-title="C- CULTURA",NACIONAL GEOGRAPHIC CHANNEL
+http://181.78.75.83:5013/play/a0am/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="ANIMAL PLANET" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Animal-Planet-Logo.png" group-title="C- CULTURA",ANIMAL PLANET
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/235595
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET HD" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Animal-Planet-Logo.png" group-title="C- CULTURA",ANIMAL PLANET HD
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/235596
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO " tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeo/Images/16c2ba84acf1e35302d1189a30433414/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png" group-title="C- CULTURA",NAT GEO 
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/235605
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOVE NATURE" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/g-l/lovenatureca/logos/3p-logo._CB436453497_.png" group-title="C- CULTURA",LOVE NATURE
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/322623
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HISTORY MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="C- CULTURA",HISTORY MX
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/322615
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HISTORY PREMIUM" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="C- CULTURA",HISTORY PREMIUM
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/322616
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="H2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" group-title="C- CULTURA",H2
+http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/322617
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="H2 OP2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" group-title="C- CULTURA",H2 OP2
+http://200.59.188.3:8000/play/a033
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL MX" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1.png" group-title="C- CULTURA",DISCOVERY CHANNEL MX
+http://181.78.75.83:5013/play/a06g/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL OP2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1.png" group-title="C- CULTURA",DISCOVERY CHANNEL OP2
+http://200.59.188.3:8000/play/a031
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY FAMILY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMzUybo35l2JFLFNXgjf3lcgrBkeIyB73Ysw&usqp=CAU" group-title="C- CULTURA",DISCOVERY FAMILY
+http://00322.xyz:8000/live/saabj84/CNGUPDY6RA/131284.ts
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="HGTV.mx" tvg-name="HGTV" tvg-logo="https://www.seekpng.com/png/full/240-2403856_hgtv-logo-hgtv-app.png" group-title="C- CULTURA",HGTV
+http://00322.xyz:8000/live/saabj84/CNGUPDY6RA/4815.ts
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HGTV OP2" tvg-logo="https://www.seekpng.com/png/full/240-2403856_hgtv-logo-hgtv-app.png" group-title="C- CULTURA",HGTV OP2
+http://hdhd.tk:80/tvuser114/23Panthers19/645
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="C- CULTURA",DISCOVERY ID
+http://45.166.92.22:58001/play/a01s/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY ID OP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="C- CULTURA",DISCOVERY ID OP2
+http://181.78.75.83:5013/play/a05i/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TLC_USA_logo.png/150px-TLC_USA_logo.png" group-title="C- CULTURA",DISCOVERY TLC
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/65
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY TLC OP 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TLC_USA_logo.png/150px-TLC_USA_logo.png" group-title="C- CULTURA",DISCOVERY TLC OP 2
+http://38.43.150.125:8000/play/a022/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+
 
 
 
