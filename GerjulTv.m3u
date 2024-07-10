@@ -1249,7 +1249,7 @@ http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2596.ts
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/352.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dinosaurios" tvg-logo="https://ih1.redbubble.net/image.3790899799.4176/st,large,507x507-pad,600x600,f8f8f8.jpg" group-title="INFANTIL",INF | Dinosaurios
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dinosaurios" tvg-logo="https://ih1.redbubble.net/image.3790899799.4176/st,large507x507-pad,600x600,f8f8f8.jpg" group-title="INFANTIL",INF | Dinosaurios
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/537.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
