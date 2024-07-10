@@ -1161,15 +1161,10 @@ https://stitcher.pluto.tv/stitch/hls/channel/60511efd71ec430007f50d97/master.m3u
 
 #EXTINF:0 group-title="CULTURA",CULT | Service
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18713-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3efb2623-4d66-4ffa-b1f5-4b9d5f63d16c&userId=&serverSideAds=true
 
 
 #EXTINF:0 group-title="CULTURA",CULT | Discovery Familia
-#EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHPw6CcjW_tufp-8Sl2Tpg2M
 
@@ -1491,347 +1486,347 @@ http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/348.ts
 #EXTVLCOPT--http-reconnect=true
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="16 Veranos" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/cd/TheWayWeWere.jpg/revision/latest?cb=20190629174129&path-prefix=es" group-title="D- Novelas",16 Veranos
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="16 Veranos" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/cd/TheWayWeWere.jpg/revision/latest?cb=20190629174129&path-prefix=es" group-title="NOVELAS",NOV | 16 Veranos
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/276.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Corazon Abierto" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/82FlOKGpr1YSeEKwh2aDmxURs7v.jpg" group-title="D- Novelas",A Corazon Abierto
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Corazon Abierto" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/82FlOKGpr1YSeEKwh2aDmxURs7v.jpg" group-title="NOVELAS",NOV | A Corazon Abierto
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/367.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adrenalina" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/q9pB0IoLjDGiSNt0A3Mf9riPeWw.jpg" group-title="D- Novelas",Adrenalina
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adrenalina" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/q9pB0IoLjDGiSNt0A3Mf9riPeWw.jpg" group-title="NOVELAS",NOV | Adrenalina
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/356.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adrián Esta De Visita" tvg-logo="https://en-images.kinorium.com/movie/1080/235593.jpg?1527901817" group-title="D- Novelas",Adrián Esta De Visita
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adrián Esta De Visita" tvg-logo="https://en-images.kinorium.com/movie/1080/235593.jpg?1527901817" group-title="NOVELAS",NOV | Adrián Esta De Visita
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/368.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al diablo los Guapos" tvg-logo="https://i.ibb.co/0czPcBj/al-diablo.png" group-title="D- Novelas",Al diablo los Guapos
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al diablo los Guapos" tvg-logo="https://i.ibb.co/0czPcBj/al-diablo.png" group-title="NOVELAS",NOV | Al diablo los Guapos
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/771.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alegrijes y Rebujos" tvg-logo="https://i.ibb.co/jyn50Cj/alebriges.png" group-title="D- Novelas",Alegrijes y Rebujos
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alegrijes y Rebujos" tvg-logo="https://i.ibb.co/jyn50Cj/alebriges.png" group-title="NOVELAS",NOV | Alegrijes y Rebujos
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/770.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alias El Mexicano" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/pwn3dP5EbK1Grz8vBGUEVEqkVS5.jpg" group-title="D- Novelas",Alias El Mexicano
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alias El Mexicano" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/pwn3dP5EbK1Grz8vBGUEVEqkVS5.jpg" group-title="NOVELAS",NOV | Alias El Mexicano
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/413.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alma Mia" tvg-logo="https://canvas.tubitv.com/7939ec6e-2005-4703-87bd-d23ca1f70236/UMIAyt?w=256&h=368" group-title="D- Novelas",Alma Mia
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alma Mia" tvg-logo="https://canvas.tubitv.com/7939ec6e-2005-4703-87bd-d23ca1f70236/UMIAyt?w=256&h=368" group-title="NOVELAS",NOV | Alma Mia
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/299.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amame" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/q4So9MyLTZMInq8L3Vj0epZa4xh.jpg" group-title="D- Novelas",Amame
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amame" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/q4So9MyLTZMInq8L3Vj0epZa4xh.jpg" group-title="NOVELAS",NOV | Amame
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/357.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amanda Amores Que Matan" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTBiMDc2MGMtNTA5My00NWI0LTlhMjUtMTVjZDdiN2YwN2RkXkEyXkFqcGdeQXVyMTMzNTM1NDM@._V1_FMjpg_UX1000_.jpg" group-title="D- Novelas",Amanda Amores Que Matan
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amanda Amores Que Matan" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTBiMDc2MGMtNTA5My00NWI0LTlhMjUtMTVjZDdiN2YwN2RkXkEyXkFqcGdeQXVyMTMzNTM1NDM@._V1_FMjpg_UX1000_.jpg" group-title="NOVELAS",NOV | Amanda Amores Que Matan
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/369.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amanda Sabater" tvg-logo="https://pics.filmaffinity.com/amanda_sabater-432087688-mmed.jpg" group-title="D- Novelas",Amanda Sabater
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amanda Sabater" tvg-logo="https://pics.filmaffinity.com/amanda_sabater-432087688-mmed.jpg" group-title="NOVELAS",NOV | Amanda Sabater
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/300.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amantes" tvg-logo="https://www.themoviedb.org/t/p/w500/peie5zSVGdQ4cRdcQI8wBfQSqGP.jpg" group-title="D- Novelas",Amantes
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amantes" tvg-logo="https://www.themoviedb.org/t/p/w500/peie5zSVGdQ4cRdcQI8wBfQSqGP.jpg" group-title="NOVELAS",NOV | Amantes
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/261.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amantes Del Desierto" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/b7UfZRpkdbn6rbGnljOXYRxHq2Y.jpg" group-title="D- Novelas",Amantes Del Desierto
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amantes Del Desierto" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/b7UfZRpkdbn6rbGnljOXYRxHq2Y.jpg" group-title="NOVELAS",NOV | Amantes Del Desierto
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/314.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amar y vivir" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/oTmIP28BCEtgWBdxRMgK33nS0EA.jpg" group-title="D- Novelas",Amar y vivir
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amar y vivir" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/oTmIP28BCEtgWBdxRMgK33nS0EA.jpg" ggroup-title="NOVELAS",NOV | Amar y vivir
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/377.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amigas y rivales" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/l1ufpjYSfQ0yqf860oXmlIaFS1M.jpg" group-title="D- Novelas",Amigas y rivales
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amigas y rivales" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/l1ufpjYSfQ0yqf860oXmlIaFS1M.jpg" group-title="NOVELAS",NOV | Amigas y rivales
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/378.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor A Domicilio" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/47E2hQ18Z4VYCZQRykdDxD4j7l7.jpg" group-title="D- Novelas",Amor A Domicilio
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor A Domicilio" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/47E2hQ18Z4VYCZQRykdDxD4j7l7.jpg" group-title="NOVELAS",NOV | Amor A Domicilio
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/358.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor A La Planca" tvg-logo="https://pics.filmaffinity.com/Amor_a_la_plancha_Serie_de_TV-637088605-large.jpg" group-title="D- Novelas",Amor A La Planca
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor A La Planca" tvg-logo="https://pics.filmaffinity.com/Amor_a_la_plancha_Serie_de_TV-637088605-large.jpg" group-title="NOVELAS",NOV | Amor A La Planca
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/303.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor A Palos" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDZjM2YyYzctMjQ0Ny00MGFhLWJlMWItODE4ZjNmZjc1MjI4XkEyXkFqcGdeQXVyMjI4OTg3MTc@._V1_.jpg" group-title="D- Novelas",Amor A Palos
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor A Palos" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDZjM2YyYzctMjQ0Ny00MGFhLWJlMWItODE4ZjNmZjc1MjI4XkEyXkFqcGdeQXVyMjI4OTg3MTc@._V1_.jpg" group-title="NOVELAS",NOV | Amor A Palos
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/262.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor En Custodia" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/jJKjDGAbPMagzjlds4Y21SIOoPU.jpg" group-title="D- Novelas",Amor En Custodia
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor En Custodia" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/jJKjDGAbPMagzjlds4Y21SIOoPU.jpg" group-title="NOVELAS",NOV | Amor En Custodia
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/302.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor eterno" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/al6OCoVRgdHhkGLVSvx4NPb4TJY.jpg" group-title="D- Novelas",Amor eterno
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor eterno" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/al6OCoVRgdHhkGLVSvx4NPb4TJY.jpg" group-title="NOVELAS",NOV | Amor eterno
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/379.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor Musical" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/30/Poster_Shut_Up_Flower_Boy_Band.png/revision/latest?cb=20220623034306&path-prefix=es" group-title="D- Novelas",Amor Musical
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor Musical" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/30/Poster_Shut_Up_Flower_Boy_Band.png/revision/latest?cb=20220623034306&path-prefix=es" group-title="NOVELAS",NOV | Amor Musical
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/277.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amores De Fin De Siglo" tvg-logo="https://pics.filmaffinity.com/Amores_de_fin_de_siglo_Serie_de_TV-479971677-large.jpg" group-title="D- Novelas",Amores De Fin De Siglo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amores De Fin De Siglo" tvg-logo="https://pics.filmaffinity.com/Amores_de_fin_de_siglo_Serie_de_TV-479971677-large.jpg" group-title="NOVELAS",NOV | Amores De Fin De Siglo
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/263.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Angel De La Guardia" tvg-logo="https://www.lavanguardia.com/peliculas-A- series/images/serie/poster/2005/9/w1280/fKPXIK077SqNR3S8tqRsa9pYNHS.jpg" group-title="D- Novelas",Angel De La Guardia
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Angel De La Guardia" tvg-logo="https://www.lavanguardia.com/peliculas-A- series/images/serie/poster/2005/9/w1280/fKPXIK077SqNR3S8tqRsa9pYNHS.jpg" group-title="NOVELAS",NOV | Angel De La Guardia
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/313.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apuesta Final" tvg-logo="https://pictures.betaA- series.com/fonds/poster/b7b4b25fdd246b190375433954f0defd.jpg" group-title="D- Novelas",Apuesta Final
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apuesta Final" tvg-logo="https://pictures.betaA- series.com/fonds/poster/b7b4b25fdd246b190375433954f0defd.jpg" group-title="NOVELAS",NOV | Apuesta Final
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/278.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astuta Y Soltera" tvg-logo="https://i.pinimg.com/1200x/25/4d/4c/254d4c4f5587db6027e7c5d79527363e.jpg" group-title="D- Novelas",Astuta Y Soltera
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astuta Y Soltera" tvg-logo="https://i.pinimg.com/1200x/25/4d/4c/254d4c4f5587db6027e7c5d79527363e.jpg" group-title="NOVELAS",NOV | Astuta Y Soltera
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/279.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Beatiful Man" tvg-logo="https://bombasoju.files.wordpress.com/2013/11/jang-keun-seuk.jpg" group-title="D- Novelas",Beatiful Man
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Beatiful Man" tvg-logo="https://bombasoju.files.wordpress.com/2013/11/jang-keun-seuk.jpg" group-title="NOVELAS",NOV | Beatiful Man
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/280.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Belleza Juvenil" tvg-logo="https://static.wikia.nocookie.net/drama/images/4/42/412px-Babyfaced_Beauty-p2.jpg/revision/latest?cb=20111204180657&path-prefix=es" group-title="D- Novelas",Belleza Juvenil
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Belleza Juvenil" tvg-logo="https://static.wikia.nocookie.net/drama/images/4/42/412px-Babyfaced_Beauty-p2.jpg/revision/latest?cb=20111204180657&path-prefix=es" group-title="NOVELAS",NOV | Belleza Juvenil
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/281.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BKN" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/gUK8YxL0W25sdwB99vXw76Owf0m.jpg" group-title="D- Novelas",BKN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BKN" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/gUK8YxL0W25sdwB99vXw76Owf0m.jpg" group-title="NOVELAS",NOV | BKN
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/359.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloque De Busqueda" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/1LU5gO3gVOm9IgxLfhSBpMUVYW6.jpg" group-title="D- Novelas",Bloque De Busqueda
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloque De Busqueda" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/1LU5gO3gVOm9IgxLfhSBpMUVYW6.jpg" group-title="NOVELAS",NOV | Bloque De Busqueda
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/410.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bulyaseong" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Night_Light_Poster.jpg" group-title="D- Novelas",Bulyaseong
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bulyaseong" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Night_Light_Poster.jpg" group-title="NOVELAS",NOV | Bulyaseong
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/282.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cafe con aroma de mujer" tvg-logo="https://i.imgur.com/rtNrP0O.png" group-title="D- Novelas",Cafe con aroma de mujer
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cafe con aroma de mujer" tvg-logo="https://i.imgur.com/rtNrP0O.png" group-title="NOVELAS",NOV | Cafe con aroma de mujer
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/964.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Calido Y Acogedor" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/pQ1PjmVu2VoIKixGU8g0TcdBFat.jpg" group-title="D- Novelas",Calido Y Acogedor
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Calido Y Acogedor" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/pQ1PjmVu2VoIKixGU8g0TcdBFat.jpg" group-title="NOVELAS",NOV | Calido Y Acogedor
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/283.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Candela" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/jvRxWYlVPtuoRmPqDhEvf6RF2pH.jpg" group-title="D- Novelas",Candela
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Candela" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/jvRxWYlVPtuoRmPqDhEvf6RF2pH.jpg" group-title="NOVELAS",NOV | Candela
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/312.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cara Sucia" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2UwOGFkOTItMWNmOC00YjkxLTgwMGMtZDZjOTRmNmZhZjZlXkEyXkFqcGdeQXVyODgzMDY4MDc@._V1_.jpg" group-title="D- Novelas",Cara Sucia
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cara Sucia" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2UwOGFkOTItMWNmOC00YjkxLTgwMGMtZDZjOTRmNmZhZjZlXkEyXkFqcGdeQXVyODgzMDY4MDc@._V1_.jpg" group-title="NOVELAS",NOV | Cara Sucia
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/264.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa De Muñecos" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ciQpnI4Hf9Dj5DdokYDWOzxAw47.jpg" group-title="D- Novelas",Casa De Muñecos
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa De Muñecos" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ciQpnI4Hf9Dj5DdokYDWOzxAw47.jpg" group-title="NOVELAS",NOV | Casa De Muñecos
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/360.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chapa Tu Combi" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTRjOWNiMjAtMmM4Ny00YmY0LTg2ODYtNmQyMzU3MmU4MzY0XkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_UY1200_CR759,0,630,1200_AL_.jpg" group-title="D- Novelas",Chapa Tu Combi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chapa Tu Combi" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTRjOWNiMjAtMmM4Ny00YmY0LTg2ODYtNmQyMzU3MmU4MzY0XkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_UY1200_CR759,0,630,1200_AL_.jpg" group-title="NOVELAS",NOV | Chapa Tu Combi
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/317.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chicas De Oficina" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/foMmyGrwtIaI9vbDYPFjGg06xwc.jpg" group-title="D- Novelas",Chicas De Oficina
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chicas De Oficina" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/foMmyGrwtIaI9vbDYPFjGg06xwc.jpg" group-title="NOVELAS",NOV | Chicas De Oficina
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/284.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chicos En Busca De Amor" tvg-logo="https://nbp1.files.wordpress.com/2014/05/chicos-en-busca-del-amor-portada.jpg" group-title="D- Novelas",Chicos En Busca De Amor
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chicos En Busca De Amor" tvg-logo="https://nbp1.files.wordpress.com/2014/05/chicos-en-busca-del-amor-portada.jpg" group-title="NOVELAS",NOV | Chicos En Busca De Amor
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/285.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cindera Man" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Cinderella_Man-poster.jpg" group-title="D- Novelas",Cindera Man
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cindera Man" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Cinderella_Man-poster.jpg" group-title="NOVELAS",NOV | Cindera Man
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/286.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Clase Ejecutiva" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmEyYjI2ZWQtZWU2MC00ODIyLTk1ZGUtNWUzZjA1ODRlMzViXkEyXkFqcGdeQXVyMzM0NTc2MTE@._V1_.jpg" group-title="D- Novelas",Clase Ejecutiva
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Clase Ejecutiva" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmEyYjI2ZWQtZWU2MC00ODIyLTk1ZGUtNWUzZjA1ODRlMzViXkEyXkFqcGdeQXVyMzM0NTc2MTE@._V1_.jpg" group-title="NOVELAS",NOV | Clase Ejecutiva
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/311.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colorina" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDVkZDlmZGYtY2MzNC00MTY0LWI0NTYtZDk3ZWUyMmY1NjQ2XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg" group-title="D- Novelas",Colorina
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colorina" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDVkZDlmZGYtY2MzNC00MTY0LWI0NTYtZDk3ZWUyMmY1NjQ2XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg" group-title="NOVELAS",NOV | Colorina
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/318.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Como dice el dicho" tvg-logo="https://i.imgur.com/QAsfN3b.png" group-title="D- Novelas",Como dice el dicho
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Como dice el dicho" tvg-logo="https://i.imgur.com/QAsfN3b.png" group-title="NOVELAS",NOV | Como dice el dicho
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1048.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Contrato Para Una Boda" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/fd/MDwRRf5.png/revision/latest?cb=20170525201846&path-prefix=es" group-title="D- Novelas",Contrato Para Una Boda
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Contrato Para Una Boda" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/fd/MDwRRf5.png/revision/latest?cb=20170525201846&path-prefix=es" group-title="NOVELAS",NOV | Contrato Para Una Boda
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/287.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cuna de lobos" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/n1xy8a7n6GpKEjqxkMFbe8TGC1x.jpg" group-title="D- Novelas",Cuna de lobos
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cuna de lobos" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/n1xy8a7n6GpKEjqxkMFbe8TGC1x.jpg" group-title="NOVELAS",NOV | Cuna de lobos
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/380.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Damo" tvg-logo="https://i.mydramalist.com/akA7vc.jpg?v=1" group-title="D- Novelas",Damo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Damo" tvg-logo="https://i.mydramalist.com/akA7vc.jpg?v=1" group-title="NOVELAS",NOV | Damo
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/288.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="De Las 5 A Las 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/From_Five_to_Nine_%285%E2%86%929%E3%80%9C%E7%A7%81%E3%81%AB%E6%81%8B%E3%81%97%E3%81%9F%E3%81%8A%E5%9D%8A%E3%81%95%E3%82%93%E3%80%9C%29_Promotional_poster.jpg" group-title="D- Novelas",De Las 5 A Las 9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="De Las 5 A Las 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/From_Five_to_Nine_%285%E2%86%929%E3%80%9C%E7%A7%81%E3%81%AB%E6%81%8B%E3%81%97%E3%81%9F%E3%81%8A%E5%9D%8A%E3%81%95%E3%82%93%E3%80%9C%29_Promotional_poster.jpg" group-title="NOVELAS",NOV | De Las 5 A Las 9
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/289.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="De Mujeres" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Poster_of_El_pais_de_las_mujeres.jpg" group-title="D- Novelas",De Mujeres
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="De Mujeres" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Poster_of_El_pais_de_las_mujeres.jpg" group-title="NOVELAS",NOV | De Mujeres
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/265.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="De Nuevo Un Final Feliz" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/i4ZrXTE2z48MCzBtRuBbFHb5jTi.jpg" group-title="D- Novelas",De Nuevo Un Final Feliz
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="De Nuevo Un Final Feliz" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/i4ZrXTE2z48MCzBtRuBbFHb5jTi.jpg" group-title="NOVELAS",NOV | De Nuevo Un Final Feliz
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/291.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Del Cielo Al Infierno" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/tmsjJ1F3fPMm9BIRTJCgAZ2lV7q.jpg" group-title="D- Novelas",Del Cielo Al Infierno
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Del Cielo Al Infierno" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/tmsjJ1F3fPMm9BIRTJCgAZ2lV7q.jpg" group-title="NOVELAS",NOV | Del Cielo Al Infierno
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/290.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Diomedes Diaz" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/dloUU6Qy5yDVIBd6EUhatBCiRsL.jpg" group-title="D- Novelas",Diomedes Diaz
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Diomedes Diaz" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/dloUU6Qy5yDVIBd6EUhatBCiRsL.jpg" group-title="NOVELAS",NOV | Diomedes Diaz
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/403.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Doctors" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/ff/Doctors-SBS2016.jpg/revision/latest?cb=20190518213251&path-prefix=es" group-title="D- Novelas",Doctors
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Doctors" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/ff/Doctors-SBS2016.jpg/revision/latest?cb=20190518213251&path-prefix=es" group-title="NOVELAS",NOV | Doctors
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/292.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dulce Ilusion" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/hOHg94gqQG5mSTBf20ZMKFpqo2B.jpg" group-title="D- Novelas",Dulce Ilusion
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dulce Ilusion" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/hOHg94gqQG5mSTBf20ZMKFpqo2B.jpg" group-title="NOVELAS",NOV | Dulce Ilusion
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/266.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ecomoda" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/yMwHYtRmbE91pFjorzgfgS6JpKn.jpg" group-title="D- Novelas",Ecomoda
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ecomoda" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/yMwHYtRmbE91pFjorzgfgS6JpKn.jpg" group-title="NOVELAS",NOV | Ecomoda
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/310.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Educando A La Princesa" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/7l2aN9cT7CZ8QPUKknlRsiTAx0k.jpg" group-title="D- Novelas",Educando A La Princesa
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Educando A La Princesa" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/7l2aN9cT7CZ8QPUKknlRsiTAx0k.jpg" group-title="NOVELAS",NOV | Educando A La Princesa
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/293.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Amor Es Mas Fuerte" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_918043-MCO53914662181_022023-O.webp" group-title="D- Novelas",El Amor Es Mas Fuerte
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Amor Es Mas Fuerte" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_918043-MCO53914662181_022023-O.webp" group-title="NOVELAS",NOV | El Amor Es Mas Fuerte
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/309.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Arbol De Gabriel" tvg-logo="https://pics.filmaffinity.com/el_arbol_de_gabriel-595684958-mmed.jpg" group-title="D- Novelas",El Arbol De Gabriel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Arbol De Gabriel" tvg-logo="https://pics.filmaffinity.com/el_arbol_de_gabriel-595684958-mmed.jpg" group-title="NOVELAS",NOV | El Arbol De Gabriel
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/267.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Autentico Rodrigo Leal" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/czwSK0M4XbnJHMdHA1ehJaww9Ph.jpg" group-title="D- Novelas",El Autentico Rodrigo Leal
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Autentico Rodrigo Leal" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/czwSK0M4XbnJHMdHA1ehJaww9Ph.jpg" group-title="NOVELAS",NOV | El Autentico Rodrigo Leal
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/308.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Capo" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/hTwfFidPtRU3BUH8mK90jWyPyBr.jpg" group-title="D- Novelas",El Capo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Capo" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/hTwfFidPtRU3BUH8mK90jWyPyBr.jpg"group-title="NOVELAS",NOV | El Capo
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/404.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Capo" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/hTwfFidPtRU3BUH8mK90jWyPyBr.jpg" group-title="D- Novelas",El Capo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Capo" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/hTwfFidPtRU3BUH8mK90jWyPyBr.jpg" group-title="NOVELAS",NOV | El Capo
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/414.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Chapo" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/2ClXk4PoOGmkk676y4q6T26GJOb.jpg" group-title="D- Novelas",El Chapo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Chapo" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/2ClXk4PoOGmkk676y4q6T26GJOb.jpg"group-title="NOVELAS",NOV | El Chapo
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/415.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Chema" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/wuA7gcwhDMbZ4Y1lscXRrgmaJIi.jpg" group-title="D- Novelas",El Chema
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Chema" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/wuA7gcwhDMbZ4Y1lscXRrgmaJIi.jpg" group-title="NOVELAS",NOV | El Chema
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/417.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El clon" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/61KPceoQCcmgoiCGGWURFJn9ICA.jpg" group-title="D- Novelas",El clon
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El clon" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/61KPceoQCcmgoiCGGWURFJn9ICA.jpg" group-title="NOVELAS",NOV | El clon
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/381.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Desafio" tvg-logo="https://pics.filmaffinity.com/el_desafio-585015617-mmed.jpg" group-title="D- Novelas",El Desafio
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Desafio" tvg-logo="https://pics.filmaffinity.com/el_desafio-585015617-mmed.jpg" group-title="NOVELAS",NOV | El Desafio
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/268.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Encantador" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/vrSIfbePV6wVs2oGQJ6hgbV0jcy.jpg" group-title="D- Novelas",El Encantador
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Encantador" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/vrSIfbePV6wVs2oGQJ6hgbV0jcy.jpg" group-title="NOVELAS",NOV | El Encantador
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/307.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Fantasma Del Gran Hotel" tvg-logo="https://imagenes.estudiosrcn.com/imgrcnventasinternacionales/poster_76.jpg" group-title="D- Novelas",El Fantasma Del Gran Hotel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Fantasma Del Gran Hotel" tvg-logo="https://imagenes.estudiosrcn.com/imgrcnventasinternacionales/poster_76.jpg" group-title="NOVELAS",NOV | El Fantasma Del Gran Hotel
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/306.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Fenix" tvg-logo="https://static.wikia.nocookie.net/drama/images/e/e5/Phoenix1.jpg/revision/latest?cb=20120521023519&path-prefix=es" group-title="D- Novelas",El Fenix
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Fenix" tvg-logo="https://static.wikia.nocookie.net/drama/images/e/e5/Phoenix1.jpg/revision/latest?cb=20120521023519&path-prefix=es" group-title="NOVELAS",NOV | El Fenix
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/294.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El General Naranjo" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/90I52FvezOBC9IX4LeTmaY3SNtS.jpg" group-title="D- Novelas",El General Naranjo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El General Naranjo" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/90I52FvezOBC9IX4LeTmaY3SNtS.jpg" group-title="NOVELAS",NOV | El General Naranjo
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/416.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Hada De Las Pesas" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/8SW0FS3U4nJQVIQj1hecU2Fon8Z.jpg" group-title="D- Novelas",El Hada De Las Pesas
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Hada De Las Pesas" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/8SW0FS3U4nJQVIQj1hecU2Fon8Z.jpg" ggroup-title="NOVELAS",NOV | El Hada De Las Pesas
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/295.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Inutil" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/n1shKImitZJw14XfSllaHNc77CB.jpg" group-title="D- Novelas",El Inutil
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Inutil" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/n1shKImitZJw14XfSllaHNc77CB.jpg" group-title="NOVELAS",NOV | El Inutil
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/305.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Pasado No Perdona" tvg-logo="https://pics.filmaffinity.com/El_pasado_no_perdona_Serie_de_TV-877235071-large.jpg" group-title="D- Novelas",El Pasado No Perdona
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Pasado No Perdona" tvg-logo="https://pics.filmaffinity.com/El_pasado_no_perdona_Serie_de_TV-877235071-large.jpg" group-title="NOVELAS",NOV | El Pasado No Perdona
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/304.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Penultimo Beso" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2I3MWEzNTUtMWU3My00ZGE4LWFmZjUtZWM3MTcxMzY0M2U3XkEyXkFqcGdeQXVyMzM0NTc2MTE@._V1_.jpg" group-title="D- Novelas",El Penultimo Beso
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Penultimo Beso" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2I3MWEzNTUtMWU3My00ZGE4LWFmZjUtZWM3MTcxMzY0M2U3XkEyXkFqcGdeQXVyMzM0NTc2MTE@._V1_.jpg" group-title="NOVELAS",NOV | El Penultimo Beso
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/315.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Recluso" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/2Cs9p1kl6s2i1LfFmcquoFb56yl.jpg" group-title="D- Novelas",El Recluso
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Recluso" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/2Cs9p1kl6s2i1LfFmcquoFb56yl.jpg" group-title="NOVELAS",NOV | El Recluso
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/418.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El ultimo rey" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3YVQ6gsDnMYQWQCavtWE5bSfyJ2.jpg" group-title="D- Novelas",El ultimo rey
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El ultimo rey" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3YVQ6gsDnMYQWQCavtWE5bSfyJ2.jpg" group-title="NOVELAS",NOV | El ultimo rey
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/382.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="En la piel de Alicia" tvg-logo="https://image.tmdb.org/t/p/w500/ruKyT6ese4jBNNMGgdDXRPARtwE.jpg" group-title="D- Novelas",En la piel de Alicia
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="En la piel de Alicia" tvg-logo="https://image.tmdb.org/t/p/w500/ruKyT6ese4jBNNMGgdDXRPARtwE.jpg" group-title="NOVELAS",NOV | En la piel de Alicia
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/319.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eres Mi Tesoro" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ggZ2gayxB8Rl6qkWECrv4mdGUi6.jpg" group-title="D- Novelas",Eres Mi Tesoro
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eres Mi Tesoro" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ggZ2gayxB8Rl6qkWECrv4mdGUi6.jpg" group-title="NOVELAS",NOV | Eres Mi Tesoro
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/361.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Estefania" tvg-logo="https://pics.filmaffinity.com/estefania_tv_A- series-979910645-large.jpg" group-title="D- Novelas",Estefania
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Estefania" tvg-logo="https://pics.filmaffinity.com/estefania_tv_A- series-979910645-large.jpg" group-title="NOVELAS",NOV | Estefania
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/269.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eternamente Manuela" tvg-logo="https://artworks.thetvdb.com/banners/v4/A- series/415305/posters/61f34117ebe23.jpg" group-title="D- Novelas",Eternamente Manuela
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eternamente Manuela" tvg-logo="https://artworks.thetvdb.com/banners/v4/A- series/415305/posters/61f34117ebe23.jpg" group-title="NOVELAS",NOV | Eternamente Manuela
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/316.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fuera De Control" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/tJ2JiKMTnfecAI8TmWZI5YwjpLA.jpg" group-title="D- Novelas",Fuera De Control
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fuera De Control" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/tJ2JiKMTnfecAI8TmWZI5YwjpLA.jpg" group-title="NOVELAS",NOV | Fuera De Control
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/362.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Guajira" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/7REqccC6Q0MHr6j1rn2E3ah5ynT.jpg" group-title="D- Novelas",Guajira
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Guajira" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/7REqccC6Q0MHr6j1rn2E3ah5ynT.jpg" group-title="NOVELAS",NOV | Guajira
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/301.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hombre De La Princesa" tvg-logo="https://www.themoviedb.org/t/p/w500/pZllYmfO30HU5CvN3RmNAVqgd0r.jpg" group-title="D- Novelas",Hombre De La Princesa
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hombre De La Princesa" tvg-logo="https://www.themoviedb.org/t/p/w500/pZllYmfO30HU5CvN3RmNAVqgd0r.jpg" group-title="NOVELAS",NOV | Hombre De La Princesa
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/296.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hoy Te Vi" tvg-logo="https://pics.filmaffinity.com/hoy_te_vi-321384010-large.jpg" group-title="D- Novelas",Hoy Te Vi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hoy Te Vi" tvg-logo="https://pics.filmaffinity.com/hoy_te_vi-321384010-large.jpg" group-title="NOVELAS",NOV | Hoy Te Vi
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/270.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hugo chaves" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/sEThDZHGrhD6UPDVnP7skTAa6mF.jpg" group-title="D- Novelas",Hugo chaves
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hugo chaves" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/sEThDZHGrhD6UPDVnP7skTAa6mF.jpg" group-title="NOVELAS",NOV | Hugo chaves
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/383.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Invicto" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3NfN3EmF62Z5wCwYyNpMzrqp7Ox.jpg" group-title="D- Novelas",Invicto
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Invicto" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3NfN3EmF62Z5wCwYyNpMzrqp7Ox.jpg" group-title="NOVELAS",NOV | Invicto
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/412.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Isa TKM" tvg-logo="https://pics.filmaffinity.com/isa_tkm_serie_de_tv-497731769-large.jpg" group-title="D- Novelas",Isa TKM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Isa TKM" tvg-logo="https://pics.filmaffinity.com/isa_tkm_serie_de_tv-497731769-large.jpg" group-title="NOVELAS",NOV | Isa TKM
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/271.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Isabella Mujer Enamorada" tvg-logo="https://www.lavanguardia.com/peliculas-A- series/images/serie/poster/1999/8/w1280/sBE8SPuabZmtiriieoOc4k5UsX.jpg" group-title="D- Novelas",Isabella Mujer Enamorada
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Isabella Mujer Enamorada" tvg-logo="https://www.lavanguardia.com/peliculas-A- series/images/serie/poster/1999/8/w1280/sBE8SPuabZmtiriieoOc4k5UsX.jpg" group-title="NOVELAS",NOV | Isabella Mujer Enamorada
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/320.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Juana La Virgen" tvg-logo="https://pics.filmaffinity.com/juana_la_virgen_tv_A- series-949288725-large.jpg" group-title="D- Novelas",Juana La Virgen
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Juana La Virgen" tvg-logo="https://pics.filmaffinity.com/juana_la_virgen_tv_A- series-949288725-large.jpg" group-title="NOVELAS",NOV | Juana La Virgen
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/272.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
