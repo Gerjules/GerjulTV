@@ -504,13 +504,67 @@ http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2505.ts
 #EXTINF:0 group-title="PELICULAS",PELIS | Trailers
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (1)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="PELICULAS",PELIS | Películas 2023 (1)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2010.ts
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (10)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="PELICULAS",PELIS | Películas 2023 (10)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2011.ts
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (11)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="PELICULAS",PELIS | Películas 2023 (11)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2012.ts
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (12)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="PELICULAS",PELIS | Películas 2023 (12)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2013.ts
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (13)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="PELICULAS",PELIS | Películas 2023 (13)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2014.ts
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (14)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="PELICULAS",PELIS | Películas 2023 (14)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2015.ts
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (15)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="PELICULAS",PELIS | Películas 2023 (15)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2016.ts
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (2)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="PELICULAS",PELIS | Películas 2023 (2)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2017.ts
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (3)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="PELICULAS",PELIS | Películas 2023 (3)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2018.ts
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (4)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="PELICULAS",PELIS | Películas 2023 (4)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2019.ts
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (5)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="PELICULAS",PELIS | Películas 2023 (5)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2020.ts
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (6)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="PELICULAS",PELIS | Películas 2023 (6)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2021.ts
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (7)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="PELICULAS",PELIS | Películas 2023 (7)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2022.ts
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (8)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="PELICULAS",PELIS | Películas 2023 (8)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2023.ts
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (9)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="PELICULAS",PELIS | Películas 2023 (9)
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2024.ts
+
 #EXTINF:0 group-title="PELICULAS",PELIS | Runtime Accion
 https://run-rt-ac.otteravision.com/run/rt_ac/rt_ac_720.m3u8
-
-
-
-
-
 
 
 
@@ -1101,19 +1155,7 @@ https://i.mjh.nz/PlutoTV/60511efd71ec430007f50d97-alt.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://stitcher.pluto.tv/stitch/hls/channel/60511efd71ec430007f50d97/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8ef6973d-ade6-11eb-930b-0242ac110002
-#EXTINF:0 group-title="CULTURA",CULT | Pluto TV Viajes
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/60c343ad476ec00007c2ec1a-alt.m3u8
-#EXTINF:0 group-title="CULTURA",CULT | Smithsonian Channel *
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/63a084934734f30007457b2c-alt.m3u8
+
 #EXTINF:0 group-title="CULTURA",CULT | Service
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -1121,68 +1163,7 @@ https://i.mjh.nz/PlutoTV/63a084934734f30007457b2c-alt.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18713-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3efb2623-4d66-4ffa-b1f5-4b9d5f63d16c&userId=&serverSideAds=true
-#EXTINF:0 group-title="CULTURA",CULT | Service
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/61cd7b49543066000713b620-alt.m3u8
 
-
-#EXTINF:0 group-title="CULTURA",CULT | Service
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
-#EXTINF:0 group-title="CULTURA",CULT | Historia
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/61cd7b49543066000713b620-alt.m3u8
-#EXTINF:0 group-title="CULTURA",CULT | Mundo geek
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/6051201a0aa8a70007c24a2a-alt.m3u8
-#EXTINF:0 group-title="CULTURA",CULT | Saber Mas
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=6bSLyFJzzvyW_ngsjtWh&channelId=6018913ea15130002b284195
-
-#EXTINF:0 group-title="CULTURA",CULT | Paisajes por Stingray
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f4fed840a2764000720d966-alt.m3u8
-#EXTINF:0 group-title="CULTURA",CULT | Archivos Extraterrestres
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/645d1abbe1979c0008779d5a-alt.m3u8
-#EXTINF:0 group-title="CULTURA",CULT | Smithsonian Channel Pluto TV
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/63a084934734f30007457b2c-alt.m3u8
-#EXTINF:0 group-title="CULTURA",CULT | Pluto TV Historia
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
-#EXTINF:0 group-title="CULTURA",CULT | Pluto TV Ciencia
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
-#EXTINF:0 group-title="CULTURA",CULT | Pluto TV Investiga
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5dcde27ffae9520009c0c75a-alt.m3u8
 
 #EXTINF:0 group-title="CULTURA",CULT | Discovery Familia
 #EXTVLCOPT:network-caching=3000
@@ -1193,8 +1174,6 @@ http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHPw6CcjW_tufp-8Sl2Tpg2M
 
 
 
-
-#EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adventure Time" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/vpnV0g2VOounP0kHNi86oBPceMY.jpg" group-title="B- Infantil",Adventure Time
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/332.ts
 ##EXTVLCOPT:network-caching=1000
@@ -2075,114 +2054,65 @@ http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/400.ts
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/401.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | A Happy Madison" tvg-logo="https://i.ibb.co/k4c5x0S/cinema-vector-illustration-png-242108.jpg" group-title="C- 24 7 Peliculas",24/7 P | A Happy Madison
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | A Happy Madison" tvg-logo="https://i.ibb.co/k4c5x0S/cinema-vector-illustration-png-242108.jpg" group-title="TV 24/7",24/7 | A Happy Madison
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1951.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Alien Saga" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/e4fiJmy9YHCpCpQwgWtvv6uoUWb.jpg" group-title="C- 24 7 Peliculas",24/7 P | Alien Saga
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Alien Saga" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/e4fiJmy9YHCpCpQwgWtvv6uoUWb.jpg" group-title="TV 24/7",24/7 | Alien Saga
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/408.ts
 
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Saw" tvg-logo="https://i.imgur.com/jCukSlr.png" group-title="C- 24 7 Peliculas",24/7 P | Saw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Saw" tvg-logo="https://i.imgur.com/jCukSlr.png" group-title="TV 24/7",24/7 | Saw
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/178.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | ScaryMovie" tvg-logo="https://i.imgur.com/srSRZaK.png" group-title="C- 24 7 Peliculas",24/7 P | ScaryMovie
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | ScaryMovie" tvg-logo="https://i.imgur.com/srSRZaK.png" group-title="TV 24/7",24/7 | ScaryMovie
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/179.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Star Wars" tvg-logo="https://i.imgur.com/WpNPVUm.png" group-title="C- 24 7 Peliculas",24/7 P | Star Wars
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Star Wars" tvg-logo="https://i.imgur.com/WpNPVUm.png" group-title="TV 24/7",24/7 | Star Wars
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1066615.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Starz East FHD" tvg-logo="https://i.imgur.com/Qchu2nx.png" group-title="C- 24 7 Peliculas",24/7 P | Starz East FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Starz East FHD" tvg-logo="https://i.imgur.com/Qchu2nx.png" group-title="TV 24/7",24/7 | Starz East FHD
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/982.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Starz encore Action HD" tvg-logo="https://i.imgur.com/Qchu2nx.png" group-title="C- 24 7 Peliculas",24/7 P | Starz encore Action HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Starz encore Action HD" tvg-logo="https://i.imgur.com/Qchu2nx.png" group-title="TV 24/7",24/7 | Starz encore Action HD
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/983.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Starz encore Western HD" tvg-logo="https://i.picasion.com/pic92/d9e44966e779fc3912367b2b5a5e188e.gif" group-title="C- 24 7 Peliculas",24/7 P | Starz encore Western HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Starz encore Western HD" tvg-logo="https://i.picasion.com/pic92/d9e44966e779fc3912367b2b5a5e188e.gif" group-title="TV 24/7",24/7 | Starz encore Western HD
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/984.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Starz Family HD" tvg-logo="https://i.picasion.com/pic92/38048b8dc7dac625a6ea04d94231e3ba.gif" group-title="C- 24 7 Peliculas",24/7 P | Starz Family HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Starz Family HD" tvg-logo="https://i.picasion.com/pic92/38048b8dc7dac625a6ea04d94231e3ba.gif" group-title="TV 24/7",24/7 | Starz Family HD
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/985.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Tin Tan" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/kqzd3OS9m9PqvA4t9vvxK9kFUgA.jpg" group-title="C- 24 7 Peliculas",24/7 P | Tin Tan
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Tin Tan" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/kqzd3OS9m9PqvA4t9vvxK9kFUgA.jpg" group-title="TV 24/7",24/7 | Tin Tan
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2002.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Tremors" tvg-logo="https://i.imgur.com/46U3coE.png" group-title="C- 24 7 Peliculas",24/7 P | Tremors
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Tremors" tvg-logo="https://i.imgur.com/46U3coE.png" group-title="TV 24/7",24/7 | Tremors
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/180.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Volver Al Futuro" tvg-logo="https://i.imgur.com/9QjOZmu.png" group-title="C- 24 7 Peliculas",24/7 P | Volver Al Futuro
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Volver Al Futuro" tvg-logo="https://i.imgur.com/9QjOZmu.png" group-title="TV 24/7",24/7 | Volver Al Futuro
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/182.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (1)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (1)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2010.ts
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (10)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (10)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2011.ts
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (11)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (11)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2012.ts
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (12)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (12)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2013.ts
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (13)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (13)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2014.ts
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (14)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (14)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2015.ts
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (15)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (15)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2016.ts
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (2)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (2)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2017.ts
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (3)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (3)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2018.ts
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (4)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (4)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2019.ts
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (5)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (5)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2020.ts
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (6)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (6)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2021.ts
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (7)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (7)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2022.ts
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (8)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (8)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2023.ts
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Películas 2023 (9)" tvg-logo="https://www.infobae.com/new-resizer/sCPB8wXf8SAXw5_fWmNqxRFtTCc=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/O64KAKWHNRHMDLOQX74ROHGFC4.jpg" group-title="C- 24 7 Peliculas",Películas 2023 (9)
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2024.ts
 
+
+
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malcolm el de en medio T4-7" tvg-logo="https://i.ibb.co/NVVJYR8/malcolml.png" group-title="A- Series",Malcolm el de en medio T4-7
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malcolm el de en medio T1-3" tvg-logo="https://i.ibb.co/r0CBhr8/malcolm.png" group-title="A- Series",Malcolm el de en medio T1-3
@@ -4399,65 +4329,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298
 
 
 
-
-
-#EXTINF:0 group-title="PELICULAS",PELIS | Rakuten TV Familia
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000 
-http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" group-title="TV 24/7",24/7 | CSI: Miami
-https://r.mjh.nz/PlutoTV/63eb9255c111bc0008fe6ec4-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" group-title="TV 24/7",24/7 | NCIS
-https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64ff270f30ab3300084e259c/colorLogoPNG.png" group-title="TV 24/7",24/7 | Rookie Blue: Policías Novatos
-https://r.mjh.nz/PlutoTV/64ff270f30ab3300084e259c-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64ff26233efb5100082eeb2e/colorLogoPNG.png" group-title="TV 24/7",24/7 | Infierno Sobre Ruedas
-https://r.mjh.nz/PlutoTV/64ff26233efb5100082eeb2e-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" group-title="TV 24/7",24/7 | Pluto TV Series
-https://r.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/624f4d4a4321e200073f46e0/colorLogoPNG.png" group-title="TV 24/7",24/7 | The Night Shift
-https://r.mjh.nz/PlutoTV/624f4d4a4321e200073f46e0-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ac814864949000724fb77/colorLogoPNG.png" group-title="TV 24/7",24/7 | Schitt's Creek
-https://r.mjh.nz/PlutoTV/620ac814864949000724fb77-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619d56d9fa3070000709e3f7/colorLogoPNG.png" group-title="TV 24/7",24/7 | Younger
-https://r.mjh.nz/PlutoTV/619d56d9fa3070000709e3f7-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG.png" group-title="TV 24/7",24/7 | Pluto TV Dramas Coreanos
-https://r.mjh.nz/PlutoTV/6185a9a88b2ce30007de5128-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png" group-title="TV 24/7",24/7 | Vive Kanal D Drama
-https://r.mjh.nz/PlutoTV/639751f81a36b400072b8f5a-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ffe17e3d765170007c3a4fe/colorLogoPNG.png" group-title="TV 24/7",24/7 | , Pluto TV España
-https://r.mjh.nz/PlutoTV/5ffe17e3d765170007c3a4fe-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" group-title="TV 24/7",24/7 | Pluto TV Series Latinas
-https://r.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="TV 24/7",24/7 | Pluto TV Series Retro
-https://r.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png"  group-title="TV 24/7",24/7 | MacGyver
-https://r.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
-
-#EXTINF:-1 tvg-id="6489c42e976ee90008547503" tvg-logo="https://images.pluto.tv/channels/6489c42e976ee90008547503/colorLogoPNG.png"  group-title="TV 24/7",24/7 | Loco Por Ti
-https://r.mjh.nz/PlutoTV/6489c42e976ee90008547503-alt.m3u8
-
-#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png"  group-title="TV 24/7",24/7 | Los Tres Chiflados
-https://r.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" group-title="TV 24/7",24/7 | Pluto TV Retro Cartoons
-https://r.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 
 
 
