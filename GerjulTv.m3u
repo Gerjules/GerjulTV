@@ -1177,11 +1177,11 @@ http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHPw6CcjW_tufp-8Sl2Tpg2M
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adventure Time" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/vpnV0g2VOounP0kHNi86oBPceMY.jpg" roup-title="INFANTIL",INF | Adventure Time
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adventure Time" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/vpnV0g2VOounP0kHNi86oBPceMY.jpg" group-title="INFANTIL",INF | Adventure Time
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/332.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Angry Birds" tvg-logo="https://imgur.com/Aw0WtI7.png" roup-title="INFANTIL",INF | Angry Birds
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Angry Birds" tvg-logo="https://imgur.com/Aw0WtI7.png" group-title="INFANTIL",INF | Angry Birds
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2592.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -1189,67 +1189,67 @@ http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2592.ts
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/333.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aquaman" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/5S6BbTIu18CLEHRDdNzCLzSKAMq.jpg" roup-title="INFANTIL",INF | Aquaman
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aquaman" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/5S6BbTIu18CLEHRDdNzCLzSKAMq.jpg" group-title="INFANTIL",INF | Aquaman
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/334.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Art Atack" tvg-logo="https://i.imgur.com/Texm3Jw.png" roup-title="INFANTIL",INF | Art Atack
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Art Atack" tvg-logo="https://i.imgur.com/Texm3Jw.png" group-title="INFANTIL",INF | Art Atack
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1036.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Autobus Magico" tvg-logo="https://imgur.com/M8K7LwH.png" roup-title="INFANTIL",INF | Autobus Magico
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Autobus Magico" tvg-logo="https://imgur.com/M8K7LwH.png" group-title="INFANTIL",INF | Autobus Magico
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2593.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bakugan" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/uW2xawK5brroGov2dyhuT0bUeva.jpg" roup-title="INFANTIL",INF | Bakugan
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bakugan" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/uW2xawK5brroGov2dyhuT0bUeva.jpg" group-title="INFANTIL",INF | Bakugan
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/349.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Barbie" tvg-logo="https://imgur.com/Rt4wVX9.png" roup-title="INFANTIL",INF | Barbie
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Barbie" tvg-logo="https://imgur.com/Rt4wVX9.png" group-title="INFANTIL",INF | Barbie
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2594.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Batman (1992)" tvg-logo="https://i.imgur.com/W7R5Zac.png" roup-title="INFANTIL",INF | Batman (1992)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Batman (1992)" tvg-logo="https://i.imgur.com/W7R5Zac.png" group-title="INFANTIL",INF | Batman (1992)
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1115.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Beetlejuice" tvg-logo="https://i.imgur.com/cAEsEY0.png" roup-title="INFANTIL",INF | Beetlejuice
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Beetlejuice" tvg-logo="https://i.imgur.com/cAEsEY0.png" group-title="INFANTIL",INF | Beetlejuice
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/350.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ben 10" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg" roup-title="INFANTIL",INF | Ben 10
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ben 10" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg" group-title="INFANTIL",INF | Ben 10
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/335.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bob Esponja 1-6" tvg-logo="https://i.imgur.com/0R6W4HT.png" roup-title="INFANTIL",INF | Bob Esponja 1-6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bob Esponja 1-6" tvg-logo="https://i.imgur.com/0R6W4HT.png" group-title="INFANTIL",INF | Bob Esponja 1-6
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1065.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bob Esponja 7-12" tvg-logo="https://i.imgur.com/0R6W4HT.png" roup-title="INFANTIL",INF | Bob Esponja 7-12
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bob Esponja 7-12" tvg-logo="https://i.imgur.com/0R6W4HT.png" group-title="INFANTIL",INF | Bob Esponja 7-12
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1066.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bugs Bunny" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/5xBZf79KRD3cQjOkkwdS1IDmuyX.jpg" roup-title="INFANTIL",INF | Bugs Bunny
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bugs Bunny" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/5xBZf79KRD3cQjOkkwdS1IDmuyX.jpg" group-title="INFANTIL",INF | Bugs Bunny
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/336.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Candy Candy" tvg-logo="https://i.imgur.com/RPgZnI3.png" roup-title="INFANTIL",INF | Candy Candy
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Candy Candy" tvg-logo="https://i.imgur.com/RPgZnI3.png" group-title="INFANTIL",INF | Candy Candy
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/206.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chapulin animado" tvg-logo="https://i.imgur.com/AJa6ToH.png" roup-title="INFANTIL",INF | Chapulin animado
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chapulin animado" tvg-logo="https://i.imgur.com/AJa6ToH.png" group-title="INFANTIL",INF | Chapulin animado
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/338.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Coraje el Perro Cobarde" tvg-logo="https://i.ibb.co/j5gSDbS/Cora-Je-perro.png" roup-title="INFANTIL",INF | Coraje el Perro Cobarde
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Coraje el Perro Cobarde" tvg-logo="https://i.ibb.co/j5gSDbS/Cora-Je-perro.png" group-title="INFANTIL",INF | Coraje el Perro Cobarde
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2596.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Coyote y Correcaminos" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/76rz994icSRNHBZuAHmsRwVROsy.jpg" roup-title="INFANTIL",INF | Coyote y Correcaminos
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Coyote y Correcaminos" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/76rz994icSRNHBZuAHmsRwVROsy.jpg" group-title="INFANTIL",INF | Coyote y Correcaminos
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/352.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dinosaurios" tvg-logo="https://ih1.redbubble.net/image.3790899799.4176/st,large,507x507-pad,600x600,f8f8f8.jpg" roup-title="INFANTIL",INF | Dinosaurios
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dinosaurios" tvg-logo="https://ih1.redbubble.net/image.3790899799.4176/st,large,507x507-pad,600x600,f8f8f8.jpg" group-title="INFANTIL",INF | Dinosaurios
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/537.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -1269,107 +1269,107 @@ http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1112.ts
 #EXTVLCOPT--http-reconnect=true
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Don Gato y Su Pandilla" tvg-logo="https://imgur.com/v9OY7Nv.png" roup-title="INFANTIL",INF | Don Gato y Su Pandilla
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Don Gato y Su Pandilla" tvg-logo="https://imgur.com/v9OY7Nv.png" group-title="INFANTIL",INF | Don Gato y Su Pandilla
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2598.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dora y Sus Amigos En La Ciudad" tvg-logo="https://imgur.com/fix11Cp.png" roup-title="INFANTIL",INF | Dora y Sus Amigos En La Ciudad
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dora y Sus Amigos En La Ciudad" tvg-logo="https://imgur.com/fix11Cp.png" group-title="INFANTIL",INF | Dora y Sus Amigos En La Ciudad
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2599.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Doraemon" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/9ZN1P32SHviL3SV51qLivxycvcx.jpg" roup-title="INFANTIL",INF | Doraemon
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Doraemon" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/9ZN1P32SHviL3SV51qLivxycvcx.jpg" group-title="INFANTIL",INF | Doraemon
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/353.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dos perros tontos" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3Lyc5VqhTqq76vmKUn1an8rlnP7.jpg" roup-title="INFANTIL",INF | Dos perros tontos
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dos perros tontos" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3Lyc5VqhTqq76vmKUn1an8rlnP7.jpg" group-title="INFANTIL",INF | Dos perros tontos
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/339.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Chavo Animado" tvg-logo="https://imgur.com/7sJ8GCF.png" roup-title="INFANTIL",INF | El Chavo Animado
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Chavo Animado" tvg-logo="https://imgur.com/7sJ8GCF.png" group-title="INFANTIL",INF | El Chavo Animado
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2600.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Conde Pátula" tvg-logo="https://imgur.com/Wx9nUoO.png" roup-title="INFANTIL",INF | El Conde Pátula
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Conde Pátula" tvg-logo="https://imgur.com/Wx9nUoO.png" group-title="INFANTIL",INF | El Conde Pátula
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2601.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Galactico" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/v698D2DB3oPzau6W55tiA2QI4Eu.jpg" roup-title="INFANTIL",INF | El Galactico
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Galactico" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/v698D2DB3oPzau6W55tiA2QI4Eu.jpg" group-title="INFANTIL",INF | El Galactico
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/340.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El inspector Ardilla" tvg-logo="https://i.imgur.com/ZfUlke6.png" roup-title="INFANTIL",INF | El inspector Ardilla
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El inspector Ardilla" tvg-logo="https://i.imgur.com/ZfUlke6.png" group-title="INFANTIL",INF | El inspector Ardilla
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/342.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Inspector Gadget" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ayYkEcvuArO5mpI4Dxnqq3Z5WEQ.jpg" roup-title="INFANTIL",INF | El Inspector Gadget
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Inspector Gadget" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ayYkEcvuArO5mpI4Dxnqq3Z5WEQ.jpg" group-title="INFANTIL",INF | El Inspector Gadget
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/343.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Narrador De Cuentos" tvg-logo="https://i.imgur.com/wbfORgQ.png" roup-title="INFANTIL",INF | El Narrador De Cuentos
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Narrador De Cuentos" tvg-logo="https://i.imgur.com/wbfORgQ.png" group-title="INFANTIL",INF | El Narrador De Cuentos
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/170.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Vengador" tvg-logo="https://i.pinimg.com/1200x/ac/90/35/ac9035610508f61c3a394070f5c6e3eb.jpg" roup-title="INFANTIL",INF | El Vengador
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Vengador" tvg-logo="https://i.pinimg.com/1200x/ac/90/35/ac9035610508f61c3a394070f5c6e3eb.jpg" group-title="INFANTIL",INF | El Vengador
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/341.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GooseBumps" tvg-logo="https://i.imgur.com/C5cECw6.png" roup-title="INFANTIL",INF | GooseBumps
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GooseBumps" tvg-logo="https://i.imgur.com/C5cECw6.png" group-title="INFANTIL",INF | GooseBumps
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/434.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Halcones Galacticos" tvg-logo="https://i.imgur.com/o849jKJ.png" roup-title="INFANTIL",INF | Halcones Galacticos
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Halcones Galacticos" tvg-logo="https://i.imgur.com/o849jKJ.png" group-title="INFANTIL",INF | Halcones Galacticos
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2603.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hanna Barbera" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/sanSoQeO0TZMi4cg30EWVg2CnCV.jpg" roup-title="INFANTIL",INF | Hanna Barbera
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hanna Barbera" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/sanSoQeO0TZMi4cg30EWVg2CnCV.jpg" group-title="INFANTIL",INF | Hanna Barbera
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/344.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hey Arnold" tvg-logo="https://imgur.com/SXhuLAr.png" roup-title="INFANTIL",INF | Hey Arnold
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hey Arnold" tvg-logo="https://imgur.com/SXhuLAr.png" group-title="INFANTIL",INF | Hey Arnold
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2604.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jefe En Pañales" tvg-logo="https://www.themoviedb.org/t/p/original/eaEnRulLVc6ziCXcHMsvnUShPAz.jpg" roup-title="INFANTIL",INF | Jefe En Pañales
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jefe En Pañales" tvg-logo="https://www.themoviedb.org/t/p/original/eaEnRulLVc6ziCXcHMsvnUShPAz.jpg" group-title="INFANTIL",INF | Jefe En Pañales
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/355.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Johnny Bravo" tvg-logo="https://imgur.com/fv9Q5F7.png" roup-title="INFANTIL",INF | Johnny Bravo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Johnny Bravo" tvg-logo="https://imgur.com/fv9Q5F7.png" group-title="INFANTIL",INF | Johnny Bravo
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2606.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jorge el Curioso" tvg-logo="http://i.imgur.com/caUuPhU.png" roup-title="INFANTIL",INF | Jorge el Curioso
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jorge el Curioso" tvg-logo="http://i.imgur.com/caUuPhU.png" group-title="INFANTIL",INF | Jorge el Curioso
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/504.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kenan & Kel" tvg-logo="https://i.imgur.com/1EvOY6r.png" roup-title="INFANTIL",INF | Kenan & Kel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kenan & Kel" tvg-logo="https://i.imgur.com/1EvOY6r.png" group-title="INFANTIL",INF | Kenan & Kel
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/988.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Casa De Mickey Mouse" tvg-logo="https://i.imgur.com/C39rRRM.png" roup-title="INFANTIL",INF | La Casa De Mickey Mouse
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Casa De Mickey Mouse" tvg-logo="https://i.imgur.com/C39rRRM.png" group-title="INFANTIL",INF | La Casa De Mickey Mouse
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2607.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Pantera Rosa" tvg-logo="https://i.imgur.com/rHkCdng.png" roup-title="INFANTIL",INF | La Pantera Rosa
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Pantera Rosa" tvg-logo="https://i.imgur.com/rHkCdng.png" group-title="INFANTIL",INF | La Pantera Rosa
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2608.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Vaca y El Pollito" tvg-logo="https://i.imgur.com/MevFdjs.png" roup-title="INFANTIL",INF | La Vaca y El Pollito
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Vaca y El Pollito" tvg-logo="https://i.imgur.com/MevFdjs.png" group-title="INFANTIL",INF | La Vaca y El Pollito
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2609.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Las Chicas Superpoderosas" tvg-logo="https://i.ibb.co/6NkCyNH/superpoderosas.png" roup-title="INFANTIL",INF | Las Chicas Superpoderosas
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Las Chicas Superpoderosas" tvg-logo="https://i.ibb.co/6NkCyNH/superpoderosas.png" group-title="INFANTIL",INF | Las Chicas Superpoderosas
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2610.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lego Movies" tvg-logo="https://i.ibb.co/bJ5GJzk/lego.png" roup-title="INFANTIL",INF | Lego Movies
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lego Movies" tvg-logo="https://i.ibb.co/bJ5GJzk/lego.png" group-title="INFANTIL",INF | Lego Movies
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1134.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Looney Toons" tvg-logo="https://i.imgur.com/Y8uhyOg.png" roup-title="INFANTIL",INF | Looney Toons
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Looney Toons" tvg-logo="https://i.imgur.com/Y8uhyOg.png" group-title="INFANTIL",INF | Looney Toons
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1062845.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Looney Toons Baby" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/mYAzqridtCAfda4HlbNQfwGsa99.jpg" roup-title="INFANTIL",INF | Looney Toons Baby
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Looney Toons Baby" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/mYAzqridtCAfda4HlbNQfwGsa99.jpg" group-title="INFANTIL",INF | Looney Toons Baby
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/354.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -1377,107 +1377,107 @@ http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/354.ts
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2611.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Pequeños Picapiedras" tvg-logo="https://i.ibb.co/99xdCzf/Los-peque-os-Picapiedra.png" roup-title="INFANTIL",INF | Los Pequeños Picapiedras
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Pequeños Picapiedras" tvg-logo="https://i.ibb.co/99xdCzf/Los-peque-os-Picapiedra.png" group-title="INFANTIL",INF | Los Pequeños Picapiedras
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2612.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Picapiedras" tvg-logo="https://i.ibb.co/rFQTvG2/Los-picapiedra.png" roup-title="INFANTIL",INF | Los Picapiedras
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Picapiedras" tvg-logo="https://i.ibb.co/rFQTvG2/Los-picapiedra.png" group-title="INFANTIL",INF | Los Picapiedras
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2613.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Pitufos" tvg-logo="https://i.ibb.co/sQypNsV/Los-pitufos.png" roup-title="INFANTIL",INF | Los Pitufos
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Pitufos" tvg-logo="https://i.ibb.co/sQypNsV/Los-pitufos.png" group-title="INFANTIL",INF | Los Pitufos
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2614.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masha y el oso" tvg-logo="https://i.ibb.co/jr5bYVB/Masha-y-el-Oso.png" roup-title="INFANTIL",INF | Masha y el oso
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masha y el oso" tvg-logo="https://i.ibb.co/jr5bYVB/Masha-y-el-Oso.png" group-title="INFANTIL",INF | Masha y el oso
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2615.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mickey Mouse" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/aAJ5T2Ab28vbbP9s6wWqdtK3arQ.jpg" roup-title="INFANTIL",INF | Mickey Mouse
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mickey Mouse" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/aAJ5T2Ab28vbbP9s6wWqdtK3arQ.jpg" group-title="INFANTIL",INF | Mickey Mouse
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/345.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One Punch Man" tvg-logo="https://i.imgur.com/eHTczsJ.png" roup-title="INFANTIL",INF | One Punch Man
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One Punch Man" tvg-logo="https://i.imgur.com/eHTczsJ.png" group-title="INFANTIL",INF | One Punch Man
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/176.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pajaro Loco" tvg-logo="https://i.ibb.co/2cyw33b/Pajaro-loco.png" roup-title="INFANTIL",INF | Pajaro Loco
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pajaro Loco" tvg-logo="https://i.ibb.co/2cyw33b/Pajaro-loco.png" group-title="INFANTIL",INF | Pajaro Loco
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2616.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pato Aventuras" tvg-logo="http://i.imgur.com/FSvoyFg.png" roup-title="INFANTIL",INF | Pato Aventuras
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pato Aventuras" tvg-logo="http://i.imgur.com/FSvoyFg.png" group-title="INFANTIL",INF | Pato Aventuras
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/480.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Patrulla Canina" tvg-logo="https://i.ibb.co/426s0rn/Patrulla.png" roup-title="INFANTIL",INF | Patrulla Canina
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Patrulla Canina" tvg-logo="https://i.ibb.co/426s0rn/Patrulla.png" group-title="INFANTIL",INF | Patrulla Canina
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2617.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peppa Pig" tvg-logo="http://i.imgur.com/xVNi7MG.png" roup-title="INFANTIL",INF | Peppa Pig
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peppa Pig" tvg-logo="http://i.imgur.com/xVNi7MG.png" group-title="INFANTIL",INF | Peppa Pig
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1078099.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pinguinos De Madagascar" tvg-logo="https://i.ibb.co/VjnVL0T/Madagascar.png" roup-title="INFANTIL",INF | Pinguinos De Madagascar
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pinguinos De Madagascar" tvg-logo="https://i.ibb.co/VjnVL0T/Madagascar.png" group-title="INFANTIL",INF | Pinguinos De Madagascar
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2618.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pocoyo" tvg-logo="http://i.imgur.com/V9g3xQA.png" roup-title="INFANTIL",INF | Pocoyo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pocoyo" tvg-logo="http://i.imgur.com/V9g3xQA.png" group-title="INFANTIL",INF | Pocoyo
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/506.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pokemon" tvg-logo="http://i.imgur.com/63APoYf.png" roup-title="INFANTIL",INF | Pokemon
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pokemon" tvg-logo="http://i.imgur.com/63APoYf.png" group-title="INFANTIL",INF | Pokemon
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1078098.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Popeye" tvg-logo="https://i.imgur.com/Ufrds4r.png" roup-title="INFANTIL",INF | Popeye
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Popeye" tvg-logo="https://i.imgur.com/Ufrds4r.png" group-title="INFANTIL",INF | Popeye
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/214.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Power Rangers" tvg-logo="https://i.ibb.co/NtSGjvg/power-rangers.png" roup-title="INFANTIL",INF | Power Rangers
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Power Rangers" tvg-logo="https://i.ibb.co/NtSGjvg/power-rangers.png" group-title="INFANTIL",INF | Power Rangers
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1283.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Puca" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/xQjSUOEQTrCqDoBiEYIrNlajCD.jpg" roup-title="INFANTIL",INF | Puca
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Puca" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/xQjSUOEQTrCqDoBiEYIrNlajCD.jpg" group-title="INFANTIL",INF | Puca
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/346.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ranma 1/2" tvg-logo="http://i.imgur.com/k2OzMqo.png" roup-title="INFANTIL",INF | Ranma 1/2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ranma 1/2" tvg-logo="http://i.imgur.com/k2OzMqo.png" group-title="INFANTIL",INF | Ranma 1/2
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/503.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rugrats (Aventuras en Panales)" tvg-logo="https://i.imgur.com/QhRmFAZ.png" roup-title="INFANTIL",INF | Rugrats (Aventuras en Panales)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rugrats (Aventuras en Panales)" tvg-logo="https://i.imgur.com/QhRmFAZ.png" group-title="INFANTIL",INF | Rugrats (Aventuras en Panales)
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1006.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Scooby-Doo" tvg-logo="https://i.ibb.co/C2RDQrg/Scooby.png" roup-title="INFANTIL",INF | Scooby-Doo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Scooby-Doo" tvg-logo="https://i.ibb.co/C2RDQrg/Scooby.png" group-title="INFANTIL",INF | Scooby-Doo
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2619.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spiderman (1997)" tvg-logo="https://i.imgur.com/epDuzge.png" roup-title="INFANTIL",INF | Spiderman (1997)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spiderman (1997)" tvg-logo="https://i.imgur.com/epDuzge.png" group-title="INFANTIL",INF | Spiderman (1997)
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1114.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Campeones" tvg-logo="https://i.ibb.co/ngM0BFp/Supercampeones.png" roup-title="INFANTIL",INF | Super Campeones
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Campeones" tvg-logo="https://i.ibb.co/ngM0BFp/Supercampeones.png" group-title="INFANTIL",INF | Super Campeones
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2620.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thundercats" tvg-logo="https://i.ibb.co/4pBNGdC/thundercats.png" roup-title="INFANTIL",INF | Thundercats
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thundercats" tvg-logo="https://i.ibb.co/4pBNGdC/thundercats.png" group-title="INFANTIL",INF | Thundercats
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2621.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Timon & Pumba" tvg-logo="https://i.ibb.co/f4tQgFn/hakuna.png" roup-title="INFANTIL",INF | Timon & Pumba
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Timon & Pumba" tvg-logo="https://i.ibb.co/f4tQgFn/hakuna.png" group-title="INFANTIL",INF | Timon & Pumba
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2622.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tom & Jerry" tvg-logo="https://i.ibb.co/pv1mb3m/Tom-Jerry.png" roup-title="INFANTIL",INF | Tom & Jerry
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tom & Jerry" tvg-logo="https://i.ibb.co/pv1mb3m/Tom-Jerry.png" group-title="INFANTIL",INF | Tom & Jerry
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1219.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toy Story" tvg-logo="https://i.imgur.com/AKrSonk.png" roup-title="INFANTIL",INF | Toy Story
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toy Story" tvg-logo="https://i.imgur.com/AKrSonk.png" group-title="INFANTIL",INF | Toy Story
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1130.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vampirina" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/18Mmri8vmBKbGbiymFPlSHlg71o.jpg" roup-title="INFANTIL",INF | Vampirina
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vampirina" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/18Mmri8vmBKbGbiymFPlSHlg71o.jpg" group-title="INFANTIL",INF | Vampirina
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/347.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -1485,7 +1485,7 @@ http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/347.ts
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1113.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yu-Gi-Oh" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3VD5QDTu0rQgRvERBMXtAvg0oIC.jpg" roup-title="INFANTIL",INF | Yu-Gi-Oh
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yu-Gi-Oh" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3VD5QDTu0rQgRvERBMXtAvg0oIC.jpg" group-title="INFANTIL",INF | Yu-Gi-Oh
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/348.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
