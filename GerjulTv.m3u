@@ -585,9 +585,13 @@ http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/2024.ts
 
 #EXTINF:-1 channel-id="pluto-5dcde437229eff00091b6c30" tvg-id="5dcde437229eff00091b6c30" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" tvg-chno="18" group-title="PELICULAS",PELIS | Pluto TV Cine Estelar
 https://jmp2.uk/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 channel-id="pluto-5dcb62e63d4d8f0009f36881" tvg-id="5dcb62e63d4d8f0009f36881" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" tvg-chno="21" group-title="PELICULAS",PELIS | Pluto TV Cine Acción
 https://jmp2.uk/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 channel-id="pluto-5e972a21ad709d00074195ba" tvg-id="5e972a21ad709d00074195ba" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" tvg-chno="24" group-title="PELICULAS",PELIS | Estrellas de Acción
 https://jmp2.uk/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
