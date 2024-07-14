@@ -18,6 +18,11 @@ http://170.83.242.9:4000/play/a03e
 #EXTINF:0 tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png" group-title="PARAGUAY",PY | UNICANAL 
 https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ParaguayTV" group-title="PARAGUAY",PY | ParaguayTV
+http://170.83.242.9:4000/play/a01o
+
+#EXTINF:-1 tvg-id="TV CAMARA" group-title="PARAGUAY",PY | TV CAMARA
+http://170.83.242.9:4000/play/a00m
 
 #EXTINF:0 tvg-logo="https://www.venus.com.py/player/playlist/img/venus.png" group-title="PARAGUAY",PY | Radio Venus
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
@@ -1203,7 +1208,16 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094
 http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHPw6CcjW_tufp-8Sl2Tpg2M
 
 
-
+#EXTINF:-1 tvg-id="Nick Jr" group-title="INFANTIL",INF | Nick Jr
+http://170.83.242.9:4000/play/a00e
+#EXTINF:-1 tvg-id="Nickelodeon" group-title="INFANTIL",INF | Nickelodeon
+http://170.83.242.9:4000/play/a02w
+#EXTINF:-1 tvg-id="Disney Channel" group-title="INFANTIL",INF | Disney Channel
+http://170.83.242.9:4000/play/a00n
+#EXTINF:-1 group-title="INFANTIL",INF | Disney HD
+http://170.83.242.9:4000/play/a10j
+#EXTINF:-1 tvg-id="Disney Jr" group-title="INFANTIL",INF | Disney Jr
+http://170.83.242.9:4000/play/a02s
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adventure Time" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/vpnV0g2VOounP0kHNi86oBPceMY.jpg" group-title="INFANTIL",INF | Adventure Time
