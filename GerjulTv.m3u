@@ -229,6 +229,12 @@ http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 #EXTINF:-1 group-title="NOTICIAS",NOT | US: TELEMUNDO
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
+#EXTINF:-1 group-title="NOTICIAS",NOT | CNN CHILE
+http://138.59.227.148:5151/play/a0m1
+
+#EXTINF:-1 group-title="NOTICIAS",NOT | CNN HD
+http://138.59.227.148:5151/play/a038
+
 #EXTINF:-1 group-title="NOTICIAS",NOT | AL JAZEERA EN
 https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
 
@@ -384,6 +390,7 @@ http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/811.ts
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1548.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+
 #EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://www.universalplus.com/files/channels/731381553.png" group-title="PELICULAS",PELIS | UNIVERSAL CINEMA
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1526.ts
 ##EXTVLCOPT:network-caching=1000
