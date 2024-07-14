@@ -18,6 +18,10 @@ http://170.83.242.9:4000/play/a03e
 #EXTINF:0 tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png" group-title="PARAGUAY",PY | UNICANAL 
 https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
 
+
+#EXTINF:0 tvg-logo=" " group-title="PARAGUAY",PY | C9N
+https://alba-py-c9n-c9n.stream.mediatiquestream.com/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="PARAGUAY",PY | PARAVISION
 http://186.148.163.18:8000/play/a05m/index.m3u8
 
@@ -36,29 +40,16 @@ http://170.83.242.9:4000/play/a00m
 #EXTINF:0 tvg-logo="https://www.venus.com.py/player/playlist/img/venus.png" group-title="PARAGUAY",PY | Radio Venus
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online-218x150.png" group-title="PARAGUAY",PY | GEN TV 
-http://cincotv.org:25461/Fermand693/Toapa475/53464
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/L87rTqj/SOMOS.png" group-title="PARAGUAY",PY | Somos Del Este (720p)
-https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://iptv.com.py/wp-content/uploads/2021/09/almalogo2021-300x153.png" group-title="PARAGUAY",PY | ALMAYA TV
-https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.caritas.com.py/wp-content/uploads/2021/01/Logo-Diarium.jpg" group-title="PARAGUAY",PY | Cáritas TV (1080p)
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 
-#EXTINF:0 group-title="PARAGUAY",PY | 5Días TV 
-https://ythls.armelin.one/channel/UCiyJDRTHlTOGn6Fc5_BxcJw.m3u8
 
-#EXTINF:0 group-title="PARAGUAY",PY |Radio Pykasú TV
-https://59ce1298bfb98.streamlock.net/pykasutv/pykasutv/playlist.m3u8
+
 
 #EXTINF:0 group-title="PARAGUAY",PY | Radio Caazapá Poty 98.1 FM
 https://ssh101.bozztv.com/ssh101/caazapapotytv/playlist.m3u8
 
-#EXTINF:0 group-title="PARAGUAY",PY | Panambi Digital
-https://59ce1298bfb98.streamlock.net/panambi/panambi/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo=" " group-title="PARAGUAY",PY | Bruno Masi TV (720p)
@@ -77,37 +68,15 @@ https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 #EXTINF:0 group-title="PARAGUAY",PY | Dismar TV
 https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 
-#EXTINF:0 group-title="PARAGUAY",PY | TAPUA TV
-https://59ce1298bfb98.streamlock.net/marianotv/marianotv/playlist.m3u8
 
 #EXTINF:0 group-title="PARAGUAY",PY | Obedira TV
 https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8
 
-#EXTINF:0 group-title="PARAGUAY",PY | Campo 9 Online (720p)
-#EXTVLCOPT:network-caching=5000
-https://59ce1298bfb98.streamlock.net/campo9tv/campo9tv/playlist.m3u8
-
-#EXTINF:0 group-title="PARAGUAY",PY | Next HD (480p)
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-
-#EXTINF:0 tvg-logo="https://radiosuceso.com/wp-content/uploads/2023/11/Mesa-de-trabajo-7-e1699726317334.png" group-title="PARAGUAY",PY |Suceso TV
-https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
-
-#EXTINF:0 group-title="PARAGUAY",PY |ESTACIÓN CRISTAL TV
-https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
-
-
-#EXTINF:0, tvg-logo="https://olzamultimedios.com.py/wp-content/uploads/2023/07/ftv.png" group-title="PARAGUAY",PY |FM Frutillar TV (720p) [Not 24/7]
-http://cincotv.org:25461/Fermand693/Toapa475/26652
-
 #EXTINF:0 group-title="PARAGUAY",PY |Educanal
 https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
 
-#EXTINF:0 group-title="PARAGUAY",PY | RTV CANAL 12
-https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
 
-#EXTINF:0 group-title="PARAGUAY",PY | SUCESO TV
-https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+
 
 #EXTINF:0 group-title="PARAGUAY",PY | FARRA PLAY
 http://159.203.148.226/live/farra_low.m3u8
@@ -135,24 +104,20 @@ http://tv.nousiptv.com:8080/AR10465/10465R/7450
 
 
 
-#EXTINF:0 group-title="PARAGUAY",PY |TVS Encarnación (En breve Disponible)
-https://rds3gen.desdeparaguay.net/tvs/tvs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online-218x150.png" group-title="PARAGUAY",PY | GEN TV 
+http://cincotv.org:25461/Fermand693/Toapa475/53464
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/L87rTqj/SOMOS.png" group-title="PARAGUAY",PY | Somos Del Este (720p)
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://iptv.com.py/wp-content/uploads/2021/09/almalogo2021-300x153.png" group-title="PARAGUAY",PY | ALMAYA TV
+https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
+
+ #EXTINF:0 group-title="PARAGUAY",PY | 5Días TV 
+https://ythls.armelin.one/channel/UCiyJDRTHlTOGn6Fc5_BxcJw.m3u8
 
 
-
- 
-
-
-
-
-
-
-
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1061061339647500288/xQqF3xxz_400x400.jpg" group-title="PARAGUAY",PY | ÑANDUTÍ TV (En breve Disponible)
-https://video-weaver.sao03.hls.ttvnw.net/v1/playlist/CrgFs4DSX0jPyHPvmH9a6j-_lINcb6HwIDU47bD_o1TXos47Ge2U_s_2TPhlQSlO_cyuqkhnjyUAsjZyMrQ7nNLInb6ZghYYbQHGAgk-38APRehEx-0eM4G3fI8hBqG1InQBxFLswnb7tPzljHPuO1FwpqEGPTYrFTFY5gSpr5eVHVI5E7c18YrC3597NhqbPjuk0Ktvzo1tKrTwyESh0hTp7M5umH6qkntXWdS5NLm26nOhgKqzbiYEHp2sMvolHQf603raQHs73VjijQTBXKwQBq7of8fhOUTaRvdPBTVVayvlnWeedNvxBWPDYUCg_XgjKRoxncz7tbKxirUNi7LQpfVjbp9u9M2YUdwMRG1_8JBzJKHi4CuOYwzAhBCuof_dtBOWaOTE1gtCGgXmrdgUVj5xIP2AUl7HIeZt3QQtaZtXRdwviYA9hnxFywwmrJ7ywuDvKwFexdnBjS9VJ2ZxGQ_JjcQOB43BuYDiSJP7tKvIJuUGRhIHtzO-z1dAuQQuQZKcchaAyQy-q6Ujrx0EujJ2jVehemuask_cpF8qVlEg6xe0AjdXPfn16XTj52FXawgJuj0TIgRYbP7TSZ_5jzzSwo1Wvzuy1eYzWD1wHIWWM_xpa5hxVFYgUydvWrDh53i4j9_1lOvWPVMCgAGe45kHu-TFZxMMPHJH4HIXY9uuiYvhPzlIKJM5ceM3KsQS2QsxARTtlAhVbfBGogPmzBInCBBxx5RvWgYDNHSyHOaQu3vvaak6QwAHOEmCPu2PgJk_wK_lUVsQO6jzg_XuIPdHYpeHJK23q_vQ6i58JwBDExPyURPjNPt5QvE1DLsH-swnf71wQvWTV8iqL2pWvVaLtA0idgQBdSixxu1YPHJfKk84GBrdkxxMOb0IaGf7F1qAFpBYkbRZysWrzOEFiQmH1-6fTZZeGgw14-5FxWF4_5fYAIwgASoJdXMtZWFzdC0xMN8H.m3u8
-
-#EXTINF:0 tvg-logo=" " group-title="PARAGUAY",PY | C9N (En breve Disponible)
-https://alba-py-c9n-c9n.stream.mediatiquestream.com/playlist.m3u8
 
 #EXTINF:0 group-title="ARGENTINA",AR | EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
@@ -228,12 +193,6 @@ http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",NOT | US: TELEMUNDO
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS",NOT | CNN CHILE
-http://138.59.227.148:5151/play/a0m1
-
-#EXTINF:-1 group-title="NOTICIAS",NOT | CNN HD
-http://138.59.227.148:5151/play/a038
 
 #EXTINF:-1 group-title="NOTICIAS",NOT | AL JAZEERA EN
 https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
