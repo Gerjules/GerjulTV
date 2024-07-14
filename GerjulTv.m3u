@@ -11,7 +11,7 @@ http://170.83.242.9:4000/play/a03d
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TelefuturoLogo2022.png/640px-TelefuturoLogo2022.png" group-title="PARAGUAY",PY | TELEFUTURO (En breve Disponible)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TelefuturoLogo2022.png/640px-TelefuturoLogo2022.png" group-title="PARAGUAY",PY | TELEFUTURO
 http://170.83.242.9:4000/play/a03e
 
 
