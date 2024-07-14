@@ -18,8 +18,17 @@ http://170.83.242.9:4000/play/a03e
 #EXTINF:0 tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png" group-title="PARAGUAY",PY | UNICANAL 
 https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="PARAGUAY",PY | PARAVISION
+http://186.148.163.18:8000/play/a05m/index.m3u8
+
+#EXTINF:0 tvg-logo="https://latele.com.py/wp-content/uploads/2022/06/logo-latele.png" group-title="PARAGUAY",PY | LA TELE
+http://170.83.242.9:4000/play/a00j
+
 #EXTINF:-1 tvg-id="ParaguayTV" group-title="PARAGUAY",PY | ParaguayTV
 http://170.83.242.9:4000/play/a01o
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/NPY_%28Noticias_Paraguay%29.png/800px-NPY_%28Noticias_Paraguay%29.png " group-title="PARAGUAY",PY | NOTICIAS PY (En breve Disponible)
+http://186.148.163.18:8000/play/a05o/index.m3u8
 
 #EXTINF:-1 tvg-id="TV CAMARA" group-title="PARAGUAY",PY | TV CAMARA
 http://170.83.242.9:4000/play/a00m
@@ -133,14 +142,11 @@ https://rds3gen.desdeparaguay.net/tvs/tvs/playlist.m3u8
 
  
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="PARAGUAY",PY | PARAVISION (En breve Disponible)
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332995
 
-#EXTINF:0 tvg-logo="https://latele.com.py/wp-content/uploads/2022/06/logo-latele.png" group-title="PARAGUAY",PY | LA TELE(En breve Disponible)
-http://c24u.xyz:8080/LUCHO123/LUCHO123/332992
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/NPY_%28Noticias_Paraguay%29.png/800px-NPY_%28Noticias_Paraguay%29.png " group-title="PARAGUAY",PY | NOTICIAS PY (En breve Disponible)
-http://138.59.227.148:5151/play/a0iy
+
+
+
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1061061339647500288/xQqF3xxz_400x400.jpg" group-title="PARAGUAY",PY | ÑANDUTÍ TV (En breve Disponible)
 https://video-weaver.sao03.hls.ttvnw.net/v1/playlist/CrgFs4DSX0jPyHPvmH9a6j-_lINcb6HwIDU47bD_o1TXos47Ge2U_s_2TPhlQSlO_cyuqkhnjyUAsjZyMrQ7nNLInb6ZghYYbQHGAgk-38APRehEx-0eM4G3fI8hBqG1InQBxFLswnb7tPzljHPuO1FwpqEGPTYrFTFY5gSpr5eVHVI5E7c18YrC3597NhqbPjuk0Ktvzo1tKrTwyESh0hTp7M5umH6qkntXWdS5NLm26nOhgKqzbiYEHp2sMvolHQf603raQHs73VjijQTBXKwQBq7of8fhOUTaRvdPBTVVayvlnWeedNvxBWPDYUCg_XgjKRoxncz7tbKxirUNi7LQpfVjbp9u9M2YUdwMRG1_8JBzJKHi4CuOYwzAhBCuof_dtBOWaOTE1gtCGgXmrdgUVj5xIP2AUl7HIeZt3QQtaZtXRdwviYA9hnxFywwmrJ7ywuDvKwFexdnBjS9VJ2ZxGQ_JjcQOB43BuYDiSJP7tKvIJuUGRhIHtzO-z1dAuQQuQZKcchaAyQy-q6Ujrx0EujJ2jVehemuask_cpF8qVlEg6xe0AjdXPfn16XTj52FXawgJuj0TIgRYbP7TSZ_5jzzSwo1Wvzuy1eYzWD1wHIWWM_xpa5hxVFYgUydvWrDh53i4j9_1lOvWPVMCgAGe45kHu-TFZxMMPHJH4HIXY9uuiYvhPzlIKJM5ceM3KsQS2QsxARTtlAhVbfBGogPmzBInCBBxx5RvWgYDNHSyHOaQu3vvaak6QwAHOEmCPu2PgJk_wK_lUVsQO6jzg_XuIPdHYpeHJK23q_vQ6i58JwBDExPyURPjNPt5QvE1DLsH-swnf71wQvWTV8iqL2pWvVaLtA0idgQBdSixxu1YPHJfKk84GBrdkxxMOb0IaGf7F1qAFpBYkbRZysWrzOEFiQmH1-6fTZZeGgw14-5FxWF4_5fYAIwgASoJdXMtZWFzdC0xMN8H.m3u8
