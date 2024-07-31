@@ -199,8 +199,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 
-#EXTINF:0 group-title="NOTICIAS",NOT | TV Málaga 
-https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 #EXTINF:0 group-title="NOTICIAS",NOT | TELESUR VENEZUELA  
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?
 #EXTINF:0 group-title="NOTICIAS",NOT | FRANCE 24 
@@ -209,24 +207,9 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="NOTICIAS",NOT | El País
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
-#EXTINF:0 group-title="NOTICIAS",NOT | Las Estrellas 
-https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
 #EXTINF:0 group-title="NOTICIAS",NOT | Multimedios
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:0 group-title="NOTICIAS",NOT | CNN en Español 
-https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG.png"  group-title="NOTICIAS",NOT |CBS News
-https://r.mjh.nz/PlutoTV/62310d5a5dc9550007c6f580-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png" group-title="NOTICIAS",NOT |Euronews Español
-https://r.mjh.nz/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
-
-
-#EXTINF:-1 tvg-id="63d2c140c111bc0008cb890b" tvg-logo="https://images.pluto.tv/channels/63d2c140c111bc0008cb890b/colorLogoPNG.png" group-title="NOTICIAS",NOT |TeleFórmula
-https://r.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/bolivia.jpg" group-title="NOTICIAS",NOT | BOLIVIA TV
