@@ -2502,6 +2502,7 @@ http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612289&
 
 
 
+
 #EXTINF:-1 tvg-name="ALL Sports Brasil" tvg-logo="https://i.imgur.com/wULpnYR.png" tvg-id="AllSports.br" group-title="DEPORTES",SPORT | ALL Sports Brasil
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bvRubp2.png" group-title="DEPORTES",SPORT | ESPORTES",⚽️ - Band Sport.ᴴᴰ *
@@ -2520,6 +2521,51 @@ http://148.113.160.49:14124/
 https://cdn-3.nxplay.com.br/ESPN/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="DEPORTES",SPORT | Premiere Clubes FHD
 https://cr7v.short.gy/manoiptvfree/PremiereClube/Index.m3u8
+
+#EXTINF:-1 tvg-logo="https://whatsondisneyplus.b-cdn.net/wp-content/uploads/2024/06/GoDaddyStudioPage-0-730-1024x576.jpeg"group-title="FUTBOL",EVENTOS PPV HD
+http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/204751
+
+#EXTINF:-1 tvg-logo="https://whatsondisneyplus.b-cdn.net/wp-content/uploads/2024/06/GoDaddyStudioPage-0-730-1024x576.jpeg"group-title="FUTBOL",EVENTOS PPV HD 2
+https://deportes.sdfgnksbounce.com:8080/MjAwLjEyMy4xNTAuMTY5/5_.m3u8?token=eAIcKEbCYiGWYhMBMxJAxw&expires=1721621405
+
+#EXTINF:-1 tvg-logo="https://whatsondisneyplus.b-cdn.net/wp-content/uploads/2024/06/GoDaddyStudioPage-0-730-1024x576.jpeg"group-title="FUTBOL",EVENTOS PPV HD 3
+http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/211296
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png"group-title="FUTBOL",DIRECTV SPORTS HD
+http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/99654
+
+
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png"group-title="FUTBOL",ESPN 4 HD
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="FUTBOL",TNT SPORTS
+http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/99766
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg"group-title="FUTBOL",ESPN PREMIUM HD
+http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/99755
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg"group-title="FUTBOL",ESPN PREMIUM 2 HD
+http://newlife3.wanicelife.com:8880/DAALM1946/RZLMcYPfpN/49718
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmVjbnH7AVsfogHZoBoKxNBJFOOnIlK2qtYZZOWJWw2g&s"group-title="FUTBOL",ESPN HD
+http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/99753
+
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png"group-title="FUTBOL",DIRECTV SPORTS HD
+http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/375275
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png"group-title="FUTBOL",FOX SPORTS
+http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/243052
+
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/02ac8688819595.Y3JvcCwyODc2LDIyNTAsNTYyLDA.png"group-title="FUTBOL",TyC SPORTS HD
+http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/228950
+
 
 
 #EXTINF:-1 group-title="DEPORTES",  FOX SPORTS  1 (México)
