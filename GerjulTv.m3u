@@ -1808,12 +1808,10 @@ http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/401.ts
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | A Happy Madison" tvg-logo="https://i.ibb.co/k4c5x0S/cinema-vector-illustration-png-242108.jpg" group-title="TV 24/7",24/7 | A Happy Madison
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/1951.ts
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 P | Alien Saga" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/e4fiJmy9YHCpCpQwgWtvv6uoUWb.jpg" group-title="TV 24/7",24/7 | Alien Saga
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/408.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA_Caso Cerrado01 24/7" tvg-logo="" group-title="TV 24/7",24/7 | LA_Caso Cerrado01 24/7
+http://newultra.xyz:8080/936664531tv/47hj3e/54956
+#EXTINF:-1 tvg-id="" tvg-name="LA_Documentales 24/7" tvg-logo="" group-title="TV 24/7",24/7 | LA_Documentales 24/7
+http://newultra.xyz:8080/936664531tv/47hj3e/54957
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7: BOB ESPONJA" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="TV 24/7",24/7 | BOB ESPONJA
 http://newultra.xyz:8080/936664531tv/47hj3e/690
