@@ -169,10 +169,11 @@ http://myteve.online:8080/30fe809e/ec00cbf3/49329
 http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1278404640418287617/wwoZKuuA_400x400.png" group-title="NOTICIAS",NOT | NTN24 ᴴᴰ
+http://190.0.241.181:8000/play/a053/index.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",NOT |  US: TELEMUNDO
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+http://186.148.195.206:8000/play/a05q/index.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",NOT |  AL JAZEERA EN
 https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
@@ -248,8 +249,7 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/hispantv.jpg" group-title="NOTICIAS",NOT | HISPANTV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/df0a443c1e8e53babc41fede14548c9b5fd1a6d2/live.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1278404640418287617/wwoZKuuA_400x400.png" group-title="NOTICIAS",NOT | NTN24 ᴴᴰ
-http://go.hehehe.ovh:80/687281607/1971/39470
+
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title="NOTICIAS",NOT | NHK WORLD ᴴᴰ
 https://bmcc.nhkworld.jp/live2/index_1M.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Al_Jazeera.jpg" group-title="NOTICIAS",NOT | ALJAZEERA ᴴᴰ ENGLISH 
@@ -579,80 +579,7 @@ https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
 
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 01 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 01 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/11987
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 02 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 02 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/11988
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 03 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 03 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/11989
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 04 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 04 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/11990
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 05 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 05 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/11991
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 06 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 06 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/11992
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 07 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 07 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/11993
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 08 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 08 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/11994
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 09 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 09 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/11995
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 10 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 10 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/11996
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 11 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 11 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/11997
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 12 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 12 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/11998
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 13 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 13 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/11999
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 14 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 14 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/12000
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 15 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 15 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/12001
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 16 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 16 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/12002
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 17 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 17 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/12003
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 18 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 18 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/12004
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 19 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 19 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/12005
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 20 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 20 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/12006
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 21 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 21 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/12007
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 22 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 22 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/12008
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 23 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 23 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/12009
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 24 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 24 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/12010
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 25 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 25 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/12011
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 26 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 26 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/12012
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 27 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 27 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/12013
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 28 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 28 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/12014
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 29 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 29 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/12015
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 30 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 30 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/12016
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 31 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 31 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/12017
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 32 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 32 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/12018
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 33 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 33 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/12019
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 34 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 34 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/12020
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 35 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 35 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/12021
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 36 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 36 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/12022
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 37 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 37 PPV
-http://newultra.xyz:8080/936664531tv/47hj3e/12023
+
 #EXTINF:-1 tvg-id="" tvg-name="CINE| Starz Cinema HD_1080P" tvg-logo="https://static.epg.best/us/StarzCinema.us.png" group-title="→ STARZ CINEMA ←",CINE| Starz Cinema HD_1080P
 http://newultra.xyz:8080/936664531tv/47hj3e/664
 #EXTINF:-1 tvg-id="" tvg-name="CINE| Starz Comedy HD" tvg-logo="https://static.epg.best/us/StarzComedy.us.png" group-title="→ STARZ CINEMA ←",CINE| Starz Comedy HD
@@ -677,6 +604,8 @@ http://newultra.xyz:8080/936664531tv/47hj3e/673
 http://newultra.xyz:8080/936664531tv/47hj3e/674
 #EXTINF:-1 tvg-id="" tvg-name="CINE| Starz West HD_1080P" tvg-logo="https://static.epg.best/us/StarzWest.us.png" group-title="→ STARZ CINEMA ←",CINE| Starz West HD_1080P
 http://newultra.xyz:8080/936664531tv/47hj3e/675
+
+
 
 
 
@@ -1113,74 +1042,28 @@ https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
 
+
+#EXTINF:-1,Discovery H&H HD
+http://186.148.195.206:8000/play/a03p/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/tv1_sci-white.png" group-title="CULTURA",CULT | DISCOVERY SCIENCE
 http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/235538
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY H&H" tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="CULTURA",CULT | DISCOVERY H&H
-http://45.166.92.22:58001/play/a015/index.m3u8
+http://186.148.195.206:8000/play/a03p/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY H&H HD" tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="CULTURA",CULT | DISCOVERY H&H HD
-http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/235554
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="DISCOVERY WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="CULTURA",CULT | DISCOVERY WORLD
-http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/235580
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY WORLD OP 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="CULTURA",CULT | DISCOVERY WORLD OP 2
-http://191.97.49.194:8000/play/a04e/index.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="DISCOVERY TURBO" tvg-logo="http://2.bp.blogspot.com/-050AUHplpUI/VFuobCREnsI/AAAAAAAAkCE/Zs_lGMgmA74/s1600/D.Turbo.png" group-title="CULTURA",CULT | DISCOVERY TURBO
-http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/235586
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY TURBO OP 2" tvg-logo="http://2.bp.blogspot.com/-050AUHplpUI/VFuobCREnsI/AAAAAAAAkCE/Zs_lGMgmA74/s1600/D.Turbo.png" group-title="CULTURA",CULT | DISCOVERY TURBO OP 2
-http://181.78.75.83:5013/play/a08q/index.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/4096px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA",CULT | DISCOVERY THEATER
-http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/235590
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="DISCOVERY THEATER OP 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/4096px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA",CULT | DISCOVERY THEATER OP 2
-http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/62823
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NACIONAL GEOGRAPHIC CHANNEL" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeo/Images/16c2ba84acf1e35302d1189a30433414/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png" group-title="CULTURA",CULT | NACIONAL GEOGRAPHIC CHANNEL
-http://181.78.75.83:5013/play/a0am/index.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="ANIMAL PLANET" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Animal-Planet-Logo.png" group-title="CULTURA",CULT | ANIMAL PLANET
-http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/235595
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET HD" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Animal-Planet-Logo.png" group-title="CULTURA",CULT | ANIMAL PLANET HD
-http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/235596
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO " tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeo/Images/16c2ba84acf1e35302d1189a30433414/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png" group-title="CULTURA",CULT | NAT GEO 
-http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/235605
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOVE NATURE" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/g-l/lovenatureca/logos/3p-logo._CB436453497_.png" group-title="CULTURA",CULT | LOVE NATURE
-http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/322623
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HISTORY MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="CULTURA",CULT | HISTORY MX
-http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/322615
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HISTORY PREMIUM" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="CULTURA",CULT | HISTORY PREMIUM
-http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/322616
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="H2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" group-title="CULTURA",CULT | H2
-http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/322617
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
+
+#EXTINF:-1 group-title="CULTURA",CULT | Discovery HD
+http://186.148.195.206:8000/play/a059/index.m3u8
+
+#EXTINF:-1 group-title="CULTURA",CULT | History 2 HD
+http://186.148.195.206:8000/play/a05b/index.m3u8
+#EXTINF:-1 group-title="CULTURA",CULT | History Channel HD
+http://186.148.195.206:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="H2 OP2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" group-title="CULTURA",CULT | H2 OP2
 http://200.59.188.3:8000/play/a033
 ##EXTVLCOPT:network-caching=1000
@@ -1197,6 +1080,27 @@ http://200.59.188.3:8000/play/a031
 http://00322.xyz:8000/live/saabj84/CNGUPDY6RA/131284.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+
+#EXTINF:-1 group-title="CULTURA",CULT | Discovery Science
+http://186.148.195.206:8000/play/a07g/index.m3u8
+#EXTINF:-1 group-title="CULTURA",CULT | Discovery Theater HD
+http://186.148.195.206:8000/play/a03q/index.m3u8
+#EXTINF:-1 group-title="CULTURA",CULT | Discovery Turbo
+http://186.148.195.206:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="CULTURA",CULT | Discovery World HD
+http://186.148.195.206:8000/play/a045/index.m3u8
+#EXTINF:-1 group-title="CULTURA",CULT | E! HD
+http://186.148.195.206:8000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="CULTURA",CULT | FX HD
+http://186.148.195.206:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="CULTURA",CULT | Film&Arts
+http://186.148.195.206:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="CULTURA",CULT | Food Network HD
+http://186.148.195.206:8000/play/a04r/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="HGTV.mx" tvg-name="HGTV" tvg-logo="https://www.seekpng.com/png/full/240-2403856_hgtv-logo-hgtv-app.png" group-title="CULTURA",CULT | HGTV
 http://00322.xyz:8000/live/saabj84/CNGUPDY6RA/4815.ts
 ##EXTVLCOPT:network-caching=1000
@@ -1890,10 +1794,6 @@ http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/401.ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="LA_Caso Cerrado01 24/7" tvg-logo="" group-title="TV 24/7",24/7 | LA_Caso Cerrado01 24/7
-http://newultra.xyz:8080/936664531tv/47hj3e/54956
-#EXTINF:-1 tvg-id="" tvg-name="LA_Documentales 24/7" tvg-logo="" group-title="TV 24/7",24/7 | LA_Documentales 24/7
-http://newultra.xyz:8080/936664531tv/47hj3e/54957
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7: BOB ESPONJA" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="TV 24/7",24/7 | BOB ESPONJA
 http://newultra.xyz:8080/936664531tv/47hj3e/690
@@ -3233,6 +3133,8 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
 
 
+
+
 #EXTINF:-1 channel-id="pluto-5e793a7cfbdf780007f7eb75" tvg-id="5e793a7cfbdf780007f7eb75" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png" tvg-chno="1" group-title="Pluto TV" , Descubriendo Pluto TV
 https://jmp2.uk/PlutoTV/5e793a7cfbdf780007f7eb75-alt.m3u8
 
@@ -3846,6 +3748,25 @@ https://jmp2.uk/PlutoTV/5ed6828192e8b3000743ef61-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-6495af324c014a000842e923" tvg-id="6495af324c014a000842e923" tvg-logo="https://images.pluto.tv/channels/6495af324c014a000842e923/colorLogoPNG.png" tvg-chno="462" group-title="ENTRETENIMIENTO",ENT |  Desafío Super Humanos
 https://jmp2.uk/PlutoTV/6495af324c014a000842e923-alt.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENT | A&E HD
+http://186.148.195.206:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENT | AMC HD
+http://186.148.195.206:8000/play/a047/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENT | ANTV
+http://186.148.195.206:8000/play/a078/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENT | ATRES SERIES HD
+http://186.148.195.206:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENT | ATV
+http://186.148.195.206:8000/play/a05k/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENT | AXN HD
+http://186.148.195.206:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENT | Adult Swim HD
+http://186.148.195.206:8000/play/a00x/index.m3u8
 
 
 
