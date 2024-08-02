@@ -171,103 +171,185 @@ http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="NOTICIAS",NOT | US: TELEMUNDO
+#EXTINF:-1 group-title="NOTICIAS",NOT |  US: TELEMUNDO
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS",NOT | AL JAZEERA EN
+#EXTINF:-1 group-title="NOTICIAS",NOT |  AL JAZEERA EN
 https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS",NOT | AL JAZEERA ARAB
+#EXTINF:-1 group-title="NOTICIAS",NOT |  AL JAZEERA ARAB
 https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
 
-#EXTINF:0 group-title="NOTICIAS",NOT | DW ALEMANIA EN ESPAÑOL 
+#EXTINF:0 group-title="NOTICIAS",NOT |  DW ALEMANIA EN ESPAÑOL 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
-#EXTINF:0 group-title="NOTICIAS",NOT | RT NOTICIAS 
+#EXTINF:0 group-title="NOTICIAS",NOT |  RT NOTICIAS 
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="NOTICIAS",NOT | 24H TVE
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CubavisionInternacional/picture" group-title="NOTICIAS",NOT |  CU |CUBAVISION TV ᴴᴰ
+#EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51bJg+c7vRL.png" group-title="NOTICIAS",NOT |  HT | CANAL DE NOTICIAS HAITI
+https://haititivi.com/website/haitinews/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OdOCGiW.png" group-title="NOTICIAS",NOT |  HT | TELE CARIBE
+https://ythls.armelin.one/channel/UCWwP6VfG61i7BWSV0H3Jn9A.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Telearuba_Logo.png/200px-Telearuba_Logo.png" group-title="NOTICIAS",NOT |  AW | TELE ARUBA ᴴᴰ DIRECTO
+https://cdn01.setar.aw/Telearuba/telearuba/chunklist_w398237623.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v6nRdxQ.png" group-title="NOTICIAS",NOT |  VE | GLOBOVISION DIRECTO
+https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="NOTICIAS",NOT |  CO | CABLE NOTICIAS DIRECTO
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="NOTICIAS",NOT |  CO | SEÑAL COLOMBIA ᴴᴰ
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="NOTICIAS",NOT | AMX NOTICIAS ᴴᴰ  
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Caracol_2017.png/revision/latest?cb=20210217012618&path-prefix=es" group-title="NOTICIAS",NOT | NOTICIAS CARACOL ᴴᴰ
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png" group-title="NOTICIAS",NOT | TELESUR ᴴᴰ 
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jbm2S9O.jpg" group-title="NOTICIAS",NOT | PRENSA LATINA TV ᴴᴰ 
+https://eu1.servers10.com:8081/8192/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cnn-en-espanol-logo-png-transparent.png" group-title="TV NOTICIAS",| CNN EN ESPAÑOL 
+https://nxt.plus:8443/jesus01/jesus01/59075
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="TV NOTICIAS",| CNN CHILE 
+http://daleplay.club:80/VictorNaranjo/Victor09122021/63076.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="NOTICIAS",NOT | C5N 
+https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="NOTICIAS",NOT | A24 ᴴᴰ
+https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elconfidencial.jpg/320px-Elconfidencial.jpg" group-title="NOTICIAS",NOT | EL CONFIDENCIAL ᴴᴰ  
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="NOTICIAS",NOT | 24HORAS ᴴᴰ
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/3.jpg" group-title="NOTICIAS",NOT | LA 1 ᴴᴰ
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="NOTICIAS",NOT | NEGOCIOS TV ᴴᴰ 
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="NOTICIAS",NOT | FRANCE 24 ᴴᴰ  
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="NOTICIAS",NOT | DEUSTCHE WELLE  ᴴᴰ DW 
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="NOTICIAS",NOT | EURONEWS ᴴᴰ
+https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="NOTICIAS",NOT | ACTUALIDAD RT ᴴᴰ 
+https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="NOTICIAS",NOT | CGTN EN ESPAÑOL ᴴᴰ 
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/hispantv.jpg" group-title="NOTICIAS",NOT | HISPANTV ᴴᴰ
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/df0a443c1e8e53babc41fede14548c9b5fd1a6d2/live.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1278404640418287617/wwoZKuuA_400x400.png" group-title="NOTICIAS",NOT | NTN24 ᴴᴰ
+http://go.hehehe.ovh:80/687281607/1971/39470
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title="NOTICIAS",NOT | NHK WORLD ᴴᴰ
+https://bmcc.nhkworld.jp/live2/index_1M.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/Al_Jazeera.jpg" group-title="NOTICIAS",NOT | ALJAZEERA ᴴᴰ ENGLISH 
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/PressTV_2007.png" group-title="NOTICIAS",NOT | PRESS TV
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1-1.png" group-title="NOTICIAS",NOT | GLOBO ᴴᴰ
+http://cdn.lvbxtv.com:80/ven05jlx5n/gold815/281044
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/8b84842008845.Y3JvcCw1OTgsNDY4LDExOCw2NQ.png" group-title="TV NOTICIAS",| PALESTINIAN TV ᴴᴰ
+https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://africa24tv.com/wp-content/uploads/2021/09/logo.png" group-title="NOTICIAS",NOT | AFRICA 24 ᴴᴰ
+https://edge19.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w271535189.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="NOTICIAS",NOT | TeleSUR (1080p)
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="NOTICIAS",NOT |  24H TVE
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS",NOT | LA1
+#EXTINF:-1 group-title="NOTICIAS",NOT |  LA1
 https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ITx8bTj.png" group-title="NOTICIAS",NOT | TVE INTERNACIONAL AMERICA HD 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ITx8bTj.png" group-title="NOTICIAS",NOT |  TVE INTERNACIONAL AMERICA HD 
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
 
-#EXTINF:0 group-title="NOTICIAS",NOT | EuroNews
+#EXTINF:0 group-title="NOTICIAS",NOT |  EuroNews
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 
-#EXTINF:0 group-title="NOTICIAS",NOT | TELESUR VENEZUELA  
+#EXTINF:0 group-title="NOTICIAS",NOT |  TELESUR VENEZUELA  
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?
-#EXTINF:0 group-title="NOTICIAS",NOT | FRANCE 24 
+#EXTINF:0 group-title="NOTICIAS",NOT |  FRANCE 24 
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
-#EXTINF:0 group-title="NOTICIAS",NOT | RCN más 
+#EXTINF:0 group-title="NOTICIAS",NOT |  RCN más 
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:0 group-title="NOTICIAS",NOT | El País
+#EXTINF:0 group-title="NOTICIAS",NOT |  El País
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
-#EXTINF:0 group-title="NOTICIAS",NOT | Multimedios
+#EXTINF:0 group-title="NOTICIAS",NOT |  Multimedios
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/bolivia.jpg" group-title="NOTICIAS",NOT | BOLIVIA TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/bolivia.jpg" group-title="NOTICIAS",NOT |  BOLIVIA TV
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Caracol_2017.png/revision/latest?cb=20210217012618&path-prefix=es" group-title="NOTICIAS",NOT | NOTICIAS CARACOL |
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Caracol_2017.png/revision/latest?cb=20210217012618&path-prefix=es" group-title="NOTICIAS",NOT |  NOTICIAS CARACOL |
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="NOTICIAS",NOT | NEGOCIOS TV |
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="NOTICIAS",NOT |  NEGOCIOS TV |
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/23/40/png-transparent-logo-deutsche-welle-dw-tv-dw-espanol-lacrosse-talk-radio-television-blue-text.png" group-title="NOTICIAS",NOT | DW ESPAÑOL |
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/23/40/png-transparent-logo-deutsche-welle-dw-tv-dw-espanol-lacrosse-talk-radio-television-blue-text.png" group-title="NOTICIAS",NOT |  DW ESPAÑOL |
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/hispantv.jpg" group-title="NOTICIAS",NOT | HISPANTV |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/hispantv.jpg" group-title="NOTICIAS",NOT |  HISPANTV |
 https://cdnlive.presstv.ir/live/smil:live.smil/chunklist_w1088451076_b644100_slen.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="NOTICIAS",NOT | CGTN EN ESPAÑOL |
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="NOTICIAS",NOT |  CGTN EN ESPAÑOL |
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png" group-title="NOTICIAS",NOT | TELESUR |
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png" group-title="NOTICIAS",NOT |  TELESUR |
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="NOTICIAS",NOT | RT EN ESPAÑOL |
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="NOTICIAS",NOT |  RT EN ESPAÑOL |
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/854/340/png-clipart-logo-canal-institucional-graphic-designer-y-40-the-deep-joy-design-text-orange-thumbnail.png" group-title="NOTICIAS",NOT | CANAL INSTITUCIONAL COLOMBIA |
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/854/340/png-clipart-logo-canal-institucional-graphic-designer-y-40-the-deep-joy-design-text-orange-thumbnail.png" group-title="NOTICIAS",NOT |  CANAL INSTITUCIONAL COLOMBIA |
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
 
 
 
-#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTICIAS",NOT | CNN EN ESPAÑOL |
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTICIAS",NOT |  CNN EN ESPAÑOL |
 https://nxt.plus:8443/jesus01/jesus01/59075
 
 
 
-#EXTINF:-1 group-title="NOTICIAS",NOT | UNIVISION NOTICIAS 
+#EXTINF:-1 group-title="NOTICIAS",NOT |  UNIVISION NOTICIAS 
 https://i.mjh.nz/SamsungTVPlus/USBD1700014QU.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.ntn24.com/__assets/images/logo.png" group-title="NOTICIAS",NOT | NTN 24 |
+#EXTINF:-1 tvg-logo="https://www.ntn24.com/__assets/images/logo.png" group-title="NOTICIAS",NOT |  NTN 24 |
 http://160.20.165.245:8000/play/a00y/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title="NOTICIAS",NOT | NHK WORLD SD |
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title="NOTICIAS",NOT |  NHK WORLD SD |
 https://bmcc.nhkworld.jp/live2/index_1M.m3u8
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title="NOTICIAS",NOT | NHK JAPAN HD |
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title="NOTICIAS",NOT |  NHK JAPAN HD |
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
 
@@ -497,6 +579,80 @@ https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
 
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 01 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 01 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/11987
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 02 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 02 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/11988
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 03 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 03 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/11989
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 04 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 04 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/11990
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 05 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 05 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/11991
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 06 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 06 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/11992
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 07 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 07 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/11993
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 08 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 08 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/11994
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 09 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 09 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/11995
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 10 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 10 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/11996
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 11 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 11 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/11997
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 12 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 12 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/11998
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 13 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 13 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/11999
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 14 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 14 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/12000
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 15 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 15 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/12001
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 16 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 16 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/12002
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 17 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 17 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/12003
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 18 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 18 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/12004
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 19 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 19 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/12005
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 20 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 20 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/12006
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 21 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 21 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/12007
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 22 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 22 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/12008
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 23 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 23 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/12009
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 24 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 24 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/12010
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 25 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 25 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/12011
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 26 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 26 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/12012
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 27 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 27 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/12013
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 28 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 28 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/12014
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 29 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 29 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/12015
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 30 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 30 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/12016
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 31 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 31 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/12017
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 32 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 32 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/12018
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 33 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 33 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/12019
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 34 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 34 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/12020
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 35 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 35 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/12021
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 36 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 36 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/12022
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 37 PPV" tvg-logo="" group-title="→ CINEMA PPV LATINOS ←",LA_FHD:Cinema 37 PPV
+http://newultra.xyz:8080/936664531tv/47hj3e/12023
 #EXTINF:-1 tvg-id="" tvg-name="CINE| Starz Cinema HD_1080P" tvg-logo="https://static.epg.best/us/StarzCinema.us.png" group-title="→ STARZ CINEMA ←",CINE| Starz Cinema HD_1080P
 http://newultra.xyz:8080/936664531tv/47hj3e/664
 #EXTINF:-1 tvg-id="" tvg-name="CINE| Starz Comedy HD" tvg-logo="https://static.epg.best/us/StarzComedy.us.png" group-title="→ STARZ CINEMA ←",CINE| Starz Comedy HD
