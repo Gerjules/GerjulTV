@@ -189,17 +189,24 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v6nRdxQ.png" group-title="NOTICIAS",NOT |  VE | GLOBOVISION DIRECTO
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="NOTICIAS",NOT |  CO | SEÑAL COLOMBIA ᴴᴰ
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Caracol_2017.png/revision/latest?cb=20210217012618&path-prefix=es" group-title="NOTICIAS",NOT | NOTICIAS CARACOL ᴴᴰ
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+
+#EXTINF:0 group-title="NOTICIAS",NOT |  El País
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+
+#EXTINF:0 group-title="NOTICIAS",NOT |  Multimedios
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbm2S9O.jpg" group-title="NOTICIAS",NOT | PRENSA LATINA TV ᴴᴰ 
 https://eu1.servers10.com:8081/8192/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="NOTICIAS",NOT |  CO | CABLE NOTICIAS DIRECTO
-https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="NOTICIAS",NOT |  CO | SEÑAL COLOMBIA ᴴᴰ
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="NOTICIAS",NOT | ACTUALIDAD RT ᴴᴰ 
@@ -215,6 +222,9 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/bolivia.jpg" group-title="NOTICIAS",NOT |  BOLIVIA TV
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="NOTICIAS",NOT |  NEGOCIOS TV |
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",NOT |  TELEMUNDO
 http://190.0.241.181:8000/play/TELEMUNDO/index.m3u8
@@ -267,12 +277,6 @@ https://cdn01.setar.aw/Telearuba/telearuba/chunklist_w398237623.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Caracol_2017.png/revision/latest?cb=20210217012618&path-prefix=es" group-title="NOTICIAS",NOT | NOTICIAS CARACOL ᴴᴰ
-https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elconfidencial.jpg/320px-Elconfidencial.jpg" group-title="NOTICIAS",NOT | EL CONFIDENCIAL ᴴᴰ  
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 
@@ -285,8 +289,7 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/PressTV_2007.png" group-title="NOTICIAS",NOT | PRESS TV
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1-1.png" group-title="NOTICIAS",NOT | GLOBO ᴴᴰ
-http://cdn.lvbxtv.com:80/ven05jlx5n/gold815/281044
+
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/8b84842008845.Y3JvcCw1OTgsNDY4LDExOCw2NQ.png" group-title="TV NOTICIAS",| PALESTINIAN TV ᴴᴰ
 https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
@@ -296,19 +299,6 @@ https://edge19.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w271535189.m3
 
 
 
-#EXTINF:0 group-title="NOTICIAS",NOT |  RCN más 
-https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:0 group-title="NOTICIAS",NOT |  El País
-https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
-
-#EXTINF:0 group-title="NOTICIAS",NOT |  Multimedios
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="NOTICIAS",NOT |  NEGOCIOS TV |
-https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
 
 
