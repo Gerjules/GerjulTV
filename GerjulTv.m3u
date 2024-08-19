@@ -253,21 +253,10 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="NOTICIAS",NOT | CGTN EN ESPAÑOL ᴴᴰ 
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/hispantv.jpg" group-title="NOTICIAS",NOT | HISPANTV ᴴᴰ
-#EXTVLCOPT:http-referrer=https://odysee.com/
-https://cloud.odysee.live/content/df0a443c1e8e53babc41fede14548c9b5fd1a6d2/live.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CubavisionInternacional/picture" group-title="NOTICIAS",NOT |  CU |CUBAVISION TV ᴴᴰ
-#EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51bJg+c7vRL.png" group-title="NOTICIAS",NOT |  HT | CANAL DE NOTICIAS HAITI
 https://haititivi.com/website/haitinews/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OdOCGiW.png" group-title="NOTICIAS",NOT |  HT | TELE CARIBE
-https://ythls.armelin.one/channel/UCWwP6VfG61i7BWSV0H3Jn9A.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Telearuba_Logo.png/200px-Telearuba_Logo.png" group-title="NOTICIAS",NOT |  AW | TELE ARUBA ᴴᴰ DIRECTO
