@@ -182,25 +182,41 @@ https://nxt.plus:8443/jesus01/jesus01/59075
 http://daleplay.club:80/VictorNaranjo/Victor09122021/63076.ts
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="NOTICIAS",NOT |  CO | CABLE NOTICIAS DIRECTO
-https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="NOTICIAS",NOT |  CO | SEÑAL COLOMBIA ᴴᴰ
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png" group-title="NOTICIAS",NOT | TELESUR ᴴᴰ 
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v6nRdxQ.png" group-title="NOTICIAS",NOT |  VE | GLOBOVISION DIRECTO
+https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Caracol_2017.png/revision/latest?cb=20210217012618&path-prefix=es" group-title="NOTICIAS",NOT | NOTICIAS CARACOL ᴴᴰ
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbm2S9O.jpg" group-title="NOTICIAS",NOT | PRENSA LATINA TV ᴴᴰ 
 https://eu1.servers10.com:8081/8192/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="NOTICIAS",NOT | EURONEWS ᴴᴰ
-https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="NOTICIAS",NOT |  CO | CABLE NOTICIAS DIRECTO
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="NOTICIAS",NOT |  CO | SEÑAL COLOMBIA ᴴᴰ
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="NOTICIAS",NOT | ACTUALIDAD RT ᴴᴰ 
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="NOTICIAS",NOT |  24H TVE
-https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="NOTICIAS",NOT | EURONEWS ᴴᴰ
+https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ITx8bTj.png" group-title="NOTICIAS",NOT |  TVE INTERNACIONAL AMERICA HD 
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/bolivia.jpg" group-title="NOTICIAS",NOT |  BOLIVIA TV
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",NOT |  TELEMUNDO
 http://190.0.241.181:8000/play/TELEMUNDO/index.m3u8
@@ -235,8 +251,6 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/df0a443c1e8e53babc41fede14548c9b5fd1a6d2/live.m3u8
 
-#EXTINF:0 group-title="NOTICIAS",NOT |  RT NOTICIAS 
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CubavisionInternacional/picture" group-title="NOTICIAS",NOT |  CU |CUBAVISION TV ᴴᴰ
@@ -253,55 +267,35 @@ https://ythls.armelin.one/channel/UCWwP6VfG61i7BWSV0H3Jn9A.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Telearuba_Logo.png/200px-Telearuba_Logo.png" group-title="NOTICIAS",NOT |  AW | TELE ARUBA ᴴᴰ DIRECTO
 https://cdn01.setar.aw/Telearuba/telearuba/chunklist_w398237623.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v6nRdxQ.png" group-title="NOTICIAS",NOT |  VE | GLOBOVISION DIRECTO
-https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="NOTICIAS",NOT |  CO | CABLE NOTICIAS DIRECTO
-https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="NOTICIAS",NOT |  CO | SEÑAL COLOMBIA ᴴᴰ
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="NOTICIAS",NOT | AMX NOTICIAS ᴴᴰ  
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Caracol_2017.png/revision/latest?cb=20210217012618&path-prefix=es" group-title="NOTICIAS",NOT | NOTICIAS CARACOL ᴴᴰ
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elconfidencial.jpg/320px-Elconfidencial.jpg" group-title="NOTICIAS",NOT | EL CONFIDENCIAL ᴴᴰ  
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="NOTICIAS",NOT | 24HORAS ᴴᴰ
-https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+
 #EXTINF:-1 tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/3.jpg" group-title="NOTICIAS",NOT | LA 1 ᴴᴰ
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="NOTICIAS",NOT | NEGOCIOS TV ᴴᴰ 
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title="NOTICIAS",NOT | NHK WORLD ᴴᴰ
-https://bmcc.nhkworld.jp/live2/index_1M.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/PressTV_2007.png" group-title="NOTICIAS",NOT | PRESS TV
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1-1.png" group-title="NOTICIAS",NOT | GLOBO ᴴᴰ
 http://cdn.lvbxtv.com:80/ven05jlx5n/gold815/281044
+
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/8b84842008845.Y3JvcCw1OTgsNDY4LDExOCw2NQ.png" group-title="TV NOTICIAS",| PALESTINIAN TV ᴴᴰ
 https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://africa24tv.com/wp-content/uploads/2021/09/logo.png" group-title="NOTICIAS",NOT | AFRICA 24 ᴴᴰ
 https://edge19.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w271535189.m3u8
 
-
-
-#EXTINF:-1 group-title="NOTICIAS",NOT |  LA1
-https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ITx8bTj.png" group-title="NOTICIAS",NOT |  TVE INTERNACIONAL AMERICA HD 
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
-
-#EXTINF:0 group-title="NOTICIAS",NOT |  EuroNews
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 
 #EXTINF:0 group-title="NOTICIAS",NOT |  RCN más 
@@ -315,52 +309,8 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/bolivia.jpg" group-title="NOTICIAS",NOT |  BOLIVIA TV
-http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Caracol_2017.png/revision/latest?cb=20210217012618&path-prefix=es" group-title="NOTICIAS",NOT |  NOTICIAS CARACOL |
-https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="NOTICIAS",NOT |  NEGOCIOS TV |
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/23/40/png-transparent-logo-deutsche-welle-dw-tv-dw-espanol-lacrosse-talk-radio-television-blue-text.png" group-title="NOTICIAS",NOT |  DW ESPAÑOL |
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/hispantv.jpg" group-title="NOTICIAS",NOT |  HISPANTV |
-https://cdnlive.presstv.ir/live/smil:live.smil/chunklist_w1088451076_b644100_slen.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="NOTICIAS",NOT |  CGTN EN ESPAÑOL |
-https://livees.cgtn.com/1000e/prog_index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png" group-title="NOTICIAS",NOT |  TELESUR |
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="NOTICIAS",NOT |  RT EN ESPAÑOL |
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/854/340/png-clipart-logo-canal-institucional-graphic-designer-y-40-the-deep-joy-design-text-orange-thumbnail.png" group-title="NOTICIAS",NOT |  CANAL INSTITUCIONAL COLOMBIA |
-https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="NOTICIAS",NOT |  UNIVISION NOTICIAS 
-https://i.mjh.nz/SamsungTVPlus/USBD1700014QU.m3u8
 
 
 
