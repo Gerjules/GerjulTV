@@ -862,14 +862,6 @@ http://186.148.195.206:8000/play/a03p/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/tv1_sci-white.png" group-title="CULTURA",CULT | DISCOVERY SCIENCE
-http://alfatv.lat:2082/OficialTv457/N3bfWvmGRtwd/235538
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY H&H" tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="CULTURA",CULT | DISCOVERY H&H
-http://186.148.195.206:8000/play/a03p/index.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 group-title="CULTURA",CULT | Discovery HD
 http://186.148.195.206:8000/play/a059/index.m3u8
@@ -882,18 +874,12 @@ http://186.148.195.206:8000/play/a002/index.m3u8
 http://200.59.188.3:8000/play/a033
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL MX" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1.png" group-title="CULTURA",CULT | DISCOVERY CHANNEL MX
-http://181.78.75.83:5013/play/a06g/index.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
+
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL OP2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1.png" group-title="CULTURA",CULT | DISCOVERY CHANNEL OP2
 http://200.59.188.3:8000/play/a031
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY FAMILY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMzUybo35l2JFLFNXgjf3lcgrBkeIyB73Ysw&usqp=CAU" group-title="CULTURA",CULT | DISCOVERY FAMILY
-http://00322.xyz:8000/live/saabj84/CNGUPDY6RA/131284.ts
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
+
 
 #EXTINF:-1 group-title="CULTURA",CULT | Discovery Science
 http://186.148.195.206:8000/play/a07g/index.m3u8
@@ -913,36 +899,16 @@ http://186.148.195.206:8000/play/a01y/index.m3u8
 http://186.148.195.206:8000/play/a04r/index.m3u8
 
 
-
-
-#EXTINF:-1 tvg-id="HGTV.mx" tvg-name="HGTV" tvg-logo="https://www.seekpng.com/png/full/240-2403856_hgtv-logo-hgtv-app.png" group-title="CULTURA",CULT | HGTV
-http://00322.xyz:8000/live/saabj84/CNGUPDY6RA/4815.ts
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HGTV OP2" tvg-logo="https://www.seekpng.com/png/full/240-2403856_hgtv-logo-hgtv-app.png" group-title="CULTURA",CULT | HGTV OP2
-http://hdhd.tk:80/tvuser114/23Panthers19/645
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="CULTURA",CULT | DISCOVERY ID
 http://45.166.92.22:58001/play/a01s/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY ID OP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="CULTURA",CULT | DISCOVERY ID OP2
-http://181.78.75.83:5013/play/a05i/index.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TLC_USA_logo.png/150px-TLC_USA_logo.png" group-title="CULTURA",CULT | DISCOVERY TLC
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/65
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY TLC OP 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TLC_USA_logo.png/150px-TLC_USA_logo.png" group-title="CULTURA",CULT | DISCOVERY TLC OP 2
-http://38.43.150.125:8000/play/a022/index.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-
-
-
-
 
 
 #EXTINF: 0 tvg-logo="https://1.bp.blogspot.com/-_a04T085R7k/X-p6kFyAXTI/AAAAAAAA69M/VqLD2L7aKfwcBRjcNzMXg6OIc9mWAHLiwCLcBGAsYHQ/s1080/NGW.png" group-title="CULTURA",CULT | Nat Geo Wild
@@ -960,10 +926,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea
 #EXTVLCOPT:network-caching=3000
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
-#EXTINF:0 group-title="CULTURA",CULT | QELLO CONCIERTOS DE STINGRAY
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=568&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=VeRRLspvSX7Z8bzwMLKr&content_series=5fe27da28c198b002d179199&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=VeRRLspvSX7Z8bzwMLKr&custom_7=5fe27da28c198b002d179199
 
 #EXTINF:0 group-title="CULTURA",CULT | PLUTO VIAJES  
 #EXTVLCOPT:network-caching=3000
@@ -983,24 +945,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="CULTURA",CULT | MEDICI TV
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://sdn-global-streaming-cache-3qsdn.akamaized.net/9378/files/19/05/1188496/M4HLGyCDz6937jYxfcmFVZp2nKvPN8tT-drm-aes.ism/M4HLGyCDz6937jYxfcmFVZp2nKvPN8tT-drm-aes-audio=160000-video=553000.m3u8
-#EXTINF:0 group-title="CULTURA",CULT | TURISTIK TV
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://5fa5de1a545ae.streamlock.net:443/8030/8030/chun%C3%B1llist_w591358697.m3u8
+
+
 #EXTINF:0 group-title="CULTURA",CULT | PRESUMIENDO MÉXICO  
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 group-title="CULTURA",CULT | Mundo viajero
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/60511efd71ec430007f50d97-alt.m3u8
+
+
 #EXTINF:0 group-title="CULTURA",CULT | MUNDO VIAJERO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
