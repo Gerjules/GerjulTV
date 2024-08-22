@@ -23,7 +23,7 @@ https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
 https://alba-py-c9n-c9n.stream.mediatiquestream.com/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="PARAGUAY",PY | PARAVISION
-http://186.148.163.18:8000/play/a05m/index.m3u8
+http://181.78.27.128:8000/play/a05u/index.m3u8
 
 #EXTINF:0 tvg-logo="https://latele.com.py/wp-content/uploads/2022/06/logo-latele.png" group-title="PARAGUAY",PY | LA TELE
 http://170.83.242.9:4000/play/a00j
