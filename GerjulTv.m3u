@@ -866,27 +866,6 @@ http://186.148.195.206:8000/play/a03p/index.m3u8
 #EXTINF:-1 group-title="CULTURA",CULT | Discovery HD
 http://186.148.195.206:8000/play/a059/index.m3u8
 
-#EXTINF:-1 group-title="CULTURA",CULT |  History
-http://170.82.37.21:8000/play/a01f/index.m3u8
-#EXTINF:-1 group-title="CULTURA",CULT | History 2
-http://170.82.37.21:8000/play/a01g/index.m3u8
-
-#EXTINF:-1 group-title="CULTURA",CULT |  Discovery Channel
-http://170.82.37.21:8000/play/a018/index.m3u8
-#EXTINF:-1 group-title="CULTURA",CULT |  Discovery Home & Health
-http://170.82.37.21:8000/play/a019/index.m3u8
-#EXTINF:-1 group-title="CULTURA",CULT |  Discovery ID
-https://sdmx.vip:443/play/4dl9GdaTYiHwUKvz1LvaMyQjfQP-UKdxZABcqF9FMvKa0XELa4VLyGPOTlONvcAx
-
-#EXTINF:-1 group-title="CULTURA",CULT |  Discovery Science
-http://170.82.37.21:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="CULTURA",CULT |  Discovery Theather
-http://170.82.37.21:8000/play/a01c/index.m3u8
-#EXTINF:-1 group-title="CULTURA",CULT |  Discovery Turbo
-http://170.82.37.21:8000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="CULTURA",CULT |  Discovery World
-http://170.82.37.21:8000/play/a01e/index.m3u8
-
 
 #EXTINF:-1 group-title="CULTURA",CULT | History 2 HD º
 http://186.148.195.206:8000/play/a05b/index.m3u8
