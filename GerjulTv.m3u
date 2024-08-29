@@ -862,12 +862,30 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
 
 
+#EXTINF:-1 group-title="CULTURA",CULT | Discovery Science
+http://190.90.18.161:15082/play/a02c/index.m3u8
+#EXTINF:-1 group-title="CULTURA",CULT | Discovery Theater HD
+http://190.90.18.161:15082/play/a069/index.m3u8
+#EXTINF:-1 group-title="CULTURA",CULT | Discovery H&H HD
+http://190.90.18.161:15082/play/a02l/index.m3u8
+#EXTINF:-1 group-title="CULTURA",CULT | Discovery HD
+http://190.90.18.161:15082/play/a05n/index.m3u8
+
+#EXTINF:-1 group-title="CULTURA",CULT | HISTORY2
+http://179.1.201.133:54986/play/HISTORY2
+#EXTINF:-1 group-title="CULTURA",CULT | History 2 HD
+http://179.1.201.133:54986/play/a02z
+#EXTINF:-1 group-title="CULTURA",CULT | History Channel HD
+http://179.1.201.133:54986/play/a06r
+#EXTINF:-1 group-title="CULTURA",CULT | NATGEO
+http://179.1.201.133:54986/play/NATGEO
+#EXTINF:-1 group-title="CULTURA",CULT | Nat Geo HD
+http://179.1.201.133:54986/play/a030
+
 
 
 #EXTINF:-1 group-title="CULTURA",CULT | Discovery H&H HD
 http://186.148.195.206:8000/play/a03p/index.m3u8
-
-
 
 
 #EXTINF:-1 group-title="CULTURA",CULT | Discovery HD
@@ -1075,23 +1093,21 @@ https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a109b860-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=89e7768a-d856-44a6-ba93-5bff4d40757c&userId=&serverSideAds=true
 
 
-
-#EXTINF:-1 group-title="COCINA",COC |  tvg-logo="https://i.imgur.com/8s6aRwv.png" tvg-id="", Tastemade en Español (1080p)
-https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="COCINA",COC | El Gourmet
+http://190.90.18.161:15082/play/a04j/index.m3u8
+#EXTINF:-1 group-title="COCINA",COC | El Gourmet HD
+http://190.90.18.161:15082/play/a050/index.m3u8
 
 #EXTINF:0 group-title="COCINA",COC | Pluto TV Cocina
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
-
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:0 group-title="COCINA",COC | TASTEMADE español 
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8?
-#EXTINF:0 group-title="COCINA",COC | MasterChef
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:0 group-title="COCINA",COC | Tastemade
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
@@ -1104,27 +1120,17 @@ https://linear-317.frequency.stream/dist/vix/317/hls/master/playlist.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://gustotv-samsung-gb.samsung.wurl.tv/playlist.m3u8?
-#EXTINF:0 group-title="COCINA",COC | Hells Kitchen
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/6095ad97351eb0000754c1e6-alt.m3u8
+
 #EXTINF:0 group-title="COCINA",COC | Iron Chef
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/615b9855c6b58b000724477f-alt.m3u8
-#EXTINF:0 group-title="COCINA",COC | MasterChef
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5e3ddbd27091820009f86dd9-alt.m3u8
+
 
 #EXTINF:0 group-title="COCINA",COC | HELL'S KITCHEN EN ESPAÑOL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 https://stitcher.pluto.tv/stitch/hls/channel/60492b2794116800073e32dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8ef6973d-ade6-11eb-930b-0242ac110002
-#EXTINF:0 group-title="COCINA",COC | MASTER CHEF
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d532-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3935b7bb-6c42-4a74-a1c0-19d91d4ea3b7&userId=&serverSideAds=true
 #EXTINF:0 group-title="COCINA",COC | Cocina
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=3000
@@ -1153,13 +1159,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609062295c2b8f0007199e7a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bb42e440-dea7-11eb-be60-3b6a118ac8ac&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ef972a2c-8672-41cf-b2e4-003e44fbe25a&userId=&serverSideAds=true
-#EXTINF:0 group-title="COCINA",COC | Iron Chef
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/615b9855c6b58b000724477f-alt.m3u8
-#EXTINF:0 group-title="COCINA",COC | MasterChef
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://i.mjh.nz/PlutoTV/5e3ddbd27091820009f86dd9-alt.m3u8
 #EXTINF:0 group-title="COCINA",COC | MasterChef Junior
 #EXTVLCOPT:network-caching=3000
