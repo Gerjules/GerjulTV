@@ -1151,20 +1151,13 @@ https://i.mjh.nz/PlutoTV/5e3ddbd27091820009f86dd9-alt.m3u8
 
 #EXTINF:-1 tvg-name="ALL Sports Brasil" tvg-logo="https://i.imgur.com/wULpnYR.png" tvg-id="AllSports.br" group-title="DEPORTES",SPORT | ALL Sports Brasil
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bvRubp2.png" group-title="DEPORTES",SPORT | ESPORTES",⚽️ - Band Sport.ᴴᴰ *
-https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="DEPORTES",SPORT | ESPN 2 HD
-https://cdn-3.nxplay.com.br/ESPN_2/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="DEPORTES",SPORT | ESPN 3 HD
-https://cdn-3.nxplay.com.br/ESPN_3/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="DEPORTES",SPORT | ESPN 4 HD
-https://cdn-3.nxplay.com.br/ESPN_4/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/BandSports_logo.svg" group-title="DEPORTES",SPORT | ESPORTES",⚽️ - BAND (SPORTS 2).ᴴᴰ
 https://cdn2.connectbr.com.br/Band-Sports/index.m3u8
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="DEPORTES",SPORT | ESPORTES",Combate HD
-http://148.113.160.49:14124/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="DEPORTES",SPORT | ESPN",⚽️ -  ESPN BRASIL ...
-https://cdn-3.nxplay.com.br/ESPN/tracks-v2a1/mono.m3u8
+
+
+
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="DEPORTES",SPORT | Premiere Clubes FHD
 https://cr7v.short.gy/manoiptvfree/PremiereClube/Index.m3u8
 
@@ -1190,8 +1183,6 @@ http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/99766
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="DEPORTES",SPORT | ESPN PREMIUM HD
-http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/99755
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="DEPORTES",SPORT | ESPN PREMIUM 2 HD
@@ -1222,29 +1213,7 @@ http://181.78.105.146:2000/play/a064/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",SPORT | ESPN3
 http://181.78.105.146:2000/play/a03n/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",SPORT |  ESPN
-http://131.161.53.2:8000/play/a058/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",SPORT |  ESPN 4
-http://131.161.53.2:8000/play/a02t/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",SPORT |  ESPN 2
-http://131.161.53.2:8000/play/a059/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",SPORT |  ESPN 2 HD
-http://131.161.53.2:8000/play/a072/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",SPORT |  ESPN 3
-http://131.161.53.2:8000/play/a046/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",SPORT |  ESPN 3 HD
-http://131.161.53.2:8000/play/a071/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",SPORT |  ESPN 5
-http://131.161.53.2:8000/play/a06j/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",SPORT |  ESPN 5  HD
-http://131.161.53.2:8000/play/a06v/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",SPORT |  ESPN 3 MX HD
-http://131.161.53.2:8000/play/a070/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",SPORT |  ESPN 6
-http://131.161.53.2:8000/play/a02h/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",SPORT |  TUDN
-https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
 
 #EXTINF:-1 group-title="DEPORTES",SPORT | ESPN VIVO
@@ -1259,8 +1228,7 @@ http://181.78.8.90:16123/play/ch17
 http://200.60.124.19:29000/play/a015/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",SPORT | ESPN 3 HD
 http://200.60.124.19:29000/play/a02e/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",SPORT | ESPN 5
-http://181.78.8.90:16123/play/ch19
+
 #EXTINF:-1 group-title="DEPORTES",SPORT | ESPN 5 
 http://200.60.124.19:29000/play/a04y/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",SPORT |  ESPN 6 
@@ -1268,30 +1236,14 @@ http://200.60.124.19:29000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",SPORT | ESPN 7 
 http://200.60.124.19:29000/play/a01e/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",SPORT |  EN: ITV
-https://ovo.eelov.com/live/n-1/chunks.m3u8
-#EXTINF:-1 group-title="DEPORTES",SPORT |  AR: ESPN
-http://170.82.37.21:8000/play/a04g/index.m3u8
+
+
 #EXTINF:-1 group-title="DEPORTES",SPORT |  AR: ESPN
 http://181.78.8.90:16123/play/ch16
 #EXTINF:-1 group-title="DEPORTES",SPORT |  AR: ESPN
 http://200.60.124.19:29000/play/a016/index.m3u8
 
 
-#EXTINF:-1 group-title="DEPORTES",  FOX SPORTS  1 (México)
-http://home-playtv.com:8080/powertv/W8LULsPWL9by/36396
-#EXTINF:-1 group-title="DEPORTES",  FOX SPORTS 2 (México)
-http://tilinki.com:25461/caqo5939/2g7xS/24
-#EXTINF:-1 group-title="DEPORTES",  FOX SPORTS 3 (México)
-http://home-playtv.com:8080/powertv/W8LULsPWL9by/9538
-#EXTINF:-1 group-title="DEPORTES",  ESPN SPORT 1 (México)
-https://sdmx.vip:443/belpley/sYqKZQrTZa/155472.ts
-#EXTINF:-1 group-title="DEPORTES",  ESPN SPORT 2 (mexico)
-http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/1069852
-#EXTINF:-1 group-title="DEPORTES",  ESPN SPORT 3 (México)
-http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/1069859
-#EXTINF:-1 group-title="DEPORTES",  espn 4 (México)
-http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/1069865
 
 
 
@@ -1305,13 +1257,9 @@ http://xtream.lat:8880/Alex2023/Alex2023/291
 http://tvmate.icu:8080/Alan/Alan1234/82241
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ViX_Logo.png/1200px-ViX_Logo.png" group-title="DEPORTES",SPORT | TUDN
-http://cincotv.org:25461/Fermand693/Toapa475/74741
 
 
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg"  group-title="DEPORTES",SPORT |  TyC SPORTS Internacional
-http://177.222.108.82:2500/play/a0h5/index.m3u8
 
 
 
@@ -1353,8 +1301,7 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 
 
 
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png" group-title="DEPORTES",SPORT | DEPORTV
-https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+
 
 
 
@@ -1398,14 +1345,6 @@ https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 
 
- #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1dBIigdVLzlfRRAIBISkf7k0k4E_3KvU_bw&usqp=CAU" group-title="DEPORTES",SPORT | Deportes UFC 
-http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/8918
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORT +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9iUKf7e6EdC0sGXXNhraCLOo77y0YWMamQ&usqp=CAU" group-title="DEPORTES",SPORT | WIN SPORT+ 
-http://tvbross.com:8090/comandoalmache/almache2022../17255
 
 
 
@@ -1427,23 +1366,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c
 #EXTVLCOPT:network-caching=3000
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 channel-id="pluto-5dcde07af1c85b0009b18651" tvg-id="5dcde07af1c85b0009b18651" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" tvg-chno="827" group-title="DEPORTES",SPORT | Pluto TV Deportes
-https://r.mjh.nz/PlutoTV/5dcde07af1c85b0009b18651-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-6320d80a66666000086712d7" tvg-id="6320d80a66666000086712d7" tvg-logo="https://images.pluto.tv/channels/6320d80a66666000086712d7/colorLogoPNG.png" tvg-chno="835" group-title="DEPORTES",SPORT | Claro Sports
-https://r.mjh.nz/PlutoTV/6320d80a66666000086712d7-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-63f7e3f9dff38e00082a57af" tvg-id="63f7e3f9dff38e00082a57af" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png" tvg-chno="839" group-title="DEPORTES",SPORT | ITV Deportes
-https://r.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-6144d313b34fbf0007107714" tvg-id="6144d313b34fbf0007107714" tvg-logo="https://images.pluto.tv/channels/6144d313b34fbf0007107714/colorLogoPNG.png" tvg-chno="845" group-title="DEPORTES",SPORT | FUEL TV
-https://r.mjh.nz/PlutoTV/6144d313b34fbf0007107714-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5e98b0447665f200078caded" tvg-id="5e98b0447665f200078caded" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" tvg-chno="850" group-title="DEPORTES",SPORT | Pluto TV Peleas
-https://r.mjh.nz/PlutoTV/5e98b0447665f200078caded-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f99a772c54853000797bf18" tvg-id="5f99a772c54853000797bf18" tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" tvg-chno="855" group-title="DEPORTES",SPORT | Lucha Libre AAA
-https://r.mjh.nz/PlutoTV/5f99a772c54853000797bf18-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-64f6163a30ab3300083d870e" tvg-id="64f6163a30ab3300083d870e" tvg-logo="https://images.pluto.tv/channels/64f6163a30ab3300083d870e/colorLogoPNG.png" tvg-chno="862" group-title="DEPORTES",SPORT | PFL MMA
 
@@ -1477,9 +1403,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
-#EXTINF:0 group-title="DEPORTES",SPORT | MLS TV
-#EXTVLCOPT:network-caching=1000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7d8272-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=83907acb-ee3c-4b1f-8026-c92526fccb6e&userId=&serverSideAds=true
 
 #EXTINF:0 group-title="DEPORTES",SPORT | TENNIS CHANNEL
 #EXTVLCOPT:network-caching=1000
@@ -1493,17 +1416,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7dd091-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51a9cf39-a534-4404-ab74-8b3b3d4266d2&userId=&serverSideAds=true
 
-#EXTINF:0 group-title="DEPORTES",SPORT | STADIUM
-#EXTVLCOPT:network-caching=1000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59974b6d7ec5063cb56f24c9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c760861-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=05184fc6-bf46-4f02-8ffe-2445a75fbebd&userId=&serverSideAds=true
 
 #EXTINF:0 group-title="DEPORTES",SPORT | IMPACT WRESTLING
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:0 group-title="DEPORTES",SPORT | PRO WRESTLING
-#EXTVLCOPT:network-caching=1000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=732&deviceId=5fac431fc1ffbc0007e6b6a7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:0 group-title="DEPORTES",SPORT | FIGHT NETWORK
 #EXTVLCOPT:network-caching=1000
@@ -1517,13 +1434,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
 
-#EXTINF:0 group-title="DEPORTES",SPORT | Deportes
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/5f1ac8588734f8000823b7de-alt.m3u8
 
-#EXTINF:0 group-title="DEPORTES",SPORT | Motor
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/6080345ebb49b90007ce0baf-alt.m3u8
 
 #EXTINF:0 group-title="DEPORTES",SPORT | PLUTO TV VELOCIDAD
 #EXTVLCOPT:network-caching=1000
@@ -1541,21 +1452,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b
 #EXTVLCOPT:network-caching=1000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c751e00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ea3d6036-364f-4958-aca9-ec488a93eafb&userId=&serverSideAds=true
 
-#EXTINF:0 group-title="DEPORTES",SPORT | Deportes
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/5dcde07af1c85b0009b18651-alt.m3u8
 
-#EXTINF:0 group-title="DEPORTES",SPORT | Competencias
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/5dd6d935d000120009bc1132-alt.m3u8
 
-#EXTINF:0 group-title="DEPORTES",SPORT | Velocidad
-#EXTVLCOPT:network-caching=2000
-https://i.mjh.nz/PlutoTV/5dd6dc7480e3550009133d4a-alt.m3u8
-
-#EXTINF:0 group-title="DEPORTES",SPORT | Service
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/PlutoTV/6076c74daa05ac0007d0eb07-alt.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="FIGHT NETWORK PLEX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Fight_Network_2011_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20220124094307"group-title="DEPORTES PELEAS",PELEAS | FIGHT NETWORK PLEX
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
