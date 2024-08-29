@@ -310,6 +310,13 @@ http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/138895
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TopCine_295x98.png" group-title="PELICULAS",PELIS | FREE TV ACCION
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-DreamWorks-1.png" group-title="PELICULAS",PELIS | DREAMWORKS
+http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/1953?=-1
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/08/Pixar-symbol-500x155.jpg" group-title="PELICULAS",PELIS | DISNEY PIXAR
+http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/1111?=-1
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/marvelmovies/images/e/ed/Marvel_Studios_2016_Transparent_Logo.png" group-title="PELICULAS",PELIS | MARVEL
+http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/177987?=-1
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/800px-Canal_Golden_logo.svg.png" group-title="PELICULAS",PELIS | GOLDEN HD
@@ -990,13 +997,14 @@ http://170.83.242.9:4000/play/a02s
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="16 Veranos" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/cd/TheWayWeWere.jpg/revision/latest?cb=20190629174129&path-prefix=es" group-title="NOVELAS",NOV | 16 Veranos
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/cd/TheWayWeWere.jpg/revision/latest?cb=20190629174129&path-prefix=es" group-title="NOVELAS",NOV | 16 Veranos
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/276.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
 
-
+#EXTINF:-1 tvg-logo="https://i.kym-cdn.com/photos/images/facebook/001/018/269/b21.png" group-title="SERIES",SER | THE THEORY OF BIG BANG
+http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/211?=-1
 
 #EXTINF:0 group-title="SERIES",SER | Pluto TV Novelas
 #EXTVLCOPT:network-caching=3000
@@ -1999,7 +2007,44 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298
 
 
 
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.8093c4913f46b6a7c9fbfd7442dc2002?rik=XMJVNX3hGLWAFg&riu=http%3a%2f%2ffanart.tv%2ffanart%2ftv%2f78020%2fhdclearart%2falf-5835b6ec28f6e.png&ehk=DpWgKU8dyXY53wBZMaQ9FaZupb3KO4yp8oG6Y0MDy%2f4%3d&risl=&pid=ImgRaw&r=0" group-title="INFANTIL",INF | ALF
+http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/744?=-1
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/animaniacs/images/d/d9/Animaniacs_%285%29.png" group-title="24/7 HRS",ANIMANIACS
+http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/333?=-1
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/lucian-films-thirteenth-deluxe-edition/images/6/64/SpongeBob_SquarePants_logo_wordmark.png" group-title="INFANTIL",INF | BOB SPONGE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+#EXTINF:-1 tvg-logo="https://www.vippng.com/png/full/201-2013595_el-chavo-el-chavo-del-8-letra.png" group-title="INFANTIL",INF | EL CHAVO DEL OCHO
+http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/748?=-1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/480px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="INFANTIL",INF | CHAPULIN COLORADO
+http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/338?=-1
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/0f/50/36/0f5036f3966e6bb4fc610c4a7342869b.png" group-title="INFANTIL",INF | CORRECAMINOS
+http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/352?=-1
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/futurama/futurama_PNG26.png" group-title="INFANTIL",INF | FUTURAMA
+http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/782?=-1
+#EXTINF:-1 tvg-logo="https://i2.wp.com/formby.es/wp-content/uploads/2014/05/pinkpantherlogo.png" group-title="INFANTIL",INF | PANTERA ROSA
+http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/2608?=-1
+#EXTINF:-1 tvg-logo="https://miro.medium.com/max/1380/1*5FDqv_Jqlk___XP0eFZptQ.png" group-title="INFANTIL",INF | DINOSAURIOS
+http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/537?=-1
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZnwLln5.png" group-title="INFANTIL",INF | DRAGON BALL
+http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/1103?=-1
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e3/46/83/e34683b61a49dfd0974b73821de6a339.png" group-title="INFANTIL",INF | DRAGON BALL Z
+http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/1104?=-1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Dragon_Ball_GT_logo.png/1280px-Dragon_Ball_GT_logo.png" group-title="INFANTIL",INF | DRAGON BALL GT
+http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/783?=-1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="INFANTIL",INF | DRAGON BALL SUPER
+http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/1108?=-1
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/4f/4f0ca4a99c82adc701d1c18856708d3a.png" group-title="INFANTIL",INF | ,NARUTO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=eba192f4-cd23-11eb-9091-0242ac110002&sid=eba192f4-cd23-11eb-9091-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R404141aa90894f89d7090785b3e1685d?rik=ml589mK99ne4GQ&pid=ImgRaw" group-title="INFANTIL",INF | CABALLEROS DEL ZODIACO
+http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/775?=-1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1024px-Logo_The_Simpsons.svg.png" group-title="INFANTIL",INF | LOS SIMPSON
+http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/773?=-1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Thundercats_logo_2011.png/250px-Thundercats_logo_2011.png" group-title="INFANTIL",INF | THUNDERCATS
+http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/2621?=-1
+#EXTINF:-1 tvg-logo="https://www.malcolminthemiddle.co.uk/wp-content/uploads/2019/04/Logo.png" group-title="INFANTIL",INF | MALCOLM EL DE EN MEDIO
+http://moontools.me:8080/Omaedemo/pCCRaxRzR2way/1385349
 
 
 
