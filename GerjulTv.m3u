@@ -1225,9 +1225,14 @@ https://i.mjh.nz/PlutoTV/5e3ddbd27091820009f86dd9-alt.m3u8
 
 
 
+#EXTINF:-1 tvg-id="ESPN"  tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="DEPORTES",SPORT | ESPNᴴᴰ 🇧🇷
+http://hzcdn.vood.top:80/hls/309458_.m3u8
 
+#EXTINF:-1 tvg-id="ESPN4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="DEPORTES",SPORT | ESPN 4 🇧🇷
+http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/284581
 
-
+#EXTINF:-1 tvg-id="FOXSPORTS2" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ESPNusa.webp" group-title="DEPORTES",SPORT | ESPN 5 🇧🇷
+http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/118751
 
 #EXTINF:-1 tvg-name="ALL Sports Brasil" tvg-logo="https://i.imgur.com/wULpnYR.png" tvg-id="AllSports.br" group-title="DEPORTES",SPORT | ALL Sports Brasil
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
