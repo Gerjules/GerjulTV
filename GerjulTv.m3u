@@ -1226,7 +1226,69 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609062295c2b8f00071
 https://i.mjh.nz/PlutoTV/5e3ddbd27091820009f86dd9-alt.m3u8
 
 
+#EXTINF:-1 group-title="SPORTS", La LIGA
+https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
+#EXTINF:-1 group-title="SPORTS", Dazn LaLiga HD
+https://wattambor-nolie.ifiesta.net/live/TV-1537977832/167065212064/1376.m3u8
+#EXTINF:-1 group-title="SPORTS", Dazn LaLiga FHD
+https://wattambor-nolie.ifiesta.net/live/TV-1537977832/167065212064/1375.m3u8
+#EXTINF:-1 group-title="SPORTS", Dazn LaLiga 2 HD
+https://wattambor-nolie.ifiesta.net/live/TV-1537977832/167065212064/1379.m3u8
+#EXTINF:-1 group-title="SPORTS", Dazn LaLiga 2 FHD
+https://wattambor-nolie.ifiesta.net/live/TV-1537977832/167065212064/1380.m3u8
+#EXTINF:-1 group-title="SPORTS", LaLiga TV BAR HD
+https://wattambor-nolie.ifiesta.net/live/TV-1537977832/167065212064/1398.m3u8
+#EXTINF:-1 tvg-id="MovistarLaLiga1.es" group-title="SPORTS", M+ LaLiga TV HD
+https://wattambor-nolie.ifiesta.net/live/TV-1537977832/167065212064/12529.m3u8
+#EXTINF:-1 tvg-id="MovistarLaLiga1.es" group-title="SPORTS", M+ LaLiga TV FHD
+https://wattambor-nolie.ifiesta.net/live/TV-1537977832/167065212064/12528.m3u8
+#EXTINF:-1 group-title="SPORTS", M+ LaLiga TV2 HD
+https://wattambor-nolie.ifiesta.net/live/TV-1537977832/167065212064/1385.m3u8
+#EXTINF:-1 group-title="SPORTS", M+ LaLiga TV2 FHD
+https://wattambor-nolie.ifiesta.net:8080/live/TV-1537977832/167065212064/1386.m3u8
 
+#EXTINF:-1 group-title="Prueba", ESPN
+http://188.93.236.142:8080//live/891707728003002/6562c94533b5/52524.m3u8?token=Q0FaWEpZFFsXAFFVVwUDVwpXBVBWBg5SUAAGUVVSCgdcAgEMDlUCUQMVGEZGFUdTUl9qWwIVAlRQBgJQGENHQ10RbVBdEwxDAwcCXQBVFxoRRlxfAxUCUU4RQA1QQwgSCloKCQgTGkNQT0ABRw9UWmxWUEQPVF1DWF1FCFhNEF9WPFZcVFBYBRcNFlUXTRdfQEIXCAhCVA1OEVINQBNTRF1BCBsLBQVZFxsWB1oUW0JBSxcIRHJrQ04RVRxABFxDUQxcGwMTW1JADxZIFwhGaUFXRkYUUlkMB0ESXhZREBwaDlNBZlJZD1tSVxBcDltFEQgXA0QbGgwNXVkQWxNtQFEHEAMbAw9ZBgYWGQ==
+#EXTINF:-1 group-title="Prueba", ESPN 2
+http://188.93.236.142:8080//live/891707728003002/6562c94533b5/52522.m3u8?token=Q0FaWEpZFFsXVVJTUFMCAVYABVFRVgoDAQUDVQRXAlEOBwBYAAMDA1AVGEZGFUdTUl9qWwIVAlRQBgJWGENHQ10RbVBdEwxDAwcCXQBVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxR2YRceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=
+#EXTINF:-1 group-title="Prueba", ESPN 3
+http://188.93.236.142:8080//live/891707728003002/6562c94533b5/52523.m3u8?token=Q0FaWEpZFFsXVQ0CDFcHAwUCBQcHVAtRUgpUVQZSCgEABgNaD1UGU1cVGEZGFUdTUl9qWwIVAlRQBgJXGENHQ10RbVBdEwxDAwcCXQBVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxR2YRceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=
+#EXTINF:-1 group-title="Prueba", ESPN 4
+http://188.93.236.142:8080//live/891707728003002/6562c94533b5/52525.m3u8?token=Q0FaWEpZFFsXAFFVVwUDVwpXBVBWBg5SUAAGUVVSCgdcAgEMDlUCUQMVGEZGFUdTUl9qWwIVAlRQBgJQGENHQ10RbVBdEwxDAwcCXQBVFxoRRlxfAxUCUU4RQA1QQwgSCloKCQgTGkNQT0ABRw9UWmxWUEQPVF1DWF1FCFhNEF9WPFZcVFBYBRcNFlUXTRdfQEIXCAhCVA1OEVINQBNTRF1BCBsLBQVZFxsWB1oUW0JBSxcIRHJrQ04RVRxABFxDUQxcGwMTW1JADxZIFwhGaUFXRkYUUlkMB0ESXhZREBwaDlNBZlJZD1tSVxBcDltFEQgXA0QbGgwNXVkQWxNtQFEHEAMbAw9ZBgYWGQ==
+
+
+#EXTINF:-1 group-title="SmartersPro_Sports", ES: M+ LaLiga 1
+http://ktv.im:8080/live/1234512345/1234512345/299003.m3u8
+#EXTINF:-1 group-title="SmartersPro_Sports", ES: M+ LALIGA 2
+http://ktv.im:8080/live/1234512345/1234512345/299005.m3u8
+#EXTINF:-1 group-title="SmartersPro_Sports", ES: M+ LaLiga 3
+http://ktv.im:8080/live/1234512345/1234512345/299058.m3u8
+#EXTINF:-1 group-title="SmartersPro_Sports", ES: M+ LALIGA 4
+http://ktv.im:8080/live/1234512345/1234512345/299006.m3u8
+#EXTINF:-1 group-title="SmartersPro_Sports", ES: DAZN LaLiga B1
+http://ktv.im:8080/live/1234512345/1234512345/298992.m3u8
+#EXTINF:-1 group-title="SmartersPro_Sports", ES: DAZN LaLiga 2
+http://ktv.im:8080/live/1234512345/1234512345/299057.m3u8
+#EXTINF:-1 group-title="SmartersPro_Sports", ES: M+ Liga de Campeones 5
+http://ktv.im:8080/live/1234512345/1234512345/299059.m3u8
+#EXTINF:-1 group-title="SmartersPro_Sports", ES: M+ Liga de Campeones 6
+http://ktv.im:8080/live/1234512345/1234512345/299060.m3u8
+#EXTINF:-1 group-title="SmartersPro_Sports", ES: M+ Liga de Campeones 7
+http://ktv.im:8080/live/1234512345/1234512345/299061.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/E1.png" group-title="SmartersPro_Sports",Eurosport 1
+http://watchindia.net:8880/live/22453/32498/2633.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/E2.png" group-title="SmartersPro_Sports",Eurosport 2
+http://watchindia.net:8880/live/22453/32498/2634.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/Sky_SPORTS_Main_Event.png" group-title="SmartersPro_Sports",Sky SPORTS Main Event
+http://watchindia.net:8880/live/22453/32498/2091.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/Sky_SPORTS_Premier_League.png" group-title="SmartersPro_Sports",Sky SPORTS Premier League
+http://watchindia.net:8880/live/22453/32498/2092.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/Sky_SPORTS_F1.png" group-title="SmartersPro_Sports",Sky SPORTS F1
+http://watchindia.net:8880/live/22453/32498/2094.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/Sky_SPORTS_Arena.png" group-title="SmartersPro_Sports",Sky SPORTS Arena
+http://watchindia.net:8880/live/22453/32498/2095.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="SmartersPro_Sports",Fox SPORTS 1
+http://watchindia.net:8880/live/22453/32498/2421.m3u8
 
 #EXTINF:-1 tvg-id="ESPN"  tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="DEPORTES",SPORT | ESPNᴴᴰ 🇧🇷
 http://hzcdn.vood.top:80/hls/309458_.m3u8
