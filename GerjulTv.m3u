@@ -384,82 +384,6 @@ https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" group-title="PELICULAS",PELIS | Bayres TV 41.1
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/487-4874910_fx-fx-hd-channel-logo-hd-png-download.png" group-title="PELICULAS",PELIS | FX HD
-http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/138895
-
-
-
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TopCine_295x98.png" group-title="PELICULAS",PELIS | FREE TV ACCION
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-DreamWorks-1.png" group-title="PELICULAS",PELIS | DREAMWORKS
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/1953?=-1
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/08/Pixar-symbol-500x155.jpg" group-title="PELICULAS",PELIS | DISNEY PIXAR
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/1111?=-1
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/marvelmovies/images/e/ed/Marvel_Studios_2016_Transparent_Logo.png" group-title="PELICULAS",PELIS | MARVEL
-http://185.155.103.50:8080/Tony1Cuellar/eHSreBzZkg7a/177987?=-1
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/800px-Canal_Golden_logo.svg.png" group-title="PELICULAS",PELIS | GOLDEN HD
-http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/103948
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/800px-Canal_Golden_logo.svg.png" group-title="PELICULAS",PELIS | GOLDEN EDGE HD
-http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/103947
-
-
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2017_12/large.GoldenPlus.png.f68cc5b83fc0db9d61e6b54ccd3f752f.png" group-title="PELICULAS",PELIS | GOLDEN PLUS HD
-http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/94122
-
-
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/small.goldenpremier2020.png.c7827882837fd7038cc9957d85946f15.png" group-title="PELICULAS",PELIS | GOLDEN PREMIER HD
-
-
-#EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/731381553.png" group-title="PELICULAS",PELIS | UNIVERSAL CINEMA
-http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/237081
-
-
-#EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/398064723.png" group-title="PELICULAS",PELIS | UNIVERSAL PREMIERE
-http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/237080
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm_PnjBHZpbGZR9EF2rPyXoWjDNl9ftRdkWg&usqp=CAU" group-title="PELICULAS",PELIS | UNIVERSAL TV
-http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/103943
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png" group-title="PELICULAS",PELIS | HBO HD
-http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/172580
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HBO_2_HD_Logo_Poland.png/640px-HBO_2_HD_Logo_Poland.png" group-title="PELICULAS",PELIS | HBO 2 
-http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/87425
-
-
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_04/large.1268442606_HBOPLUSLOGO.png.40b40670b6c11d11b485f895039f7ec6.png" group-title="PELICULAS",PELIS | HBO+ HD
-http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/281094
-
-
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_02/small.1986800355_HBOPOP(varianteblanca).png.a7a608512df4e3de4d6e7d3cbdc7a4a1.png" group-title="PELICULAS",PELIS | HBO POP HD
-http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/237115
-
-
-
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_02/small.1986800355_HBOPOP(varianteblanca).png.a7a608512df4e3de4d6e7d3cbdc7a4a1.png" group-title="PELICULAS",PELIS | HBO signature
-http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/237114
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="PELICULAS",PELIS | AMC HD
-http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/94113
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="PELICULAS",PELIS | ⁸ADRENALINA FREEZONE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b793ccf571b80007b7a610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -486,19 +410,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="PELICULAS",PELIS | CINECANAL HD
-http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/94116
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png"  group-title="PELICULAS",PELIS |  CINE ESTELAR
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Paramount-Pictures-logo.png" group-title="PELICULAS",PELIS | PARAMOUNT HD
-http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/94125
 
 
 
@@ -507,34 +423,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f
 
 
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.ff2b9249f248fdc5784883a876e96d74.png" group-title="PELICULAS",PELIS | STAR CHANNEL
-http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/282694
-
-
-
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TuCine_295x98.png" group-title="PELICULAS",PELIS |  FREE TV ESTELAR
-https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 
 
 
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png" group-title="PELICULAS",PELIS | AXN HD
-http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/94115
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="PELICULAS",PELIS | TNT SERIES
-http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/94131
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="PELICULAS",PELIS | TCM
-http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/94128
 
 
 
@@ -551,10 +444,6 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_beto_7hd.flv
 https://stream-cdn-iad.vaughnsoft.net/play/live_peliculas_mania.flv
 
 
-
-
-#EXTINF:-1 tvg-logo="https://www.origentv.cl/wp-content/uploads/2023/12/LOGO-BLANCO-TV-chico.png" group-title="PELICULAS",PELIS | ORIGEN TV HD
-https://tv.streaming-chile.com:8081/origentvhd/tracks-v1a1/mono.m3u8
 
 
 
