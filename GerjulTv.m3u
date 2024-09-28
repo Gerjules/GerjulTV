@@ -532,10 +532,6 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:0 group-title="PELICULAS",PELIS | Rakuten  TV Acción 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 group-title="PELICULAS",PELIS |  Rakuten  TV Comedias 
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
@@ -547,10 +543,7 @@ https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 group-title="PELICULAS",PELIS | Rakuten  TV Spotlight 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://rakuten-spotlight-2-es.samsung.wurl.tv/1200.m3u8
+
 #EXTINF:0 group-title="PELICULAS",PELIS | Sony Cine
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
@@ -624,11 +617,6 @@ https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-#EXTINF:0 group-title="PELICULAS",PELIS | TU CINE
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
-
 #EXTINF:0 group-title="PELICULAS",PELIS | CINE JAJA!!
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
@@ -661,10 +649,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5136317aedfb00070
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
-#EXTINF:0 group-title="PELICULAS",PELIS | RAKUTEN TV ACCIÓN
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/playlist.m3u8?ads.wurl_channel%3D427%26ads.wurl_name%3DRakutenActionMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+
 #EXTINF:0 group-title="PELICULAS",PELIS | RAKUTEN TV FAMILIA
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
