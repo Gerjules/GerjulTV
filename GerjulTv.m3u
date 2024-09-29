@@ -817,7 +817,158 @@ https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
 
-
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="C| Animal Planet" tvg-logo="https://i.imgur.com/YePSeYT.png" group-title="Cultura",C| Animal Planet
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097878
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="C| Animal Planet  HD" tvg-logo="https://i.imgur.com/YePSeYT.png" group-title="Cultura",C| Animal Planet  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097949
+#EXTINF:-1 tvg-id="" tvg-name="C| Animal Planet FHD" tvg-logo="https://i.imgur.com/YePSeYT.png" group-title="Cultura",C| Animal Planet FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098187
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="C| Canal Cocina" tvg-logo="https://i.ibb.co/tJ64hNn/18455820170716-281214-canal-cocina.jpg" group-title="Cultura",C| Canal Cocina
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097887
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="C| Caza & pesca  HD" tvg-logo="http://i.imgur.com/E0ptE0f.png" group-title="Cultura",C| Caza & pesca  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097951
+#EXTINF:-1 tvg-id="" tvg-name="C| Caza & pesca FHD" tvg-logo="https://i.imgur.com/E0ptE0f.png" group-title="Infantil / Kids",C| Caza & pesca FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098231
+#EXTINF:-1 tvg-id="" tvg-name="C| Caza & pesca FHD" tvg-logo="https://i.imgur.com/E0ptE0f.png" group-title="Cultura",C| Caza & pesca FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098233
+#EXTINF:-1 tvg-id="cgtn.us" tvg-name="C| CGTN Espanol" tvg-logo="https://i.imgur.com/qSFaKsW.png" group-title="Cultura",C| CGTN Espanol
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097891
+#EXTINF:-1 tvg-id="8335" tvg-name="C| Curiosity" tvg-logo="https://i.imgur.com/OLUxqUA.png" group-title="Cultura",C| Curiosity
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1066840
+#EXTINF:-1 tvg-id="DECASA" tvg-name="C| Decasa" tvg-logo="https://i.imgur.com/KIiMgYA.png" group-title="Cultura",C| Decasa
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097895
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="C| Discovery Channel" tvg-logo="https://i.imgur.com/8cARvFQ.png" group-title="Cultura",C| Discovery Channel
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097901
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="C| Discovery Channel  HD" tvg-logo="https://i.imgur.com/8cARvFQ.png" group-title="Cultura",C| Discovery Channel  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097953
+#EXTINF:-1 tvg-id="" tvg-name="C| Discovery Channel FHD" tvg-logo="https://i.imgur.com/8cARvFQ.png" group-title="Cultura",C| Discovery Channel FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098189
+#EXTINF:-1 tvg-id="" tvg-name="C| Discovery en Español  HD" tvg-logo="https://i.imgur.com/6Yoam6v.png" group-title="Cultura",C| Discovery en Español  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098119
+#EXTINF:-1 tvg-id="" tvg-name="C| Discovery Familia" tvg-logo="https://i.imgur.com/4S7pjQj.png" group-title="Infantil / Kids",C| Discovery Familia
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098234
+#EXTINF:-1 tvg-id="" tvg-name="C| Discovery Familia  HD" tvg-logo="https://i.imgur.com/4S7pjQj.png" group-title="Infantil / Kids",C| Discovery Familia  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098236
+#EXTINF:-1 tvg-id="" tvg-name="C| Discovery Familia  HD" tvg-logo="https://i.imgur.com/4S7pjQj.png" group-title="Cultura",C| Discovery Familia  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098237
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="C| Discovery Home & Health" tvg-logo="https://i.imgur.com/KUm4HFL.png" group-title="Cultura",C| Discovery Home & Health
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097906
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="C| Discovery Home & Health  HD" tvg-logo="https://i.imgur.com/KUm4HFL.png" group-title="Cultura",C| Discovery Home & Health  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097955
+#EXTINF:-1 tvg-id="" tvg-name="C| Discovery Home & Health FHD" tvg-logo="https://i.imgur.com/KUm4HFL.png" group-title="Cultura",C| Discovery Home & Health FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098191
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C| Discovery Investigation" tvg-logo="https://i.imgur.com/iwuxiq1.png" group-title="Cultura",C| Discovery Investigation
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097910
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C| Discovery Investigation  HD" tvg-logo="https://i.imgur.com/iwuxiq1.png" group-title="Cultura",C| Discovery Investigation  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097957
+#EXTINF:-1 tvg-id="" tvg-name="C| Discovery Investigation FHD" tvg-logo="https://i.imgur.com/iwuxiq1.png" group-title="Cultura",C| Discovery Investigation FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098244
+#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="C| Discovery Science" tvg-logo="https://i.imgur.com/wN9lw4U.png" group-title="Cultura",C| Discovery Science
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097912
+#EXTINF:-1 tvg-id="" tvg-name="C| Discovery Science FHD" tvg-logo="https://i.imgur.com/wN9lw4U.png" group-title="Cultura",C| Discovery Science FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098193
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="C| Discovery Theater" tvg-logo="https://i.imgur.com/jS8UyL1.png" group-title="Cultura",C| Discovery Theater
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097915
+#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="C| Discovery Theater  HD" tvg-logo="https://i.imgur.com/jS8UyL1.png" group-title="Cultura",C| Discovery Theater  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097959
+#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="C| Discovery Turbo" tvg-logo="https://i.imgur.com/VrfVdNW.png" group-title="Cultura",C| Discovery Turbo
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097918
+#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="C| Discovery Turbo  HD" tvg-logo="https://i.imgur.com/VrfVdNW.png" group-title="Cultura",C| Discovery Turbo  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097960
+#EXTINF:-1 tvg-id="" tvg-name="C| Discovery Turbo FHD" tvg-logo="https://i.imgur.com/VrfVdNW.png" group-title="Cultura",C| Discovery Turbo FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098196
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="C| Discovery World" tvg-logo="https://i.imgur.com/J6dMwLB.png" group-title="Cultura",C| Discovery World
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097920
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="C| Discovery World  HD" tvg-logo="https://i.imgur.com/J6dMwLB.png" group-title="Cultura",C| Discovery World  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097965
+#EXTINF:-1 tvg-id="" tvg-name="C| DOG TV" tvg-logo="https://i.imgur.com/Aamnd6J.png" group-title="Cultura",C| DOG TV
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098149
+#EXTINF:-1 tvg-id="dogtv.us" tvg-name="C| DOG TV FHD" tvg-logo="https://i.imgur.com/Aamnd6J.png" group-title="Cultura",C| DOG TV FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097966
+#EXTINF:-1 tvg-id="" tvg-name="C| El Gourmet" tvg-logo="https://i.imgur.com/N6Qeo5Z.png" group-title="Cultura",C| El Gourmet
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098211
+#EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="C| El Gourmet  HD" tvg-logo="https://i.imgur.com/N6Qeo5Z.png" group-title="Cultura",C| El Gourmet  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097967
+#EXTINF:-1 tvg-id="" tvg-name="C| El Gourmet FHD" tvg-logo="https://i.imgur.com/N6Qeo5Z.png" group-title="Cultura",C| El Gourmet FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098199
+#EXTINF:-1 tvg-id="" tvg-name="C| Fashion y Lifestyle  HD" tvg-logo="https://s3images.coroflot.com/user_files/individual_files/large_539080_oewgujn6ehizxg4gfimlzywza.jpg" group-title="Cultura",C| Fashion y Lifestyle  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097969
+#EXTINF:-1 tvg-id="" tvg-name="C| Film & Arts" tvg-logo="https://i.imgur.com/mXDfidu.png" group-title="Cultura",C| Film & Arts
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098073
+#EXTINF:-1 tvg-id="filmandarts.mx" tvg-name="C| Film & Arts  HD" tvg-logo="https://i.imgur.com/mXDfidu.png" group-title="Cultura",C| Film & Arts  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097971
+#EXTINF:-1 tvg-id="7882" tvg-name="C| Fish TV  HD" tvg-logo="https://i.ibb.co/Xj7KF88/br-fishtv-m.png" group-title="Cultura",C| Fish TV  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097972
+#EXTINF:-1 tvg-id="" tvg-name="C| Food Network" tvg-logo="https://i.imgur.com/xXByiNv.png" group-title="Cultura",C| Food Network
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098214
+#EXTINF:-1 tvg-id="Food.Network.HD.(Latin.America).(FOODHD).[938].cr" tvg-name="C| Food Network  HD" tvg-logo="https://i.imgur.com/xXByiNv.png" group-title="Cultura",C| Food Network  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097974
+#EXTINF:-1 tvg-id="" tvg-name="C| Food Network FHD" tvg-logo="https://i.imgur.com/xXByiNv.png" group-title="Cultura",C| Food Network FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098216
+#EXTINF:-1 tvg-id="" tvg-name="C| Garage TV" tvg-logo="https://i.imgur.com/M0ZqURk.png" group-title="Cultura",C| Garage TV
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098240
+#EXTINF:-1 tvg-id="" tvg-name="C| Garage TV FHD" tvg-logo="https://i.imgur.com/M0ZqURk.png" group-title="Cultura",C| Garage TV FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098242
+#EXTINF:-1 tvg-id="" tvg-name="C| HGTV" tvg-logo="https://i.imgur.com/1deSTY7.png" group-title="Cultura",C| HGTV
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098150
+#EXTINF:-1 tvg-id="" tvg-name="C| HGTV" tvg-logo="https://i.imgur.com/1deSTY7.png" group-title="Cultura",C| HGTV
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098153
+#EXTINF:-1 tvg-id="" tvg-name="C| HGTV  HD" tvg-logo="https://i.imgur.com/1deSTY7.png" group-title="Cultura",C| HGTV  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097981
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="C| HGTV  HD" tvg-logo="https://i.imgur.com/1deSTY7.png" group-title="Cultura",C| HGTV  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097977
+#EXTINF:-1 tvg-id="" tvg-name="C| Hispan TV  HD" tvg-logo="https://i.ibb.co/QnLmJw7/hn-hispan-tv-m.png" group-title="Cultura",C| Hispan TV  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097985
+#EXTINF:-1 tvg-id="history.co" tvg-name="C| History" tvg-logo="https://i.imgur.com/lhuH7zF.png" group-title="Cultura",C| History
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097922
+#EXTINF:-1 tvg-id="" tvg-name="C| History   HD" tvg-logo="https://i.imgur.com/lhuH7zF.png" group-title="Cultura",C| History   HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097983
+#EXTINF:-1 tvg-id="" tvg-name="C| History  FHD" tvg-logo="https://i.imgur.com/lhuH7zF.png" group-title="Cultura",C| History  FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098220
+#EXTINF:-1 tvg-id="history2.mx" tvg-name="C| History 2" tvg-logo="https://i.ibb.co/C0bKCHD/images-2.jpg" group-title="Cultura",C| History 2
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097925
+#EXTINF:-1 tvg-id="" tvg-name="C| History 2  HD" tvg-logo="https://i.ibb.co/C0bKCHD/images-2.jpg" group-title="Cultura",C| History 2  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097987
+#EXTINF:-1 tvg-id="" tvg-name="C| History 2 FHD" tvg-logo="https://i.ibb.co/C0bKCHD/images-2.jpg" group-title="Cultura",C| History 2 FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098222
+#EXTINF:-1 tvg-id="" tvg-name="C| Love Nature" tvg-logo="http://i.imgur.com/RcIcZGA.png" group-title="Cultura",C| Love Nature
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098157
+#EXTINF:-1 tvg-id="" tvg-name="C| Love Nature  HD" tvg-logo="http://i.imgur.com/RcIcZGA.png" group-title="Cultura",C| Love Nature  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097992
+#EXTINF:-1 tvg-id="" tvg-name="C| Love Nature FHD" tvg-logo="http://i.imgur.com/RcIcZGA.png" group-title="Cultura",C| Love Nature FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098154
+#EXTINF:-1 tvg-id="nasachannel.us" tvg-name="C| NASA TV" tvg-logo="https://i.imgur.com/Z7AjA93.png" group-title="Cultura",C| NASA TV
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097927
+#EXTINF:-1 tvg-id="8500" tvg-name="C| Nat Geo Mundo" tvg-logo="https://i.imgur.com/H4cLXLx.png" group-title="Cultura",C| Nat Geo Mundo
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1066640
+#EXTINF:-1 tvg-id="" tvg-name="C| Nat Geo Wild" tvg-logo="https://images.mi.tv/channels/co_nat-geo-wild-hd_m.png" group-title="Cultura",C| Nat Geo Wild
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097997
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="C| Natgeo Wild" tvg-logo="https://images.mi.tv/channels/co_nat-geo-wild-hd_m.png" group-title="Cultura",C| Natgeo Wild
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097931
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="C| National Geographic" tvg-logo="https://i.imgur.com/aPb4NEj.png" group-title="Cultura",C| National Geographic
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097934
+#EXTINF:-1 tvg-id="" tvg-name="C| National Geographic  HD" tvg-logo="https://i.imgur.com/aPb4NEj.png" group-title="Cultura",C| National Geographic  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097995
+#EXTINF:-1 tvg-id="" tvg-name="C| National Geographic FHD" tvg-logo="https://i.imgur.com/aPb4NEj.png" group-title="Cultura",C| National Geographic FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098225
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="C| Odisea" tvg-logo="https://i.ibb.co/Hg7w6Hr/descarga.png" group-title="Cultura",C| Odisea
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097938
+#EXTINF:-1 tvg-id="" tvg-name="C| Smithsonian  HD" tvg-logo="https://i.imgur.com/LM6m8zV.png" group-title="Cultura",C| Smithsonian  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097990
+#EXTINF:-1 tvg-id="Discovery.Kids.(Chile).(DKIDS).cl" tvg-name="C| SUN Channel" tvg-logo="https://i.ibb.co/wN1sjPH/unnamed.jpg" group-title="Cultura",C| SUN Channel
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097940
+#EXTINF:-1 tvg-id="" tvg-name="C| Tastemade  HD" tvg-logo="https://i.imgur.com/XDMqqSs.png" group-title="Cultura",C| Tastemade  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097999
+#EXTINF:-1 tvg-id="tlc.co" tvg-name="C| TLC" tvg-logo="https://i.imgur.com/eh4DFFH.png" group-title="Cultura",C| TLC
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097943
+#EXTINF:-1 tvg-id="" tvg-name="C| TLC  HD" tvg-logo="https://i.imgur.com/eh4DFFH.png" group-title="Cultura",C| TLC  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098001
+#EXTINF:-1 tvg-id="" tvg-name="C| TLC FHD" tvg-logo="https://i.imgur.com/eh4DFFH.png" group-title="Cultura",C| TLC FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098228
+#EXTINF:-1 tvg-id="worldofbusinessideas.mx" tvg-name="C| WOBI" tvg-logo="https://i.ibb.co/T0jFRC4/6265170-640x640.png" group-title="Cultura",C| WOBI
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097945
+#EXTINF:-1 tvg-id="worldofbusinessideas.mx" tvg-name="C| WOBI FHD" tvg-logo="https://i.ibb.co/T0jFRC4/6265170-640x640.png" group-title="Cultura",C| WOBI FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097883
 
 #EXTINF:-1 group-title="CULTURA",CULT | Discovery Science
 http://190.90.18.161:15082/play/a02c/index.m3u8
