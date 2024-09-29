@@ -379,6 +379,143 @@ https://bmcc.nhkworld.jp/live2/index_1M.m3u8
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
 
+#EXTINF:-1 tvg-id="amc.mx" tvg-name="P| AMC" tvg-logo="https://imgur.com/ZnprfK5.png" group-title="PELICULAS",PELIS | AMC
+http://gzytv.vip:8880/654329/rjgAbmEB7c/830
+#EXTINF:-1 tvg-id="amchd.mx" tvg-name="P| AMC  HD" tvg-logo="https://i.imgur.com/ZnprfK5.png" group-title="PELICULAS",PELIS | AMC  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/785
+#EXTINF:-1 tvg-id="amchd.mx" tvg-name="P| AMC FHD" tvg-logo="https://i.imgur.com/ZnprfK5.png" group-title="PELICULAS",PELIS | AMC FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/2501
+#EXTINF:-1 tvg-id="cinelatino.mx" tvg-name="P| Cine Latino" tvg-logo="https://i.imgur.com/PecjymF.png" group-title="PELICULAS",PELIS | Cine Latino
+http://gzytv.vip:8880/654329/rjgAbmEB7c/835
+#EXTINF:-1 tvg-id="cinelatino.mx" tvg-name="P| Cine Latino  HD" tvg-logo="https://i.imgur.com/PecjymF.png" group-title="PELICULAS",PELIS | Cine Latino  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1587
+#EXTINF:-1 tvg-id="cinenostalgica.us" tvg-name="P| Cine Nostalgia" tvg-logo="http://i.imgur.com/oPjPfK5.png" group-title="PELICULAS",PELIS | Cine Nostalgia
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1087171
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="P| Cinecanal" tvg-logo="https://i.imgur.com/IFoWfq4.png" group-title="PELICULAS",PELIS | Cinecanal
+http://gzytv.vip:8880/654329/rjgAbmEB7c/832
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="P| Cinecanal  HD" tvg-logo="https://i.imgur.com/IFoWfq4.png" group-title="PELICULAS",PELIS | Cinecanal  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/204
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="P| Cinecanal FHD" tvg-logo="https://i.imgur.com/IFoWfq4.png" group-title="PELICULAS",PELIS | Cinecanal FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/2503
+#EXTINF:-1 tvg-id="CDINA" tvg-name="P| Cinema Dinamita" tvg-logo="https://i.ibb.co/kmsz92V/CKoz2sl-VAAAa-SEB.png" group-title="PELICULAS",PELIS | Cinema Dinamita
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1588
+#EXTINF:-1 tvg-id="canalcinemadinamita.mx" tvg-name="P| Cinema Dinamita  HD" tvg-logo="https://i.ibb.co/kmsz92V/CKoz2sl-VAAAa-SEB.png" group-title="PELICULAS",PELIS | Cinema Dinamita  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/834
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="P| Cinemax" tvg-logo="https://i.imgur.com/ybIWfWS.png" group-title="PELICULAS",PELIS | Cinemax
+http://gzytv.vip:8880/654329/rjgAbmEB7c/833
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="P| Cinemax  HD" tvg-logo="https://i.imgur.com/ybIWfWS.png" group-title="PELICULAS",PELIS | Cinemax  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/788
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="P| Cinemax FHD" tvg-logo="https://i.imgur.com/ybIWfWS.png" group-title="PELICULAS",PELIS | Cinemax FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/2504
+#EXTINF:-1 tvg-id="clarcinema.co" tvg-name="P| Claro Cinema" tvg-logo="https://i.imgur.com/JHE4bgO.png" group-title="PELICULAS",PELIS | Claro Cinema
+http://gzytv.vip:8880/654329/rjgAbmEB7c/837
+#EXTINF:-1 tvg-id="clarcinema.co" tvg-name="P| Claro Cinema  HD" tvg-logo="https://i.imgur.com/JHE4bgO.png" group-title="PELICULAS",PELIS | Claro Cinema  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1100
+#EXTINF:-1 tvg-id="depelicula.mx" tvg-name="P| De Pelicula" tvg-logo="https://i.ibb.co/NnLqsq0/imgpsh-fullsize-anim.jpg" group-title="PELICULAS",PELIS | De Pelicula
+http://gzytv.vip:8880/654329/rjgAbmEB7c/838
+#EXTINF:-1 tvg-id="depeliculahd.mx" tvg-name="P| De Pelicula  HD" tvg-logo="https://i.ibb.co/NnLqsq0/imgpsh-fullsize-anim.jpg" group-title="PELICULAS",PELIS | De Pelicula  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/499
+#EXTINF:-1 tvg-id="9029" tvg-name="P| De Pelicula Clasico" tvg-logo="https://i.imgur.com/oH9y252.png" group-title="PELICULAS",PELIS | De Pelicula Clasico
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1009
+#EXTINF:-1 tvg-id="depeliculahd.mx" tvg-name="P| De Pelicula FHD" tvg-logo="https://i.ibb.co/NnLqsq0/imgpsh-fullsize-anim.jpg" group-title="PELICULAS",PELIS | De Pelicula FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1586
+#EXTINF:-1 tvg-id="depeliculahd.mx" tvg-name="P| De Pelicula+" tvg-logo="https://i.imgur.com/ipKteSv.png" group-title="PELICULAS",PELIS | De Pelicula+
+http://gzytv.vip:8880/654329/rjgAbmEB7c/839
+#EXTINF:-1 tvg-id="depeliculahd.mx" tvg-name="P| De Pelicula+ HD" tvg-logo="https://i.imgur.com/ipKteSv.png" group-title="PELICULAS",PELIS | De Pelicula+ HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/2505
+#EXTINF:-1 tvg-id="DHE.uy" tvg-name="P| DHE" tvg-logo="https://i.imgur.com/Zthj3np.png" group-title="PELICULAS",PELIS | DHE
+http://gzytv.vip:8880/654329/rjgAbmEB7c/840
+#EXTINF:-1 tvg-id="DHE.uy" tvg-name="P| DHE  HD" tvg-logo="https://i.imgur.com/Zthj3np.png" group-title="PELICULAS",PELIS | DHE  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1530
+#EXTINF:-1 tvg-id="DHE.uy" tvg-name="P| DHE FHD" tvg-logo="https://i.imgur.com/Zthj3np.png" group-title="PELICULAS",PELIS | DHE FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/2506
+#EXTINF:-1 tvg-id="europaeuropa.mx" tvg-name="P| Europa Europa" tvg-logo="https://i.imgur.com/Ch5SvNR.png" group-title="PELICULAS",PELIS | Europa Europa
+http://gzytv.vip:8880/654329/rjgAbmEB7c/842
+#EXTINF:-1 tvg-id="europaeuropa.mx" tvg-name="P| Europa Europa  HD" tvg-logo="https://i.imgur.com/Ch5SvNR.png" group-title="PELICULAS",PELIS | Europa Europa  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/789
+#EXTINF:-1 tvg-id="" tvg-name="P| Filmex" tvg-logo="http://i.imgur.com/9m2RZja.png" group-title="PELICULAS",PELIS | Filmex
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1079061
+#EXTINF:-1 tvg-id="" tvg-name="P| Filmex Clasico" tvg-logo="http://i.imgur.com/9m2RZja.png" group-title="PELICULAS",PELIS | Filmex Clasico
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1079060
+#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="P| Golden Edge" tvg-logo="https://i.imgur.com/j3Wy9eP.png" group-title="PELICULAS",PELIS | Golden Edge
+http://gzytv.vip:8880/654329/rjgAbmEB7c/855
+#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="P| Golden Edge  HD" tvg-logo="https://i.imgur.com/j3Wy9eP.png" group-title="PELICULAS",PELIS | Golden Edge  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1585
+#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="P| Golden Edge FHD" tvg-logo="https://i.imgur.com/j3Wy9eP.png" group-title="PELICULAS",PELIS | Golden Edge FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/802
+#EXTINF:-1 tvg-id="GOLDEN.PLUS.uy" tvg-name="P| Golden Plus" tvg-logo="https://i.imgur.com/NpPL3GU.png" group-title="PELICULAS",PELIS | Golden Plus
+http://gzytv.vip:8880/654329/rjgAbmEB7c/856
+#EXTINF:-1 tvg-id="GOLDEN.PLUS.uy" tvg-name="P| Golden Plus  HD" tvg-logo="https://i.imgur.com/NpPL3GU.png" group-title="PELICULAS",PELIS | Golden Plus  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/803
+#EXTINF:-1 tvg-id="GOLDEN.PLUS.uy" tvg-name="P| Golden Plus FHD" tvg-logo="https://i.imgur.com/NpPL3GU.png" group-title="PELICULAS",PELIS | Golden Plus FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/2507
+#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="P| Golden Premier" tvg-logo="https://i.imgur.com/z1hE77U.png" group-title="PELICULAS",PELIS | Golden Premier
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1529
+#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="P| Golden Premier   HD" tvg-logo="https://i.imgur.com/z1hE77U.png" group-title="PELICULAS",PELIS | Golden Premier   HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/2508
+#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="P| Golden Premier  FHD" tvg-logo="https://i.imgur.com/z1hE77U.png" group-title="PELICULAS",PELIS | Golden Premier  FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/804
+#EXTINF:-1 tvg-id="goldenpremier2.mx" tvg-name="P| Golden Premier 2" tvg-logo="https://i.imgur.com/bDk8NUa.png" group-title="PELICULAS",PELIS | Golden Premier 2
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1600
+#EXTINF:-1 tvg-id="goldenpremier2.mx" tvg-name="P| Golden Premier 2 FHD" tvg-logo="https://i.imgur.com/bDk8NUa.png" group-title="PELICULAS",PELIS | Golden Premier 2 FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/2542
+#EXTINF:-1 tvg-id="golden.mx" tvg-name="P| Golden." tvg-logo="https://i.imgur.com/6vrGVB5.png" group-title="PELICULAS",PELIS | Golden.
+http://gzytv.vip:8880/654329/rjgAbmEB7c/854
+#EXTINF:-1 tvg-id="GOLDEN" tvg-name="P| Golden.   HD" tvg-logo="https://i.imgur.com/6vrGVB5.png" group-title="PELICULAS",PELIS | Golden.   HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/2543
+#EXTINF:-1 tvg-id="golden.mx" tvg-name="P| Golden. FHD" tvg-logo="https://i.imgur.com/6vrGVB5.png" group-title="PELICULAS",PELIS | Golden. FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/801
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="P| HBO" tvg-logo="https://i.imgur.com/RJdfXRB.png" group-title="PELICULAS",PELIS | HBO
+http://gzytv.vip:8880/654329/rjgAbmEB7c/858
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="P| HBO   HD" tvg-logo="https://i.imgur.com/fJxaYgH.png" group-title="PELICULAS",PELIS | HBO   HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/805
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="P| HBO 2" tvg-logo="https://i.imgur.com/AyAPCgm.png" group-title="PELICULAS",PELIS | HBO 2
+http://gzytv.vip:8880/654329/rjgAbmEB7c/859
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="P| HBO 2  HD" tvg-logo="https://i.imgur.com/AyAPCgm.png" group-title="PELICULAS",PELIS | HBO 2  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/806
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="P| HBO 2 FHD" tvg-logo="https://i.imgur.com/AyAPCgm.png" group-title="PELICULAS",PELIS | HBO 2 FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1584
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="P| HBO Family" tvg-logo="https://i.imgur.com/BdswAey.png" group-title="PELICULAS",PELIS | HBO Family
+http://gzytv.vip:8880/654329/rjgAbmEB7c/861
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="P| HBO Family  HD" tvg-logo="https://i.imgur.com/BdswAey.png" group-title="PELICULAS",PELIS | HBO Family  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/2509
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="P| HBO Family FHD" tvg-logo="https://i.imgur.com/BdswAey.png" group-title="PELICULAS",PELIS | HBO Family FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/808
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="P| HBO FHD" tvg-logo="https://i.imgur.com/fJxaYgH.png" group-title="PELICULAS",PELIS | HBO FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/2510
+#EXTINF:-1 tvg-id="HBO.Latin.America.(East).(HBO).do" tvg-name="P| HBO Latino  HD" tvg-logo="https://i.imgur.com/fJxaYgH.png" group-title="PELICULAS",PELIS | HBO Latino  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1069241
+#EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="P| HBO Mundi" tvg-logo="https://i.imgur.com/9OF2EVr.png" group-title="PELICULAS",PELIS | HBO Mundi
+http://gzytv.vip:8880/654329/rjgAbmEB7c/862
+#EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="P| HBO Mundi  HD" tvg-logo="https://i.imgur.com/9OF2EVr.png" group-title="PELICULAS",PELIS | HBO Mundi  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/809
+#EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="P| HBO Mundi FHD" tvg-logo="https://i.imgur.com/9OF2EVr.png" group-title="PELICULAS",PELIS | HBO Mundi FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1583
+#EXTINF:-1 tvg-id="Hbo.Plus.cl" tvg-name="P| HBO Plus" tvg-logo="https://i.imgur.com/ux0YZse.png" group-title="PELICULAS",PELIS | HBO Plus
+http://gzytv.vip:8880/654329/rjgAbmEB7c/2524
+#EXTINF:-1 tvg-id="Hbo.Plus.cl" tvg-name="P| HBO Plus  HD" tvg-logo="https://i.imgur.com/ux0YZse.png" group-title="PELICULAS",PELIS | HBO Plus  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/2525
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="P| HBO Plus FHD" tvg-logo="https://i.imgur.com/ux0YZse.png" group-title="PELICULAS",PELIS | HBO Plus FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/2511
+#EXTINF:-1 tvg-id="hbopo.mx" tvg-name="P| HBO POP" tvg-logo="https://i.imgur.com/MwzFsi5.png" group-title="PELICULAS",PELIS | HBO POP
+http://gzytv.vip:8880/654329/rjgAbmEB7c/863
+#EXTINF:-1 tvg-id="hbopo.mx" tvg-name="P| HBO POP  HD" tvg-logo="https://i.imgur.com/MwzFsi5.png" group-title="PELICULAS",PELIS | HBO POP  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/810
+#EXTINF:-1 tvg-id="hbopo.mx" tvg-name="P| HBO POP FHD" tvg-logo="https://i.imgur.com/MwzFsi5.png" group-title="PELICULAS",PELIS | HBO POP FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/2512
+#EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="P| HBO Signature" tvg-logo="https://i.imgur.com/ujKRap7.png" group-title="PELICULAS",PELIS | HBO Signature
+http://gzytv.vip:8880/654329/rjgAbmEB7c/864
+#EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="P| HBO Signature  HD" tvg-logo="https://i.imgur.com/ujKRap7.png" group-title="PELICULAS",PELIS | HBO Signature  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/811
+#EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="P| HBO Signature FHD" tvg-logo="https://i.imgur.com/ujKRap7.png" group-title="PELICULAS",PELIS | HBO Signature FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1549
+#EXTINF:-1 tvg-id="hboxtreme.co" tvg-name="P| HBO Xtreme" tvg-logo="https://i.imgur.com/yC1ZREX.png" group-title="PELICULAS",PELIS | HBO Xtreme
+http://gzytv.vip:8880/654329/rjgAbmEB7c/865
+#EXTINF:-1 tvg-id="hboxtreme.co" tvg-name="P| HBO Xtreme  HD" tvg-logo="https://i.imgur.com/yC1ZREX.png" group-title="PELICULAS",PELIS | HBO Xtreme  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1548
+#EXTINF:-1 tvg-id="hboxtreme.co" tvg-name="P| HBO Xtreme FHD" tvg-logo="https://i.imgur.com/yC1ZREX.png" group-title="PELICULAS",PELIS | HBO Xtreme FHD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/812
+
 #EXTINF:-1 tvg-id="" tvg-name="24P A Happy Madison" tvg-logo="https://i.ibb.co/k4c5x0S/cinema-vector-illustration-png-242108.jpg" group-title="PELICULAS",PELIS |  A Happy Madison
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1951
 #EXTINF:-1 tvg-id="" tvg-name="24P Alien Saga" tvg-logo="http://i.imgur.com/A3OKesD.png" group-title="PELICULAS",PELIS |  Alien Saga
