@@ -379,7 +379,154 @@ https://bmcc.nhkworld.jp/live2/index_1M.m3u8
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="24P A Happy Madison" tvg-logo="https://i.ibb.co/k4c5x0S/cinema-vector-illustration-png-242108.jpg" group-title="PELICULAS",PELIS |  A Happy Madison
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1951
+#EXTINF:-1 tvg-id="" tvg-name="24P Alien Saga" tvg-logo="http://i.imgur.com/A3OKesD.png" group-title="PELICULAS",PELIS |  Alien Saga
+http://gzytv.vip:8880/654329/rjgAbmEB7c/408
+#EXTINF:-1 tvg-id="" tvg-name="24P Arma Mortal" tvg-logo="https://i.imgur.com/JNBONEm.png" group-title="PELICULAS",PELIS |  Arma Mortal
+http://gzytv.vip:8880/654329/rjgAbmEB7c/409
+#EXTINF:-1 tvg-id="" tvg-name="24P Camino Hacia El Terror" tvg-logo="https://i.imgur.com/iPRD9ag.png" group-title="PELICULAS",PELIS |  Camino Hacia El Terror
+http://gzytv.vip:8880/654329/rjgAbmEB7c/161
+#EXTINF:-1 tvg-id="" tvg-name="24P Cantinflas" tvg-logo="https://i.ibb.co/nP812jH/cant.png" group-title="PELICULAS",PELIS |  Cantinflas
+http://gzytv.vip:8880/654329/rjgAbmEB7c/745
+#EXTINF:-1 tvg-id="" tvg-name="24P Cantinflas (op2)" tvg-logo="https://i.ibb.co/vqCsG8d/Cantinflas.png" group-title="PELICULAS",PELIS |  Cantinflas (op2)
+http://gzytv.vip:8880/654329/rjgAbmEB7c/162
+#EXTINF:-1 tvg-id="" tvg-name="24P Chucky" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0024/6810/brand.gif" group-title="PELICULAS",PELIS |  Chucky
+http://gzytv.vip:8880/654329/rjgAbmEB7c/163
+#EXTINF:-1 tvg-id="" tvg-name="24P Cine Drama" tvg-logo="https://i.imgur.com/qT2wMM8.png" group-title="PELICULAS",PELIS |  Cine Drama
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1303
+#EXTINF:-1 tvg-id="" tvg-name="24P Cine Retro" tvg-logo="http://i.imgur.com/Ix7o1fG.png" group-title="PELICULAS",PELIS |  Cine Retro
+http://gzytv.vip:8880/654329/rjgAbmEB7c/507
+#EXTINF:-1 tvg-id="" tvg-name="24P Cine Suspenso" tvg-logo="https://i.imgur.com/qT2wMM8.png" group-title="PELICULAS",PELIS |  Cine Suspenso
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1305
+#EXTINF:-1 tvg-id="" tvg-name="24P Cine Terror" tvg-logo="https://www.pngitem.com/pimgs/m/144-1442268_horror-hd-photo-imagenes-de-terror-png-transparent.png" group-title="PELICULAS",PELIS |  Cine Terror
+http://gzytv.vip:8880/654329/rjgAbmEB7c/502
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema 05" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="PELICULAS",PELIS |  Cinema 05
+http://gzytv.vip:8880/654329/rjgAbmEB7c/508
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema 06" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="PELICULAS",PELIS |  Cinema 06
+http://gzytv.vip:8880/654329/rjgAbmEB7c/509
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema 09" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="PELICULAS",PELIS |  Cinema 09
+http://gzytv.vip:8880/654329/rjgAbmEB7c/510
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema 11" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="PELICULAS",PELIS |  Cinema 11
+http://gzytv.vip:8880/654329/rjgAbmEB7c/511
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema 13" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="PELICULAS",PELIS |  Cinema 13
+http://gzytv.vip:8880/654329/rjgAbmEB7c/512
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema 14" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="PELICULAS",PELIS |  Cinema 14
+http://gzytv.vip:8880/654329/rjgAbmEB7c/513
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema 15" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="PELICULAS",PELIS |  Cinema 15
+http://gzytv.vip:8880/654329/rjgAbmEB7c/514
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema 16" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="PELICULAS",PELIS |  Cinema 16
+http://gzytv.vip:8880/654329/rjgAbmEB7c/515
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema 17" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="PELICULAS",PELIS |  Cinema 17
+http://gzytv.vip:8880/654329/rjgAbmEB7c/516
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema 18" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="PELICULAS",PELIS |  Cinema 18
+http://gzytv.vip:8880/654329/rjgAbmEB7c/517
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema 20" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="PELICULAS",PELIS |  Cinema 20
+http://gzytv.vip:8880/654329/rjgAbmEB7c/518
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema 22" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="PELICULAS",PELIS |  Cinema 22
+http://gzytv.vip:8880/654329/rjgAbmEB7c/519
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema 23" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="PELICULAS",PELIS |  Cinema 23
+http://gzytv.vip:8880/654329/rjgAbmEB7c/520
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema 24" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="PELICULAS",PELIS |  Cinema 24
+http://gzytv.vip:8880/654329/rjgAbmEB7c/521
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema 25" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="PELICULAS",PELIS |  Cinema 25
+http://gzytv.vip:8880/654329/rjgAbmEB7c/522
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema 26" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="PELICULAS",PELIS |  Cinema 26
+http://gzytv.vip:8880/654329/rjgAbmEB7c/523
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema 29" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="PELICULAS",PELIS |  Cinema 29
+http://gzytv.vip:8880/654329/rjgAbmEB7c/524
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema 30" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="PELICULAS",PELIS |  Cinema 30
+http://gzytv.vip:8880/654329/rjgAbmEB7c/525
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema 31" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="PELICULAS",PELIS |  Cinema 31
+http://gzytv.vip:8880/654329/rjgAbmEB7c/526
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema 33" tvg-logo="https://i.ibb.co/y5BVm1Z/Cinema06.png" group-title="PELICULAS",PELIS |  Cinema 33
+http://gzytv.vip:8880/654329/rjgAbmEB7c/527
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema Accion" tvg-logo="https://i.ibb.co/k4c5x0S/cinema-vector-illustration-png-242108.jpg" group-title="PELICULAS",PELIS |  Cinema Accion
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1952
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema Comedia" tvg-logo="https://i.imgur.com/Hsn6iNm.png" group-title="PELICULAS",PELIS |  Cinema Comedia
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1132
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema Dreamworks" tvg-logo="https://i.ibb.co/k4c5x0S/cinema-vector-illustration-png-242108.jpg" group-title="PELICULAS",PELIS |  Cinema Dreamworks
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1953
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema Familia" tvg-logo="https://i.ibb.co/k4c5x0S/cinema-vector-illustration-png-242108.jpg" group-title="PELICULAS",PELIS |  Cinema Familia
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1954
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema Horror" tvg-logo="https://i.ibb.co/k4c5x0S/cinema-vector-illustration-png-242108.jpg" group-title="PELICULAS",PELIS |  Cinema Horror
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1955
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema Marvel" tvg-logo="https://i.ibb.co/k4c5x0S/cinema-vector-illustration-png-242108.jpg" group-title="PELICULAS",PELIS |  Cinema Marvel
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1956
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema VIP 01" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" group-title="PELICULAS",PELIS |  Cinema VIP 01
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1957
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema VIP 02" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" group-title="PELICULAS",PELIS |  Cinema VIP 02
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1958
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema VIP 03" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" group-title="PELICULAS",PELIS |  Cinema VIP 03
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1959
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema VIP 04" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" group-title="PELICULAS",PELIS |  Cinema VIP 04
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1960
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema VIP 05" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" group-title="PELICULAS",PELIS |  Cinema VIP 05
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1961
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema VIP 06" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" group-title="PELICULAS",PELIS |  Cinema VIP 06
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1962
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema VIP 07" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" group-title="PELICULAS",PELIS |  Cinema VIP 07
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1963
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema VIP 08" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" group-title="PELICULAS",PELIS |  Cinema VIP 08
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1964
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema VIP 09" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" group-title="PELICULAS",PELIS |  Cinema VIP 09
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1965
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema VIP 10" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" group-title="PELICULAS",PELIS |  Cinema VIP 10
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1966
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema VIP 11" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" group-title="PELICULAS",PELIS |  Cinema VIP 11
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1967
+#EXTINF:-1 tvg-id="" tvg-name="24P Cinema VIP 12" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg" group-title="PELICULAS",PELIS |  Cinema VIP 12
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1968
+#EXTINF:-1 tvg-id="" tvg-name="24P CinePeruano" tvg-logo="https://i.imgur.com/zNq5ZrW.png" group-title="PELICULAS",PELIS |  CinePeruano
+http://gzytv.vip:8880/654329/rjgAbmEB7c/164
+#EXTINF:-1 tvg-id="" tvg-name="24P Harry Potter" tvg-logo="https://loodibee.com/wp-content/uploads/Harry-Potter-Logo-2004-2011.png" group-title="PELICULAS",PELIS |  Harry Potter
+http://gzytv.vip:8880/654329/rjgAbmEB7c/538
+#EXTINF:-1 tvg-id="" tvg-name="24P Los Critters" tvg-logo="https://i.imgur.com/htuLac3.png" group-title="PELICULAS",PELIS |  Los Critters
+http://gzytv.vip:8880/654329/rjgAbmEB7c/174
+#EXTINF:-1 tvg-id="" tvg-name="24P Marvel Cine Animation" tvg-logo="https://i.ibb.co/SBTPVYF/40556.jpg" group-title="PELICULAS",PELIS |  Marvel Cine Animation
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1331
+#EXTINF:-1 tvg-id="" tvg-name="24P Mi Pobre Angelito" tvg-logo="https://i.imgur.com/cVXC47i.png" group-title="PELICULAS",PELIS |  Mi Pobre Angelito
+http://gzytv.vip:8880/654329/rjgAbmEB7c/175
+#EXTINF:-1 tvg-id="" tvg-name="24P Navidad" tvg-logo="https://i.imgur.com/dEVmlDH.png" group-title="PELICULAS",PELIS |  Navidad
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1128
+#EXTINF:-1 tvg-id="" tvg-name="24P Pedro Infante" tvg-logo="http://i.imgur.com/0Xfktas.png" group-title="PELICULAS",PELIS |  Pedro Infante
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1078100
+#EXTINF:-1 tvg-id="" tvg-name="24P Picardía Mexicana" tvg-logo="https://i.imgur.com/v6kIKp1.png" group-title="PELICULAS",PELIS |  Picardía Mexicana
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1053
+#EXTINF:-1 tvg-id="" tvg-name="24P Pluto Cine Acción" tvg-logo="https://i.imgur.com/qT2wMM8.png" group-title="PELICULAS",PELIS |  Pluto Cine Acción
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1300
+#EXTINF:-1 tvg-id="" tvg-name="24P Pluto Cine Comedia" tvg-logo="https://i.imgur.com/qT2wMM8.png" group-title="PELICULAS",PELIS |  Pluto Cine Comedia
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1302
+#EXTINF:-1 tvg-id="" tvg-name="24P Pluto Cine Estelar" tvg-logo="https://i.imgur.com/pnmvCxE.png" group-title="PELICULAS",PELIS |  Pluto Cine Estelar
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1298
+#EXTINF:-1 tvg-id="" tvg-name="24P Pluto Cine Estrellas de Acción" tvg-logo="https://i.imgur.com/qT2wMM8.png" group-title="PELICULAS",PELIS |  Pluto Cine Estrellas de Acción
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1301
+#EXTINF:-1 tvg-id="" tvg-name="24P Pluto Cine Familia" tvg-logo="https://i.imgur.com/qT2wMM8.png" group-title="PELICULAS",PELIS |  Pluto Cine Familia
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1307
+#EXTINF:-1 tvg-id="" tvg-name="24P Pluto Cine Terror" tvg-logo="https://i.imgur.com/qT2wMM8.png" group-title="PELICULAS",PELIS |  Pluto Cine Terror
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1306
+#EXTINF:-1 tvg-id="" tvg-name="24P Romance" tvg-logo="https://i.imgur.com/qT2wMM8.png" group-title="PELICULAS",PELIS |  Romance
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1304
+#EXTINF:-1 tvg-id="" tvg-name="24P Saw" tvg-logo="https://i.imgur.com/jCukSlr.png" group-title="PELICULAS",PELIS |  Saw
+http://gzytv.vip:8880/654329/rjgAbmEB7c/178
+#EXTINF:-1 tvg-id="" tvg-name="24P Scary Movie" tvg-logo="https://i.imgur.com/srSRZaK.png" group-title="PELICULAS",PELIS |  Scary Movie
+http://gzytv.vip:8880/654329/rjgAbmEB7c/179
+#EXTINF:-1 tvg-id="" tvg-name="24P Star Wars" tvg-logo="https://i.imgur.com/WpNPVUm.png" group-title="PELICULAS",PELIS |  Star Wars
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1066615
+#EXTINF:-1 tvg-id="" tvg-name="24P Starz East" tvg-logo="https://i.imgur.com/Qchu2nx.png" group-title="PELICULAS",PELIS |  Starz East
+http://gzytv.vip:8880/654329/rjgAbmEB7c/982
+#EXTINF:-1 tvg-id="" tvg-name="24P Starz encore Action" tvg-logo="https://i.imgur.com/Qchu2nx.png" group-title="PELICULAS",PELIS |  Starz encore Action
+http://gzytv.vip:8880/654329/rjgAbmEB7c/983
+#EXTINF:-1 tvg-id="" tvg-name="24P Starz encore Western" tvg-logo="https://i.picasion.com/pic92/d9e44966e779fc3912367b2b5a5e188e.gif" group-title="PELICULAS",PELIS |  Starz encore Western
+http://gzytv.vip:8880/654329/rjgAbmEB7c/984
+#EXTINF:-1 tvg-id="" tvg-name="24P Starz Family" tvg-logo="https://i.picasion.com/pic92/38048b8dc7dac625a6ea04d94231e3ba.gif" group-title="PELICULAS",PELIS |  Starz Family
+http://gzytv.vip:8880/654329/rjgAbmEB7c/985
+#EXTINF:-1 tvg-id="" tvg-name="24P Tin Tan" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/kqzd3OS9m9PqvA4t9vvxK9kFUgA.jpg" group-title="PELICULAS",PELIS |  Tin Tan
+http://gzytv.vip:8880/654329/rjgAbmEB7c/2002
+#EXTINF:-1 tvg-id="" tvg-name="24P Tremors" tvg-logo="https://i.imgur.com/46U3coE.png" group-title="PELICULAS",PELIS |  Tremors
+http://gzytv.vip:8880/654329/rjgAbmEB7c/180
+#EXTINF:-1 tvg-id="" tvg-name="24P Volver Al Futuro" tvg-logo="https://i.imgur.com/9QjOZmu.png" group-title="PELICULAS",PELIS |  Volver Al Futuro
+http://gzytv.vip:8880/654329/rjgAbmEB7c/182
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" group-title="PELICULAS",PELIS | Bayres TV 41.1
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
