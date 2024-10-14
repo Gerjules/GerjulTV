@@ -91,10 +91,9 @@ https://panel.dattalive.com/8028/8028/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Tigo Sports PY" tvg-name="Tigo Sports PY" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/73920dab1062fad94ec5fce0c022d727.png"  group-title="PARAGUAY",PY |  Tigo Sports | Paraguay
-http://gzytv.vip:8880/654329/rjgAbmEB7c/1523
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports + Paraguay  HD" tvg-logo="https://i.imgur.com/1StyEXq.png" group-title="PARAGUAY",PY |  Tigo Sports + Paraguay  HD
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1454
 
 
 
