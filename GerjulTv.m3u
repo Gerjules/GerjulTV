@@ -26,10 +26,10 @@ http://gzytv.vip:8880/654329/rjgAbmEB7c/1089979
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1455
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="PARAGUAY",PY | PARAVISION
-http://181.78.27.128:8000/play/a05u/index.m3u8
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1459
 
 #EXTINF:0 tvg-logo="https://latele.com.py/wp-content/uploads/2022/06/logo-latele.png" group-title="PARAGUAY",PY | LA TELE
-http://170.83.242.9:4000/play/a00j
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1461
 
 #EXTINF:-1 tvg-id="ParaguayTV" group-title="PARAGUAY",PY | ParaguayTV
 http://45.71.252.16:8000/play/a0f1/index.m3u8
@@ -41,7 +41,7 @@ http://186.148.163.18:8000/play/a05o/index.m3u8
 https://glb.bozztv.com/glb/ssh101/pilarensehd/index.m3u8
 
 #EXTINF:-1 tvg-id="TV CAMARA" group-title="PARAGUAY",PY | TV CAMARA
-http://170.83.242.9:4000/play/a00m
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1087976
 
 #EXTINF:0 tvg-logo="https://www.venus.com.py/player/playlist/img/venus.png" group-title="PARAGUAY",PY | Radio Venus
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
@@ -110,13 +110,13 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 
 
 #EXTINF:-1 group-title="ARGENTINA",AR |LS84 Telefe
-http://170.83.242.9:4000/play/a00b
+http://gzytv.vip:8880/654329/rjgAbmEB7c/252
 
 #EXTINF:-1 group-title="ARGENTINA",AR | Canal 26
-http://sdmx.vip:8080/u8334525209/65213/210841
+http://gzytv.vip:8880/654329/rjgAbmEB7c/2626
 
 #EXTINF:-1 group-title="ARGENTINA",AR | C5N
-https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+http://gzytv.vip:8880/654329/rjgAbmEB7c/2634
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_La_Naci%C3%B3n.svg/2560px-Logo_La_Naci%C3%B3n.svg.png" group-title="ARGENTINA",AR | LA NACION+
 http://cincotv.org:25461/Fermand693/Toapa475/90965
