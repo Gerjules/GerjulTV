@@ -21,6 +21,8 @@ https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PY| GEN" tvg-logo="https://media.licdn.com/dms/image/C560BAQGAmmOdnNxk0Q/company-logo_200_200/0/1630659157739/somosgen_logo?e=2147483647&v=beta&t=DYLVulh4V_TiOw2NNS09NdMJlInTyeRx0UlUj32ofVk" group-title="Paraguay",PY| GEN
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1089979
 
+#EXTINF:-1 tvg-id="" tvg-name="PY| GEN" tvg-logo="https://media.licdn.com/dms/image/C560BAQGAmmOdnNxk0Q/company-logo_200_200/0/1630659157739/somosgen_logo?e=2147483647&v=beta&t=DYLVulh4V_TiOw2NNS09NdMJlInTyeRx0UlUj32ofVk" group-title="Paraguay",PY| GEN 2
+https://zn1gen.desdeparaguay.net/gentv/gentv_py_baja/playlist.m3u8?k=204bca14f1f557dfff4f06b3c969eddd72cd6721f9537120e43cca06f5c85d59&exp=1729026073
 
 #EXTINF:0 tvg-logo=" " group-title="PARAGUAY",PY | C9N
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1455
