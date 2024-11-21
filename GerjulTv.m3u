@@ -1706,7 +1706,7 @@ http://170.83.242.9:4000/play/a02s
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/cd/TheWayWeWere.jpg/revision/latest?cb=20190629174129&path-prefix=es" group-title="NOVELAS",NOV | 16 Veranos
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/cd/TheWayWeWere.jpg/revision/latest?cb=20190629174129&path-prefix=es" 16 Veranos
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/276.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
