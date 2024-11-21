@@ -1349,7 +1349,7 @@ http://gzytv.vip:8880/654329/rjgAbmEB7c/1098187
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1097887
 #EXTINF:-1 tvg-id="cazapesca.es" tvg-name="C| Caza & pesca  HD" tvg-logo="http://i.imgur.com/E0ptE0f.png" group-title="CULTURA",CULT |   Caza & pesca  HD
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1097951
-#EXTINF:-1 tvg-id="" tvg-name="C| Caza & pesca FHD" tvg-logo="https://i.imgur.com/E0ptE0f.png" group-title="Infantil / Kids",C| Caza & pesca FHD
+#EXTINF:-1 tvg-id="" tvg-name="C| Caza & pesca FHD" tvg-logo="https://i.imgur.com/E0ptE0f.png" group-title="CULTURA",CULT |  Caza & pesca FHD
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1098231
 #EXTINF:-1 tvg-id="" tvg-name="C| Caza & pesca FHD" tvg-logo="https://i.imgur.com/E0ptE0f.png" group-title="CULTURA",CULT |   Caza & pesca FHD
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1098233
@@ -1367,9 +1367,9 @@ http://gzytv.vip:8880/654329/rjgAbmEB7c/1097953
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1098189
 #EXTINF:-1 tvg-id="" tvg-name="C| Discovery en Español  HD" tvg-logo="https://i.imgur.com/6Yoam6v.png" group-title="CULTURA",CULT |   Discovery en Español  HD
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1098119
-#EXTINF:-1 tvg-id="" tvg-name="C| Discovery Familia" tvg-logo="https://i.imgur.com/4S7pjQj.png" group-title="Infantil / Kids",C| Discovery Familia
+#EXTINF:-1 tvg-id="" tvg-name="C| Discovery Familia" tvg-logo="https://i.imgur.com/4S7pjQj.png" group-title="CULTURA",CULT |  Discovery Familia
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1098234
-#EXTINF:-1 tvg-id="" tvg-name="C| Discovery Familia  HD" tvg-logo="https://i.imgur.com/4S7pjQj.png" group-title="Infantil / Kids",C| Discovery Familia  HD
+#EXTINF:-1 tvg-id="" tvg-name="C| Discovery Familia  HD" tvg-logo="https://i.imgur.com/4S7pjQj.png" group-title="CULTURA",CULT |  Discovery Familia  HD
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1098236
 #EXTINF:-1 tvg-id="" tvg-name="C| Discovery Familia  HD" tvg-logo="https://i.imgur.com/4S7pjQj.png" group-title="CULTURA",CULT |   Discovery Familia  HD
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1098237
@@ -1842,8 +1842,10 @@ https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/ind
 http://hzcdn.vood.top:80/hls/309458_.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="DP| Sporting TV (pt)" tvg-logo="https://i.imgur.com/2c1M88h.png" group-title="Deportes Premium",DP| Sporting TV (pt)
+#EXTINF:-1 tvg-id="" tvg-name="DP| Sporting TV (pt)" tvg-logo="https://i.imgur.com/2c1M88h.png" group-title="DEPORTES",SPORT | Sporting TV (pt)
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1067041
+
+
 #EXTINF:-1 tvg-id="Lucha.Libre.AAA.us" tvg-name="D| AAA" tvg-logo="https://i.imgur.com/jNLoaau.png" group-title="Deportes",D| AAA
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1308
 #EXTINF:-1 tvg-id="ufcnetwork.mx" tvg-name="D| Adrenalina Sports Network" tvg-logo="https://i.imgur.com/ifikD7K.png" group-title="Deportes",D| Adrenalina Sports Network
@@ -2281,7 +2283,7 @@ http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/29089
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/14153
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CRO: Fight Channel HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK_Fight_HR_logo.png" group-title="DEPORTES PELEAS",PELEAS | VIP CRO: SK FIGHT
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/64358
-#EXTINF:-1 tvg-ID="" tvg-name="VIP RS: ARENA FIGHT HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Fight_RS_logo.png" group-title="Live: Srbija & MN",VIP RS: ARENA FIGHT HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP RS: ARENA FIGHT HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Fight_RS_logo.png" group-title="DEPORTES PELEAS",PELEAS | VIP RS: ARENA FIGHT HD
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/74139
 #EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Fight Box" tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="DEPORTES PELEAS",PELEAS | AL: Fight Box
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/29821
