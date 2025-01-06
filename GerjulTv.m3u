@@ -4,8 +4,7 @@ f#EXTM3U
 http://181.78.27.128:8000/play/a05r/index.m3u8
 
 #EXTINF:0 tvg-logo="http://miarea.vip:8080/images/c0def78c987ca346ac27f87cbacf0ccc.png" group-title="PARAGUAY",PY | SNT
-http://gzytv.vip:8880/654329/rjgAbmEB7c/1464
-
+http://181.232.159.2:35600/play/a01h/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/3cNkkFd/TRECE.png" group-title="PARAGUAY",PY | TRECE
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
