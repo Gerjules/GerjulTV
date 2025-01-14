@@ -25,8 +25,7 @@ https://zn1gen.desdeparaguay.net/gentv/gentv_py_baja/playlist.m3u8?k=204bca14f1f
 #EXTINF:-1  tvg-logo="https://i.ibb.co/MfjFmHM/PILAR-TV-STREAMING.png" group-title="PARAGUAY",PY | PILAR TV STREAMING   
 https://glb.bozztv.com/glb/ssh101/pilarensehd/index.m3u8
 
-#EXTINF:0 tvg-logo="https://www.venus.com.py/player/playlist/img/venus.png" group-title="PARAGUAY",PY | Radio Venus
-https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
+
 
 
 #EXTINF:0 tvg-logo="https://www.caritas.com.py/wp-content/uploads/2021/01/Logo-Diarium.jpg" group-title="PARAGUAY",PY | Cáritas TV (1080p)
@@ -103,6 +102,9 @@ https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8
 
 #EXTINF:0 group-title="PARAGUAY",PY | KOA TV
 https://panel.dattalive.com/8028/8028/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://www.venus.com.py/player/playlist/img/venus.png" group-title="PARAGUAY",PY | Radio Venus
+https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tigo Sports + Paraguay  HD" tvg-logo="https://i.imgur.com/1StyEXq.png" group-title="PARAGUAY",PY |  Tigo Sports + Paraguay  HD
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1454
