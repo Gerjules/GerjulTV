@@ -127,7 +127,7 @@ http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/56706
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_TV_P%C3%BAblica_Digital.png" group-title="ARGENTINA",AR | TV PUBLICA   23.2
 http://gzytv.vip:8880/654329/rjgAbmEB7c/2647
 
-#EXTINF:-1 tvg-id="5tv.ar",5TV Corrientes (480p)
+#EXTINF:-1 tvg-id="5tv.ar", group-title="ARGENTINA",AR | 5TV Corrientes (480p)
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
 #EXTINF:0 group-title="ARGENTINA",AR | EL TRECE
@@ -139,10 +139,11 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 #EXTINF:-1 group-title="ARGENTINA",AR | CRÓNICA
 http://181.78.27.128:8000/play/a04k/index.m3u8
 
-#EXTINF:-1 tvg-id="AiredeSantaFe.ar",Aire de Santa Fe (1080p)
+#EXTINF:-1 tvg-id="AiredeSantaFe.ar", group-title="ARGENTINA",AR | Aire de Santa Fe (1080p)
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/2eaff8a0e93659e55a3e21d250aa7347.png" group-title="ARGENTINA",AR | A24
+https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
 
 
 
@@ -165,8 +166,7 @@ http://cincotv.org:25461/Fermand693/Toapa475/90965
 #EXTINF:0 group-title="ARGENTINA",AR | Todo Noticias AR
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/2eaff8a0e93659e55a3e21d250aa7347.png" group-title="ARGENTINA",AR | A24
-https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
+
 
 
 
