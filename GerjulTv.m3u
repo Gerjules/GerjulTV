@@ -9,10 +9,17 @@ http://181.78.27.128:8000/play/a05r/index.m3u8
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="RedDigital.py", group-title="PARAGUAY",PY | Red Digital (900p)
+https://ssh101-fl.bozztv.com/ssh101/reddigital/index.m3u8
 
+#EXTINF:-1 tvg-id="RadioCaazapaPoty981FM.py", group-title="PARAGUAY",PY | Radio Caazapá Poty 98.1 FM 
+https://ssh101.bozztv.com/ssh101/caazapapotytv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RepublicaTV.py", group-title="PARAGUAY",PY | República TV (720p)
+https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="UnionTV.py", group-title="PARAGUAY",PY | UnionTV
+https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="PY| GEN" tvg-logo="https://media.licdn.com/dms/image/C560BAQGAmmOdnNxk0Q/company-logo_200_200/0/1630659157739/somosgen_logo?e=2147483647&v=beta&t=DYLVulh4V_TiOw2NNS09NdMJlInTyeRx0UlUj32ofVk" group-title="PARAGUAY",PY| GEN 2
