@@ -3,7 +3,8 @@ f#EXTM3U
 #EXTINF:0 tvg-logo="https://i.ibb.co/Hn6M4Sv/abc.png" group-title="PARAGUAY",PY | ABC TV
 http://181.78.27.128:8000/play/a05r/index.m3u8
 
-
+#EXTINF:0 tvg-logo="http://miarea.vip:8080/images/c0def78c987ca346ac27f87cbacf0ccc.png" group-title="PARAGUAY",PY | SNT
+https://dp7xchau0hnq3.cloudfront.net/360p.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/3cNkkFd/TRECE.png" group-title="PARAGUAY",PY | TRECE
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
@@ -72,8 +73,7 @@ http://159.203.148.226/live/farra_low.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/MfjFmHM/PILAR-TV-STREAMING.png" group-title="PARAGUAY",PY | PILAR TV STREAMING   
 https://cloudtv.streaming.com.py/pilartv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://miarea.vip:8080/images/c0def78c987ca346ac27f87cbacf0ccc.png" group-title="PARAGUAY",PY | SNT
-http://181.232.159.2:35600/play/a01h/index.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TelefuturoLogo2022.png/640px-TelefuturoLogo2022.png" group-title="PARAGUAY",PY | TELEFUTURO
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1456
