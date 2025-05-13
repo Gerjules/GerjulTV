@@ -9,6 +9,9 @@ https://dp7xchau0hnq3.cloudfront.net/360p.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/3cNkkFd/TRECE.png" group-title="PARAGUAY",PY | TRECE
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="PARAGUAY",PY | PARAVISION
+PARAVISION http://177.234.230.206:8011/play/a0nn/index.m3u8
+
 #EXTINF:0 tvg-logo="https://www.venus.com.py/player/playlist/img/venus.png" group-title="PARAGUAY",PY | Radio Venus
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
 
@@ -87,8 +90,7 @@ http://gzytv.vip:8880/654329/rjgAbmEB7c/1089979
 #EXTINF:0 tvg-logo=" " group-title="PARAGUAY",PY | C9N
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1455
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="PARAGUAY",PY | PARAVISION
-http://gzytv.vip:8880/654329/rjgAbmEB7c/1459
+
 
 #EXTINF:0 tvg-logo="https://latele.com.py/wp-content/uploads/2022/06/logo-latele.png" group-title="PARAGUAY",PY | LA TELE
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1461
