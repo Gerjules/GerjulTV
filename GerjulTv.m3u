@@ -120,6 +120,11 @@ https://panel.dattalive.com/8028/8028/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=|Referer=https://iptv.digital-tv.net/|
 http://192.250.238.31:1234/stream/paraguay/tigo1/master.m3u8?u=admin&p=9f7cb373f6c1e15ba57b53bf99f58ca51f768afbf968cdbb8b21d0e977eb9dae
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCV8ylO8tcnV_u96yTcp4SS100-FKMfi42Dw&s" group-title="PARAGUAY",PY |   Tigo Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
+https://sam-py-edge04.tigo.com.py/ccur-session/01_3508407031/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd?|referer=https://www.tigosports.com.py/|origin=https://www.tigosports.com.py
+
 #EXTINF:-1 tvg-id="" tvg-name="Tigo Sports + Paraguay  HD" tvg-logo="https://i.imgur.com/1StyEXq.png" group-title="PARAGUAY",PY |  Tigo Sports + Paraguay  HD
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1454
 
