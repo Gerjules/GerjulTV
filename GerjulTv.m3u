@@ -9,6 +9,9 @@ https://dp7xchau0hnq3.cloudfront.net/360p.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/3cNkkFd/TRECE.png" group-title="PARAGUAY",PY | TRECE
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/NPY_%28Noticias_Paraguay%29.png/800px-NPY_%28Noticias_Paraguay%29.png" group-title="PARAGUAY",PY | NOTICIAS PY (En breve Disponible)
+http://177.234.230.206:8011/play/a0nq/index.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="PARAGUAY",PY | PARAVISION
 PARAVISION http://177.234.230.206:8011/play/a0nn/index.m3u8
 
@@ -98,8 +101,7 @@ http://gzytv.vip:8880/654329/rjgAbmEB7c/1461
 #EXTINF:-1 tvg-id="ParaguayTV" group-title="PARAGUAY",PY | ParaguayTV
 http://45.71.252.16:8000/play/a0f1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/NPY_%28Noticias_Paraguay%29.png/800px-NPY_%28Noticias_Paraguay%29.png" group-title="PARAGUAY",PY | NOTICIAS PY (En breve Disponible)
-http://gzytv.vip:8880/654329/rjgAbmEB7c/1458
+
 
 
 #EXTINF:-1 tvg-id="TV CAMARA" group-title="PARAGUAY",PY | TV CAMARA
