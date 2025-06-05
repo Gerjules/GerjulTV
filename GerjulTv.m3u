@@ -13,7 +13,7 @@ https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 http://177.234.230.206:8011/play/a0nq/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="PARAGUAY",PY | PARAVISION
-PARAVISION http://177.234.230.206:8011/play/a0nn/index.m3u8
+http://177.234.230.206:8011/play/a0nn/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.venus.com.py/player/playlist/img/venus.png" group-title="PARAGUAY",PY | Radio Venus
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
