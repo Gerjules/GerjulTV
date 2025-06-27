@@ -10,7 +10,7 @@ http://181.10.123.154:14000/play/a0d3
 http://45.167.19.10:8000/play/a0fc/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/3cNkkFd/TRECE.png" group-title="PARAGUAY",PY | TRECE
-https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
+http://45.167.19.10:8000/play/a0fi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/NPY_%28Noticias_Paraguay%29.png/800px-NPY_%28Noticias_Paraguay%29.png" group-title="PARAGUAY",PY | NOTICIAS PY (En breve Disponible)
 http://177.234.230.206:8011/play/a0nq/index.m3u8
