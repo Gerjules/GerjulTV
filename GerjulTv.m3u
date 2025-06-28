@@ -1364,12 +1364,10 @@ http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/67012
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/85884
 #EXTINF:-1 tvg-id="" tvg-name="24/7 HBO Signature (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-jsXerJmFHK0/Xas8qIXagZI/AAAAAAAAAaE/c3OP25KYkFUA2IGufDn-M7eyR0JPdSkXgCLcBGAsYHQ/s200/31.png" group-title="24/7 CINEMA ",24/7 HBO Signature (M)(1080)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/85885
-#EXTINF:-1 tvg-id="Showtime.HDTV.(West).(SHOHD).us" tvg-name="24/7 Showtime Beyond (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-3strKmwIw6s/Xj5BlA2hgCI/AAAAAAAABVY/5RMrXxrQcSMkV-vexE11oVaKBxoYESGiQCLcBGAsYHQ/s200/showtime%2Bbeyond.png" group-title="24/7 CINEMA ",24/7 Showtime Beyond (M)(1080)
+#EXTINF:-1 tvg-name="24/7 Showtime Beyond (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-3strKmwIw6s/Xj5BlA2hgCI/AAAAAAAABVY/5RMrXxrQcSMkV-vexE11oVaKBxoYESGiQCLcBGAsYHQ/s200/showtime%2Bbeyond.png" group-title="24/7 CINEMA ",24/7 Showtime Beyond (M)(1080)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/86000
-#EXTINF:-1 tvg-id="STARZ.Comedy.HD.(East).(SZCHD).us" tvg-name="24/7 Starz Comedy (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-lbxxWSm1dhU/Xj5CKV1-58I/AAAAAAAABVw/5XQSMLjpyd4tbj2J2ojPEqeHkVlPlgCMQCLcBGAsYHQ/s200/starz.png" group-title="24/7 CINEMA ",24/7 Starz Comedy (M)(1080)
+#EXTINF:-1 tvg-name="24/7 Starz Comedy (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-lbxxWSm1dhU/Xj5CKV1-58I/AAAAAAAABVw/5XQSMLjpyd4tbj2J2ojPEqeHkVlPlgCMQCLcBGAsYHQ/s200/starz.png" group-title="24/7 CINEMA ",24/7 Starz Comedy (M)(1080)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/86007
-#EXTINF:-1 tvg-id="" tvg-name="MEX-8NTV (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="MEXICO-LOCAL",MEX-8NTV (W) [Geo-bloc](1080)
-http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/87676
 
 
 
@@ -1766,7 +1764,7 @@ http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHPw6CcjW_tufp-8Sl2Tpg2M
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="24i Batman (1992)" tvg-logo="https://i.imgur.com/W7R5Zac.png" group-title="INFANTIL",INF |   Batman (1992)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W7R5Zac.png" group-title="INFANTIL",INF |   Batman (1992)
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1115
 
 
@@ -2465,10 +2463,10 @@ http://181.78.105.146:2000/play/a03n/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TUDN.png" group-title="DEPORTES",SPORT |  TUDN
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TUDN.png" group-title="DEPORTES",SPORT |  TUDN
 http://xtream.lat:8880/Alex2023/Alex2023/291
 
-#EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title="DEPORTES",SPORT |  TUDN usa
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title="DEPORTES",SPORT |  TUDN usa
 http://tvmate.icu:8080/Alan/Alan1234/82241
 
 
@@ -2648,99 +2646,99 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d1
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="FIGHT NETWORK PLEX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Fight_Network_2011_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20220124094307"group-title="DEPORTES PELEAS",PELEAS | FIGHT NETWORK PLEX
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Fight_Network_2011_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20220124094307"group-title="DEPORTES PELEAS",PELEAS | FIGHT NETWORK PLEX
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="CHANNEL FIGHT" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/spb96wvft5bvxnt7r0te"group-title="DEPORTES PELEAS",PELEAS | CHANNEL FIGHT
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/spb96wvft5bvxnt7r0te "group-title="DEPORTES PELEAS",PELEAS | CHANNEL FIGHT
 https://d15wqvt0xm15k4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ChannelFight-DistroTV/266.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y9MVhOJ.png" group-title="DEPORTES PELEAS",PELEAS |  Peleas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=b7fbbfb9-f693-11ea-b314-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1 tvg-ID="" tvg-name="HARD KNOCKS FIGHTING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png"group-title="DEPORTES PELEAS",PELEAS | HARD KNOCKS FIGHTING
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="DEPORTES PELEAS",PELEAS | HARD KNOCKS FIGHTING
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8?ads.plex_token=mfsy-uznAL6wQUJjAXsp&ads.channel_id=5fd115bdb7ef8d002dcf1820&ads.device_id=04a07524-9b53-52a4-a526-4fe1cf222ecd&ads.dnt=0
-#EXTINF:-1 tvg-ID="" tvg-name="BELLATOR MMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Bellator_MMA_Logo.png"group-title="DEPORTES PELEAS",PELEAS | BELLATOR MMA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Bellator_MMA_Logo.png" group-title="DEPORTES PELEAS",PELEAS | BELLATOR MMA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=c4e50db1-ec3d-4bd9-a490-1cabf5d6e2b5&clientModelNumber=na&deviceDNT=false&deviceId=c4e50db1-ec3d-4bd9-a490-1cabf5d6e2b5&deviceLat=42.3562&deviceLon=-71.0631&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.114&marketingRegion=US&serverSideAds=true&sessionID=0ee254ab-9a28-11eb-a134-0242ac110002&sid=0ee254ab-9a28-11eb-a134-0242ac110002&userId=
-#EXTINF:-1 tvg-ID="" tvg-name="GLORY KICKBOXING" tvg-logo="http://whoatv.com/wp-content/uploads/2015/02/GLORY_WS.png"group-title="DEPORTES PELEAS",PELEAS | GLORY KICKBOXING
+#EXTINF:-1 tvg-logo="http://whoatv.com/wp-content/uploads/2015/02/GLORY_WS.png" group-title="DEPORTES PELEAS",PELEAS | GLORY KICKBOXING
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=c4e50db1-ec3d-4bd9-a490-1cabf5d6e2b5&clientModelNumber=na&deviceDNT=false&deviceId=c4e50db1-ec3d-4bd9-a490-1cabf5d6e2b5&deviceLat=42.3562&deviceLon=-71.0631&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.114&marketingRegion=US&serverSideAds=true&sessionID=ddac14e7-9a25-11eb-ab6d-0242ac110002&sid=ddac14e7-9a25-11eb-ab6d-0242ac110002&userId=
-#EXTINF:-1 tvg-ID="" tvg-name="GLORY KICKBOXING" tvg-logo="http://whoatv.com/wp-content/uploads/2015/02/GLORY_WS.png"group-title="DEPORTES PELEAS",PELEAS | GLORY KICKBOXING
+#EXTINF:-1 tvg-logo="http://whoatv.com/wp-content/uploads/2015/02/GLORY_WS.png" group-title="DEPORTES PELEAS",PELEAS | GLORY KICKBOXING
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9be1be738977e2c312134/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=97357fcd-3623-4dce-b801-ec1db5585216&clientModelNumber=na&deviceDNT=false&deviceId=97357fcd-3623-4dce-b801-ec1db5585216&deviceLat=46.9786&deviceLon=7.4483&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=DE&serverSideAds=true&sessionID=28a56078-b4a3-11eb-a6ab-0242ac110002&sid=28a56078-b4a3-11eb-a6ab-0242ac110002&userId=
-#EXTINF:-1 tvg-ID="" tvg-name="FIGHT" tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/thumbnail.jpg?auto=&fit=fill&fill=blur&ixlib=react-9.1.5&w=68&h=80&dpr=3&q=35"group-title="DEPORTES PELEAS",PELEAS | FIGHT
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/thumbnail.jpg?auto=&fit=fill&fill=blur&ixlib=react-9.1.5&w=68&h=80&dpr=3&q=35"group-title="DEPORTES PELEAS",PELEAS | FIGHT
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=c4e50db1-ec3d-4bd9-a490-1cabf5d6e2b5&clientModelNumber=na&deviceDNT=false&deviceId=c4e50db1-ec3d-4bd9-a490-1cabf5d6e2b5&deviceLat=42.3562&deviceLon=-71.0631&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.114&marketingRegion=US&serverSideAds=true&sessionID=53ec870f-9a27-11eb-8cd8-0242ac110002&sid=53ec870f-9a27-11eb-8cd8-0242ac110002&userId=
-#EXTINF:-1 tvg-ID="" tvg-name="PT: COMBATE GLOBAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CG_logo_final.svg/1200px-CG_logo_final.svg.png" group-title="DEPORTES PELEAS",PELEAS | PT: COMBATE GLOBAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CG_logo_final.svg/1200px-CG_logo_final.svg.png" group-title="DEPORTES PELEAS",PELEAS | PT: COMBATE GLOBAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=669555e83d5c983ef33d84435f05f1e2&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252Fes%252Flinear%252Fcombate-global&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=North%2520America&timestamp=1661098894&id=16970&ip=192.241.241.129&override_expiration=1500&deliveryProfileId=23762&sign=K47GxLmel%2FY6zBxrrmPN8QAGlq%2FR4PtfGA0545c%2F9cY%3D
-#EXTINF:-1 tvg-ID="" tvg-name="FIGHTING SPIRIT" tvg-logo="https://fighting.fr/wp-content/uploads/2019/11/fs-fb.jpg"group-title="DEPORTES PELEAS",PELEAS | FIGHTING SPIRIT
+#EXTINF:-1 tvg-logo="https://fighting.fr/wp-content/uploads/2019/11/fs-fb.jpg"group-title="DEPORTES PELEAS",PELEAS | FIGHTING SPIRIT
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fighting-spirit-tv/master.m3u8?ads.rnd=ap66&ads.env_i=64d38e26-164a-4ca2-b8cb-940773b9a5da&ads.env_u=e0f49614-a7ac-4a75-a556-444cd71d6261&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=1666&ads.height=937&ads.deviceId=e0f49614-a7ac-4a75-a556-444cd71d6261&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=1&ads.aid=e0f49614-a7ac-4a75-a556-444cd71d6261&ads.deviceMake=Web&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.client_ip=157.230.60.158&ads.geo=US&ads.lat=40.79300&ads.long=-74.02470&ads.dma=501&ads.geoType=2&ads.contentid=22696&ads.content_duration=18000&ads.episode_id=10815&ads.show_id=412&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=Fighting%20Spirit%20TV&ads.episodetitle=Fighting%20Spirit%20TV&ads.keywords=fighting%20spirit&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Flive%2Ffighting-spirit-tv%2F&ads.paln=AQzzBGQEhHkBENbzkthajiE7S2yJGcjlaP5rTn6r8pY5vixwyi9zbIc-B4m-ba1-CmEm4iUe_zvTLVwU3l1N2uNJrI-QUaWAN1gPgbssXrzb-RUFI5CPvzOqMserV6F-ELR3OINSAaNdVkxvc48F4GZULsgzObM2kdjoxeRjtJUv4d94z-NmWbS0V6KtuyzDAKJncwWB45FwSv5hoztlb0qGwZQkuimzQQqfEoXF_o9MtTzLmc6ZXvcSXP6-ZyLhPsguXsXF-tgzwtaFg6JJ4znUBgnGeOTUojeUXG3a7VaQ9chMJDwNKyR9Ryb4Av2VtA2MCUFz9XSFI3tGfT50o4dAZMhCExfgkUl3MG8MM5uBu05VKyV6lU67stUAtW7jjmw3MhaZIRJjlM_WRholzrrPUmVVvzsvJttUuU5Zv8sIpN-JYZmiodtha862fjFwP9MFQgjSD_ORMhIrP-76FBMXFTJQXvyYp9fFgyeePP_4ONcyV8MlXEKIzR0NMqKilgsn0COgezxw-K6r-XMN976cQtUx72_4Fw4F5IyisMW-DWHx3W_ImLmdmnRuLHLdUlXMftY_Q5YDseDMTQGreVfV-Mdd0iQoMz3fKn6Aqv6XLfmnuUfqfIwzYflLlekQb2htsLLQTXedw8vhdeEG4KwY8javEqvSXbxQlGA66va5picWjTKdYkSDjVZvp7QJeGPaL6pWjyGOKD24aN6MPRyKm0Qe8U5nmSg0-NkVPscm16xjcXaPayq8oFQgCT1fr-Q-spM3nlpxey216gfp63MNr-7IwVbT1aY5xPfLl9bNBVbe60-PSD60xmWq8khf1Tk16tnItcir7tM_FnXbZwnO2vu2LsMAxtyn9K1jhIE_ekK3qxnZ5gUXgatZp5B1AJkgAyYV8Hjo1-Cu4lXzWiFxVUwsbvHOBqaSHa6XTtrwz7mRlVkbg1mZTlhjiHUq6_pc0ebx-n1ptZateGSLM3eufM06skESjdxXYmAaFyyH4m8eiRJtTCZvu6RpcPwaUUPn7C9GJlnhON9sr1J14PBe4Nmpn-i9GzVge3d05UjzjIwpnGmNExKYMO4OH2icNxKqBjU.&ads.tagname=dtv
-#EXTINF:-1 tvg-ID="" tvg-name="XFC TV" tvg-logo="https://www.coolstreaming.us/img/ch/image81116059050.jpg"group-title="DEPORTES PELEAS",PELEAS | XFC TV
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image81116059050.jpg"group-title="DEPORTES PELEAS",PELEAS | XFC TV
 https://xfctvfightworld-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61fafb87d8064f7fb66a26c3_xfctvfightworld-live-2/index-xfctv.m3u8?ads.ac.t=aHR0cHM6Ly92aWQuc3ByaW5nc2VydmUuY29tL3J0LzIzMjU%3D&ads.cb=821791104520537&ads.w=370&ads.h=208&ads.url=https%3A%2F%2Flocalnow.com%2Fchannels%2Fepg-xfctv-fight-world&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.app_version=&ads.pos=mid&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F98.0.4758.102%20Safari%2F537.36&ads.channel_id=61fafb87d8064f7fb66a26c3&ads.channel_title=EPG-XFCTV_Fight_World&ads.channel_contenttype=Shows&ads.channel_name=EPG-XFCTV_Fight_World&ads.channel_genre=Sports&ads.channel_rating=&ads.channel_language=&ads.channel_contentlen=1800&ads.content_livestream=1&ads.network_name=&ads.content_provider=&ads.us_privacy=&ads.payid=6ec8debb969b70cf&ads.SSID=70f2416d-b245-4673-a643-cde1d046c106&ads.hybrid=0&ads.tag_id=localnow&ads.aml=1&user_cookieid=70f2416d-b245-4673-a643-cde1d046c106
-#EXTINF:-1 tvg-ID="" tvg-name="UNITED FIGHT ALLIANCE" tvg-logo="https://a.jsrdn.com/hls/22778/united-fight-alliance-1/thumbh_20201015_215118.jpg"group-title="DEPORTES PELEAS",PELEAS | UNITED FIGHT ALLIANCE
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22778/united-fight-alliance-1/thumbh_20201015_215118.jpg"group-title="DEPORTES PELEAS",PELEAS | UNITED FIGHT ALLIANCE
 https://dai.google.com/linear/hls/event/_Bdiue-cTbidArncLX2eOA/master.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FIGHTBOX" tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="DEPORTES PELEAS",PELEAS | VIP SE: FIGHTBOX
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="DEPORTES PELEAS",PELEAS | VIP SE: FIGHTBOX
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/29089
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SE: V Fight Sports HD" tvg-logo="https://w7.pngwing.com/pngs/405/493/png-transparent-boxing-combat-sport-sports-entertainment-television-channel-boxing.png" group-title="DEPORTES PELEAS",PELEAS | VIP SE: V Fight Sports HD
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/405/493/png-transparent-boxing-combat-sport-sports-entertainment-television-channel-boxing.png" group-title="DEPORTES PELEAS",PELEAS | VIP SE: V Fight Sports HD
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/14153
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CRO: Fight Channel HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK_Fight_HR_logo.png" group-title="DEPORTES PELEAS",PELEAS | VIP CRO: SK FIGHT
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK_Fight_HR_logo.png" group-title="DEPORTES PELEAS",PELEAS | VIP CRO: SK FIGHT
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/64358
-#EXTINF:-1 tvg-ID="" tvg-name="VIP RS: ARENA FIGHT HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Fight_RS_logo.png" group-title="DEPORTES PELEAS",PELEAS | VIP RS: ARENA FIGHT HD
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Fight_RS_logo.png" group-title="DEPORTES PELEAS",PELEAS | VIP RS: ARENA FIGHT HD
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/74139
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Fight Box" tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="DEPORTES PELEAS",PELEAS | AL: Fight Box
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="DEPORTES PELEAS",PELEAS | AL: Fight Box
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/29821
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Fight Box" tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="DEPORTES PELEAS",PELEAS | VIP AR: OSN Fight Box
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="DEPORTES PELEAS",PELEAS | VIP AR: OSN Fight Box
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/7640
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: OSN OSN Fight Network HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Fight_Network_2011_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20220124094307" group-title="DEPORTES PELEAS",PELEAS | VIP AR: OSN OSN Fight Network HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Fight_Network_2011_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20220124094307" group-title="DEPORTES PELEAS",PELEAS | VIP AR: OSN OSN Fight Network HD
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/13790
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: My Fight Box HD" tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="DEPORTES PELEAS",PELEAS | VIP AR: My Fight Box HD
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="DEPORTES PELEAS",PELEAS | VIP AR: My Fight Box HD
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/12245
-#EXTINF:-1 tvg-ID="NULL" tvg-name="UK: UFC fight night Pass HD" tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="DEPORTES PELEAS",PELEAS | UK: UFC fight night Pass HD
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="DEPORTES PELEAS",PELEAS | UK: UFC fight night Pass HD
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/12520
-#EXTINF:-1 tvg-ID="" tvg-name="UK: UFC Fight PASS" tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="DEPORTES PELEAS",PELEAS | UK: UFC Fight PASS
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="DEPORTES PELEAS",PELEAS | UK: UFC Fight PASS
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/12479
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP US: Fight Network / MMA Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Fight_Network_2011_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20220124094307" group-title="DEPORTES PELEAS",PELEAS | VIP US: Fight Network / MMA Network
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Fight_Network_2011_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20220124094307" group-title="DEPORTES PELEAS",PELEAS | VIP US: Fight Network / MMA Network
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/10738
-#EXTINF:-1 tvg-ID="worldfishingnetwork.us" tvg-name="VIP US: Fight Sport" tvg-logo="https://w7.pngwing.com/pngs/405/493/png-transparent-boxing-combat-sport-sports-entertainment-television-channel-boxing.png" group-title="DEPORTES PELEAS",PELEAS | VIP US: Fight Sport
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/405/493/png-transparent-boxing-combat-sport-sports-entertainment-television-channel-boxing.png" group-title="DEPORTES PELEAS",PELEAS | VIP US: Fight Sport
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/10726
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP US: UFC Fight Pass FHD" tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="DEPORTES PELEAS",PELEAS | VIP US: UFC Fight Pass FHD
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="DEPORTES PELEAS",PELEAS | VIP US: UFC Fight Pass FHD
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/27971
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP US: UFC Fight Pass Live Only" tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="DEPORTES PELEAS",PELEAS | VIP US: UFC Fight Pass Live Only
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="DEPORTES PELEAS",PELEAS | VIP US: UFC Fight Pass Live Only
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/34745
-#EXTINF:-1 tvg-ID="worldfishingnetwork.us" tvg-name="VIP US: World Fight Channel HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK_Fight_HR_logo.png" group-title="DEPORTES PELEAS",PELEAS | VIP US: SK FIGHT
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK_Fight_HR_logo.png" group-title="DEPORTES PELEAS",PELEAS | VIP US: SK FIGHT
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/9867
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CAN: Fight Network HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Fight_Network_2011_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20220124094307" group-title="DEPORTES PELEAS",PELEAS | VIP CAN: Fight Network HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Fight_Network_2011_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20220124094307" group-title="DEPORTES PELEAS",PELEAS | VIP CAN: Fight Network HD
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/33746
-#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: FIGHT NETWORK FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Fight_Network_2011_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20220124094307" group-title="DEPORTES PELEAS",PELEAS | PT: FIGHT NETWORK FHD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Fight_Network_2011_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20220124094307" group-title="DEPORTES PELEAS",PELEAS | PT: FIGHT NETWORK FHD
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/9639
-#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: FightBOX HD" tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="DEPORTES PELEAS",PELEAS | PT: FightBOX HD
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="DEPORTES PELEAS",PELEAS | PT: FightBOX HD
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/12602
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LT: Fight Sports" tvg-logo="https://w7.pngwing.com/pngs/405/493/png-transparent-boxing-combat-sport-sports-entertainment-television-channel-boxing.png" group-title="DEPORTES PELEAS",PELEAS | VIP LT: Fight Sports
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/405/493/png-transparent-boxing-combat-sport-sports-entertainment-television-channel-boxing.png" group-title="DEPORTES PELEAS",PELEAS | VIP LT: Fight Sports
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/23440
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP EE: Prime Fight FHD" tvg-logo="https://masmediatv.es/images/2021/rm20Yr0M_400x400.png" group-title="DEPORTES PELEAS",PELEAS | VIP EE: Prime Fight FHD
+#EXTINF:-1 tvg-logo="https://masmediatv.es/images/2021/rm20Yr0M_400x400.png" group-title="DEPORTES PELEAS",PELEAS | VIP EE: Prime Fight FHD
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/23781
-#EXTINF:-1 tvg-ID="Fightklub HD PL" tvg-name="PL: FIGHT BOX" tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="DEPORTES PELEAS",PELEAS | PL: FIGHT BOX
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="DEPORTES PELEAS",PELEAS | PL: FIGHT BOX
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/5139
-#EXTINF:-1 tvg-ID="" tvg-name="PL: Fightklub FHD" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/fightklub.png" group-title="DEPORTES PELEAS",PELEAS | PL: Fightklub FHD
+#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/fightklub.png" group-title="DEPORTES PELEAS",PELEAS | PL: Fightklub FHD
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/41199
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP PL: ENFUSION" tvg-logo="https://www.spaceboxing.com/wp-content/uploads/2020/03/Enfusion-anuncia-cambios-en-el-calendario-2020-Kickboxing-Z.png" group-title="DEPORTES PELEAS",PELEAS | VIP PL: ENFUSION
+#EXTINF:-1 tvg-logo="https://www.spaceboxing.com/wp-content/uploads/2020/03/Enfusion-anuncia-cambios-en-el-calendario-2020-Kickboxing-Z.png" group-title="DEPORTES PELEAS",PELEAS | VIP PL: ENFUSION
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/9192
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP PL: ENFUSION" tvg-logo="https://www.spaceboxing.com/wp-content/uploads/2020/03/Enfusion-anuncia-cambios-en-el-calendario-2020-Kickboxing-Z.png" group-title="DEPORTES PELEAS",PELEAS | VIP PL: ENFUSION
+#EXTINF:-1 tvg-logo="https://www.spaceboxing.com/wp-content/uploads/2020/03/Enfusion-anuncia-cambios-en-el-calendario-2020-Kickboxing-Z.png" group-title="DEPORTES PELEAS",PELEAS | VIP PL: ENFUSION
 https://youtube.com/@EnfusionTV?si=J_DTZlKGxZeePGCg
-#EXTINF:-1 tvg-ID="NULL" tvg-name="PL: Polsat Sport Fight" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Polsat_sport_fight-1.png" group-title="DEPORTES PELEAS",PELEAS | PL: Polsat Sport Fight
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Polsat_sport_fight-1.png" group-title="DEPORTES PELEAS",PELEAS | PL: Polsat Sport Fight
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/12690
-#EXTINF:-1 tvg-ID="" tvg-name="BG: FightBox FHD" tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="DEPORTES PELEAS",PELEAS | BG: FightBox FHD
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="DEPORTES PELEAS",PELEAS | BG: FightBox FHD
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/26524
-#EXTINF:-1 tvg-ID="" tvg-name="RO: FightBox HD" tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="DEPORTES PELEAS",PELEAS | RO: FightBox HD
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="DEPORTES PELEAS",PELEAS | RO: FightBox HD
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/54942
-#EXTINF:-1 tvg-ID="" tvg-name="CZ: FIGHTBOX HD" tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="DEPORTES PELEAS",PELEAS | CZ: FIGHTBOX HD
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="DEPORTES PELEAS",PELEAS | CZ: FIGHTBOX HD
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/7160
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: FIGHT NETWORK HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Fight_Network_2011_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20220124094307" group-title="DEPORTES PELEAS",PELEAS | VIP SLO: FIGHT NETWORK HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Fight_Network_2011_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20220124094307" group-title="DEPORTES PELEAS",PELEAS | VIP SLO: FIGHT NETWORK HD
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/32854
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: UFC FIGHT PASS HD" tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="DEPORTES PELEAS",PELEAS | VIP SLO: UFC FIGHT PASS HD
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="DEPORTES PELEAS",PELEAS | VIP SLO: UFC FIGHT PASS HD
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/32853
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: FIGHTBOX HD" tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="DEPORTES PELEAS",PELEAS | RUS: FIGHTBOX HD
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="DEPORTES PELEAS",PELEAS | RUS: FIGHTBOX HD
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/31681
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ID: Fight Sports ID" tvg-logo="https://w7.pngwing.com/pngs/405/493/png-transparent-boxing-combat-sport-sports-entertainment-television-channel-boxing.png" group-title="DEPORTES PELEAS",PELEAS | VIP ID: Fight Sports ID
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/405/493/png-transparent-boxing-combat-sport-sports-entertainment-television-channel-boxing.png" group-title="DEPORTES PELEAS",PELEAS | VIP ID: Fight Sports ID
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/28781
-#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: COMBATE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="DEPORTES PELEAS",PELEAS | PT: COMBATE HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="DEPORTES PELEAS",PELEAS | PT: COMBATE HD
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/42096
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Combate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="DEPORTES PELEAS",PELEAS | VIP BR: Combate
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="DEPORTES PELEAS",PELEAS | VIP BR: Combate
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/10422
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Combate HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="DEPORTES PELEAS",PELEAS | VIP BR: Combate HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="DEPORTES PELEAS",PELEAS | VIP BR: Combate HD
 http://sabuczy.xyz:8080/cCWJkN6ZCAHp/hkdDtyUfPy9w/19479
 #EXTINF:-1 tvg-logo="http://whoatv.com/wp-content/uploads/2015/02/GLORY_WS.png" group-title="DEPORTES PELEAS",PELEAS |  GLORY KICKBOXING XUMO TV
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
@@ -2748,249 +2746,249 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlis
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.interjoomla.com.ar/wp-content/uploads/2020/02/23.png" group-title="DEPORTES PELEAS",PELEAS |  FITE TV
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-62c8a2d2d774648bcc76a116/variant.m3u8?url=a1d895745f41c6add9217737529cd614-5df4b87436bbbe7edcbf5db40a01a19cabc9056c3439a2cdaebe90f744e54f161249d2b5635441b0468462d802cdd931f314ae1bc7b5aa0344bb297594f9bbac3fc8cd2951854c900f19461593b4d93ecbf2f957d750fe2b6e73c179d974f3aaf97a77b4a4bae224f825c34b548310e4307e1ad88ca65cdf06052f91220dcd85043bbc1eeceaf132265eec69f264ddf453f8e58f53a839ec8703ace28ad8e4b81753be4d52bff147c9d5a09ab2fd738b6dd1158e2a85ccbbf8b1ddfdfccf77b9c80d1f30594c6ca8c12c636eb8a77fcbc7edccb4a4dcace0901c1149bb9acd8b788bd1655a341659a831a357a1046557a97bbc7dc99ead2c217ebf9ff8d67942afedbabdcb52c49d29263a894896231df2e081541e6585733545900c6b102b9b638f6048cd22091ae03b5e406c5817111c420a3e78bc1be2021d4ce4691b2d890a7fe94c029486e2715b97547256bf41ec18f6a6c7a1a05f982c72779a0699cc6961c6b818a82007a171bd2b3f6c14cb5564730dc4430eb91ad8b3ef1261e7ee1215e3499da11ae7901a8dc70145d935036d97fea331cb6fd11861c972cf4e725b79fe141b1acc220273b169e99e1ce737ee8a82524b2f00013fa44828334d8a7e4dcf834b44e31daa7fca8858801ac3a632028636c159032b3f1646eff2f3624a9bc623119536d4b819950fdd63886a64ba36e381384ce2b40e73931ea98a3e835c4d6d3ea1c4463da0665dbdd8d66eaeea1f0fd14aca9683f4322cdfcfec7f52120a40328cd98e2372e5ca14c4150d04bec8a77605032cae46157904e72ef652bde9117a2da46741793315c1763cab962f341673508923cd089efced7df2dfa829d1f90c95ba6ccdb47406c4ceb7156ab16e0ba2b68aa332a1fb4a4196ee7671fb40ea01f9a58f2c3c6d05cb72d945146c78375f51baf83d4f911010721423bfd0923ad02ba8b05282f844105eacbf2c1c26fbd95e08422498cfb8c97ca546c7088988d01dd9579766ca035690775c6828e8af20a80057403af9e009cbfcfb249c0c204d273d727dc08c801c17625d3e4c0a46b0b213ad1e5a27ff27ae2ab516a5fa939053e9c29e5ccb1b411b61d1b19324de358b89516adf6a299123a872c1858ffa6e1dea6b27b6bc25090705b80a51c3709127353f015888431478de7aaf1b9e5ea259e5ff854e0858a5dcbccd7f973b1f7cb1264d724be5868ff976dc04105ca58f85d9c047fd282d7985149feb67d248b8d867ebf6a6ecb1462deec115ab30cf9dcae73858ecc5aa49989c5d9da570e7758a73cb7120df6475c9b01e0cac61f4922b1c09ad92d684acd4a86d7c2caf95bdfb1edb24f77f437ba3a7f94c7407e560334c33271a64bd7c99a1d8a71006e38ffb63d6e30f7b921b7a89a7f3aecb0c79b7c33bb00fd9f6fc9f3d02d69948102c1c13502456110f581ddac8582c446cdfcbbcd4d676b84d02ed7acf15617e2fe9ed15b6ccedb0e97587d63dd389cb8a4481ac84fd79e5212e803214238fd8e79c78d98f3b247ffa6c338e3722863c8162b888bd42c47eff24c16ec28e927b5877bfc87e5071925381867a1da36c881c390f6c65f9b3fac1540bb7eb48f8b99376eeb823f011568f859b800c1ebd3f2db192f1960d49b79b81ba34f7e35a296143339fc6f56e93daf40aee16899fcdbabe826ed6aa381ea317162be49bb8dc0082f215ea2fa37cb89309133add4626facb1cce9a565119baec4e4df6baebd9032d6fbbf2ed257dc9858500b1b8873f927e96a9cf751af2f7af9344c842d689973f4a7669efadfa0d411999be7c1dcd176c523e338f77b77f4a1bad8a287f3363b70661f49c60bd92fc11a435d36d6c109bcd3e6b4479411eb43cced3be32ea20b16d1abf5528c8bb3b99c07cc78465ebe75a368dee1b0679ae1ae4ee6f256d99174cfeeb302a2634931c8635d7cecd1d56885a2501617f08bc5a4d160c03abec4612cf43412ca1b8d8efb021dd9d67b629e6002c907fd564fe3b70d3cde0cac731f05359014eaf5624d240b19984f2be3e1c5d140e766858631c330999ecc3fe52531806df925b6d6a299223650f6fe3dbe6728c03a199c01a80c0c1f21934a3953e51fd69a144f4a5f5a17fa65b822e86b1b607ce4fb7529f7467bb4e2974139eeefc22829f7d41586f01549abb1bce41a1efaee0dcf4d00bd28085b408405817c789197cc3d748bf7e1a0bab95d7d51ef1e8db90ca11e0c17eb286ba4685241f6af006e9f2d1b1df97e1c1361bb9111b2a6f7c2b24bf82542c2f62559d77f2b04af5d98ceac34565a401694bd2ab4cd7410547aec14c19c8d11f620ab8bb1f52d8b950880a1e4fa6f9bdd89e549e6a62c16594b78688a6760d5ba31fe2e1dc1e7b94dc13306823b08e94d51583f16b6067c5b801ae812324db6391c1d796aa4cc89c4d4653b5cc24d3783f7adfeab6a0eb79f37e9dd614728dbd763c6920a539165592af1d15eca10a97f28579d5b50b80c101949e777c5ab6667f5047e991d7f33c6b12eb7a4fdbe583ac88ae8cba592c05650d57bb77fbe2a8869a0944b7e7c9951d04734d2a321b787ff782037eff0ca3c8aadfbcf3d88e8668bfdbeff0651deeae9915cf10cd9ed98b244f457a65de96d46d612480f51997c5a8be5ca43e60bf617d4fe25167531ead6592d934cc5caafd05cd88fb338e64d42a04269d9c9d680c7b28df6237aed037b3bc751473cd92fa89f7c6b0e3f2e9058fe406aaa12f159e32beb736def9666f509b481fd868e30b8db2ced73364740df91b949985c50e442ed0f3db7f2167b8172581dceaeeb88c3b6c856464f98719192a08cacbad59d192cbad7a53f94fc6c5d5fdd9af42e3f4c1b08cc942a280898eafdfa2ec56fc89ad18497ddda143c0b99e7ffbbc8a190bedae3f76d906d909db03321dcc453f796b758e9be0edabf2305d94e66104ad0282a72c3edb111ea7ccc06ddf362fdb94bdc1e4658794645cc8f6caaff3122eb8ec2fa1fa5a5136f0a7f1e726cfa3f32014782d2b3ef18e4df89032802cbe1b3eea7c1898618e1a899b615fec2989d5c2401f6b009d919f2df568292edf4acf8c2148fdb4b5b468015dd857ce9352a24f052b3a27d37948b0f1c58d06bfd2dc4b393bac6f3542f014e81f8beb883ded7fc424f4d4694329a18aee02e1461317cb13e0ecc6b415e0ee634cc051ddfd19918abf77fe0f0e7541cd8761b8566c89efe1d01fd9609e9ef07ec2688c52edf0e0ae75c97aa5b5f93fb2378b64c64d8b052d2c5fcfd4576c1e99bbb2390be4c22c8fc63639fa9ccb4e2d6ddf3d85e25cad95d4c5f4905ad370e451faa26df3c85c808e74e879d713f85602f129008ac0a5a5dc23e883519d13415a673cf1da344e8a550647af8769bfedc3d29e3b2542e9bdc279b104fddb1d2ea4e046b61ac90e5955eda3b027c00a21c445f85b6e4902b7a4c0c83d256971e58ba9c2f52d1127034682c3f2a10513b3c55f1a7137e75967ed70094f8ee29b5b23871c582f46726298ccfd68c3dae755e132807dded1a450fc597d39af7efd4303e6052e7fe8fc292b6e758f446da9d21b02b8b9968efe782b151139d2006ab368da6d88237dcaad1114ad1851b195fbe65f03d948a57b9ebbdcda33e1330d3174929e18a7bb1f05fc0a87eeceee69f87d1c3c5fc4a60fd82618896aff66336684ae344fcf2f6a710a58f65d5353896d597f570f23b5d4c16433a80fe4472fa4415359de4711ed945ae4a0f8f76b06410181c79993db91a52d576c7330c0f74148eef05a13ab65d118cd0ab2baa2682c4b67e250cd0e3a64ce8afea075d1e4f2f5c40cade18bb84557925995e476defea3c1670f7606fb7e45a1a4e5f31076919b81aeb14a9e5208bae8b6a2f331eb9a8554d094b9be089314400b40c25dcfcadfe19d774b0dd646ac5e110ad153e16acd3debbd9c2fa377bf3c13f06c964e5adc723e75f8816bd3380ab82efe24789849f717732aa4aa28b59aa3af678586826772833fb5e28b5e48f6f0203f838cbe2422b35a50b1d4181baabc250ddca78e27a31b5ce4832c28d1fafdeb4d03c0809594cccb8123082d2f0dc0c9ee54121416ab57af97f466295af0708d1236420ed2741688a9b7769961d11b6e7f8d62b2c52d28420c4dd66d97fef7f7f5fb5d88db659b17962f8a9f1b7c66d5120fb683c0888bf91b1f81165fdcdce8d1ac82a38187be0acdad0610fbac99e65e631ffb1565cd0046a2c5dc8b22e74822e7d855fef4bb0b7cef91c5c1c76127e05b60f044b0a33f0c2dfeb7e40e083597e00fe1eb533c59eecd04e6fe2aee354534c995ac83a983ed69607d898d9e6ab230322ff4f393eb8c182be512008dcdd1bd99e501e2ee69a77feb30e19c7d0109886ae0ecdd4bb7fb3bff66ab676f9b60e3f9db9493d9ee6105042e90b718293670dc73328628893edbfe2e7b43a6e7b92ad0181f77f9280ba5ed433dbe3645daeeaee35c2bca670991b30596673b8215b65cec8f23cc3918f53e8b71c1c48d1a0a0a6343c822c29d5e86a8e4a3a08819054f28ad261565a17fe6e5095913c9d0e858&x-plex-token=dq2Krszeykim2iP7AX1y&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1717510824
-#EXTINF:-1 tvg-id="" tvg-name="ES| FIGHT TIME SD" tvg-logo="https://www.pikpng.com/pngl/m/105-1057373_fight-time-clipart.png" group-title="DEPORTES PELEAS",PELEAS | ES| FIGHT TIME
+#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/105-1057373_fight-time-clipart.png" group-title="DEPORTES PELEAS",PELEAS | ES| FIGHT TIME
 http://23285346395463949.ofds0328.xyz:80/play/BBS230807/85467BNFGA/463949.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES| FIGHT TIME SD" tvg-logo="https://www.pikpng.com/pngl/m/105-1057373_fight-time-clipart.png" group-title="DEPORTES PELEAS",PELEAS | ES| FIGHT TIME
+#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/105-1057373_fight-time-clipart.png" group-title="DEPORTES PELEAS",PELEAS | ES| FIGHT TIME
 http://23285346395605497.ofds0328.xyz:80/play/BBS230807/85467BNFGA/605497.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES| FIGHT TIME SD" tvg-logo="https://www.pikpng.com/pngl/m/105-1057373_fight-time-clipart.png" group-title="DEPORTES PELEAS",PELEAS | ES| FIGHT TIME
+#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/105-1057373_fight-time-clipart.png" group-title="DEPORTES PELEAS",PELEAS | ES| FIGHT TIME
 http://895056313170706111.0222ofd.xyz:80/play/Victor1023M/Aapamadmf121H/706111.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="DEPORTES PELEAS",PELEAS |  HARD KNOCKS FIGHTING RAKUTEN Tv
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=chromium-webview&ads._fw_device_model=GENERIC&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=0&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=HardKnocks&ads.csid=zeus_eu_hardknocks_ssai&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=1970&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=359&ads.rakuten_streaming_id=f6a6071a-8a85-4e9b-848f-398a163eca7a&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883037&ads.xumo_contentId=212&ads.xumo_contentName=HardKnocks&ads.xumo_ifa=4487cfef-6b05-46d0-96a8-072c35d3a0ea&ads.xumo_ifaType=ppid&ads.xumo_providerId=212&ads.xumo_providerName=HardKnocks&ads.xumo_streamId=88883037
 #EXTINF:-1 tvg-logo="http://whoatv.com/wp-content/uploads/2015/02/GLORY_WS.png" group-title="DEPORTES PELEAS",PELEAS |  GLORY KICKBOXING RAKUTEN TV
 https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=12&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=CPs1kgAPs1kgAADABBESDFCsAP_AAH_AAAAAGfMXZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEDPmKshUuApSwMBQ0AEEAFEAKCAAAQRAAAAgAAQAABAAAEAIAQAAQAAAAAAAAAAAAEAEAAIAAAACAAAAAAAAAAAAEEABAAAAAEAAgAAAAAAAAAAAAAAAAAAAAAAACAAAAQAAgAAgAAAAACAA.YAAAAAAAA4DA&ads.market=es&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=2de90138-a32f-493a-85f7-ee8728ac25bb&ads.rtv_content_id=4843&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=fd85c04f-1760-432d-a599-d8016f78aeb9&ads.user_type=visitor&ads.wurl_channel=1360
-#EXTINF:-1 tvg-ID="" tvg-name="FITE" tvg-logo="https://www.interjoomla.com.ar/wp-content/uploads/2020/02/23.png"group-title="DEPORTES PELEAS",PELEAS | FITE
+#EXTINF:-1 tvg-logo="https://www.interjoomla.com.ar/wp-content/uploads/2020/02/23.png"group-title="DEPORTES PELEAS",PELEAS | FITE
 https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-DistroTV/263.m3u8?ads.dpname=distrotv&ads.islive=1&ads.streamtype=live&ads.vf=20240604
-#EXTINF:-1 tvg-ID="" tvg-name="PFL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Professional_Fighters_League_Primary_Logo.jpg"group-title="DEPORTES PELEAS",PELEAS | PFL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Professional_Fighters_League_Primary_Logo.jpg"group-title="DEPORTES PELEAS",PELEAS | PFL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-ID="" tvg-name="TITAN CHANNEL" tvg-logo="https://fanfan.es/wp-content/uploads/2020/03/Titan-Channel.png"group-title="DEPORTES PELEAS",PELEAS | TITAN CHANNEL
+#EXTINF:-1 tvg-logo="https://fanfan.es/wp-content/uploads/2020/03/Titan-Channel.png"group-title="DEPORTES PELEAS",PELEAS | TITAN CHANNEL
 https://d1n7srh0l93pj6.cloudfront.net/v1/channel/titanchannel_084bdc30-2608-47d8-b1e0-10de28262eb1/dash.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ESP - A3 Series (T)(720)" tvg-logo="http://23.153.216.121:25461/images/32356bb9ff7b4c26ff7030716e870afa.png" group-title="ESPAÑA",ESP - A3 Series (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/32356bb9ff7b4c26ff7030716e870afa.png" group-title="ESPAÑA",ESP - A3 Series (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8137
-#EXTINF:-1 tvg-id="" tvg-name="ESP - A3Series (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/aa72578fb81aa3510cb3ba860b8925cc.png" group-title="ESPAÑA",ESP - A3Series (TV)(1080)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/aa72578fb81aa3510cb3ba860b8925cc.png" group-title="ESPAÑA",ESP - A3Series (TV)(1080)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8138
-#EXTINF:-1 tvg-id="" tvg-name="ESP - AMC (T)(720)" tvg-logo="http://23.153.216.121:25461/images/d0270475abc07f8ccbb549ea4edb89a7.png" group-title="ESPAÑA",ESP - AMC (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/d0270475abc07f8ccbb549ea4edb89a7.png" group-title="ESPAÑA",ESP - AMC (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8139
-#EXTINF:-1 tvg-id="" tvg-name="ESP - AMC (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/e2c26deb02e0c7fc77a8028e3955dec6.png" group-title="ESPAÑA",ESP - AMC (TV)(1080)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/e2c26deb02e0c7fc77a8028e3955dec6.png" group-title="ESPAÑA",ESP - AMC (TV)(1080)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8140
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Antena 3 (T)(720)" tvg-logo="http://23.153.216.121:25461/images/632eec2fd4020aac30f813b4dc6ab6cc.png" group-title="ESPAÑA",ESP - Antena 3 (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/632eec2fd4020aac30f813b4dc6ab6cc.png" group-title="ESPAÑA",ESP - Antena 3 (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8141
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Antena 3 (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/1e8f07d9a4c42c05615fafe9ae6c2060.png" group-title="ESPAÑA",ESP - Antena 3 (TV)(1080)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/1e8f07d9a4c42c05615fafe9ae6c2060.png" group-title="ESPAÑA",ESP - Antena 3 (TV)(1080)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8142
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Antena 3 Internacional (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/70d0c97078cc29a450de49c7a4e4d2f6.png" group-title="ESPAÑA",ESP - Antena 3 Internacional (TV)(1080)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/70d0c97078cc29a450de49c7a4e4d2f6.png" group-title="ESPAÑA",ESP - Antena 3 Internacional (TV)(1080)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8143
-#EXTINF:-1 tvg-id="" tvg-name="ESP - AXN (T)(720)" tvg-logo="http://23.153.216.121:25461/images/4f5aac35ad510cf89b65302bfbf84a7c.png" group-title="ESPAÑA",ESP - AXN (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/4f5aac35ad510cf89b65302bfbf84a7c.png" group-title="ESPAÑA",ESP - AXN (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8144
-#EXTINF:-1 tvg-id="" tvg-name="ESP - AXN White (T)(720)" tvg-logo="http://23.153.216.121:25461/images/79d1b3daeb59329bcea4aaca1a8a8186.png" group-title="ESPAÑA",ESP - AXN White (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/79d1b3daeb59329bcea4aaca1a8a8186.png" group-title="ESPAÑA",ESP - AXN White (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8145
-#EXTINF:-1 tvg-id="" tvg-name="ESP - AXN White (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/9051a0a08d3c5d5390a485b47d3102d0.png" group-title="ESPAÑA",ESP - AXN White (TV)(1080)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/9051a0a08d3c5d5390a485b47d3102d0.png" group-title="ESPAÑA",ESP - AXN White (TV)(1080)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8146
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Baby TV (T)(720)" tvg-logo="http://23.153.216.121:25461/images/95171258279507cbae7495dac7cd46bd.png" group-title="ESPAÑA",ESP - Baby TV (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/95171258279507cbae7495dac7cd46bd.png" group-title="ESPAÑA",ESP - Baby TV (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8147
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Baby TV (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/ccb03048ba6ad47bdbd8b94fc80aca84.png" group-title="ESPAÑA",ESP - Baby TV (TV)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/ccb03048ba6ad47bdbd8b94fc80aca84.png" group-title="ESPAÑA",ESP - Baby TV (TV)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8148
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Barca TV (T)(720)" tvg-logo="http://23.153.216.121:25461/images/86a892c3e955eafb4f58bb24b5882113.png" group-title="ESPAÑA",ESP - Barca TV (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/86a892c3e955eafb4f58bb24b5882113.png" group-title="ESPAÑA",ESP - Barca TV (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8149
-#EXTINF:-1 tvg-id="" tvg-name="ESP - BE MAD (T)(720)" tvg-logo="http://23.153.216.121:25461/images/61d6a0e782781e9babb324dd383b53e3.png" group-title="ESPAÑA",ESP - BE MAD (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/61d6a0e782781e9babb324dd383b53e3.png" group-title="ESPAÑA",ESP - BE MAD (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8150
-#EXTINF:-1 tvg-id="" tvg-name="ESP - BeMad (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/8a45b4a43167bcbf78de7a1faeebe876.png" group-title="ESPAÑA",ESP - BeMad (TV)(1080)
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Eurosport 1 (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/5019948ec61d43f5f92858f06537aef1.png" group-title="ESPAÑA",ESP - Eurosport 1 (TV)(720)
+
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/5019948ec61d43f5f92858f06537aef1.png" group-title="ESPAÑA",ESP - Eurosport 1 (TV)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8180
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Eurosport 2 (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/111256bc3d526aa689154822101f20a3.png" group-title="ESPAÑA",ESP - Eurosport 2 (TV)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/111256bc3d526aa689154822101f20a3.png" group-title="ESPAÑA",ESP - Eurosport 2 (TV)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8181
-#EXTINF:-1 tvg-id="" tvg-name="ESP - FDF (T)(720)" tvg-logo="http://23.153.216.121:25461/images/26b8c9ff1bb985322a240437344b7caa.png" group-title="ESPAÑA",ESP - FDF (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/26b8c9ff1bb985322a240437344b7caa.png" group-title="ESPAÑA",ESP - FDF (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8182
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Fox (T)(720)" tvg-logo="http://23.153.216.121:25461/images/20b215eb868b546d78ce05a38b8064bd.png" group-title="ESPAÑA",ESP - Fox (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/20b215eb868b546d78ce05a38b8064bd.png" group-title="ESPAÑA",ESP - Fox (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8183
-#EXTINF:-1 tvg-id="Fox.News.es" tvg-name="ESP - FOX (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/a3858b06ff523f060f481eb4ac287334.png" group-title="ESPAÑA",ESP - FOX (TV)(1080)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/a3858b06ff523f060f481eb4ac287334.png" group-title="ESPAÑA",ESP - FOX (TV)(1080)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8184
-#EXTINF:-1 tvg-id="" tvg-name="ESP - FOX Life (T)(720)" tvg-logo="http://23.153.216.121:25461/images/2d9102ee2f4eee4a648286168a5503d5.png" group-title="ESPAÑA",ESP - FOX Life (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/2d9102ee2f4eee4a648286168a5503d5.png" group-title="ESPAÑA",ESP - FOX Life (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8185
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Fox News (T)(720)" tvg-logo="http://23.153.216.121:25461/images/9293b5c3d1813904ab149521b67ae7c3.png" group-title="ESPAÑA",ESP - Fox News (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/9293b5c3d1813904ab149521b67ae7c3.png" group-title="ESPAÑA",ESP - Fox News (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8186
-#EXTINF:-1 tvg-id="" tvg-name="ESP - GOL (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/7fd69a57aa39430953380549ec247b4a.png" group-title="ESPAÑA",ESP - GOL (TV)(1080)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/7fd69a57aa39430953380549ec247b4a.png" group-title="ESPAÑA",ESP - GOL (TV)(1080)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8187
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Historia (T)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015.png" group-title="ESPAÑA",ESP - Historia (T)(720)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015.png" group-title="ESPAÑA",ESP - Historia (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8188
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Historia (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/b47dfa54e4944f390fe0f821a4953ab1.png" group-title="ESPAÑA",ESP - Historia (TV)(1080)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/b47dfa54e4944f390fe0f821a4953ab1.png" group-title="ESPAÑA",ESP - Historia (TV)(1080)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8189
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Hollywood (T)(720)" tvg-logo="http://23.153.216.121:25461/images/b4ef4a64eea099afbb31385e306fce95.png" group-title="ESPAÑA",ESP - Hollywood (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/b4ef4a64eea099afbb31385e306fce95.png" group-title="ESPAÑA",ESP - Hollywood (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8190
-#EXTINF:-1 tvg-id="" tvg-name="ESP - LA 1 (T)(720)" tvg-logo="http://23.153.216.121:25461/images/920381108317386d5faa0f842a5366dc.png" group-title="ESPAÑA",ESP - LA 1 (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/920381108317386d5faa0f842a5366dc.png" group-title="ESPAÑA",ESP - LA 1 (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8191
-#EXTINF:-1 tvg-id="" tvg-name="ESP - La 1 (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/a924160875308aca0b0c65016cc520ee.png" group-title="ESPAÑA",ESP - La 1 (TV)(1080)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/a924160875308aca0b0c65016cc520ee.png" group-title="ESPAÑA",ESP - La 1 (TV)(1080)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8192
-#EXTINF:-1 tvg-id="" tvg-name="ESP - La 2 (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/90ecf40ad33b1bd3f632b06e297c8615.png" group-title="ESPAÑA",ESP - La 2 (TV)(1080)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/90ecf40ad33b1bd3f632b06e297c8615.png" group-title="ESPAÑA",ESP - La 2 (TV)(1080)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8193
-#EXTINF:-1 tvg-id="" tvg-name="ESP - La Sexta (T)(720)" tvg-logo="http://23.153.216.121:25461/images/966ee4301686bd3293f32284a44274d5.png" group-title="ESPAÑA",ESP - La Sexta (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/966ee4301686bd3293f32284a44274d5.png" group-title="ESPAÑA",ESP - La Sexta (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8194
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Accion (T)(720)" tvg-logo="http://23.153.216.121:25461/images/7bbd7aabc64b8cb5fc41afdeb259780c.png" group-title="ESPAÑA",ESP - Movistar Accion (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/7bbd7aabc64b8cb5fc41afdeb259780c.png" group-title="ESPAÑA",ESP - Movistar Accion (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8206
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar CINE N (T)(720)" tvg-logo="http://23.153.216.121:25461/images/2c4fa2e6c94f4ae770bbb3f8179a940a.png" group-title="ESPAÑA",ESP - Movistar CINE N (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/2c4fa2e6c94f4ae770bbb3f8179a940a.png" group-title="ESPAÑA",ESP - Movistar CINE N (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8207
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Comedia (T)(720)" tvg-logo="http://23.153.216.121:25461/images/55affa621060decf75fcd4fa73550c2d.png" group-title="ESPAÑA",ESP - Movistar Comedia (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/55affa621060decf75fcd4fa73550c2d.png" group-title="ESPAÑA",ESP - Movistar Comedia (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8208
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Disney (T)(720)" tvg-logo="http://23.153.216.121:25461/images/e2b44c8908559da092950702153566ee.png" group-title="ESPAÑA",ESP - Movistar Disney (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/e2b44c8908559da092950702153566ee.png" group-title="ESPAÑA",ESP - Movistar Disney (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8209
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Drama (T)(720)" tvg-logo="http://23.153.216.121:25461/images/5cfc1a07ef39ebc77976214950688132.png" group-title="ESPAÑA",ESP - Movistar Drama (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/5cfc1a07ef39ebc77976214950688132.png" group-title="ESPAÑA",ESP - Movistar Drama (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8210
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Estrenos (T)(720)" tvg-logo="http://23.153.216.121:25461/images/3c2cb700b87231ae33e6d2f1f2548d82.png" group-title="ESPAÑA",ESP - Movistar Estrenos (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/3c2cb700b87231ae33e6d2f1f2548d82.png" group-title="ESPAÑA",ESP - Movistar Estrenos (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8211
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Formula 1 (T)(720)" tvg-logo="http://23.153.216.121:25461/images/898c31c2c6c5405d3b99db2d00a776da.png" group-title="ESPAÑA",ESP - Movistar Formula 1 (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/898c31c2c6c5405d3b99db2d00a776da.png" group-title="ESPAÑA",ESP - Movistar Formula 1 (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8212
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Liga Campeones (T)(720)" tvg-logo="http://23.153.216.121:25461/images/c46dc330bf804aaca0ff4c8a95bf6abe.png" group-title="ESPAÑA",ESP - Movistar Liga Campeones (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/c46dc330bf804aaca0ff4c8a95bf6abe.png" group-title="ESPAÑA",ESP - Movistar Liga Campeones (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8213
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Serie (T)(720)" tvg-logo="http://23.153.216.121:25461/images/b73d774dc28822a76de3d5575237cb7e.png" group-title="ESPAÑA",ESP - Movistar Serie (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/b73d774dc28822a76de3d5575237cb7e.png" group-title="ESPAÑA",ESP - Movistar Serie (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8214
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Seriesmania (T)(720)" tvg-logo="http://23.153.216.121:25461/images/9a34c9e2f92b2363956f83999bbc4925.png" group-title="ESPAÑA",ESP - Movistar Seriesmania (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/9a34c9e2f92b2363956f83999bbc4925.png" group-title="ESPAÑA",ESP - Movistar Seriesmania (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8215
-#EXTINF:-1 tvg-id="" tvg-name="ESP - MTV España (T)(720)" tvg-logo="http://23.153.216.121:25461/images/7dff1d0cc8d6860736984de360d87472.png" group-title="ESPAÑA",ESP - MTV España (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/7dff1d0cc8d6860736984de360d87472.png" group-title="ESPAÑA",ESP - MTV España (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8216
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Mundo Toros (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/227318f510fb320fafbdac770f16dcb4.png" group-title="ESPAÑA",ESP - Mundo Toros (TV)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/227318f510fb320fafbdac770f16dcb4.png" group-title="ESPAÑA",ESP - Mundo Toros (TV)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8217
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Nat Geo Wild (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/5102ce3be98d74f57156e462a208ae35.png" group-title="ESPAÑA",ESP - Nat Geo Wild (TV)(1080)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/5102ce3be98d74f57156e462a208ae35.png" group-title="ESPAÑA",ESP - Nat Geo Wild (TV)(1080)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8218
-#EXTINF:-1 tvg-id="" tvg-name="ESP - National Geo Wild (T)(720)" tvg-logo="http://23.153.216.121:25461/images/4a174ebf45271ae9bf870179676de153.png" group-title="ESPAÑA",ESP - National Geo Wild (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/4a174ebf45271ae9bf870179676de153.png" group-title="ESPAÑA",ESP - National Geo Wild (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8219
-#EXTINF:-1 tvg-id="" tvg-name="ESP - National Geographic (T)(720)" tvg-logo="http://23.153.216.121:25461/images/665009c30f9c9e343c0fd675e0d20826.png" group-title="ESPAÑA",ESP - National Geographic (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/665009c30f9c9e343c0fd675e0d20826.png" group-title="ESPAÑA",ESP - National Geographic (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8220
-#EXTINF:-1 tvg-id="" tvg-name="ESP - National Geographic (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/3123d9e8a5ac317c848d30fdfe79022e.png" group-title="ESPAÑA",ESP - National Geographic (TV)(1080)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/3123d9e8a5ac317c848d30fdfe79022e.png" group-title="ESPAÑA",ESP - National Geographic (TV)(1080)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8221
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Neox (T)(720)" tvg-logo="http://23.153.216.121:25461/images/c9590aef9aa36f389d8e59ca404631c1.png" group-title="ESPAÑA",ESP - Neox (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/c9590aef9aa36f389d8e59ca404631c1.png" group-title="ESPAÑA",ESP - Neox (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8222
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Neox (TV)(SD)" tvg-logo="http://23.153.216.121:25461/images/4bd915ca6138751f28c472db3d6b3f5e.png" group-title="ESPAÑA",ESP - Neox (TV)(SD)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/4bd915ca6138751f28c472db3d6b3f5e.png" group-title="ESPAÑA",ESP - Neox (TV)(SD)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8223
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Nickelodeon (T)(720)" tvg-logo="http://23.153.216.121:25461/images/c3aa1664ce427bd89fce33abc91a9f61.png" group-title="ESPAÑA",ESP - Nickelodeon (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/c3aa1664ce427bd89fce33abc91a9f61.png" group-title="ESPAÑA",ESP - Nickelodeon (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8225
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Nickelodeon (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/80422e9a138487b496a13e04533e2b32.png" group-title="ESPAÑA",ESP - Nickelodeon (TV)(1080)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/80422e9a138487b496a13e04533e2b32.png" group-title="ESPAÑA",ESP - Nickelodeon (TV)(1080)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8226
-#EXTINF:-1 tvg-id="" tvg-name="ESP - NOVA (T)(720)" tvg-logo="http://23.153.216.121:25461/images/2c30c050b55c99b5cb8b0f4299daceb7.png" group-title="ESPAÑA",ESP - NOVA (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/2c30c050b55c99b5cb8b0f4299daceb7.png" group-title="ESPAÑA",ESP - NOVA (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8227
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Odisea (T)(720)" tvg-logo="http://23.153.216.121:25461/images/831576acd585fbe847690893b643f0db.png" group-title="ESPAÑA",ESP - Odisea (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/831576acd585fbe847690893b643f0db.png" group-title="ESPAÑA",ESP - Odisea (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8228
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Odisea (TV)(720)" tvg-logo="http://tvgolatino.com:8080/images/c7e1a13ded82ddb8c09500522b443ffd.png" group-title="ESPAÑA",ESP - Odisea (TV)(720)
+#EXTINF:-1 tvg-logo="http://tvgolatino.com:8080/images/c7e1a13ded82ddb8c09500522b443ffd.png" group-title="ESPAÑA",ESP - Odisea (TV)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8229
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Panda (T)(720)" tvg-logo="http://23.153.216.121:25461/images/3e40ffcca2a96b072bf9953b84c3a4bc.png" group-title="ESPAÑA",ESP - Panda (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/3e40ffcca2a96b072bf9953b84c3a4bc.png" group-title="ESPAÑA",ESP - Panda (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8230
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Paramount Channel (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/1ee9fef6d5c6cc7c7917ea651f59673c.png" group-title="ESPAÑA",ESP - Paramount Channel (TV)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/1ee9fef6d5c6cc7c7917ea651f59673c.png" group-title="ESPAÑA",ESP - Paramount Channel (TV)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8231
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Real Madrid TV (TV)(1080)" tvg-logo="" group-title="ESPAÑA",ESP - Real Madrid TV (TV)(1080)
+#EXTINF:-1 tvg-logo="" group-title="ESPAÑA",ESP - Real Madrid TV (TV)(1080)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8232
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Series Mania (T)(720)" tvg-logo="http://23.153.216.121:25461/images/85e47ac07ac9d6416168a97e33fa969a.png" group-title="ESPAÑA",ESP - Series Mania (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/85e47ac07ac9d6416168a97e33fa969a.png" group-title="ESPAÑA",ESP - Series Mania (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8233
-#EXTINF:-1 tvg-id="" tvg-name="ESP - SOMOS (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/34ee1df0c9b3ce9f185e5a79391bcf1b.png" group-title="ESPAÑA",ESP - SOMOS (TV)(1080)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/34ee1df0c9b3ce9f185e5a79391bcf1b.png" group-title="ESPAÑA",ESP - SOMOS (TV)(1080)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8234
-#EXTINF:-1 tvg-id="" tvg-name="ESP - SYFY (T)(720)" tvg-logo="http://23.153.216.121:25461/images/4e4071f4cd28a46f125d77df8521361f.png" group-title="ESPAÑA",ESP - SYFY (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/4e4071f4cd28a46f125d77df8521361f.png" group-title="ESPAÑA",ESP - SYFY (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8236
-#EXTINF:-1 tvg-id="" tvg-name="ESP - SyFy (TV)(1080)" tvg-logo="" group-title="ESPAÑA",ESP - SyFy (TV)(1080)
+#EXTINF:-1 tvg-logo="" group-title="ESPAÑA",ESP - SyFy (TV)(1080)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8237
-#EXTINF:-1 tvg-id="" tvg-name="ESP - TCM (T)(720)" tvg-logo="http://23.153.216.121:25461/images/ab22d6a801ba0d63ff0e603c43db7e76.png" group-title="ESPAÑA",ESP - TCM (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/ab22d6a801ba0d63ff0e603c43db7e76.png" group-title="ESPAÑA",ESP - TCM (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8238
-#EXTINF:-1 tvg-id="" tvg-name="ESP - TCM (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/0b40af06d362dd88373a2c0e2b81c265.png" group-title="ESPAÑA",ESP - TCM (TV)(1080)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/0b40af06d362dd88373a2c0e2b81c265.png" group-title="ESPAÑA",ESP - TCM (TV)(1080)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8239
-#EXTINF:-1 tvg-id="" tvg-name="ESP - TeleCinco (T)(720)" tvg-logo="http://23.153.216.121:25461/images/2d2024ab719bece688ccd21240e45e2f.png" group-title="ESPAÑA",ESP - TeleCinco (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/2d2024ab719bece688ccd21240e45e2f.png" group-title="ESPAÑA",ESP - TeleCinco (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8240
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Telecinco (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/f20b260961505a415a3a1f11f8c06aad.png" group-title="ESPAÑA",ESP - Telecinco (TV)(1080)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/f20b260961505a415a3a1f11f8c06aad.png" group-title="ESPAÑA",ESP - Telecinco (TV)(1080)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8241
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Telecinco (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/f20b260961505a415a3a1f11f8c06aad.png" group-title="ESPAÑA",ESP - Telecinco (TV)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/f20b260961505a415a3a1f11f8c06aad.png" group-title="ESPAÑA",ESP - Telecinco (TV)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8242
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Teledeporte (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/dca55d4c00daa95a5856ecc9530fbc0d.png" group-title="ESPAÑA",ESP - Teledeporte (TV)(1080)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/dca55d4c00daa95a5856ecc9530fbc0d.png" group-title="ESPAÑA",ESP - Teledeporte (TV)(1080)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8243
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Telemadrid (T)(720)" tvg-logo="http://23.153.216.121:25461/images/250e01c587c957fbcc2e0179c4d8c5b9.png" group-title="ESPAÑA",ESP - Telemadrid (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/250e01c587c957fbcc2e0179c4d8c5b9.png" group-title="ESPAÑA",ESP - Telemadrid (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8244
-#EXTINF:-1 tvg-id="" tvg-name="ESP - TNT (T)(720)" tvg-logo="http://23.153.216.121:25461/images/29ed79faacf6fd7316b87044a5668027.png" group-title="ESPAÑA",ESP - TNT (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/29ed79faacf6fd7316b87044a5668027.png" group-title="ESPAÑA",ESP - TNT (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8245
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Toro Ole (T)(720)" tvg-logo="http://23.153.216.121:25461/images/cf6d3b5f65f89ff5732e111b4ebaefa4.png" group-title="ESPAÑA",ESP - Toro Ole (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/cf6d3b5f65f89ff5732e111b4ebaefa4.png" group-title="ESPAÑA",ESP - Toro Ole (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8246
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Trece TV (T)(720)" tvg-logo="http://23.153.216.121:25461/images/391b54d75370bbe901b402b9cb86aaa2.png" group-title="ESPAÑA",ESP - Trece TV (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/391b54d75370bbe901b402b9cb86aaa2.png" group-title="ESPAÑA",ESP - Trece TV (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8247
-#EXTINF:-1 tvg-id="" tvg-name="ESP - TVE (T)(720)" tvg-logo="http://23.153.216.121:25461/images/8614bac42432e2898d3c4f5472a2a08d.png" group-title="ESPAÑA",ESP - TVE (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/8614bac42432e2898d3c4f5472a2a08d.png" group-title="ESPAÑA",ESP - TVE (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8248
-#EXTINF:-1 tvg-id="" tvg-name="ESP - TVE 24H (T)(720)" tvg-logo="http://23.153.216.121:25461/images/8279a99cd0db3d4380937e0129fde508.png" group-title="ESPAÑA",ESP - TVE 24H (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/8279a99cd0db3d4380937e0129fde508.png" group-title="ESPAÑA",ESP - TVE 24H (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8249
-#EXTINF:-1 tvg-id="" tvg-name="ESP - TVE LA 1 (T)(720)" tvg-logo="http://23.153.216.121:25461/images/920381108317386d5faa0f842a5366dc.png" group-title="ESPAÑA",ESP - TVE LA 1 (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/920381108317386d5faa0f842a5366dc.png" group-title="ESPAÑA",ESP - TVE LA 1 (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8251
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Viajar (T)(720)" tvg-logo="http://23.153.216.121:25461/images/f13ce0bce4a5aaf0810c5baf9e5db802.png" group-title="ESPAÑA",ESP - Viajar (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/f13ce0bce4a5aaf0810c5baf9e5db802.png" group-title="ESPAÑA",ESP - Viajar (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8252
-#EXTINF:-1 tvg-id="" tvg-name="ESP - XTRM (T)(720)" tvg-logo="http://23.153.216.121:25461/images/dbc2f59fb7c914df09eb59865b083c4b.png" group-title="ESPAÑA",ESP - XTRM (T)(720)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/dbc2f59fb7c914df09eb59865b083c4b.png" group-title="ESPAÑA",ESP - XTRM (T)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8253
-#EXTINF:-1 tvg-id="" tvg-name="ESP - XTRM (TV)(1080)" tvg-logo="" group-title="ESPAÑA",ESP - XTRM (TV)(1080)
+#EXTINF:-1 tvg-logo="" group-title="ESPAÑA",ESP - XTRM (TV)(1080)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8254
-#EXTINF:-1 tvg-id="" tvg-name="CA: CP24 (TV)(HD)" tvg-logo="" group-title="CANADA PREMIUM",CA: CP24 (TV)(HD)
+#EXTINF:-1 tvg-logo="" group-title="CANADA PREMIUM",CA: CP24 (TV)(HD)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/7959
-#EXTINF:-1 tvg-id="" tvg-name="CAN-CBS Newjersey (L)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/CBS.png" group-title="CANADA PREMIUM",CAN-CBS Newjersey (L)
+#EXTINF:-1 tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/CBS.png" group-title="CANADA PREMIUM",CAN-CBS Newjersey (L)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/7961
-#EXTINF:-1 tvg-id="" tvg-name="CAN-CBS Utah (L)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/CBS.png" group-title="CANADA PREMIUM",CAN-CBS Utah (L)
+#EXTINF:-1 tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/CBS.png" group-title="CANADA PREMIUM",CAN-CBS Utah (L)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/7962
-#EXTINF:-1 tvg-id="" tvg-name="CAN-CITY TV HD (L)" tvg-logo="http://23.153.216.121:25461/images/6edbd94d99e17ccfb294a78dd017eea9.png" group-title="CANADA PREMIUM",CAN-CITY TV HD (L)
+#EXTINF:-1 tvg-logo="http://23.153.216.121:25461/images/6edbd94d99e17ccfb294a78dd017eea9.png" group-title="CANADA PREMIUM",CAN-CITY TV HD (L)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/7963
-#EXTINF:-1 tvg-id="" tvg-name="CAN-CNN  HD (L)" tvg-logo="http://live.detodotvplay.com:8080/images/9aecccf3b71b078328364882ab2820a1.png" group-title="CANADA PREMIUM",CAN-CNN  HD (L)
+#EXTINF:-1 tvg-logo="http://live.detodotvplay.com:8080/images/9aecccf3b71b078328364882ab2820a1.png" group-title="CANADA PREMIUM",CAN-CNN  HD (L)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/7964
-#EXTINF:-1 tvg-id="" tvg-name="FOX Colorado (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Colorado (L)(720)
+#EXTINF:-1 tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Colorado (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10720
-#EXTINF:-1 tvg-id="" tvg-name="FOX Minnesota (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Minnesota (L)(720)
+#EXTINF:-1 tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Minnesota (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10721
-#EXTINF:-1 tvg-id="" tvg-name="FOX Northcarolina (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Northcarolina (L)(720)
+#EXTINF:-1 tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Northcarolina (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10722
-#EXTINF:-1 tvg-id="" tvg-name="FOX Ohio (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Ohio (L)(720)
+#EXTINF:-1 tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Ohio (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10723
-#EXTINF:-1 tvg-id="" tvg-name="FOX Oklahoma (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Oklahoma (L)(720)
+#EXTINF:-1 tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Oklahoma (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10724
-#EXTINF:-1 tvg-id="" tvg-name="FOX Pennsylvania (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Pennsylvania (L)(720)
+#EXTINF:-1 tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Pennsylvania (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10725
-#EXTINF:-1 tvg-id="" tvg-name="FOX South Carolina (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX South Carolina (L)(720)
+#EXTINF:-1 tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX South Carolina (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10726
-#EXTINF:-1 tvg-id="" tvg-name="LAT | FOX NEWS (L)(720)" tvg-logo="https://logos.xbots.com.mx/41086.png" group-title="USA-NEWS/MISC",LAT | FOX NEWS (L)(720)
+#EXTINF:-1 tvg-logo="https://logos.xbots.com.mx/41086.png" group-title="USA-NEWS/MISC",LAT | FOX NEWS (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10727
-#EXTINF:-1 tvg-id="" tvg-name="USA-Fox 23 Tulsa (L)(720)" tvg-logo="https://cmg-cmg-tv-10100-prod.cdn.arcpublishing.com/pf/resources/images/sites/cmg-tv-10100/station-logo.png" group-title="USA-NEWS/MISC",USA-Fox 23 Tulsa (L)(720)
+#EXTINF:-1 tvg-logo="https://cmg-cmg-tv-10100-prod.cdn.arcpublishing.com/pf/resources/images/sites/cmg-tv-10100/station-logo.png" group-title="USA-NEWS/MISC",USA-Fox 23 Tulsa (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10775
-#EXTINF:-1 tvg-id="" tvg-name="USA-FOX 25 | Boston (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/2af90b9c0c1d3e6b147d6c03502a8d2f.png" group-title="USA-NEWS/MISC",USA-FOX 25 | Boston (L)(720)
+#EXTINF:-1 tvg-logo="http://live.detodotvplay.com:8080/images/2af90b9c0c1d3e6b147d6c03502a8d2f.png" group-title="USA-NEWS/MISC",USA-FOX 25 | Boston (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10776
-#EXTINF:-1 tvg-id="" tvg-name="USA-Fox 26 Fresno (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/LOGO_KMPH_FOX26_solid_calls_blu.png/1200px-LOGO_KMPH_FOX26_solid_calls_blu.png" group-title="USA-NEWS/MISC",USA-Fox 26 Fresno (L)(720)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/LOGO_KMPH_FOX26_solid_calls_blu.png/1200px-LOGO_KMPH_FOX26_solid_calls_blu.png" group-title="USA-NEWS/MISC",USA-Fox 26 Fresno (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10777
-#EXTINF:-1 tvg-id="" tvg-name="USA-FOX 26 Houston  (L)(720)" tvg-logo="https://paul-daugherty.com/wp-content/uploads/2018/04/Fox-26-Houston.png" group-title="USA-NEWS/MISC",USA-FOX 26 Houston  (L)(720)
+#EXTINF:-1 tvg-logo="https://paul-daugherty.com/wp-content/uploads/2018/04/Fox-26-Houston.png" group-title="USA-NEWS/MISC",USA-FOX 26 Houston  (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10778
-#EXTINF:-1 tvg-id="" tvg-name="USA-FOX 28 Columbus (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/WTTE_logo_2021.png" group-title="USA-NEWS/MISC",USA-FOX 28 Columbus (L)(720)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/WTTE_logo_2021.png" group-title="USA-NEWS/MISC",USA-FOX 28 Columbus (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10779
-#EXTINF:-1 tvg-id="" tvg-name="USA-FOX 29 Philadelphia (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fts-philadelphia-a.svg/1200px-Fts-philadelphia-a.svg.png" group-title="USA-NEWS/MISC",USA-FOX 29 Philadelphia (L)(720)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fts-philadelphia-a.svg/1200px-Fts-philadelphia-a.svg.png" group-title="USA-NEWS/MISC",USA-FOX 29 Philadelphia (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10780
-#EXTINF:-1 tvg-id="" tvg-name="USA-FOX 32 Chicago (L)(720)" tvg-logo="https://yt3.ggpht.com/qr9I-WMPoZqn1PsAzy-JouQiyB3mqCsnk-aRWd5dcOwr-aMzytODm9mVgFf0mtDLhSUsEzADSOA=ns-nd" group-title="USA-NEWS/MISC",USA-FOX 32 Chicago (L)(720)
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/qr9I-WMPoZqn1PsAzy-JouQiyB3mqCsnk-aRWd5dcOwr-aMzytODm9mVgFf0mtDLhSUsEzADSOA=ns-nd" group-title="USA-NEWS/MISC",USA-FOX 32 Chicago (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10781
-#EXTINF:-1 tvg-id="" tvg-name="USA-FOX 35 Orlando (L)(720)" tvg-logo="https://yt3.ggpht.com/qr9I-WMPoZqn1PsAzy-JouQiyB3mqCsnk-aRWd5dcOwr-aMzytODm9mVgFf0mtDLhSUsEzADSOA=ns-nd" group-title="USA-NEWS/MISC",USA-FOX 35 Orlando (L)(720)
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/qr9I-WMPoZqn1PsAzy-JouQiyB3mqCsnk-aRWd5dcOwr-aMzytODm9mVgFf0mtDLhSUsEzADSOA=ns-nd" group-title="USA-NEWS/MISC",USA-FOX 35 Orlando (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10782
-#EXTINF:-1 tvg-id="" tvg-name="USA-FOX 5 | New York (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-York-a.svg/1200px-Fts-new-York-a.svg.png" group-title="USA-NEWS/MISC",USA-FOX 5 | New York (L)(720)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-York-a.svg/1200px-Fts-new-York-a.svg.png" group-title="USA-NEWS/MISC",USA-FOX 5 | New York (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10783
-#EXTINF:-1 tvg-id="" tvg-name="USA-FOX Business Network (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/1200px-Fox_Business.svg.png" group-title="USA-NEWS/MISC",USA-FOX Business Network (L)(720)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/1200px-Fox_Business.svg.png" group-title="USA-NEWS/MISC",USA-FOX Business Network (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10784
-#EXTINF:-1 tvg-id="" tvg-name="USA-AT&T SportsNet Pitsburgh (L)(720)" tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/842/2017/06/09205755/att-pitts-splash.png" group-title="USA-SPORTS",USA-AT&T SportsNet Pitsburgh (L)(720)
+#EXTINF:-1 tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/842/2017/06/09205755/att-pitts-splash.png" group-title="USA-SPORTS",USA-AT&T SportsNet Pitsburgh (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10804
-#EXTINF:-1 tvg-id="" tvg-name="USA-AT&T SportsNet Southwest (L)(720)" tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/843/2017/06/09210052/att-sw-splash.png" group-title="USA-SPORTS",USA-AT&T SportsNet Southwest (L)(720)
+#EXTINF:-1 tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/843/2017/06/09210052/att-sw-splash.png" group-title="USA-SPORTS",USA-AT&T SportsNet Southwest (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10805
-#EXTINF:-1 tvg-id="" tvg-name="USA-BEIN Sports (L)(720)" tvg-logo="https://nunchee-fxassets-prod.s3.amazonaws.com/out/5c785b6a93ac5824646c67f4/original/square/25.png" group-title="USA-SPORTS",USA-BEIN Sports (L)(720)
+#EXTINF:-1 tvg-logo="https://nunchee-fxassets-prod.s3.amazonaws.com/out/5c785b6a93ac5824646c67f4/original/square/25.png" group-title="USA-SPORTS",USA-BEIN Sports (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10806
-#EXTINF:-1 tvg-id="" tvg-name="USA-BEIN Sports 4 (L)(720)" tvg-logo="https://cdn.bein.net/nz/wp-content/uploads/2016/05/beIN-Sports-logo-4-1024x389.png" group-title="USA-SPORTS",USA-BEIN Sports 4 (L)(720)
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/nz/wp-content/uploads/2016/05/beIN-Sports-logo-4-1024x389.png" group-title="USA-SPORTS",USA-BEIN Sports 4 (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10807
-#EXTINF:-1 tvg-id="" tvg-name="USA-BEIN Sports 5 (L)(720)" tvg-logo="https://cdn.bein.net/nz/wp-content/uploads/2016/05/beIN-Sports-logo-5-1024x389.png" group-title="USA-SPORTS",USA-BEIN Sports 5 (L)(720)
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/nz/wp-content/uploads/2016/05/beIN-Sports-logo-5-1024x389.png" group-title="USA-SPORTS",USA-BEIN Sports 5 (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10808
-#EXTINF:-1 tvg-id="" tvg-name="USA-BEIN Sports 6 (L)(720)" tvg-logo="https://i.pinimg.com/originals/07/28/ef/0728ef60ccc6fb3252a427bda2050009.png" group-title="USA-SPORTS",USA-BEIN Sports 6 (L)(720)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/07/28/ef/0728ef60ccc6fb3252a427bda2050009.png" group-title="USA-SPORTS",USA-BEIN Sports 6 (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10809
-#EXTINF:-1 tvg-id="" tvg-name="USA-BEIN Sports 7 (L)(720)" tvg-logo="https://video.toggle.sg/image/10607094/16x9/947/533/7e72b84cee8ed6382e680e7b2c49935b/St/bein-Sports-max-7.png" group-title="USA-SPORTS",USA-BEIN Sports 7 (L)(720)
+#EXTINF:-1 tvg-logo="https://video.toggle.sg/image/10607094/16x9/947/533/7e72b84cee8ed6382e680e7b2c49935b/St/bein-Sports-max-7.png" group-title="USA-SPORTS",USA-BEIN Sports 7 (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10810
-#EXTINF:-1 tvg-id="" tvg-name="USA-BEIN Sports 8 (L)(720)" tvg-logo="https://nunchee-fxassets-prod.s3.amazonaws.com/out/5c86e6d5a775d3246996a182/original/square/25.png" group-title="USA-SPORTS",USA-BEIN Sports 8 (L)(720)
+#EXTINF:-1 tvg-logo="https://nunchee-fxassets-prod.s3.amazonaws.com/out/5c86e6d5a775d3246996a182/original/square/25.png" group-title="USA-SPORTS",USA-BEIN Sports 8 (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10811
-#EXTINF:-1 tvg-id="" tvg-name="USA-BEIN Sports XTRA (L)(720)" tvg-logo="https://www.beinSportsxtra.com/images/icons/logo/beIN-Sports-XTRA_LOGO.png" group-title="USA-SPORTS",USA-BEIN Sports XTRA (L)(720)
+#EXTINF:-1 tvg-logo="https://www.beinSportsxtra.com/images/icons/logo/beIN-Sports-XTRA_LOGO.png" group-title="USA-SPORTS",USA-BEIN Sports XTRA (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10812
-#EXTINF:-1 tvg-id="" tvg-name="USA-Fox Deportes (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1280px-FOX_Deportes_logo.svg.png" group-title="USA-SPORTS",USA-Fox Deportes (L)(720)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1280px-FOX_Deportes_logo.svg.png" group-title="USA-SPORTS",USA-Fox Deportes (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10813
-#EXTINF:-1 tvg-id="" tvg-name="USA-FS1 (L)(720)" tvg-logo="https://www.clipartmax.com/png/full/233-2332507_fox-Sports-fs1-logo-white.png" group-title="USA-SPORTS",USA-FS1 (L)(720)
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/233-2332507_fox-Sports-fs1-logo-white.png" group-title="USA-SPORTS",USA-FS1 (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10814
-#EXTINF:-1 tvg-id="" tvg-name="USA-FS2 (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="USA-SPORTS",USA-FS2 (L)(720)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="USA-SPORTS",USA-FS2 (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10815
-#EXTINF:-1 tvg-id="" tvg-name="USA-Fubo Sports Network (L)(720)" tvg-logo="https://www.fubo.tv/stream/static/3d6c964891db478aa06dd7c46f3739c8/7c6a9/logo-fubo-Sports-network.png" group-title="USA-SPORTS",USA-Fubo Sports Network (L)(720)
+#EXTINF:-1 tvg-logo="https://www.fubo.tv/stream/static/3d6c964891db478aa06dd7c46f3739c8/7c6a9/logo-fubo-Sports-network.png" group-title="USA-SPORTS",USA-Fubo Sports Network (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10816
-#EXTINF:-1 tvg-id="" tvg-name="USA-YES Network (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/800px-YES_Network_logo.svg.png" group-title="USA-SPORTS",USA-YES Network (L)(720)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/800px-YES_Network_logo.svg.png" group-title="USA-SPORTS",USA-YES Network (L)(720)
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/10844
 
 
