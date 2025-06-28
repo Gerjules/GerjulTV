@@ -22,22 +22,22 @@ http://177.234.230.206:8011/play/a0nn/index.m3u8
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
 
 
-#EXTINF:-1 tvg-id="RedDigital.py", group-title="PARAGUAY",PY | Red Digital (900p)
+#EXTINF:-1 group-title="PARAGUAY",PY | Red Digital (900p)
 https://ssh101-fl.bozztv.com/ssh101/reddigital/index.m3u8
 
-#EXTINF:-1 tvg-id="RadioCaazapaPoty981FM.py", group-title="PARAGUAY",PY | Radio Caazapá Poty 98.1 FM 
+#EXTINF:-1 group-title="PARAGUAY",PY | Radio Caazapá Poty 98.1 FM 
 https://ssh101.bozztv.com/ssh101/caazapapotytv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RepublicaTV.py", group-title="PARAGUAY",PY | República TV (720p)
+#EXTINF:-1 group-title="PARAGUAY",PY | República TV (720p)
 https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UnionTV.py", group-title="PARAGUAY",PY | UnionTV
+#EXTINF:-1 group-title="PARAGUAY",PY | UnionTV
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.caritas.com.py/wp-content/uploads/2021/01/Logo-Diarium.jpg" group-title="PARAGUAY",PY | Cáritas TV (1080p)
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PY| GEN" tvg-logo="https://media.licdn.com/dms/image/C560BAQGAmmOdnNxk0Q/company-logo_200_200/0/1630659157739/somosgen_logo?e=2147483647&v=beta&t=DYLVulh4V_TiOw2NNS09NdMJlInTyeRx0UlUj32ofVk" group-title="PARAGUAY",PY| GEN 2
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQGAmmOdnNxk0Q/company-logo_200_200/0/1630659157739/somosgen_logo?e=2147483647&v=beta&t=DYLVulh4V_TiOw2NNS09NdMJlInTyeRx0UlUj32ofVk" group-title="PARAGUAY",PY| GEN 2
 https://zn1gen.desdeparaguay.net/gentv/gentv_py_baja/playlist.m3u8?k=204bca14f1f557dfff4f06b3c969eddd72cd6721f9537120e43cca06f5c85d59&exp=1729026073
 
 #EXTINF:-1, group-title="PARAGUAY",PY| Tv Aire Paraguay
