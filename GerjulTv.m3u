@@ -93,7 +93,12 @@ http://gzytv.vip:8880/654329/rjgAbmEB7c/2647
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA",AR | Argentinísima Satelital (540p)
-https://stream1.sersat.com/hls/argentinisima.m3u8
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8stream1.sersat.com/hls/argentinisima.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",AR | TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
+
+
 
 #EXTINF:0 group-title="ARGENTINA",AR | EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
@@ -187,8 +192,7 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="ARGENTINA",AR |LS84 Telefe
-http://gzytv.vip:8880/654329/rjgAbmEB7c/252
+ 
 
 #EXTINF:-1 group-title="ARGENTINA",AR | Canal 26
 http://gzytv.vip:8880/654329/rjgAbmEB7c/2626
