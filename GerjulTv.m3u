@@ -83,58 +83,6 @@ http://159.203.148.226/live/farra_low.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://www.venus.com.py/player/playlist/img/venus.png" group-title="PARAGUAY",PY | Radio Venus
-https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQGAmmOdnNxk0Q/company-logo_200_200/0/1630659157739/somosgen_logo?e=2147483647&v=beta&t=DYLVulh4V_TiOw2NNS09NdMJlInTyeRx0UlUj32ofVk" group-title="PARAGUAY",PY| GEN
-http://gzytv.vip:8880/654329/rjgAbmEB7c/1089979
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="PARAGUAY",PY | TV CAMARA
-http://gzytv.vip:8880/654329/rjgAbmEB7c/1087976
-
-#EXTINF:0 group-title="PARAGUAY",PY | Oviedo TV
-https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8
-
-
-#EXTINF:0 group-title="PARAGUAY",PY | Obedira TV
-https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8
-
-#EXTINF:0 group-title="PARAGUAY",PY | KOA TV
-https://panel.dattalive.com/8028/8028/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQGAmmOdnNxk0Q/company-logo_200_200/0/1630659157739/somosgen_logo?e=2147483647&v=beta&t=DYLVulh4V_TiOw2NNS09NdMJlInTyeRx0UlUj32ofVk" group-title="PARAGUAY",PY| GEN 2
-https://zn1gen.desdeparaguay.net/gentv/gentv_py_baja/playlist.m3u8?k=204bca14f1f557dfff4f06b3c969eddd72cd6721f9537120e43cca06f5c85d59&exp=1729026073
-
-
-#EXTINF:-1 tvg-id="channel-id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCV8ylO8tcnV_u96yTcp4SS100-FKMfi42Dw&s" group-title="PARAGUAY",PY |   Tigo Sports 1
-#KODIPROP:inputstream.adaptive.license_key=|Referer=https://iptv.digital-tv.net/|
-http://192.250.238.31:1234/stream/paraguay/tigo1/master.m3u8?u=admin&p=9f7cb373f6c1e15ba57b53bf99f58ca51f768afbf968cdbb8b21d0e977eb9dae
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCV8ylO8tcnV_u96yTcp4SS100-FKMfi42Dw&s" group-title="PARAGUAY",PY |   Tigo Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
-https://sam-py-edge04.tigo.com.py/ccur-session/01_3508407031/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd?|referer=https://www.tigosports.com.py/|origin=https://www.tigosports.com.py
-
-#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports + Paraguay  HD" tvg-logo="https://i.imgur.com/1StyEXq.png" group-title="PARAGUAY",PY |  Tigo Sports + Paraguay  HD
-http://gzytv.vip:8880/654329/rjgAbmEB7c/1454
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY",PY |  Tigo Sports  HD
-http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/56706
-
 
 
 
