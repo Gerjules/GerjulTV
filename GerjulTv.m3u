@@ -33,8 +33,6 @@ http://181.78.27.128:8000/play/a05s/index.m3u8
 #EXTINF:-1 group-title="PARAGUAY",PY | ParaguayTV
 http://181.78.27.128:8000/play/a039/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.233.124.53:80/images/2e347fd10d6df15072d7f2975fbd79c5.png" group-title="PARAGUAY",PY | Paraguay Noticias
-http://ky-iptv.com:80/3354746424/5566959837/180856.ts
 
 #EXTINF:-1 group-title="PARAGUAY",PY | UnionTV
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
@@ -112,13 +110,18 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
 
-#EXTINF:-1 group-title="ARGENTINA",AR | 5TV Corrientes (480p)
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-
 #EXTINF:-1 group-title="ARGENTINA",AR | CRÓNICA
 http://181.78.27.128:8000/play/a04k/index.m3u8
 
+#EXTINF:-1 C5N HD" tvg-logo="http://23.227.147.172:80/images/7fcdd8032ea49ef772faf12deb2a0e88.png" group-title="ARGENTINA",AR |  Canal 5 Noticias  C5N HD
+http://ky-iptv.com:80/3354746424/5566959837/221565.ts
 
+
+
+
+
+#EXTINF:-1 group-title="ARGENTINA",AR | 5TV Corrientes (480p)
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA",AR | Aire de Santa Fe (1080p)
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
