@@ -462,139 +462,50 @@ https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 #EXTINF:-1 group-title="CANALES NUEVOS", COTUBANAMA RD 
 https://host.streamingnation.live/p/3588/hybrid/play.m3u8        
 
-#EXTINF:-1 group-title="CANALES NUEVOS", LATINA INTERNACIONAL RD 
-https://ss3.domint.net:3156/ltv_str/latinatvint/chunklist.m3u8    
- 
-#EXTINF:-1 group-title="CANALES NUEVOS", CASCARA RD
-https://ss3.domint.net:3144/ctv_str/cascaratv/.m3u8   
+
 
 #EXTINF:-1 group-title="CANALES NUEVOS", MANANCLAR TV 
 https://5790d294af2dc.streamlock.net:443/manaclar/manaclar/playlist.m3u8
 
 #EXTINF:-1 group-title="CANALES NUEVOS", NORTE INFORMATIVO CR
 https://videohd.live:19360/8076/8076.m3u8   
-
-#EXTINF:-1 group-title="CANALES NUEVOS",INTERCONNECT
-https://fl1002.bozztv.com/ssh101/tv123456789/tracks-v1a1/index.m3u8                
+              
 
 #EXTINF:-1 group-title="CANALES NUEVOS", ORBIT RD
 
 #EXTINF:-1 group-title="CANALES NUEVOS",BARBE GT
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
-
-#EXTINF:-1 group-title="CANALES NUEVOS",DMJ PE 
-https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8          
-
-#EXTINF:-1 group-title="CANALES NUEVOS", ÑUBLE CL
-https://paneltv.online:1936/8050/8050/playlist.m3u8      
-
-#EXTINF:-1 group-title="CANALES NUEVOS",TV EN PLACILLA CL 
-https://panel.tvstream.cl:1936/8038/8038/playlist.m3u8  
-
-#EXTINF:-1 group-title="CANALES NUEVOS",LA MELINKANA CL 
-https://v1.tustreaming.cl/melinkana/tracks-v1a1/index.m3u8 
-
-#EXTINF:-1 group-title="CANALES NUEVOS",TVS RD
-https://imagenuniversaltv.net:3741/live/tvslive.m3u8                        
+                      
 
 #EXTINF:-1 group-title="CANALES NUEVOS",IXCHIGUAN GT
 https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
 
-#EXTINF:-1 group-title="CANALES NUEVOS", CJ COMUNICACIONES 
-https://ssh101.bozztv.com/ssh101/comunicaciones/chunks.m3u8              
-
-#EXTINF:-1 group-title="CANALES NUEVOS", BUZZER GT
-https://cdn.streamhispanatv.net:3297/live/buzzerradiolive.m3u8
- 
-#EXTINF:-1 group-title="CANALES NUEVOS", SPTV AR 
-https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8       
+   
 
 #EXTINF:-1 group-title="CANALES NUEVOS", NET CHANNEL TV VE
 https://media.streambrothers.com:19360/8158/8158.m3u8        
-
-#EXTINF:-1 group-title="CANALES NUEVOS",TELECLASICA CR
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/teleclasik/chunks.m3u8  
+ 
    
 #EXTINF:-1 group-title="CANALES NUEVOS", PLANETA TV MOYOBAMBA PE 
 https://live.obslivestream.com/planetatv/index.m3u8
+         
 
-#EXTINF:-1 group-title="CANALES NUEVOS", TV NOSARA CR
-https://acceso.radiosportstv.online:3430/live/tvnosaralive.m3u8            
-
-#EXTINF:-1 group-title="CANALES NUEVOS", TV PRIME CL
-https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8       
-
-#EXTINF:-1 group-title="CANALES NUEVOS", SOL TV GT
-https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8   
-
-#EXTINF:-1 group-title="CANALES NUEVOS", MAX TV AW
-https://fl1004.bozztv.com/ssh101/88channel/tracks-v1a1/index.m3u8       
-
-#EXTINF:-1 group-title="CANALES NUEVOS", DELTA TV PE
-https://mc.servidor.stream:19360/8270/8270.m3u8  
 
 #EXTINF:-1 group-title="CANALES NUEVOS", NEOX AR
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
-#EXTINF:-1 group-title="CANALES NUEVOS", ONDA RD
-https://ss5.domint.net:3176/otv_str/ondatv/chunklist.m3u8          
+       
 
 #EXTINF:-1 group-title="CANALES NUEVOS",NEOTV AR 
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 group-title="CANALES NUEVOS",LIMON TV CR
-https://59ef525c24caa.streamlock.net/limontv1/limontv1/chunklist.m3u8 
 
-#EXTINF:-1 group-title="CANALES NUEVOS", VZTV PE
-https://live.obslivestream.com/vztv/index.m3u8 
 
-#EXTINF:-1 group-title="CANALES NUEVOS", MULTIPLAY TV SERIES 
-https://video.wixstatic.com/video/08276b_3dc2b235adca42eb88ce9a2ccd6f49a9/720p/mp4/file.mp4
-
-#EXTINF:-1 group-title="CANALES NUEVOS", MULTIPLAY TV ESTRENOS
-https://video.wixstatic.com/video/08276b_653e85b205994600b1f8816b75ea7370/720p/mp4/file.mp4
-
-#EXTINF:-1 group-title="CANALES NUEVOS", MULTIPLAY TV ANIMES
-https://video.wixstatic.com/video/08276b_3fa2d31f56f74a97b156c213a2fd28bb/480p/mp4/file.mp4
-
-#EXTINF:-1 group-title="CANALES NUEVOS", KANAL4 GT
-https://5f700d5b2c46f.streamlock.net/knal4/knal4/playlits.m3u8       
-
-#EXTINF:-1 group-title="CANALES NUEVOS",CANELA SUPER
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-
-#EXTINF:-1 group-title="CANALES NUEVOS", MONI TV CL
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8   
-
-#EXTINF:-1 group-title="CANALES NUEVOS",ZPLAY TV CL
-https://mitv.zplay.cl/Ztv/tracks-v1a1/index.m3u8   
-
-#EXTINF:-1 group-title="CANALES NUEVOS", ANIMESTATION AR
-https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/index.m3u8       
-
-#EXTINF:-1 group-title="CANALES NUEVOS", ZONA DE ACCION
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312      
-
-#EXTINF:-1 group-title="CANALES NUEVOS", GOgo PLAY
-https://ssh101-fl.bozztv.com/ssh101/gogoplay/tracks-v1a1/index.m3u8 
-
-#EXTINF:-1 group-title="CANALES NUEVOS", ANIME ONEGAI    
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11058
-
-#EXTINF:-1 group-title="CANALES NUEVOS", PLANETA AVENTURAS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
-
-#EXTINF:-1 group-title="CANALES NUEVOS", BIG CHANNEL
-https://ssh101.bozztv.com/ssh101/bigchannel/chunks.m3u8    
-
-#EXTINF:-1 group-title="CANALES NUEVOS", VC ONLINE
-https://panel.tvstream.cl:1936/8024/8024/chunklist.m3u8  
 
 #EXTINF:-1 group-title="CANALES NUEVOS", CBN ESPAÑOL CR
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
 
-#EXTINF:-1 group-title="CANALES NUEVOS", EXTREMA TV CR
-https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8  
+
 
 #EXTINF:-1 group-title="CANALES NUEVOS", SPIRIT
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
@@ -602,11 +513,6 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 group-title="CANALES NUEVOS", AZTECA INTERNACIONAL
 https://azt-mun.otteravision.com/azt/mun/mun_360p.m3u8
 
-#EXTINF:-1 group-title="CANALES NUEVOS", IDENTIDAD TV 
-https://cast.stre.live7.la:3322/live/identidadtvlive.m3u8
-
-#EXTINF:-1 group-title="CANALES NUEVOS", CANAL UNO DIGITAL COL
-https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 
 #EXTINF:-1 group-title="CANALES NUEVOS", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -614,14 +520,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="CANALES NUEVOS", ATV HO
 https://s.emisoras.tv:8081/atv/index.m3u8
 
-#EXTINF:-1 group-title="CANALES NUEVOS",CARACOL DIGITAL COL
-https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
-
-#EXTINF:-1 group-title="CANALES NUEVOS", CARACOL AHORA
-https://www.youtube.com/watch?v=Pc05XrvM1Ag
-
-#EXTINF:-1 group-title="CANALES NUEVOS", GOL CARACOL H2
-https://www.youtube.com/watch?v=rT9HHJKkSV8
 
 #EXTINF:-1 group-title="CANALES NUEVOS", WSPORTS 2 ITV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5093
@@ -629,26 +527,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5093
 #EXTINF:-1 group-title="CANALES NUEVOS", AZTECA DEPORTES
 https://azt-dep.otteravision.com/azt/dep/dep_720p_high.m3u8
 
-#EXTINF:-1 group-title="CANALES NUEVOS", BEIN SPORTS XTRA
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b97ef310e33f0007eea65f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 group-title="CANALES NUEVOS", CLARO SPORTS MEX
-https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8 
 
 #EXTINF:-1 group-title="CANALES NUEVOS", PT TV DEPORTES
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 group-title="CANALES NUEVOS", DAZN SPORTS.
-https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/64b02bbd7d93410008fdae60livestitch/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 group-title="CANALES NUEVOS", KPOP
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 
 #EXTINF:-1 group-title="CANALES NUEVOS", R&R
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-
-#EXTINF:-1 group-title="CANALES NUEVOS", snc
-https://video.wixstatic.com/video/08276b_e5c2cfda0d0d44fe85c24f0aa523aee6/720p/mp4/file.mp4
 
 
 
