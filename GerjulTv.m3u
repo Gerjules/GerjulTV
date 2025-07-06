@@ -24,13 +24,17 @@ http://181.78.27.128:8000/play/a017/index.m3u8
 #EXTINF:0 tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png" group-title="PARAGUAY",PY | UNICANAL 
 http://170.83.240.134:8000/play/a00c
 
-
+#EXTINF:-1 tvg-logo="" group-title="PARAGUAY",PY | GEN TV
+http://ky-iptv.com:80/3354746424/5566959837/180853.ts
 
 #EXTINF:0 tvg-logo=" " group-title="PARAGUAY",PY | C9N
 http://181.78.27.128:8000/play/a05s/index.m3u8
 
 #EXTINF:-1 group-title="PARAGUAY",PY | ParaguayTV
 http://181.78.27.128:8000/play/a039/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.233.124.53:80/images/2e347fd10d6df15072d7f2975fbd79c5.png" group-title="PARAGUAY",PY | Paraguay Noticias
+http://ky-iptv.com:80/3354746424/5566959837/180856.ts
 
 #EXTINF:-1 group-title="PARAGUAY",PY | UnionTV
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
@@ -78,6 +82,8 @@ https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 #EXTINF:0 group-title="PARAGUAY",PY | FARRA PLAY
 http://159.203.148.226/live/farra_low.m3u8
 
+#EXTINF:-1 tvg-logo="http://181.233.124.53:80/images/6511d9ea85ac62d0f3e6e3cea7cff471.png" group-title="PARAGUAY",PY | Tigo Sports
+http://ky-iptv.com:80/3354746424/5566959837/180866.ts
 
 
 
@@ -89,14 +95,13 @@ http://159.203.148.226/live/farra_low.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_TV_P%C3%BAblica_Digital.png" group-title="ARGENTINA",AR | TV PUBLICA   23.2
 http://ky-iptv.com:80/3354746424/5566959837/228233.ts
 
-#EXTINF:-1 group-title="ARGENTINA",AR | 5TV Corrientes (480p)
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+
 
 #EXTINF:-1 group-title="ARGENTINA",AR | Argentinísima Satelital (540p)
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8stream1.sersat.com/hls/argentinisima.m3u8
+http://ky-iptv.com:80/3354746424/5566959837/228107.ts
 
 #EXTINF:-1 group-title="ARGENTINA",AR | TELEFE
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
+http://ky-iptv.com:80/3354746424/5566959837/221662.ts
 
 
 
@@ -106,8 +111,14 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="ARGENTINA",AR | America  Tv
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
+
+#EXTINF:-1 group-title="ARGENTINA",AR | 5TV Corrientes (480p)
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+
 #EXTINF:-1 group-title="ARGENTINA",AR | CRÓNICA
 http://181.78.27.128:8000/play/a04k/index.m3u8
+
+
 
 #EXTINF:-1 group-title="ARGENTINA",AR | Aire de Santa Fe (1080p)
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
