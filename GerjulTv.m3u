@@ -1773,12 +1773,16 @@ http://24.152.58.126:8000/play/a01w
 http://24.152.58.126:8000/play/a01v
 
 
-#EXTINF:-1 group-title="DEPORTES",SPORT | Fox Sports 2 HD
-http://45.167.19.10:8000/play/a05c/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",SPORT | Fox Sports 3 HD
-http://45.167.19.10:8000/play/a02t/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",SPORT | Fox Sports HD
+
+#EXTINF:-1 group-title="DEPORTES",SPORT | Fox Sports
+http://venuschiletv.lat:8880/Matilde282407981/yadKVupakJEP/428662
+#EXTINF:-1 group-title="DEPORTES",SPORT | Fox Sports 2 
+http://venuschiletv.lat:8880/Matilde282407981/yadKVupakJEP/428663
+#EXTINF:-1 group-title="DEPORTES",SPORT | Fox Sports 3
 http://45.167.19.10:8000/play/a07j/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",SPORT | Fox Sports Premium
+http://venuschiletv.lat:8880/Matilde282407981/yadKVupakJEP/428665
+
 
 #EXTINF:-1 group-title="DEPORTES",SPORT | ESPN 4
 http://177.93.46.163:8000/play/a01j
