@@ -1877,7 +1877,7 @@ http://24.152.58.126:8000/play/a02p
 #EXTINF:-1 group-title="DEPORTES",SPORT | ESPN
 http://24.152.58.126:8000/play/a01n
 #EXTINF:-1 group-title="DEPORTES",SPORT | ESPN 2
-24.152.58.126:8000/play/a01m
+http://24.152.58.126:8000/play/a01m
 #EXTINF:-1 group-title="DEPORTES",SPORT | ESPN 2
 http://24.152.58.126:8000/play/a01c
 #EXTINF:-1 group-title="DEPORTES",SPORT | ESPN 3
