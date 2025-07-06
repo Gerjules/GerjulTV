@@ -1,4 +1,4 @@
-f#EXTM3U
+#EXTM3U
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/Hn6M4Sv/abc.png" group-title="PARAGUAY",PY | ABC TV
 http://181.78.27.128:8000/play/a05r/index.m3u8
