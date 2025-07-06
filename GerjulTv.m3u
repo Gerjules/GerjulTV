@@ -1872,16 +1872,23 @@ http://38.211.242.128:8001/play/a05g/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",SPORT | DSPORTS +
 http://38.211.242.128:8001/play/a05h/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",SPORT | ESPN 2 HD
-http://45.167.19.10:8000/play/a059/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",SPORT | ESPN 3 HD
-http://45.167.19.10:8000/play/a05b/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",SPORT | ESPN 4 HD
-http://45.167.19.10:8000/play/a076/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",SPORT | ESPN HD
-http://45.167.19.10:8000/play/a05a/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",SPORT | ESPN Premium HD
-http://45.167.19.10:8000/play/a078/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",SPORT | ESPN
+http://24.152.58.126:8000/play/a02p
+#EXTINF:-1 group-title="DEPORTES",SPORT | ESPN
+http://24.152.58.126:8000/play/a01n
+#EXTINF:-1 group-title="DEPORTES",SPORT | ESPN 2
+24.152.58.126:8000/play/a01m
+#EXTINF:-1 group-title="DEPORTES",SPORT | ESPN 2
+http://24.152.58.126:8000/play/a01c
+#EXTINF:-1 group-title="DEPORTES",SPORT | ESPN 3
+http://24.152.58.126:8000/play/a00w
+#EXTINF:-1 group-title="DEPORTES",SPORT | ESPN 5
+http://24.152.58.126:8000/play/a023
+#EXTINF:-1 group-title="DEPORTES",SPORT | ESPN 6
+http://24.152.58.126:8000/play/a01w
+#EXTINF:-1 group-title="DEPORTES",SPORT | ESPN 7
+http://24.152.58.126:8000/play/a01v
+
 
 #EXTINF:-1 group-title="DEPORTES",SPORT | Fox Sports 2 HD
 http://45.167.19.10:8000/play/a05c/index.m3u8
