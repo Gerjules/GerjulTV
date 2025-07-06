@@ -101,7 +101,8 @@ http://ky-iptv.com:80/3354746424/5566959837/228107.ts
 #EXTINF:-1 group-title="ARGENTINA",AR | TELEFE
 http://ky-iptv.com:80/3354746424/5566959837/221662.ts
 
-
+#EXTINF:-1 group-title="ARGENTINA",AR |Canal LS83 9
+http://ky-iptv.com:80/3354746424/5566959837/221566.ts
 
 #EXTINF:0 group-title="ARGENTINA",AR | EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
@@ -116,7 +117,8 @@ http://181.78.27.128:8000/play/a04k/index.m3u8
 #EXTINF:-1 C5N HD" tvg-logo="http://23.227.147.172:80/images/7fcdd8032ea49ef772faf12deb2a0e88.png" group-title="ARGENTINA",AR |  Canal 5 Noticias  C5N HD
 http://ky-iptv.com:80/3354746424/5566959837/221565.ts
 
-
+#EXTINF:-1 group-title="ARGENTINA",AR | Canal 26
+http://ky-iptv.com:80/3354746424/5566959837/221573.ts
 
 
 
@@ -208,8 +210,7 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
  
 
-#EXTINF:-1 group-title="ARGENTINA",AR | Canal 26
-http://gzytv.vip:8880/654329/rjgAbmEB7c/2626
+
 
 #EXTINF:-1 group-title="ARGENTINA",AR | C5N
 http://gzytv.vip:8880/654329/rjgAbmEB7c/2634
@@ -261,8 +262,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02
 #EXTINF:-1 group-title="ARGENTINA",AR | Volver
 http://myteve.online:8080/30fe809e/ec00cbf3/49329
 
-#EXTINF:-1 group-title="ARGENTINA",AR |Canal LS83 9
-http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
+
 
 
 
@@ -271,7 +271,7 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/UMIbeS4.jpeg" group-title="NOTICIAS",NOT |  2 | NOTICIAS CARACOL ᴴᴰ
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/yqYeDV7.jpeg" group-title="NOTICIAS",NOT |  3 | TELESUR ᴴᴰ 
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+http://ky-iptv.com:80/3354746424/5566959837/1188787.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbm2S9O.jpg" group-title="NOTICIAS",NOT |  4 | PRENSA LATINA TV ᴴᴰ 
 https://eu1.servers10.com:8081/8192/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/CXQHzil.jpeg" group-title="NOTICIAS",NOT |  5 | CNN EN ESPAÑOL 
