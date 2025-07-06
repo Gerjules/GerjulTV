@@ -390,6 +390,19 @@ https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/FRANCE_24_logo.svg/1024px-FRANCE_24_logo.svg.png" group-title="CANALES NUEVOS",  HBO
+http://45.4.1.130:5783/play/a03b/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CANALES NUEVOS",  HBO 2
+http://45.4.1.130:5783/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/hbofamily.png"group-title="CANALES NUEVOS" group-title="CANALES NUEVOS",    HBO Family
+http://45.4.1.130:5783/play/a01b/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/HBO_Plus_Logo.svg" group-title="CANALES NUEVOS",  HBO Plus
+http://45.4.1.130:5783/play/a019/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="CANALES NUEVOS",  HBO XTREME
+http://45.4.1.130:5783/play/a01a/index.m3u8
+
+
+
 #EXTINF:-1 group-title="CANALES NUEVOS", IMAGEN UNIVERSAL RD 
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8 
 
@@ -404,15 +417,8 @@ https://ss3.domint.net:3102/v3_str/v3000/.m3u8
 
 #EXTINF:-1 group-title="CANALES NUEVOS", BOREAL RD
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8         
+   
 
-#EXTINF:-1 group-title="CANALES NUEVOS", GEN TV 
-https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8 
-
-#EXTINF:-1 group-title="CANALES NUEVOS", UVATV 
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvhduva/chunks.m3u8     
-
-#EXTINF:-1 group-title="CANALES NUEVOS", WOW MOVIES 
-https://ssh101.bozztv.com/ssh101/wowchannelsd/chunks.m3u8 
 
 #EXTINF:-1 group-title="CANALES NUEVOS", CANAL 10 CR
 https://acceso.radiosportstv.online:3285/hybrid/play.m3u8 
@@ -434,11 +440,7 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 group-title="CANALES NUEVOS"VM LATINO 
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist.m3u8    
 
-#EXTINF:-1 group-title="CANALES NUEVOS", SARAPIQUISTREMING 
-https://fl1002.bozztv.com/ssh101/sarapiquistreaming.cr/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 group-title="CANALES NUEVOS", +CINE CLASSIC 
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/chunks.m3u8    
+    
 
 #EXTINF:-1 group-title="CANALES NUEVOS", TIGUERITOS RD.
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/chunklist.m3u8  
@@ -446,14 +448,7 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/chunklist.m3u8
 #EXTINF:-1 group-title="CANALES NUEVOS",HMTV RD 
 https://cnn.essastream.com:3091/live/hmtvlive.m3u8   
   
- #EXTINF:-1 group-title="CANALES NUEVOS", FMTV EC 
-https://s2.tvdatta.com:3307/hybrid/play.m3u8   
-
-#EXTINF:-1 group-title="CANALES NUEVOS", RETRO PLUS 3 
-https://tls-cl.cdnz.cl/retroplustvtres/live/chunkgroup-title="CANALES NUEVOS",list.m3u8      
-
-#EXTINF:-1 group-title="CANALES NUEVOS", DITI AR 
-https://ssh101-fl.bozztv.com/ssh101/dititv/tracks-v1a1/index.m3u8                
+                    
 
 #EXTINF:-1 group-title="CANALES NUEVOS", BAYRES AR 
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8      
