@@ -113,7 +113,9 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 #EXTINF:0 group-title="ARGENTINA",AR | Todo Noticias AR
 http://200.55.244.75:8000/play/a058/index.m3u8 
 
-
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/hYbrc6g.jpeg" group-title="ARGENTINA",AR | A24 ᴴᴰ
+#EXTVLCOPT:http-user-agent=iPhone
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
 
 #EXTINF:-1 group-title="ARGENTINA",AR | CRÓNICA
