@@ -265,18 +265,32 @@ http://myteve.online:8080/30fe809e/ec00cbf3/49329
 
 
 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/r4lNzgh.jpeg" group-title="NOTICIAS",NOT | ACTUALIDAD RT ᴴᴰ 
+https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/CXQHzil.jpeg" group-title="NOTICIAS",NOT | CNN EN ESPAÑOL 
+http://181.78.85.53:9002/play/a03k/index.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",NOT |  CableNoticias
+http://181.78.85.53:9002/play/a03b/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/UMIbeS4.jpeg" group-title="NOTICIAS",NOT | NOTICIAS CARACOL ᴴᴰ
+http://181.78.85.53:9002/play/a02h/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/lHgTEO8.jpeg" group-title="NOTICIAS",NOT |  23 | NTN24 ᴴᴰ
+http://181.78.85.53:9002/play/a03x/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/Nv9P7sU.jpeg" group-title="NOTICIAS",NOT |  1 | AMX NOTICIAS ᴴᴰ  
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/UMIbeS4.jpeg" group-title="NOTICIAS",NOT |  2 | NOTICIAS CARACOL ᴴᴰ
-https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/yqYeDV7.jpeg" group-title="NOTICIAS",NOT |  3 | TELESUR ᴴᴰ 
 http://ky-iptv.com:80/3354746424/5566959837/1188787.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbm2S9O.jpg" group-title="NOTICIAS",NOT |  4 | PRENSA LATINA TV ᴴᴰ 
 https://eu1.servers10.com:8081/8192/index.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/CXQHzil.jpeg" group-title="NOTICIAS",NOT |  5 | CNN EN ESPAÑOL 
-https://nxt.plus:8443/jesus01/jesus01/59075
+
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/lmwRrDq.jpeg" group-title="NOTICIAS",NOT |  6 | CNN CHILE 
 http://daleplay.club:80/VictorNaranjo/Victor09122021/63076.ts
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/qfnakBb.png" group-title="NOTICIAS",NOT |  7 | 24 HORAS-CHILE
@@ -305,8 +319,7 @@ https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/7sFXaC4.jpeg" group-title="NOTICIAS",NOT |  18 | TELEMUNDO FLORIDA
 https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/5a817dba-a6f1-4dac-9871-91e9e76e1762/2.m3u8
 
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/r4lNzgh.jpeg" group-title="NOTICIAS",NOT |  19 | ACTUALIDAD RT ᴴᴰ 
-https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
+
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/r4lNzgh.jpeg" group-title="NOTICIAS",NOT |  20 | ACTUALIDAD RT (ALT)
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/live.m3u8
@@ -315,8 +328,7 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/hispantv.jpg" group-title="NOTICIAS",NOT |  22 | HISPANTV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/df0a443c1e8e53babc41fede14548c9b5fd1a6d2/live.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/lHgTEO8.jpeg" group-title="NOTICIAS",NOT |  23 | NTN24 ᴴᴰ
-http://premierchile.shop:8080/carlosmuller/lo6bckGmZn/339
+
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/gQdq6rZ.jpeg" group-title="NOTICIAS",NOT |  24 | NHK WORLD ᴴᴰ
 https://bmcc.nhkworld.jp/live2/index_1M.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/anyZt3J.jpeg" group-title="NOTICIAS",NOT |  25 | ALJAZEERA ᴴᴰ ENGLISH 
@@ -402,6 +414,50 @@ http://45.4.1.130:5783/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="CANALES NUEVOS",  HBO XTREME
 http://45.4.1.130:5783/play/a01a/index.m3u8
 
+#EXTINF:-1 group-title="CANALES NUEVOS", Cinecanal HD
+http://181.78.85.53:9002/play/a01w/index.m3u8
+#EXTINF:-1 group-title="CANALES NUEVOS", Cinemax HD
+http://181.78.85.53:9002/play/a05b/index.m3u8
+
+#EXTINF:-1 group-title="CANALES NUEVOS", Paramount HD
+http://181.78.85.53:9002/play/a025/index.m3u8
+
+#EXTINF:-1 group-title="CANALES NUEVOS", STAR CHANNEL HD
+181.78.85.53:9002/play/a04j/index.m3u8
+
+#EXTINF:-1 group-title="CANALES NUEVOS", Sony HD
+http://181.78.85.53:9002/play/a04i/index.m3u8
+#EXTINF:-1 group-title="CANALES NUEVOS", Space HD
+http://181.78.85.53:9002/play/a007/index.m3u8
+#EXTINF:-1 group-title="CANALES NUEVOS", Studio Universal HD
+http://181.78.85.53:9002/play/a009/index.m3u8
+
+#EXTINF:-1 group-title="CANALES NUEVOS", Golden Edge
+http://181.78.85.53:9002/play/a05m/index.m3u8
+#EXTINF:-1 group-title="CANALES NUEVOS", Golden HD
+http://181.78.85.53:9002/play/a00w/index.m3u8
+
+#EXTINF:-1 group-title="CANALES NUEVOS",  A&E HD
+http://181.78.85.53:9002/play/a047/index.m3u8
+#EXTINF:-1 group-title="CANALES NUEVOS",  AMC HD
+http://181.78.85.53:9002/play/a04l/index.m3u8
+#EXTINF:-1 group-title="CANALES NUEVOS",  ATRES SERIES HD
+http://181.78.85.53:9002/play/a05r/index.m3u8
+#EXTINF:-1 group-title="CANALES NUEVOS",  AXN HD
+http://181.78.85.53:9002/play/a00n/index.m3u8
+
+#EXTINF:-1 group-title="CANALES NUEVOS", TNT HD
+http://181.78.85.53:9002/play/a09e/index.m3u8
+
+#EXTINF:-1 group-title="CANALES NUEVOS",TNT Series HD
+http://181.78.85.53:9002/play/a02y/index.m3u8
+
+#EXTINF:-1 group-title="CANALES NUEVOS", UNIVERSAL CHANNEL HD
+http://181.78.85.53:9002/play/a01h/index.m3u8
+
+#EXTINF:-1 group-title="CANALES NUEVOS", Warner Channel HD
+http://181.78.85.53:9002/play/a005/index.m3u8
+
 
 
 #EXTINF:-1 group-title="CANALES NUEVOS", IMAGEN UNIVERSAL RD 
@@ -424,7 +480,6 @@ https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 #EXTINF:-1 group-title="CANALES NUEVOS", CANAL 10 CR
 https://acceso.radiosportstv.online:3285/hybrid/play.m3u8 
 
-#EXTINF:-1 group-title="CANALES NUEVOS", LORETO EC
 
 #EXTINF:-1 group-title="CANALES NUEVOS", MEGANET CR
 https://video20.klm99.com:3395/live/meganethitslive.m3u8     
