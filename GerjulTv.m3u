@@ -115,12 +115,12 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 http://181.78.27.128:8000/play/a04k/index.m3u8
 
 #EXTINF:-1 C5N HD" tvg-logo="http://23.227.147.172:80/images/7fcdd8032ea49ef772faf12deb2a0e88.png" group-title="ARGENTINA",AR |  Canal 5 Noticias  C5N HD
-http://ky-iptv.com:80/3354746424/5566959837/221565.ts
+http://181.78.27.128:8000/play/a01z/index.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA",AR | Canal 26
 http://ky-iptv.com:80/3354746424/5566959837/221573.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="ARGENTINA",AR | 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="ARGENTINA",AR | LA NACION
 https://www.youtube.com/c/LaNacionMas/live
 
 #EXTINF:-1 group-title="ARGENTINA",AR | 5TV Corrientes (480p)
@@ -268,8 +268,7 @@ http://myteve.online:8080/30fe809e/ec00cbf3/49329
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/r4lNzgh.jpeg" group-title="NOTICIAS",NOT | ACTUALIDAD RT ᴴᴰ 
 https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
 
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/CXQHzil.jpeg" group-title="NOTICIAS",NOT | CNN EN ESPAÑOL 
-http://181.78.85.53:9002/play/a03k/index.m3u8
+
 
 #EXTINF:-1 group-title="NOTICIAS",NOT |  CableNoticias
 http://181.78.85.53:9002/play/a03b/index.m3u8
@@ -280,7 +279,8 @@ http://181.78.85.53:9002/play/a02h/index.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/lHgTEO8.jpeg" group-title="NOTICIAS",NOT |  23 | NTN24 ᴴᴰ
 http://181.78.85.53:9002/play/a03x/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/CXQHzil.jpeg" group-title="NOTICIAS",NOT | CNN EN ESPAÑOL 
+http://200.55.244.75:8000/play/a054/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/Nv9P7sU.jpeg" group-title="NOTICIAS",NOT |  1 | AMX NOTICIAS ᴴᴰ  
@@ -295,8 +295,7 @@ https://eu1.servers10.com:8081/8192/index.m3u8
 http://daleplay.club:80/VictorNaranjo/Victor09122021/63076.ts
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/qfnakBb.png" group-title="NOTICIAS",NOT |  7 | 24 HORAS-CHILE
 https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/21B9fTQ.jpeg" group-title="NOTICIAS",NOT |  8 | C5N 
-https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/hYbrc6g.jpeg" group-title="NOTICIAS",NOT |  9 | A24 ᴴᴰ
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
@@ -1827,7 +1826,11 @@ http://24.152.58.126:8000/play/a01w
 #EXTINF:-1 group-title="DEPORTES",SPORT | ESPN 7
 http://24.152.58.126:8000/play/a01v
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KbL5nCR/foxsportsar.png" group-title="DEPORTES",SPORT | FOX SPORTS
+http://novabox.club/live/conectStreax/K2tbMNebMW/185773.m3u8 
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ryQDk2/foxsports2ar.png" group-title="DEPORTES",SPORT | FOX SPORTS 2
+http://novabox.club/live/conectStreax/K2tbMNebMW/185774.m3u8 
 
 #EXTINF:-1 group-title="DEPORTES",SPORT | Fox Sports
 http://venuschiletv.lat:8880/Matilde282407981/yadKVupakJEP/428662
