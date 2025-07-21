@@ -1809,6 +1809,47 @@ http://24.152.58.126:8000/play/a01w
 #EXTINF:-1 group-title="DEPORTES",SPORT | ESPN 7
 http://24.152.58.126:8000/play/a01v
 
+#EXTINF:-1 tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="DEPORTES",SPORT |  ESPN FHD
+http://dnssp.site:8080/medeiros4096/gtrc409mby/407949
+#EXTINF:-1 tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="DEPORTES",SPORT | ESPN 2 FHD
+http://dnssp.site:8080/medeiros4096/gtrc409mby/197556
+#EXTINF:-1 tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="DEPORTES",SPORT | ESPN 2 HD
+http://dnssp.site:8080/medeiros4096/gtrc409mby/45904
+#EXTINF:-1 tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="DEPORTES",SPORT | ESPN 2 SD
+http://dnssp.site:8080/medeiros4096/gtrc409mby/47125
+#EXTINF:-1 tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="DEPORTES",SPORT | ESPN 3 FHD
+http://dnssp.site:8080/medeiros4096/gtrc409mby/46907
+#EXTINF:-1 tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="DEPORTES",SPORT | ESPN 3 HD
+http://dnssp.site:8080/medeiros4096/gtrc409mby/47025
+#EXTINF:-1 tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="DEPORTES",SPORT | ESPN 3 SD
+http://dnssp.site:8080/medeiros4096/gtrc409mby/45898
+#EXTINF:-1 tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="DEPORTES",SPORT | ESPN 4 FHD
+http://dnssp.site:8080/medeiros4096/gtrc409mby/45918
+#EXTINF:-1 tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png"group-title="DEPORTES",SPORT | ,ESPN 4 HD
+http://dnssp.site:8080/medeiros4096/gtrc409mby/45697
+#EXTINF:-1 tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="DEPORTES",SPORT | ESPN 4 SD
+http://dnssp.site:8080/medeiros4096/gtrc409mby/45917
+#EXTINF:-1 tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="DEPORTES",SPORT | ESPN 5 FHD
+http://dnssp.site:8080/medeiros4096/gtrc409mby/367673
+#EXTINF:-1 tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="DEPORTES",SPORT | ESPN 5 HD
+http://dnssp.site:8080/medeiros4096/gtrc409mby/367674
+#EXTINF:-1 tvg-name="ESPN 6 FHD" tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="ESPN",ESPN 6 FHD
+http://dnssp.site:8080/medeiros4096/gtrc409mby/324444
+#EXTINF:-1 tvg-logo="http://smartvtcl.site:8080/images/865c0c0b4ab0e063e5caa3387c1a8741.png" group-title="DEPORTES",SPORT | ESPN 6 HD
+http://dnssp.site:8080/medeiros4096/gtrc409mby/194076
+#EXTINF:-1 tvg-logo="http://smartvtcl.site:8080/images/7c1948b644061818af56017cd38dee9b.jpg" group-title="DEPORTES",SPORT | ESPN EXTRA FHD
+http://dnssp.site:8080/medeiros4096/gtrc409mby/47126
+#EXTINF:-1 tvg-logo="http://smartvtcl.site:8080/images/7c1948b644061818af56017cd38dee9b.jpg" group-title="DEPORTES",SPORT | ESPN EXTRA FHD [ALT]
+http://dnssp.site:8080/medeiros4096/gtrc409mby/194055
+#EXTINF:-1 tvg-logo="http://smartvtcl.site:8080/images/7c1948b644061818af56017cd38dee9b.jpg" group-title="DEPORTES",SPORT | ESPN EXTRA FHD [ALT²]
+http://dnssp.site:8080/medeiros4096/gtrc409mby/194054
+#EXTINF:-1 tvg-logo="http://smartvtcl.site:8080/images/7c1948b644061818af56017cd38dee9b.jpg" group-title="DEPORTES",SPORT | ESPN EXTRA HD
+http://dnssp.site:8080/medeiros4096/gtrc409mby/319336
+#EXTINF:-1 tvg-logo="http://smartvtcl.site:8080/images/7c1948b644061818af56017cd38dee9b.jpg" group-title="DEPORTES",SPORT | ESPN EXTRA HD [ALT]
+http://dnssp.site:8080/medeiros4096/gtrc409mby/47042
+#EXTINF:-1 tvg-logo="http://smartvtcl.site:8080/images/7c1948b644061818af56017cd38dee9b.jpg" group-title="DEPORTES",SPORT | ESPN EXTRA SD
+http://dnssp.site:8080/medeiros4096/gtrc409mby/47130
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KbL5nCR/foxsportsar.png" group-title="DEPORTES",SPORT | FOX SPORTS
 http://novabox.club/live/conectStreax/K2tbMNebMW/185773.m3u8 
  
