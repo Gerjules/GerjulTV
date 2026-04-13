@@ -99,19 +99,19 @@ http://ky-iptv.com:80/3354746424/5566959837/228233.ts
 http://ky-iptv.com:80/3354746424/5566959837/228107.ts
 
 #EXTINF:-1 group-title="ARGENTINA",AR | TELEFE
-http://ky-iptv.com:80/3354746424/5566959837/221662.ts
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/telefe.playlist.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA",AR |Canal LS83 9
 http://ky-iptv.com:80/3354746424/5566959837/221566.ts
 
 #EXTINF:0 group-title="ARGENTINA",AR | EL TRECE
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+https://stream-cdn-iad3.vaughnsoft.net/play/live_juan_13tv.flv?android_vs.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="ARGENTINA",AR | America  Tv
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
 #EXTINF:0 group-title="ARGENTINA",AR | Todo Noticias AR
-http://200.55.244.75:8000/play/a058/index.m3u8 
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/102.m3u8
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/hYbrc6g.jpeg" group-title="ARGENTINA",AR | A24 ᴴᴰ
 #EXTVLCOPT:http-user-agent=iPhone
@@ -122,7 +122,7 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 http://181.78.27.128:8000/play/a04k/index.m3u8
 
 #EXTINF:-1 C5N HD" tvg-logo="http://23.227.147.172:80/images/7fcdd8032ea49ef772faf12deb2a0e88.png" group-title="ARGENTINA",AR |  Canal 5 Noticias  C5N HD
-http://181.78.27.128:8000/play/a01z/index.m3u8
+http://45.170.41.14:9037/Live/2df0b58cab71dd47ba0d4040bf73ddca/c5n.playlist.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA",AR | Canal 26
 http://ky-iptv.com:80/3354746424/5566959837/221573.ts
