@@ -135,6 +135,9 @@ http://ky-iptv.com:80/3354746424/5566959837/221573.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="ARGENTINA",AR | LA NACION
 https://www.youtube.com/c/LaNacionMas/live
 
+#EXTINF:-1 group-title="ARGENTINA",AR | Ciudad Magazine
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
+
 #EXTINF:-1 group-title="ARGENTINA",AR | 5TV Corrientes (480p)
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
