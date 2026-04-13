@@ -1,7 +1,11 @@
 #EXTM3U
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/Hn6M4Sv/abc.png" group-title="PARAGUAY",PY | ABC TV
-https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
+
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/Hn6M4Sv/abc.png" group-title="PARAGUAY",PY | ÑANDUTI
+https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TelefuturoLogo2022.png/640px-TelefuturoLogo2022.png" group-title="PARAGUAY",PY | TELEFUTURO
 http://181.10.123.154:14000/play/a0d3
@@ -13,7 +17,7 @@ http://181.78.27.128:8000/play/a05t/index.m3u8
 http://170.83.240.134:8000/play/a01j
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/NPY_%28Noticias_Paraguay%29.png/800px-NPY_%28Noticias_Paraguay%29.png" group-title="PARAGUAY",PY | NOTICIAS PY
-http://177.234.230.206:8011/play/a0nq/index.m3u8
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="PARAGUAY",PY | PARAVISION
 http://177.234.230.206:8011/play/a0nn/index.m3u8
@@ -40,11 +44,11 @@ https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #EXTINF:-1,group-title="PARAGUAY",PY |  SUR TV
 http://138.59.227.28:8000/play/a0c8/index.m3u8
 
-#EXTINF:-1 group-title="PARAGUAY",PY | República TV (720p)
+#EXTINF:-1 group-title="PARAGUAY",PY | República TV 
 https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
 
-
-
+#EXTINF:-1 group-title="PARAGUAY",PY | GO TV 
+https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.caritas.com.py/wp-content/uploads/2021/01/Logo-Diarium.jpg" group-title="PARAGUAY",PY | Cáritas TV (1080p)
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
@@ -54,10 +58,11 @@ https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 group-title="PARAGUAY",PY| Mi TV
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 
-
-
-
+#EXTINF:-1 group-title="PARAGUAY",PY| Popu TV
+https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
 
 
 
