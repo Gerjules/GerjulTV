@@ -1387,7 +1387,68 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609062295c2b8f0007199e7a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bb42e440-dea7-11eb-be60-3b6a118ac8ac&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ef972a2c-8672-41cf-b2e4-003e44fbe25a&userId=&serverSideAds=true
 
-
+#EXTINF:0 type="stream" channelId="3748" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/640px-ESPN_Deportes.svg.png" tvg-country="sv", ESPN Deportes HD
+http://190.92.10.66:4000/play/a003/index.m3u8
+#EXTINF:0 type="stream" channelId="344" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927" tvg-country="sv", ESPN HD (Centroamérica)
+http://181.78.105.146:6060/play/a05k/index.m3u8
+#EXTINF:11 type="stream" channelId="344" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927" tvg-country="mx", ESPN MX (720p)
+http://app.tecnomolly.com:8080/live/sergiobixby/ratmDTAvFR4R/37182.ts
+#EXTINF:0 type="stream" channelId="344" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927" aspect-ratio="16:9" tvg-country="mx", ESPN MX (480p)
+http://181.78.105.146:2000/play/a064/index.m3u8
+#EXTINF:0 type="stream" channelId="2540" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg" tvg-country="mx", ESPN 2 HD MX
+http://181.78.105.146:8800/play/a08t
+#EXTINF:0 type="stream" channelId="2540" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg" audio-track="spa" tvg-country="mx", ESPN 2 (720p) MX
+http://by.questreams.com:83/live/Verria/0695348721/775800.ts
+#EXTINF:0 type="stream" channelId="2540" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg" aspect-ratio="16:9" tvg-country="mx", ESPN 2 (720p) MX
+http://app.tecnomolly.com:8080/live/sergiobixby/ratmDTAvFR4R/33740.ts
+#EXTINF:0 type="stream" channelId="355" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/1/11/ESPN3.svg/revision/latest?cb=20231118035609" audio-track="spa" shift="-1" tvg-country="mx", ESPN 3 (720p) MX
+http://visitmy.collegefan.org:80/live/kelir2024/2639047158/775801.ts
+#EXTINF:0 type="stream" channelId="355" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/1/11/ESPN3.svg/revision/latest?cb=20231118035609" shift="-1" tvg-country="mx", ESPN 3 (720p) MX
+http://app.tecnomolly.com:8080/live/sergiobixby/ratmDTAvFR4R/33789.ts
+#EXTINF:0 type="stream" channelId="4657" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" tvg-country="sv", ESPN 4 HD MX
+http://181.78.105.146:6060/play/a05p/index.m3u8
+#EXTINF:0 type="stream" channelId="3747" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" tvg-country="sv", ESPN 4 HD MX
+http://181.78.105.146:8800/play/a08r
+#EXTINF:0 type="stream" channelId="4669" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png" audio-track="spa" tvg-country="pe" catchup="default", ESPN Premium Full HD
+http://190.171.83.2:4000/play/a0g4/index.m3u8
+#EXTINF:0 type="stream" channelId="4669" group="Deportes" logo="https://lh3.googleusercontent.com/u/0/d/1g6sjzDO1MpLgsEslJI_vrg-_fVxYU0Ew=w1366-h641-iv1" tvg-country="cl", ESPN Premium Full HD
+http://190.25.157.67:8000/play/a0ff
+#EXTINF:0 type="stream" channelId="3746" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ESPN_HD.svg/revision/latest?cb=20160309013419" tvg-country="pe", ESPN HD CO
+http://190.60.38.45:8000/play/a0a0/index.m3u8
+#EXTINF:0 type="stream" channelId="3746" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ESPN_HD.svg/revision/latest?cb=20160309013419" tvg-country="ar", ESPN HD AR
+http://181.176.153.104:8090/play/a0rs/index.m3u8
+#EXTINF:0 type="stream" channelId="3746" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ESPN_HD.svg/revision/latest?cb=20160309013419" tvg-country="ar", ESPN HD AR
+http://190.25.157.67:8000/play/a0g5
+#EXTINF:0 type="stream" channelId="3746" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ESPN_HD.svg/revision/latest?cb=20160309013419" tvg-country="ar", ESPN HD AR
+http://45.68.35.218:4001/play/a02t/index.m3u8
+#EXTINF:0 type="stream" channelId="1263" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ESPN2_HD_logo.svg/revision/latest?cb=20221203184319" audio-track="spa" tvg-country="pe", ESPN 2 HD CO
+http://190.60.38.45:8000/play/a09s/index.m3u8
+#EXTINF:0 type="stream" channelId="1263" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ESPN2_HD_logo.svg/revision/latest?cb=20221203184319" tvg-country="ar", ESPN 2 HD CL
+http://190.25.157.67:8000/play/a0fs
+#EXTINF:0 type="stream" channelId="1263" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ESPN2_HD_logo.svg/revision/latest?cb=20221203184319" audio-track="spa" tvg-country="ar", ESPN 2 HD AR
+http://45.68.35.218:4001/play/a02u/index.m3u8
+#EXTINF:0 type="stream" channelId="1263" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ESPN2_HD_logo.svg/revision/latest?cb=20221203184319" tvg-country="ar", ESPN 2 HD AR
+http://200.59.188.3:8000/play/a013
+#EXTINF:0 type="stream" channelId="357" group="Deportes" tvg-country="ar", ESPN 3 AR
+http://200.59.188.3:8000/play/a011
+#EXTINF:0 type="stream" channelId="357" group="Deportes" tvg-country="ar", ESPN 3 AR
+http://190.60.32.178:8178/play/a015/index.m3u8
+#EXTINF:0 type="stream" channelId="4657" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" tvg-country="pe", ESPN 4 FHD CO
+http://201.182.248.254:8888/play/a0ar/index.m3u8
+#EXTINF:0 type="stream" channelId="4657" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" tvg-country="ar", ESPN 4 FHD AR
+http://190.25.157.67:8000/play/a0ec
+#EXTINF:0 type="stream" channelId="4657" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" tvg-country="ar" catchup="default", ESPN 4 (720p) AR
+http://181.78.74.69:8000/play/a065/index.m3u8
+#EXTINF:0 type="stream" channelId="1328" group="Deportes" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_01/large.ESPN_5.webp.68463ff93c0deee08b88e490b793e0a8.webp" tvg-country="pe", ESPN 5 HD
+http://181.78.74.69:8000/play/a05v/index.m3u8
+#EXTINF:0 type="stream" channelId="213" group="Deportes" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_01/large.ESPN_6.webp.5a00ef854275786ade99bbd5a826743a.webp" tvg-country="pe", ESPN 6 HD
+http://181.78.74.69:8000/play/a06q/index.m3u8
+#EXTINF:0 type="stream" channelId="170" group="Deportes" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_01/large.ESPN_7.webp.a32ca3e23216d2bc813f8f6193294826.webp" audio-track="spa", ESPN 7 HD
+http://190.25.157.67:8000/play/a0c7
+#EXTINF:0 type="stream" channelId="-1" group="Deportes" logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-country="ar", Direct Sports HD
+http://200.59.188.3:8000/play/a0xe
+#EXTINF:0 type="stream" channelId="-1" group="Deportes" logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-country="ar", Direct Sports HD
+http://200.59.188.3:8000/play/a0xf
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1003998133997666304/lQgs94cF_400x400.jpg" group-title="DEPORTES",SPORT |
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173110&path-prefix=es" group-title="DEPORTES",SPORT | ESPN Premium
