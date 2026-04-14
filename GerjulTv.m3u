@@ -213,6 +213,39 @@ http://www.radic.vip:8080/54bahu98de366sa88/58wumu473muwu85/236489
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="NOTICIAS",NOT | Star TVE
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TBS_2020.svg" group-title="NOTICIAS",NOT | TBS
+http://212.102.60.231:80/TBS/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTICIAS",NOT | CNN Esp
+http://179.63.6.15:8002/play/a02q
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="NOTICIAS",NOT | Telesur HD
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/UNNg5STH5wI/maxresdefault.jpg" group-title="NOTICIAS",NOT | HispanTV
+https://live.presstv.ir/hls/hispantv.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="NOTICIAS",NOT | RT HD
+http://45.238.54.67:8000/play/a02h/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="NOTICIAS",NOT | France 24
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg" group-title="NOTICIAS",NOT | DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwBfM5SvdjtrDbKi5zg5hV_l9rwl0_0lQVCQ&s" group-title="NOTICIAS",NOT | RAI Italia
+http://38.44.109.41:8003/play/a0g5/index.m3u8
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/KvlsT98KrDfSOA0hKDxzzRBY5xIMya-24TY_Bi640zwRctmljAuAkYOa3s1T4ZMmq9O7fBs66A=s900-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS",NOT | BBC
+https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png" group-title="NOTICIAS",NOT | CNN USA HD
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png" group-title="NOTICIAS",NOT | Fox News Channel
+http://38.199.4.105:9999/play/a0oj/index.m3u8
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/9ZV7_rH_OkAh7N95DCaf6denkZMIldPD5K2nuVxetCym4ixyBx2qk6QBbog3txzwdy4o" group-title="NOTICIAS",NOT | ABC News
+http://ultra-premium-pro.xyz:8080/966618694tv/h8f8eg/24127
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/NBC_News_%282023%29.svg" group-title="NOTICIAS",NOT | NBC News
+http://ultra-premium-pro.xyz:8080/966618694tv/h8f8eg/23965
+#EXTINF:0 tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/newsgroup-logos/msnbc/logo-vertical/default-black-498x404.png" group-title="NOTICIAS",NOT | MSNBC
+http://ultra-premium-pro.xyz:8080/966618694tv/h8f8eg/23637
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/r4lNzgh.jpeg" group-title="NOTICIAS",NOT | ACTUALIDAD RT ᴴᴰ 
 https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
 
