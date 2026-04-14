@@ -95,32 +95,33 @@ https://live.enhdtv.com:8081/8160/tracks-v1a1/mono.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_TV_P%C3%BAblica_Digital.png" group-title="ARGENTINA",AR | TV PUBLICA   23.2
-http://ky-iptv.com:80/3354746424/5566959837/228233.ts
+http://181.209.37.74:8001/play/a095/index.m3u8
 
 
 
 #EXTINF:-1 group-title="ARGENTINA",AR | Argentinísima Satelital (540p)
-http://ky-iptv.com:80/3354746424/5566959837/228107.ts
+https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="ARGENTINA",AR | TELEFE
 http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/telefe.playlist.m3u8
 
-#EXTINF:-1 group-title="ARGENTINA",AR |Canal LS83 9
-http://ky-iptv.com:80/3354746424/5566959837/221566.ts
+#EXTINF:-1 group-title="ARGENTINA",AR |Canal  9
+http://181.13.252.102:8000/play/a04h/index.m3u8
 
 #EXTINF:0 group-title="ARGENTINA",AR | EL TRECE
-https://stream-cdn-iad3.vaughnsoft.net/play/live_juan_13tv.flv?android_vs.ts
+http://181.13.252.102:8000/play/a0bg/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="ARGENTINA",AR | America  Tv
-https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+http://181.209.37.74:8001/play/a094/index.m3u8
 
 #EXTINF:0 group-title="ARGENTINA",AR | Todo Noticias AR
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/102.m3u8
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/hYbrc6g.jpeg" group-title="ARGENTINA",AR | A24 ᴴᴰ
-#EXTVLCOPT:http-user-agent=iPhone
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+http://45.5.151.147:8000/play/a006/index.m3u8
 
 
 #EXTINF:-1 group-title="ARGENTINA",AR | CRÓNICA
@@ -130,124 +131,30 @@ http://181.78.27.128:8000/play/a04k/index.m3u8
 http://45.170.41.14:9037/Live/2df0b58cab71dd47ba0d4040bf73ddca/c5n.playlist.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA",AR | Canal 26
-http://ky-iptv.com:80/3354746424/5566959837/221573.ts
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="ARGENTINA",AR | LA NACION
-https://www.youtube.com/c/LaNacionMas/live
+http://45.5.151.147:8000/play/a00a/index.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA",AR | Ciudad Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 group-title="ARGENTINA",AR | 5TV Corrientes (480p)
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",AR | CANAL 22
+https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8
 
-#EXTINF:-1 group-title="ARGENTINA",AR | Aire de Santa Fe (1080p)
-https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",AR | CANAL 10 RIO NEGRO
+https://arcast.net/c10rionegro/index.php
 
-#EXTINF:-1 group-title="ARGENTINA",AR | Canal 2 de Ushuaia (1080p)
-https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA",AR | BRAVO TV
+https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
 
-#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/2eaff8a0e93659e55a3e21d250aa7347.png" group-title="ARGENTINA",AR | A24
-https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",AR | Net TV
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="ARGENTINA",AR | Canal 2 Misiones (1080p)
-https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA",AR | Canal 2 Salta (480p)
-https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA",AR | Canal 3 La Pampa (1080p)
-https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA",AR | Canal 4 Posadas (576p)
-https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA",AR | Canal 4 San Juan (576p)
-https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA",AR | Canal 5 Santa Fe (240p)
-https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA",AR | Canal 7 Santiago del Estero (720p)
-https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA",AR | Canal 8 Valle de Uco (720p)
-https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA",AR | Canal 9 Litoral (720p)
-https://stream.arcast.live/ahora/ahora/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA",AR | Canal 9 Resistencia (720p)
-http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA",AR | Canal 10 de Junín (720p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=iPhone
-https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA",AR | Canal 11 de la Costa (720p)
-https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA",AR | Canal 12 Puerto Madryn (720p) [Not 24/7]
-https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA",AR | anal 13 La Rioja (480p)
-http://arcast.net:1935/mp/mp/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA",AR | Canal 21 TV (1080p)
-https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA",AR | Canal 22 (720p)
-https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA",AR | Canal 34 San Juan (720p)
-https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA",AR | Canal 40 Caucete (720p)
-https://canalsj.kozow.com/canal40/index.m3u8
-
-#EXTINF:-1group-title="ARGENTINA",AR | Canal 79 La Costa (240p)
-https://streamconex.com:19360/lacosta/lacosta.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA",AR | Canal 79 Santa Clara del Mar (240p)
-https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA",AR | Catamarca TV (720p)
-https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
-
-#EXTINF:-1 group-title="ARGENTINA",AR | Chaco TV (720p) [Not 24/7]
-https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA",AR | CN3 Pinamar (720p) [Not 24/7]
-https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",AR | CANAL Canal Encuentro
+http://45.238.54.67:8000/play/a03e/index.m3u8
 
 
-
-
-
-#EXTINF:0  group-title="ARGENTINA",AR | Canal 3 Formosa (720p)
-https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
-
-#EXTINF:0 group-title="ARGENTINA",AR | Canal 6 Posadas (1080p)
-https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
-
-#EXTINF:0  group-title="ARGENTINA",AR | Ciudad TV Resistencia (Chaco) (720p) [Not 24/7]
-http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
-
-#EXTINF:0 group-title="ARGENTINA",AR | 5TV Corrientes (480p) [Not 24/7]
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-
-#EXTINF:0 group-title="ARGENTINA",AR | Aire de Santa Fe (1080p)
-https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
-
-#EXTINF:0 group-title="ARGENTINA",AR | Mar del Plata 
-https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
-
-
-
-
-
-#EXTINF:0 group-title="ARGENTINA",AR | 13Max Televisión (1080p)
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 
 
