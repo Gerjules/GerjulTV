@@ -125,7 +125,7 @@ http://45.5.151.147:8000/play/a006/index.m3u8
 
 
 #EXTINF:-1 group-title="ARGENTINA",AR | CRÓNICA
-http://181.78.27.128:8000/play/a04k/index.m3u8
+http://181.13.252.102:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 C5N HD" tvg-logo="http://23.227.147.172:80/images/7fcdd8032ea49ef772faf12deb2a0e88.png" group-title="ARGENTINA",AR |  Canal 5 Noticias  C5N HD
 http://45.170.41.14:9037/Live/2df0b58cab71dd47ba0d4040bf73ddca/c5n.playlist.m3u8
