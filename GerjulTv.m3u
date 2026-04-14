@@ -1387,6 +1387,109 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609062295c2b8f0007199e7a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bb42e440-dea7-11eb-be60-3b6a118ac8ac&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ef972a2c-8672-41cf-b2e4-003e44fbe25a&userId=&serverSideAds=true
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 2 | CL
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/251860
+#EXTINF:-1 tvg-id="ESPNChile.cl" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-cl-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 1 | CL ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/58201
+#EXTINF:-1 tvg-id="ESPN2Chile.cl" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-cl-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 2 | CL ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/58202
+#EXTINF:-1 tvg-id="Canal.A&E.(Ecuador).ec" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-ec.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 2 | EC
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/59099
+#EXTINF:-1 tvg-id="Fox.Sports.1.cl" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-premium-cl-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN PREMIUM | CL ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/24404
+#EXTINF:-1 tvg-id="FOXSports2.br" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-2-br-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",FOX SPORTS 2 | BR ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/56905
+#EXTINF:-1 tvg-id="FOXSports2.uy" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-7-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 7 ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/13229
+#EXTINF:-1 tvg-id="FOXSports3.uy" tvg-logo="" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 6 ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/24405
+#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fs2-usa-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",FS 2 | US ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/80566
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 5 | NORTE ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/245771
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-arg-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 1 | AR ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/16497
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-arg-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 2 | AR ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/81343
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-3-ar-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 3 | AR ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/81344
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-premium-ar-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN PREMIUM | AR ᴴᴰ*
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/11476
+#EXTINF:-1 tvg-id="FOXSports3.ar" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-3-ar-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",FOX SPORTS 3 | AR ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/81342
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-br-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 2 | BR ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/56902
+#EXTINF:-1 tvg-id="São.Paulo/SP..Woohoo.HD.br" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-3-br-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 3 | BR ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/117637
+#EXTINF:-1 tvg-id="SV - ESPN" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-centro-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 1 | NORTE ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/25201
+#EXTINF:-1 tvg-id="SV - ESPN 2" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-centro-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 2 | NORTE ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/25210
+#EXTINF:-1 tvg-id="GT - ESPN 3" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-3-centro-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 3 | NORTE ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/25211
+#EXTINF:-1 tvg-id="Canal ESPN (Colombia)" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-co-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 1 | CO ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/766
+#EXTINF:-1 tvg-id="Canal.A&E.(Ecuador).ec" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-ec-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 2 | EC ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/58203
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-mx-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 2 | MX ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/134386
+#EXTINF:-1 tvg-id="ESPN.3.North.(Latin.America).(ESPN3).mx" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-3-mx-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 3 | MX ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/29764
+#EXTINF:-1 tvg-id="ESPN.HD.(ESPN.HD).pe" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-pe-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 1 | PE ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/58200
+#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fs1-usa-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",FS 1 | US ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/65714
+#EXTINF:-1 tvg-id="ESPN4.uy" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-4-sur-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 5 | SUR ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/19189
+#EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-usa-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 1 | US ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/169421
+#EXTINF:-1 tvg-id="ESPNChile.cl" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-cl.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 1 | CL
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/43527
+#EXTINF:-1 tvg-id="FOXSports3.uy" tvg-logo="" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 6
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/43533
+#EXTINF:-1 tvg-id="ESPN4.uy" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-4-sur.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 4 | NORTE ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/763
+#EXTINF:-1 tvg-id="ESPN4.uy" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-4-sur.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 4 | SUR
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/189167
+#EXTINF:-1 tvg-id="FOXSports2.uy" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-7.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 7
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/761
+#EXTINF:-1 tvg-id="ESPN.3.North.(Latin.America).(ESPN3).[205].cr" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-3.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 3
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/169440
+#EXTINF:-1 tvg-id="ESPN2.uy" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-sur.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 2 | SUR ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/190374
+#EXTINF:-1 tvg-id="ESPN3.uy" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-3-sur-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 3 | SUR ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/3267
+#EXTINF:-1 tvg-id="ESPN2.uy" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-sur.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 2 | SUR
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/767
+#EXTINF:-1 tvg-id="Fox.Sports.Argentina.(Cono.Sur).(FOXSP).ar" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-1-ar.png" group-title="⭐⚽ ESPN / FOX SPORTS",FOX SPORTS 1 | AR ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/29781
+#EXTINF:-1 tvg-id="FOXSports2.ar" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-2-ar.png" group-title="⭐⚽ ESPN / FOX SPORTS",FOX SPORTS 2 | AR ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/81341
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-3-mx-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",FOX SPORTS 3 | MX ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/29783
+#EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-usa-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 2 | US ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/169422
+#EXTINF:-1 tvg-id="São.Paulo/SP..Woohoo.HD.br" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-4-br-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 4 | BR ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/160136
+#EXTINF:-1 tvg-id="ESPN.HD.uy" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-uy-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 1 | UY ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/168572
+#EXTINF:-1 tvg-id="Fox.Soccer.Plus.(FSPLUS).us" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_soccer_plus.png" group-title="⭐⚽ ESPN / FOX SPORTS",FOX SOCCER PLUS ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/197315
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-deportes-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN DEPORTES ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/160760
+#EXTINF:-1 tvg-id="ESPN.(Mexico).(ESPMX).mx" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-mx-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 1 | MX ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/166748
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-deportes-us-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",FOX DEPORTES | US ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/58606
+#EXTINF:-1 tvg-id="FOX.Sports.Premium.MEXICO.mx" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-premium-mx-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",FOX SPORTS PREMIUM | MX ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/29785
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-extra-sur-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN EXTRA+ ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/221218
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N3GFd8w/espn-6-america-latina.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 6 | NORTE ᴴᴰ
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/223986
+#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-br-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 1 | BR ᴴᴰ
+
 #EXTINF:0 type="stream" channelId="3748" group-title="DEPORTES",SPORT |  logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/640px-ESPN_Deportes.svg.png" tvg-country="sv", ESPN Deportes HD
 http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:0 type="stream" channelId="344" group-title="DEPORTES",SPORT |  logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927" tvg-country="sv", ESPN HD (Centroamérica)
