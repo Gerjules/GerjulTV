@@ -155,13 +155,63 @@ https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 http://45.238.54.67:8000/play/a03e/index.m3u8
 
 
-
-
-
 #EXTINF:-1 group-title="ARGENTINA",AR | Volver
 http://myteve.online:8080/30fe809e/ec00cbf3/49329
 
 
+
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Telemundo_Internacional_Logo_%282013-2018%29.png/revision/latest?cb=20220222215130&path-prefix=es" group-title="NOTICIAS",NOT | Telemundo Internacional
+http://201.216.147.90:8729/play/a0c7
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg" group-title="NOTICIAS",NOT | Univision
+http://201.216.147.90:8729/play/a0pa
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/Ib5ULCpmO4UanuV-T1Mq1tOvjtUIvEWo2Wf0jDHTBQpSQN62adoobhmd4AGebaMZFW8ZsLxr7eE=s900-c-k-c0x00ffffff-no-rj group-title="NOTICIAS",NOT | Univision + 
+https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x720.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" group-title="NOTICIAS",NOT | Ve Plus
+http://181.78.7.90:12500/play/a0mf/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Logotipo_de_Venevisi%C3%B3n_%28unoffical_blue_version%29.svg" group-title="NOTICIAS",NOT | Venevision Internacional
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj0U69X-FU5g-TKhzmM-Of3FY4rbiXDAqzMg&s" group-title="NOTICIAS",NOT | RCN Colombia
+http://181.205.130.194:4000/play/a0dl
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj0U69X-FU5g-TKhzmM-Of3FY4rbiXDAqzMg&s" group-title="NOTICIAS",NOT | RCN + Colombia
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Bolivisi%C3%B3n2025.png"group-title="NOTICIAS",NOT | Bolivision
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtqtsNTPPc6PXpqpfS__kZoIC7R6tQ_k_Avw&s" group-title="NOTICIAS",NOT | TV Peru
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Tv_Per%C3%BA_Internacional_-_Logo_2019_Reducido.svg" group-title="NOTICIAS",NOT | TV Peru Internacional
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAg3QGDTcm3JJFgLwqEYs6XYdc-D7sT7kd8A&s" group-title="NOTICIAS",NOT | CGTN Espanol
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mDfvj3lBIIByegg9yN9bA-QLVN8nurP250cE5GBwTw6H8=s900-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS",NOT | Hola TV
+http://38.44.109.41:8003/play/a0hw/index.m3u8
+
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-nE8GHczwIAc/TqWTiWZ-YLI/AAAAAAAAQlo/Xiavj_oeqKA/s1600/tve-2010.png" group-title="NOTICIAS",NOT | TVE
+https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-nE8GHczwIAc/TqWTiWZ-YLI/AAAAAAAAQlo/Xiavj_oeqKA/s1600/tve-2010.png" group-title="NOTICIAS",NOT | TVE Internacional
+http://181.209.37.74:8001/play/a080/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/250px-Logo_Canal_24_horas.svg.png" group-title="NOTICIAS",NOT | 24 horas
+http://ultra-premium-pro.xyz:8080/966618694tv/h8f8eg/12394
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6dtC1BvPcFHYtA9Z3EtmZffEYR8RSs1Xq-w&s" group-title="NOTICIAS",NOT | Antena 3
+http://170.244.209.30:8000/play/a12w/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/AtreseriesLogo.jpg" group-title="NOTICIAS",NOT | A3 Series
+http://181.78.20.119:58002/play/a06i/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgE1EBbIlc8tR5P5eR-LTLMB0BTlHNi8pXvQ&s" group-title="NOTICIAS",NOT | Mega
+http://www.radic.vip:8080/54bahu98de366sa88/58wumu473muwu85/236508
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_La_1.svg"group-title="NOTICIAS",NOT | La 1
+http://ultra-premium-pro.xyz:8080/966618694tv/h8f8eg/12334
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_La_1.svg" group-title="NOTICIAS",NOT | La 1 HD
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/8192
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/1200px-Logo_La_2.svg.png" group-title="NOTICIAS",NOT | La 2
+http://ultra-premium-pro.xyz:8080/966618694tv/h8f8eg/12454
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQprL6XW1D4scFXuz-h4t7_wLIat4e79AI1hw&s" group-title="NOTICIAS",NOT | Cuatro
+http://ultra-premium-pro.xyz:8080/966618694tv/h8f8eg/12331
+#EXTINF:0 tvg-logo="https://i.scdn.co/image/ab6761610000e5ebc66c6848262ec04bc34a0dee" group-title="NOTICIAS",NOT | Telecinco
+http://www.radic.vip:8080/54bahu98de366sa88/58wumu473muwu85/236486
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSG71u3qAyFXieVfsHLDfdzmh3fDrulKDJ4Q&s" group-title="NOTICIAS",NOT | La Sexta
+http://www.radic.vip:8080/54bahu98de366sa88/58wumu473muwu85/236489
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="NOTICIAS",NOT | Star TVE
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/r4lNzgh.jpeg" group-title="NOTICIAS",NOT | ACTUALIDAD RT ᴴᴰ 
 https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
@@ -297,6 +347,9 @@ https://bmcc.nhkworld.jp/live2/index_1M.m3u8
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title="NOTICIAS",NOT |  NHK JAPAN HD |
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+
+
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="PELICULAS",PELIS | AMC
 http://190.60.37.126:58002/play/a0ac/index.m3u8
