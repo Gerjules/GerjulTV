@@ -115,7 +115,7 @@ http://181.13.252.102:8000/play/a04h/index.m3u8
 http://181.13.252.102:8000/play/a0bg/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="ARGENTINA",AR | America  Tv
-http://181.209.37.74:8001/play/a094/index.m3u8
+http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157612
 
 #EXTINF:0 group-title="ARGENTINA",AR | Todo Noticias AR
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/102.m3u8
