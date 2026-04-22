@@ -106,7 +106,7 @@ http://181.209.37.74:8001/play/a095/index.m3u8
 https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="ARGENTINA",AR | TELEFE
-http://181.13.252.102:8000/play/a06c/index.m3u8?hls
+http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/157589
 
 #EXTINF:-1 group-title="ARGENTINA",AR |Canal  9
 http://181.13.252.102:8000/play/a04h/index.m3u8
