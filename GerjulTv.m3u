@@ -417,24 +417,19 @@ https://edge19.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w271535189.m3
 
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="PELICULAS",PELIS | AMC
-http://190.60.37.126:58002/play/a0ac/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="PELICULAS",PELIS | AMC Series
 http://181.13.252.102:8000/play/a02y/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="PELICULAS",PELIS | A&E
-http://181.209.37.74:8001/play/a09h/index.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="PELICULAS",PELIS | A&E HD
 http://217.26.190.76:8888/play/a0ff/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzMpELJrYH7D81zVpTgT7T96pw0EQCfsgD7A&s" group-title="PELICULAS",PELIS | AXN
 http://170.244.209.30:8000/play/a05b/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzMpELJrYH7D81zVpTgT7T96pw0EQCfsgD7A&s" group-title="PELICULAS",PELIS | AXN HD
 http://217.26.190.76:8888/play/a0ij/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/CINEARLogo.png/120px-CINEARLogo.png" group-title="PELICULAS",PELIS | CineAR
-http://181.209.37.74:8001/play/a069/index.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg" group-title="PELICULAS",PELIS | Cinemax
 http://190.151.80.244:9990/play/a0li/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg" group-title="PELICULAS",PELIS | Cinemax Sur
-http://45.238.54.67:8000/play/a00b/index.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="PELICULAS",PELIS | Cinecanal
 http://181.119.111.25:4000/play/a0gb/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="PELICULAS",PELIS | Cinecanal SUR
