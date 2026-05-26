@@ -26,12 +26,6 @@ http://24.152.42.29:8000/play/a02d/index.m3u8?hls
 #EXTINF:-1 tvg-id="SNT.py" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="PARAGUAY",PY | SNT
 http://24.152.42.29:8000/play/a0bq/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="SNT.py" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="PARAGUAY",PY |  SNT OPC 2
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8
-
-#EXTINF:-1 tvg-id="SNT.py" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="PARAGUAY",PY |  SNT OPC 3
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1442.m3u8
-
 #EXTINF:0 group-title="PARAGUAY",PY | CANAL 5 DIAS HD CA
 http://24.152.42.29:8000/play/a085/index.m3u8?hls
 
@@ -44,6 +38,9 @@ http://24.152.42.29:8000/play/a02m/index.m3u8?hls
 #EXTINF:0 group-title="PARAGUAY",PY | MEGA TV
 http://24.152.42.29:8000/play/a02j/index.m3u8?hls
 
+#EXTINF:0 group-title="PARAGUAY",PY | Republica 101.3 FM
+http://24.152.42.29:8000/play/a033/index.m3u8?hls
+
 #EXTINF:-1 tvg-id="Latele.py" tvg-logo="https://graph.facebook.com/LatelePy/picture?width=200&height=200" group-title="PARAGUAY",PY |  LA TELE HD
 https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 
@@ -51,13 +48,16 @@ https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tva
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
 
 #EXTINF:-1 tvg-id="SURTVItapua.py" tvg-logo="https://i.ibb.co/WW26ctDc/image.png" group-title="PARAGUAY",PY |  SUR
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8
+http://24.152.42.29:8000/play/a02e/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Trece.py" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfKOWcmza3biSWSrLZMRhYP5Mb9DnSZu5qyQ&s" group-title="PARAGUAY",PY | TRECE
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
 
 #EXTINF:-1  group-title="PARAGUAY",PY | AGR C 7 Curuguaty
 http://24.152.42.29:8000/play/a034/index.m3u8?hls
+
+#EXTINF:0 group-title="PARAGUAY",PY | Tv Canindeyu
+http://24.152.42.29:8000/play/a091/index.m3u8?hls
 
 #EXTINF:0 group-title="PARAGUAY",PY | AMERICA HD CA
 http://24.152.42.29:8000/play/a08f/index.m3u8?hls
@@ -90,7 +90,7 @@ https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?a
 https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
 
 #EXTINF:-1 tvg-id="Unicanal.py" tvg-logo="https://graph.facebook.com/Unicanal/picture?width=200&height=200" group-title="PARAGUAY",PY |  UNICANAL
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
+http://24.152.42.29:8000/play/a03h/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="UnionTV.py" tvg-logo="https://i.ibb.co/HLvq6nfQ/logo-retina-01.png" group-title="PARAGUAY",PY |  UNION TV
 https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
@@ -101,8 +101,6 @@ https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=naci
 #EXTINF:-1 tvg-id="MotorSurMedia.py" tvg-logo="https://i.postimg.cc/q761GQm6/motor-sur-media.png" group-title="PARAGUAY",PY |  MOTOR SUR MEDIA
 http://24.152.42.29:8000/play/a08z/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="RTVdelSur.py" tvg-logo="https://i.postimg.cc/gcHT1f58/rtv.png" group-title="PARAGUAY",PY |  RTV PARANÁ
-https://video.hostingcaaguazu.com:19360/rtvhd/rtvhd.m3u8
 
 #EXTINF:-1 tvg-id="CaritasTV.py" tvg-logo="https://i.postimg.cc/P5nLVXQ2/caritas-tv.png" group-title="PARAGUAY",PY |  CÁRITAS TV
 https://rds3gen.desdeparaguay.net/caritastv/caritastv/chunklist.m3u8
