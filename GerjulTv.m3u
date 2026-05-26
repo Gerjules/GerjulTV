@@ -178,7 +178,7 @@ Http://45.170.130.224:8000/play/a04i/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_TV_P%C3%BAblica_Digital.png" group-title="ARGENTINA",AR | TV PUBLICA   23.2
-http://181.209.37.74:8001/play/a095/index.m3u8
+http://181.209.96.155:10000/play/a13y/index.m3u8
 
 
 
@@ -189,7 +189,7 @@ https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/157589
 
 #EXTINF:-1 group-title="ARGENTINA",AR |Canal  9
-http://181.13.252.102:8000/play/a04h/index.m3u8
+http://181.209.96.155:10000/play/a15e/index.m3u8
 
 #EXTINF:0 group-title="ARGENTINA",AR | EL TRECE
 http://181.13.252.102:8000/play/a0bg/index.m3u8
@@ -201,7 +201,7 @@ http://181.209.96.155:10000/play/america/index.m3u8
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/102.m3u8
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/hYbrc6g.jpeg" group-title="ARGENTINA",AR | A24 ᴴᴰ
-http://45.5.151.147:8000/play/a006/index.m3u8
+181.209.96.155 : 10000/play/a11m/index.m3u8
 
 
 #EXTINF:-1 group-title="ARGENTINA",AR | CRÓNICA
@@ -222,8 +222,7 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="ARGENTINA",AR | CANAL 22
 https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8
 
-#EXTINF:-1 group-title="ARGENTINA",AR | CANAL 10 RIO NEGRO
-https://arcast.net/c10rionegro/index.php
+
 
 #EXTINF:-1 group-title="ARGENTINA",AR | BRAVO TV
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
