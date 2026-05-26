@@ -45,13 +45,13 @@ http://24.152.42.29:8000/play/a033/index.m3u8?hls
 https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 
 #EXTINF:-1 tvg-id="Paravision.py" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1.png" group-title="PARAGUAY",PY |  PARAVISION 
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
+http://24.152.42.29:8000/play/a01s/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SURTVItapua.py" tvg-logo="https://i.ibb.co/WW26ctDc/image.png" group-title="PARAGUAY",PY |  SUR
 http://24.152.42.29:8000/play/a02e/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Trece.py" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfKOWcmza3biSWSrLZMRhYP5Mb9DnSZu5qyQ&s" group-title="PARAGUAY",PY | TRECE
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
+http://24.152.42.29:8000/play/a0ch/index.m3u8?hls
 
 #EXTINF:-1  group-title="PARAGUAY",PY | AGR C 7 Curuguaty
 http://24.152.42.29:8000/play/a034/index.m3u8?hls
