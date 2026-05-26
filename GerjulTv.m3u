@@ -45,7 +45,7 @@ http://24.152.42.29:8000/play/a033/index.m3u8?hls
 https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 
 #EXTINF:-1 tvg-id="Paravision.py" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1.png" group-title="PARAGUAY",PY |  PARAVISION 
-http://24.152.42.29:8000/play/a01s/index.m3u8?hls
+http://24.152.42.29:8000/play/a02c/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SURTVItapua.py" tvg-logo="https://i.ibb.co/WW26ctDc/image.png" group-title="PARAGUAY",PY |  SUR
 http://24.152.42.29:8000/play/a02e/index.m3u8?hls
