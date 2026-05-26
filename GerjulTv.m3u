@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/Hn6M4Sv/abc.png" group-title="PARAGUAY",PY | ABC TV
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
+http://45.184.109.31 :8000/play/a042/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/Hn6M4Sv/abc.png" group-title="PARAGUAY",PY | ÑANDUTI
@@ -127,11 +127,6 @@ https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 https://rds3gen.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="PARAGUAY",PY | UnionTV
-https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
-
-#EXTINF:-1,group-title="PARAGUAY",PY |  SUR TV
-http://138.59.227.28:8000/play/a0c8/index.m3u8
 
 #EXTINF:-1 group-title="PARAGUAY",PY | República TV 
 https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
