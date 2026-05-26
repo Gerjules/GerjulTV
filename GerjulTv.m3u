@@ -69,19 +69,19 @@ http://24.152.42.29:8000/play/a098/index.m3u8?hls
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
 
 #EXTINF:-1 tvg-id="TVCamara.py" tvg-logo="http://imgfz.com/i/QTcoH5d.jpeg" group-title="PARAGUAY",PY | TV CAMARA
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8
+http://24.152.42.29:8000/play/a02a/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ParaguayTV.py" tvg-logo="https://i.ibb.co/pB0cvBG1/py-Tv-web-2.png" group-title="PARAGUAY",PY | PARAGUAY TV
 http://24.152.42.29:8000/play/a01q/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="E40.py" tvg-logo="https://i.ibb.co/jz9XkvP/e40.png" group-title="PARAGUAY",PY |  E40
-https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
+http://24.152.42.29:8000/play/a03a/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="FarraPlay.py" tvg-logo="https://i.imgur.com/bXWzstH.png" group-title="PARAGUAY",PY |  FARRA TV
-https://stream.farra.com.py/live/farra_low.m3u8
+http://24.152.42.29:8000/play/a06a/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="PARAGUAY",PY | Venus Tv
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/66.m3u8
+http://24.152.42.29:8000/play/a069/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/exbBCaessS5ew-F6NFy9u6u6Yy-K7kMZ1OOI9CtlxSC-CK1W6FZaD9j-OqQBv-piZeakhs1ayg=s160-c-k-c0x00ffffff-no-rj" group-title="PARAGUAY",PY | , POPU TV
 https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?admin=nacion
