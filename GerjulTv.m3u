@@ -1238,58 +1238,6 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
 
 
-#EXTINF:0 group-title="CULTURA",CULT | Pluto TV Ciencia
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTVLCOPT:network-caching=3000
-#EXTINF:0 group-title="CULTURA",CULT | CLASSIC ARTS SHOWCASE  
-#EXTVLCOPT:network-caching=3000
-https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-
-
-#EXTINF:0 group-title="CULTURA",CULT | PLUTO VIAJES  
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=727fd000-5fe9-11eb-affa-0242ac110002&sid=727fd000-5fe9-11eb-affa-0242ac110002&userId=
-
-#EXTINF:0 group-title="CULTURA",CULT | Pluto TV Historia
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:0 group-title="CULTURA",CULT | Paisajes por Stingray
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d966/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="CULTURA",CULT | Conciertos por Stingray
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-
-#EXTINF:0 group-title="CULTURA",CULT | PRESUMIENDO MÉXICO  
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8?PlaylistM3UCL
-
-
-#EXTINF:0 group-title="CULTURA",CULT | MUNDO VIAJERO
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://stitcher.pluto.tv/stitch/hls/channel/60511efd71ec430007f50d97/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8ef6973d-ade6-11eb-930b-0242ac110002
-
-#EXTINF:0 group-title="CULTURA",CULT | Service
-#EXTVLCOPT:network-caching=1000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18713-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3efb2623-4d66-4ffa-b1f5-4b9d5f63d16c&userId=&serverSideAds=true
-
-
-#EXTINF:0 group-title="CULTURA",CULT | Discovery Familia
-#EXTVLCOPT:network-caching=3000
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHPw6CcjW_tufp-8Sl2Tpg2M
 
 
 
@@ -1830,6 +1778,10 @@ https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254cj43rQle
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255Cmvaz4p28tYLXyLv91TNJ/m3u8
 #EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjZ2g3vti17pc053mECOPx_BtOMjYSD_0poxWShGvmPcWBk9Qidb5Iso9HomK_eQ46g.png" group-title="UNIVERSAL+",Universal Reality
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257_1fA_ceY2o6LEAChnwYvj/m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvKcThrN/Logo-Magic-Channel.jpg" group-title="NIÑOS Y ADOLESCENTES",Magic Channel HD
+https://cdn.global.elektamedia.com/live/c7eds/Laika_Channel/SA_LIVE_hls_enc/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWxbETPlYHuIWa4H1y7RYyqWtkloD0NxEORQnbZBHe9ezmwPn-illQy5CiFCpqeVwg.png" group-title="NIÑOS Y ADOLESCENTES",Disney Channel
 http://nor3live.win/livehttpplay?channel_id=23326
 #EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjd_JVkz44M_LY9MXnJrNwNzJL4IHXSErvNMs30pJAlTVqsWNUEVsRcaFgv5BoQeXYQ.png" group-title="NIÑOS Y ADOLESCENTES",Cartoon Network
@@ -1856,28 +1808,68 @@ https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254uXxqva1B
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256sK1Dk7dh2Q3EqkPm6m0Fd/m3u8
 #EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjZYg6QpgMeTg0kOMccYi8-Uc0DfVViFWJ_0P-kBRPwHE.png" group-title="NIÑOS Y ADOLESCENTES",ETC
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256aQx1vfvF0FErRVNCwod8B/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWxbETPlYHuIWa4H1y7RYyoQRhU24TFUGFi7LIBqp-El.png" group-title="CULTURA",Discovery
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mCLdn5MR/Logo-Wow-Documentary.png"  group-title="CULTURA",CULT | Wow Documentary HD
+https://live20.bozztv.com/akamaissh101/ssh101/wowdocumentary/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWxbETPlYHuIWa4H1y7RYyoQRhU24TFUGFi7LIBqp-El.png" group-title="CULTURA",CULT | Discovery
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254gVVextOEi3fK05m1w-2Hf/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjZdV306jXFqJPVPRItd6GzRUHELAMdZqXlwM-Cah8lcE.png" group-title="CULTURA",National Geographic
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjZdV306jXFqJPVPRItd6GzRUHELAMdZqXlwM-Cah8lcE.png"  group-title="CULTURA",CULT | National Geographic
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255kPPLwfjc4Ian5QhypQeCJ/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYhdtd55krlCFGkQwzVPAa0-2JiaUlPdvq1banwUTHdQ.png" group-title="CULTURA",History
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYhdtd55krlCFGkQwzVPAa0-2JiaUlPdvq1banwUTHdQ.png" group-title="CULTURA",CULT | History
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256UXqnlHEgCFBGsye3mob-_/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjfWYJWey4hJGm_NC0IOcROOX2wFkc1mc5AAZKOmeT2zz.png" group-title="CULTURA",Animal Planet
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjfWYJWey4hJGm_NC0IOcROOX2wFkc1mc5AAZKOmeT2zz.png"  group-title="CULTURA",CULT | Animal Planet
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256-CouPoLYn-nAGgUWMz5Yl/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYhdtd55krlCFGkQwzVPAa2q1VjlkS49wtSi31MSRdsX.png" group-title="CULTURA",History 2
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYhdtd55krlCFGkQwzVPAa2q1VjlkS49wtSi31MSRdsX.png" group-title="CULTURA",CULT | History 2
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257NY4fF6ol8WWe8uLfGpail/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWxbETPlYHuIWa4H1y7RYyp6lDBvJAkQGZwtFdUUfgu9LpPVulIIVoVNCkmBjFx6GA.png" group-title="CULTURA",Discovery World
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWxbETPlYHuIWa4H1y7RYyp6lDBvJAkQGZwtFdUUfgu9LpPVulIIVoVNCkmBjFx6GA.png" group-title="CULTURA",CULT | Discovery World
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255e4_4Hj8kRbpe5UqpwbprW/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjR0bnLj1q615xgQ1SAd5BicjPvu_4RNj0scFfRybsmeQ.png" group-title="CULTURA",13C
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjR0bnLj1q615xgQ1SAd5BicjPvu_4RNj0scFfRybsmeQ.png"  group-title="CULTURA",CULT | 13C
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2545BYQ5opcP1OE7IyhxF1d3/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWxbETPlYHuIWa4H1y7RYyo4tVjzgZ97Jvw2qZE1kJUG-2fc41vLEn_gPX0My6bNqA.png" group-title="CULTURA",Discovery Science
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWxbETPlYHuIWa4H1y7RYyo4tVjzgZ97Jvw2qZE1kJUG-2fc41vLEn_gPX0My6bNqA.png"  group-title="CULTURA",CULT | Discovery Science
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254-Xu9Q3T7cI6qCqiPUyRya/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWxbETPlYHuIWa4H1y7RYyoPGmWfnYfscOgGdNSbbPA8tmDoa9hvUjzXgbAhyLiJpQ.png" group-title="CULTURA",Discovery Theater
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWxbETPlYHuIWa4H1y7RYyoPGmWfnYfscOgGdNSbbPA8tmDoa9hvUjzXgbAhyLiJpQ.png"  group-title="CULTURA",CULT | Discovery Theater
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255eoLtc94tKNIgDS9HacNq7/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjQR_IEkVkFyuCK89Y9ZmLD1mUYkT0AjBtF6pgxiY84cU.png" group-title="CULTURA",Atlas
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjQR_IEkVkFyuCK89Y9ZmLD1mUYkT0AjBtF6pgxiY84cU.png"  group-title="CULTURA",CULT | Atlas
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256vaqLP1qFW1q-6MEa3GGbd/m3u8
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjd_JVkz44M_LY9MXnJrNwNzBhEVGARFZmwTD_Xb8kQTg.png" group-title="CULTURA",Canal á
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjd_JVkz44M_LY9MXnJrNwNzBhEVGARFZmwTD_Xb8kQTg.png"  group-title="CULTURA",CULT | Canal á
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254ZCTz9IUtUzdDRsmGfh71p/m3u8
+
+#EXTINF:0 group-title="CULTURA",CULT | Pluto TV Ciencia
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:0 group-title="CULTURA",CULT | CLASSIC ARTS SHOWCASE  
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+
+
+#EXTINF:0 group-title="CULTURA",CULT | PLUTO VIAJES  
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&clientModelNumber=na&deviceDNT=false&deviceId=b2e8f62a-48c7-4efe-9c4e-7294acf9e404&deviceLat=20.9176&deviceLon=-101.7970&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=727fd000-5fe9-11eb-affa-0242ac110002&sid=727fd000-5fe9-11eb-affa-0242ac110002&userId=
+
+#EXTINF:0 group-title="CULTURA",CULT | Pluto TV Historia
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:0 group-title="CULTURA",CULT | Paisajes por Stingray
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d966/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:0 group-title="CULTURA",CULT | Conciertos por Stingray
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+
+#EXTINF:0 group-title="CULTURA",CULT | PRESUMIENDO MÉXICO  
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:0 group-title="CULTURA",CULT | MUNDO VIAJERO
+https://stitcher.pluto.tv/stitch/hls/channel/60511efd71ec430007f50d97/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8ef6973d-ade6-11eb-930b-0242ac110002
+
+#EXTINF:0 group-title="CULTURA",CULT | Service
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18713-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3efb2623-4d66-4ffa-b1f5-4b9d5f63d16c&userId=&serverSideAds=true
+
+#EXTINF:0 group-title="CULTURA",CULT | Discovery Familia
+http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHPw6CcjW_tufp-8Sl2Tpg2M
+
+
 #EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjVm8WoU000B8p-a5FnTTxgHcNxoALtrMjSyOI1hljxZv.png" group-title="MÚSICA",Telehit
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254uBj3fPBUj4rN0mcxEAcaY/m3u8
 #EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjVm8WoU000B8p-a5FnTTxgHV7TmhDKJKor-M_1IIBDTOCkOhAgPS6eZPfm_qsmHcvw.png" group-title="MÚSICA",Telehit Música
