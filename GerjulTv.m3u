@@ -124,7 +124,7 @@ http://24.152.42.29:8000/play/a033/index.m3u8?hls
 
 
 #EXTINF:-1 tvg-id="Trece.py" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfKOWcmza3biSWSrLZMRhYP5Mb9DnSZu5qyQ&s" group-title="PARAGUAY",PY | TRECE
-http://24.152.42.29:8000/play/a0ch/index.m3u8?hls
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9I0DPZntqtOUwPQxStX-muY
 
 #EXTINF:-1  group-title="PARAGUAY",PY | AGR C 7 Curuguaty
 http://24.152.42.29:8000/play/a034/index.m3u8?hls
