@@ -1396,7 +1396,30 @@ http://lamtv.site:8080/Arturo2025/arturito25/5189.ts
 #EXTINF:-1 tvg-id="" tvg-name="ZAPPING SPORTS (ECUADOR)" tvg-logo="http://lamtv.site:8080/images/bc36248d-881c-4185-81f7-3bf276a4f1b7.jpg" group-title="⚡ DEPORTES PREMIUM",ZAPPING SPORTS (ECUADOR)
 http://lamtv.site:8080/Arturo2025/arturito25/101117.ts
 
-
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS BOLIVIA 1" tvg-logo="http://lamtv.site:8080/images/32ac9686-6b49-40f3-b93f-71c375365526.jpg" group-title="⚡ TIGO SPORT",TIGO SPORTS BOLIVIA 1
+http://lamtv.site:8080/Arturo2025/arturito25/29698.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS BOLIVIA 2" tvg-logo="http://lamtv.site:8080/images/32ac9686-6b49-40f3-b93f-71c375365526.jpg" group-title="⚡ TIGO SPORT",TIGO SPORTS BOLIVIA 2
+http://lamtv.site:8080/Arturo2025/arturito25/82155.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS COSTA RICA OP01" tvg-logo="http://lamtv.site:8080/images/32ac9686-6b49-40f3-b93f-71c375365526.jpg" group-title="⚡ TIGO SPORT",TIGO SPORTS COSTA RICA OP01
+http://lamtv.site:8080/Arturo2025/arturito25/29685.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS COSTA RICA OP02" tvg-logo="http://lamtv.site:8080/images/32ac9686-6b49-40f3-b93f-71c375365526.jpg" group-title="⚡ TIGO SPORT",TIGO SPORTS COSTA RICA OP02
+http://lamtv.site:8080/Arturo2025/arturito25/29692.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS EL SALVADOR 1" tvg-logo="http://lamtv.site:8080/images/32ac9686-6b49-40f3-b93f-71c375365526.jpg" group-title="⚡ TIGO SPORT",TIGO SPORTS EL SALVADOR 1
+http://lamtv.site:8080/Arturo2025/arturito25/29693.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS EL SALVADOR 2" tvg-logo="http://lamtv.site:8080/images/32ac9686-6b49-40f3-b93f-71c375365526.jpg" group-title="⚡ TIGO SPORT",TIGO SPORTS EL SALVADOR 2
+http://lamtv.site:8080/Arturo2025/arturito25/29701.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS GUATEMALA 1" tvg-logo="http://lamtv.site:8080/images/32ac9686-6b49-40f3-b93f-71c375365526.jpg" group-title="⚡ TIGO SPORT",TIGO SPORTS GUATEMALA 1
+http://lamtv.site:8080/Arturo2025/arturito25/29688.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS GUATEMALA 2" tvg-logo="http://lamtv.site:8080/images/32ac9686-6b49-40f3-b93f-71c375365526.jpg" group-title="⚡ TIGO SPORT",TIGO SPORTS GUATEMALA 2
+http://lamtv.site:8080/Arturo2025/arturito25/29689.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS HONDURAS 01" tvg-logo="http://lamtv.site:8080/images/32ac9686-6b49-40f3-b93f-71c375365526.jpg" group-title="⚡ TIGO SPORT",TIGO SPORTS HONDURAS 01
+http://lamtv.site:8080/Arturo2025/arturito25/29694.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS HONDURAS 02" tvg-logo="http://lamtv.site:8080/images/32ac9686-6b49-40f3-b93f-71c375365526.jpg" group-title="⚡ TIGO SPORT",TIGO SPORTS HONDURAS 02
+http://lamtv.site:8080/Arturo2025/arturito25/29702.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS PARAGUAY 1" tvg-logo="http://lamtv.site:8080/images/tigosportspy.png" group-title="⚡ TIGO SPORT",TIGO SPORTS PARAGUAY 1
+http://lamtv.site:8080/Arturo2025/arturito25/29695.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS PARAGUAY 2" tvg-logo="http://lamtv.site:8080/images/tigosportspy.png" group-title="⚡ TIGO SPORT",TIGO SPORTS PARAGUAY 2
+http://lamtv.site:8080/Arturo2025/arturito25/29696.ts
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173110&path-prefix=es" group-title="DEPORTES",SPORT | ,SPORT | ESPN Premium SD
 http://181.13.252.102:8000/play/a078/index.m3u8
