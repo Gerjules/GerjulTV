@@ -1248,6 +1248,156 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609062295c2b8f00071
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="ADRENALINA SPORTS" tvg-logo="http://lamtv.site:8080/images/ea01033d-0272-4b9c-8acb-644f8cde3b9d.jpg" group-title="⚡ DEPORTES PREMIUM",ADRENALINA SPORTS
+http://lamtv.site:8080/Arturo2025/arturito25/81463.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | DIRECTV SPORTS • OP01" tvg-logo="http://lamtv.site:8080/images/2072d4a7-c935-4ba5-9082-c4a5cf9548dc.jpg" group-title="⚡ DEPORTES PREMIUM",ARG | DIRECTV SPORTS • OP01
+http://lamtv.site:8080/Arturo2025/arturito25/81497.ts
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA DEPORTES • OP01 ☆" tvg-logo="http://lamtv.site:8080/images/c5af0434-2dc7-4643-b2aa-1584f694c45e.jpg" group-title="⚡ DEPORTES PREMIUM",AZTECA DEPORTES • OP01 ☆
+http://lamtv.site:8080/Arturo2025/arturito25/5196.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA Ñ" tvg-logo="http://lamtv.site:8080/images/d0714790-6c90-4322-9864-a89c97c71790.jpg" group-title="⚡ DEPORTES PREMIUM",BEIN SPORTS XTRA Ñ
+http://lamtv.site:8080/Arturo2025/arturito25/5175.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS Ñ" tvg-logo="http://lamtv.site:8080/images/be1bc0fa-047a-4d02-a300-63748b20b040.jpg" group-title="⚡ DEPORTES PREMIUM",BEIN SPORTS Ñ
+http://lamtv.site:8080/Arturo2025/arturito25/5172.ts
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS | MX" tvg-logo="http://lamtv.site:8080/images/f7409de8-9c04-40d3-a8a4-868e42e4a65b.jpg" group-title="⚡ DEPORTES PREMIUM",CLARO SPORTS | MX
+http://lamtv.site:8080/Arturo2025/arturito25/5200.ts
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE | BR" tvg-logo="http://lamtv.site:8080/images/5785b8a7-a122-42a8-8cb8-dc09912d20dd.jpg" group-title="⚡ DEPORTES PREMIUM",COMBATE | BR
+http://lamtv.site:8080/Arturo2025/arturito25/5180.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTV | AR • OP01" tvg-logo="http://lamtv.site:8080/images/573a46d2-2110-491a-9ca0-56d884fb870b.jpg" group-title="⚡ DEPORTES PREMIUM",DEPORTV | AR • OP01
+http://lamtv.site:8080/Arturo2025/arturito25/5188.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTV | AR • OP02" tvg-logo="http://lamtv.site:8080/images/573a46d2-2110-491a-9ca0-56d884fb870b.jpg" group-title="⚡ DEPORTES PREMIUM",DEPORTV | AR • OP02
+http://lamtv.site:8080/Arturo2025/arturito25/81462.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS MOTORS" tvg-logo="http://lamtv.site:8080/images/996278f9-910b-4ae7-b247-fd6955b5111f.jpg" group-title="⚡ DEPORTES PREMIUM",DIRECTV SPORTS MOTORS
+http://lamtv.site:8080/Arturo2025/arturito25/90852.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS+" tvg-logo="http://lamtv.site:8080/images/0d01d887-5daa-4e59-a089-46d0de840969.jpg" group-title="⚡ DEPORTES PREMIUM",DIRECTV SPORTS+
+http://lamtv.site:8080/Arturo2025/arturito25/81495.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS+" tvg-logo="http://lamtv.site:8080/images/0d01d887-5daa-4e59-a089-46d0de840969.jpg" group-title="⚡ DEPORTES PREMIUM",DIRECTV SPORTS+
+http://lamtv.site:8080/Arturo2025/arturito25/81501.ts
+#EXTINF:-1 tvg-id="" tvg-name="ECDF | EC" tvg-logo="http://lamtv.site:8080/images/fa4e5f5f-c98e-43e7-8657-0333cb1875e3.jpg" group-title="⚡ DEPORTES PREMIUM",ECDF | EC
+http://lamtv.site:8080/Arturo2025/arturito25/5191.ts
+#EXTINF:-1 tvg-id="" tvg-name="ECU | DIRECTV SPORTS • OP03" tvg-logo="http://lamtv.site:8080/images/2072d4a7-c935-4ba5-9082-c4a5cf9548dc.jpg" group-title="⚡ DEPORTES PREMIUM",ECU | DIRECTV SPORTS • OP03
+http://lamtv.site:8080/Arturo2025/arturito25/81455.ts
+#EXTINF:-1 tvg-id="" tvg-name="EL TORO TV" tvg-logo="http://lamtv.site:8080/images/032f8cfc-b61f-4361-8c85-87a3a82a669a.jpg" group-title="⚡ DEPORTES PREMIUM",EL TORO TV
+http://lamtv.site:8080/Arturo2025/arturito25/5209.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 CL" tvg-logo="http://lamtv.site:8080/images/2c5d54e6-90b2-4adf-8304-689489ae800d.jpg" group-title="⚡ DEPORTES PREMIUM",ESPN 1 CL
+http://lamtv.site:8080/Arturo2025/arturito25/76419.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 MX" tvg-logo="http://lamtv.site:8080/images/2c5d54e6-90b2-4adf-8304-689489ae800d.jpg" group-title="⚡ DEPORTES PREMIUM",ESPN 1 MX
+http://lamtv.site:8080/Arturo2025/arturito25/76069.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 MX" tvg-logo="http://lamtv.site:8080/images/2c5d54e6-90b2-4adf-8304-689489ae800d.jpg" group-title="⚡ DEPORTES PREMIUM",ESPN 1 MX
+http://lamtv.site:8080/Arturo2025/arturito25/48095.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 PE" tvg-logo="http://lamtv.site:8080/images/2c5d54e6-90b2-4adf-8304-689489ae800d.jpg" group-title="⚡ DEPORTES PREMIUM",ESPN 1 PE
+http://lamtv.site:8080/Arturo2025/arturito25/115.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 AR" tvg-logo="http://lamtv.site:8080/images/2adc9ce1-1f40-4ff0-aebc-4bc51bfb186f.jpg" group-title="⚡ DEPORTES PREMIUM",ESPN 2 AR
+http://lamtv.site:8080/Arturo2025/arturito25/76420.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 MX" tvg-logo="http://lamtv.site:8080/images/2adc9ce1-1f40-4ff0-aebc-4bc51bfb186f.jpg" group-title="⚡ DEPORTES PREMIUM",ESPN 2 MX
+http://lamtv.site:8080/Arturo2025/arturito25/76066.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 PE" tvg-logo="http://lamtv.site:8080/images/2adc9ce1-1f40-4ff0-aebc-4bc51bfb186f.jpg" group-title="⚡ DEPORTES PREMIUM",ESPN 2 PE
+http://lamtv.site:8080/Arturo2025/arturito25/112.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="http://lamtv.site:8080/images/41f4749e-4513-4b6b-a612-9526c54de17a.jpg" group-title="⚡ DEPORTES PREMIUM",ESPN 3
+http://lamtv.site:8080/Arturo2025/arturito25/76067.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 MX" tvg-logo="http://lamtv.site:8080/images/41f4749e-4513-4b6b-a612-9526c54de17a.jpg" group-title="⚡ DEPORTES PREMIUM",ESPN 3 MX
+http://lamtv.site:8080/Arturo2025/arturito25/76424.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="http://lamtv.site:8080/images/8d6c6578-b973-45ee-a553-a6d03c797634.jpg" group-title="⚡ DEPORTES PREMIUM",ESPN 4
+http://lamtv.site:8080/Arturo2025/arturito25/76428.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 PE" tvg-logo="http://lamtv.site:8080/images/e52ee795-d9aa-4e56-828b-85d556baaf2f.jpg" group-title="⚡ DEPORTES PREMIUM",ESPN 5 PE
+http://lamtv.site:8080/Arturo2025/arturito25/82513.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6" tvg-logo="http://lamtv.site:8080/images/42f110b5-a253-42e8-bd34-33a89524600d.jpg" group-title="⚡ DEPORTES PREMIUM",ESPN 6
+http://lamtv.site:8080/Arturo2025/arturito25/81771.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7" tvg-logo="http://lamtv.site:8080/images/a31a01a2-baec-42c7-ad3f-8d2e58092fb3.jpg" group-title="⚡ DEPORTES PREMIUM",ESPN 7
+http://lamtv.site:8080/Arturo2025/arturito25/81770.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM AR • OP01" tvg-logo="http://lamtv.site:8080/images/95682dd6-2bbe-4c74-8a27-892a656fd016.jpg" group-title="⚡ DEPORTES PREMIUM",ESPN PREMIUM AR • OP01
+http://lamtv.site:8080/Arturo2025/arturito25/46009.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM AR • OP02" tvg-logo="http://lamtv.site:8080/images/95682dd6-2bbe-4c74-8a27-892a656fd016.jpg" group-title="⚡ DEPORTES PREMIUM",ESPN PREMIUM AR • OP02
+http://lamtv.site:8080/Arturo2025/arturito25/46010.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM CL OP01 ☆" tvg-logo="http://lamtv.site:8080/images/95682dd6-2bbe-4c74-8a27-892a656fd016.jpg" group-title="⚡ DEPORTES PREMIUM",ESPN PREMIUM CL OP01 ☆
+http://lamtv.site:8080/Arturo2025/arturito25/57545.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM CL OP02 ☆" tvg-logo="http://lamtv.site:8080/images/95682dd6-2bbe-4c74-8a27-892a656fd016.jpg" group-title="⚡ DEPORTES PREMIUM",ESPN PREMIUM CL OP02 ☆
+http://lamtv.site:8080/Arturo2025/arturito25/57546.ts
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="http://lamtv.site:8080/images/49e90d6d-c4f5-4df5-b738-fd52de11a5bb.jpg" group-title="⚡ DEPORTES PREMIUM",EUROSPORT 1
+http://lamtv.site:8080/Arturo2025/arturito25/81444.ts
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="http://lamtv.site:8080/images/cbda008d-f49b-4ddb-b6e1-a855c5f70704.jpg" group-title="⚡ DEPORTES PREMIUM",EUROSPORT 2
+http://lamtv.site:8080/Arturo2025/arturito25/81452.ts
+#EXTINF:-1 tvg-id="" tvg-name="FORMULA 1 DAZN" tvg-logo="http://lamtv.site:8080/images/93245382-28f7-4183-8e46-c94a33c2717c.jpg" group-title="⚡ DEPORTES PREMIUM",FORMULA 1 DAZN
+http://lamtv.site:8080/Arturo2025/arturito25/5181.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="http://lamtv.site:8080/images/0b54b840-d251-45f9-8667-cd8b6d1e17a2.jpg" group-title="⚡ DEPORTES PREMIUM",FOX SPORTS
+http://lamtv.site:8080/Arturo2025/arturito25/5179.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="http://lamtv.site:8080/images/56efb1ab-631f-41ee-b107-508d2067afd2.jpg" group-title="⚡ DEPORTES PREMIUM",FOX SPORTS 3
+http://lamtv.site:8080/Arturo2025/arturito25/94264.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL" tvg-logo="http://lamtv.site:8080/images/155a983c-139a-42e0-84f5-23fcaa97e765.jpg" group-title="⚡ DEPORTES PREMIUM",GOLF CHANNEL
+http://lamtv.site:8080/Arturo2025/arturito25/5206.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL LATINO" tvg-logo="http://lamtv.site:8080/images/155a983c-139a-42e0-84f5-23fcaa97e765.jpg" group-title="⚡ DEPORTES PREMIUM",GOLF CHANNEL LATINO
+http://lamtv.site:8080/Arturo2025/arturito25/81481.ts
+#EXTINF:-1 tvg-id="" tvg-name="ITV Deportes" tvg-logo="http://lamtv.site:8080/images/13e3fa47-7f11-441f-ab2b-37acffc7bab5.jpg" group-title="⚡ DEPORTES PREMIUM",ITV Deportes
+http://lamtv.site:8080/Arturo2025/arturito25/86346.ts
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES" tvg-logo="http://lamtv.site:8080/images/d79b500e-ef32-45b9-8abe-e4472da722bc.jpg" group-title="⚡ DEPORTES PREMIUM",MOVISTAR LIGA DE CAMPEONES
+http://lamtv.site:8080/Arturo2025/arturito25/5177.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="http://lamtv.site:8080/images/2b129ca8-0de4-4149-90b2-f6f4027cf5c5.jpg" group-title="⚡ DEPORTES PREMIUM",NBA TV
+http://lamtv.site:8080/Arturo2025/arturito25/5178.ts
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV | ES" tvg-logo="http://lamtv.site:8080/images/f9179fa3-bed3-4298-9395-a48c7192b792.jpg" group-title="⚡ DEPORTES PREMIUM",REAL MADRID TV | ES
+http://lamtv.site:8080/Arturo2025/arturito25/5190.ts
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV | ES" tvg-logo="http://lamtv.site:8080/images/f9179fa3-bed3-4298-9395-a48c7192b792.jpg" group-title="⚡ DEPORTES PREMIUM",REAL MADRID TV | ES
+http://lamtv.site:8080/Arturo2025/arturito25/81450.ts
+#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV FHD" tvg-logo="http://lamtv.site:8080/images/2b630386-c707-4b6e-a7f4-b614f4ff797d.jpg" group-title="⚡ DEPORTES PREMIUM",RED BULL TV FHD
+http://lamtv.site:8080/Arturo2025/arturito25/80461.ts
+#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV HD" tvg-logo="http://lamtv.site:8080/images/2b630386-c707-4b6e-a7f4-b614f4ff797d.jpg" group-title="⚡ DEPORTES PREMIUM",RED BULL TV HD
+http://lamtv.site:8080/Arturo2025/arturito25/80462.ts
+#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV SD" tvg-logo="http://lamtv.site:8080/images/2b630386-c707-4b6e-a7f4-b614f4ff797d.jpg" group-title="⚡ DEPORTES PREMIUM",RED BULL TV SD
+http://lamtv.site:8080/Arturo2025/arturito25/80463.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS LA LIGA" tvg-logo="http://lamtv.site:8080/images/260f41eb-58bd-4cac-92bf-17d43e0b54cf.jpg" group-title="⚡ DEPORTES PREMIUM",SKY SPORTS LA LIGA
+http://lamtv.site:8080/Arturo2025/arturito25/76459.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1" tvg-logo="http://lamtv.site:8080/images/a843774b-5a11-4368-8532-e6fd197b99cb.jpg" group-title="⚡ DEPORTES PREMIUM",SPORT TV 1
+http://lamtv.site:8080/Arturo2025/arturito25/5210.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2" tvg-logo="http://lamtv.site:8080/images/a843774b-5a11-4368-8532-e6fd197b99cb.jpg" group-title="⚡ DEPORTES PREMIUM",SPORT TV 2
+http://lamtv.site:8080/Arturo2025/arturito25/179587.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3" tvg-logo="http://lamtv.site:8080/images/a843774b-5a11-4368-8532-e6fd197b99cb.jpg" group-title="⚡ DEPORTES PREMIUM",SPORT TV 3
+http://lamtv.site:8080/Arturo2025/arturito25/133522.ts
+#EXTINF:-1 tvg-id="" tvg-name="TD+ 2 | CR" tvg-logo="http://lamtv.site:8080/images/19a5052c-a422-4ba7-940c-cee2e6e1daf0.jpg" group-title="⚡ DEPORTES PREMIUM",TD+ 2 | CR
+http://lamtv.site:8080/Arturo2025/arturito25/5185.ts
+#EXTINF:-1 tvg-id="" tvg-name="TD+ | CR" tvg-logo="http://lamtv.site:8080/images/19a5052c-a422-4ba7-940c-cee2e6e1daf0.jpg" group-title="⚡ DEPORTES PREMIUM",TD+ | CR
+http://lamtv.site:8080/Arturo2025/arturito25/5184.ts
+#EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL" tvg-logo="http://lamtv.site:8080/images/293aeb8e-d131-4d83-b0e9-2bdb74a57b68.jpg" group-title="⚡ DEPORTES PREMIUM",TENNIS CHANNEL
+http://lamtv.site:8080/Arturo2025/arturito25/5182.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2" tvg-logo="http://lamtv.site:8080/images/5b294969-81ca-4174-bf39-c3efdea34df1.jpg" group-title="⚡ DEPORTES PREMIUM",TNT SPORTS 2
+http://lamtv.site:8080/Arturo2025/arturito25/81491.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3" tvg-logo="http://lamtv.site:8080/images/5b294969-81ca-4174-bf39-c3efdea34df1.jpg" group-title="⚡ DEPORTES PREMIUM",TNT SPORTS 3
+http://lamtv.site:8080/Arturo2025/arturito25/81459.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3 CL" tvg-logo="http://lamtv.site:8080/images/5b294969-81ca-4174-bf39-c3efdea34df1.jpg" group-title="⚡ DEPORTES PREMIUM",TNT SPORTS 3 CL
+http://lamtv.site:8080/Arturo2025/arturito25/81492.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS AR" tvg-logo="http://lamtv.site:8080/images/5b294969-81ca-4174-bf39-c3efdea34df1.jpg" group-title="⚡ DEPORTES PREMIUM",TNT SPORTS AR
+http://lamtv.site:8080/Arturo2025/arturito25/81460.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS CL" tvg-logo="http://lamtv.site:8080/images/5b294969-81ca-4174-bf39-c3efdea34df1.jpg" group-title="⚡ DEPORTES PREMIUM",TNT SPORTS CL
+http://lamtv.site:8080/Arturo2025/arturito25/81483.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM" tvg-logo="http://lamtv.site:8080/images/5b294969-81ca-4174-bf39-c3efdea34df1.jpg" group-title="⚡ DEPORTES PREMIUM",TNT SPORTS PREMIUM
+http://lamtv.site:8080/Arturo2025/arturito25/48193.ts
+#EXTINF:-1 tvg-id="" tvg-name="TUDN MX" tvg-logo="http://lamtv.site:8080/images/f307423b-e360-4374-b6c3-4df22c8fd970.jpg" group-title="⚡ DEPORTES PREMIUM",TUDN MX
+http://lamtv.site:8080/Arturo2025/arturito25/81461.ts
+#EXTINF:-1 tvg-id="" tvg-name="TUDN USA" tvg-logo="http://lamtv.site:8080/images/0d911eb6-2ded-4ef4-97db-09732eebe7e5.jpg" group-title="⚡ DEPORTES PREMIUM",TUDN USA
+http://lamtv.site:8080/Arturo2025/arturito25/81458.ts
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="http://lamtv.site:8080/images/8f8e86cd-8ffa-4a15-8941-0a7c8beba2c8.jpg" group-title="⚡ DEPORTES PREMIUM",TYC SPORTS
+http://lamtv.site:8080/Arturo2025/arturito25/81486.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS | FHD" tvg-logo="http://lamtv.site:8080/images/ef8a97fe-f615-4b06-bb1d-d085fa51a8be.jpg" group-title="⚡ DEPORTES PREMIUM",UFC FIGHT PASS | FHD
+http://lamtv.site:8080/Arturo2025/arturito25/94267.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS | HD" tvg-logo="http://lamtv.site:8080/images/ef8a97fe-f615-4b06-bb1d-d085fa51a8be.jpg" group-title="⚡ DEPORTES PREMIUM",UFC FIGHT PASS | HD
+http://lamtv.site:8080/Arturo2025/arturito25/94266.ts
+#EXTINF:-1 tvg-id="" tvg-name="UY | DIRECTV SPORTS 2 • OP02" tvg-logo="http://lamtv.site:8080/images/38907b15-b550-46af-8456-b178152ae11e.jpg" group-title="⚡ DEPORTES PREMIUM",UY | DIRECTV SPORTS 2 • OP02
+http://lamtv.site:8080/Arturo2025/arturito25/81500.ts
+#EXTINF:-1 tvg-id="" tvg-name="UY | DIRECTV SPORTS • OP02" tvg-logo="http://lamtv.site:8080/images/2072d4a7-c935-4ba5-9082-c4a5cf9548dc.jpg" group-title="⚡ DEPORTES PREMIUM",UY | DIRECTV SPORTS • OP02
+http://lamtv.site:8080/Arturo2025/arturito25/81502.ts
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS •  OP01" tvg-logo="http://lamtv.site:8080/images/cc96d199-a264-4c2a-bca8-dddc1ea0a402.jpg" group-title="⚡ DEPORTES PREMIUM",WIN SPORTS •  OP01
+http://lamtv.site:8080/Arturo2025/arturito25/5173.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO | WIN SPORTS  • OP01" tvg-logo="http://lamtv.site:8080/images/cc96d199-a264-4c2a-bca8-dddc1ea0a402.jpg" group-title="⚡ DEPORTES PREMIUM",CO | WIN SPORTS  • OP01
+http://lamtv.site:8080/Arturo2025/arturito25/81490.ts
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS+ •  OP01" tvg-logo="http://lamtv.site:8080/images/winsportsplus.png" group-title="⚡ DEPORTES PREMIUM",WIN SPORTS+ •  OP01
+http://lamtv.site:8080/Arturo2025/arturito25/76076.ts
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS+ •  OP02" tvg-logo="http://lamtv.site:8080/images/winsportsplus.png" group-title="⚡ DEPORTES PREMIUM",WIN SPORTS+ •  OP02
+http://lamtv.site:8080/Arturo2025/arturito25/81489.ts
+#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK" tvg-logo="http://lamtv.site:8080/images/e9f77eca-7f77-457e-81b6-ae9f39a70912.jpg" group-title="⚡ DEPORTES PREMIUM",WWE NETWORK
+http://lamtv.site:8080/Arturo2025/arturito25/5189.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZAPPING SPORTS (ECUADOR)" tvg-logo="http://lamtv.site:8080/images/bc36248d-881c-4185-81f7-3bf276a4f1b7.jpg" group-title="⚡ DEPORTES PREMIUM",ZAPPING SPORTS (ECUADOR)
+http://lamtv.site:8080/Arturo2025/arturito25/101117.ts
+
+
+
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173110&path-prefix=es" group-title="DEPORTES",SPORT | ,SPORT | ESPN Premium SD
 http://181.13.252.102:8000/play/a078/index.m3u8
 
