@@ -23,7 +23,7 @@ http://24.152.42.29:8000/play/a08f/index.m3u8?hls
 https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion
 
 #EXTINF:-1 tvg-id="Telefuturo.py" tvg-logo="https://graph.facebook.com/Telefuturo/picture?width=200&height=200" group-title="PARAGUAY",PY | TELEFUTURO
-https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion
+http://lamtv.site:8080/Arturo2025/arturito25/823.ts
 
 #EXTINF:-1 tvg-id="SNT.py" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="PARAGUAY",PY | SNT
 http://24.152.42.29:8000/play/a0bq/index.m3u8?hls
