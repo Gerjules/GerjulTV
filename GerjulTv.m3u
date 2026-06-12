@@ -14,9 +14,9 @@ http://24.152.42.29:8000/play/a03h/index.m3u8?hls
 #EXTINF:-1 tvg-id="Telefuturo.py" tvg-logo="https://graph.facebook.com/Telefuturo/picture?width=200&height=200" group-title="PARAGUAY",PY | TELEFUTURO
 http://lamtv.site:8080/Arturo2025/arturito25/823.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="PY | TELEFUTURO SD*" tvg-logo="https://i.postimg.cc/TPzkJYr9/Tel3futuro.png" group-title="⭐ PARAGUAY VIP",PY | TELEFUTURO SD*
+#EXTINF:-1 tvg-id="" tvg-name="PY | TELEFUTURO SD*" tvg-logo="https://i.postimg.cc/TPzkJYr9/Tel3futuro.png" group-title="PARAGUAY",PY |  TELEFUTURO SD*
 http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/154285
-#EXTINF:-1 tvg-id="" tvg-name="PY | TELEFUTURO HD **" tvg-logo="https://i.postimg.cc/TPzkJYr9/Tel3futuro.png" group-title="⭐ PARAGUAY VIP",PY | TELEFUTURO HD **
+#EXTINF:-1 tvg-id="" tvg-name="PY | TELEFUTURO HD **" tvg-logo="https://i.postimg.cc/TPzkJYr9/Tel3futuro.png" group-title="PARAGUAY",PY |  TELEFUTURO HD **
 http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/154284
 
 
