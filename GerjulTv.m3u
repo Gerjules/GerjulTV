@@ -1,4 +1,4 @@
-#EXTM3U
+pictureictureEXTM3U
 
 
 #EXTINF:-1 tvg-id="Gen.py" tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1" group-title="PARAGUAY",PY |  GEN TV
@@ -18,6 +18,11 @@ http://lamtv.site:8080/Arturo2025/arturito25/823.ts
 http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/154285
 #EXTINF:-1 tvg-id="" tvg-name="PY | TELEFUTURO HD **" tvg-logo="https://i.postimg.cc/TPzkJYr9/Tel3futuro.png" group-title="PARAGUAY",PY |  TELEFUTURO HD **
 http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/154284
+#EXTINF:-1,tvg-id="" tvg-name="PY | TELEFUTURO HD **" tvg-logo="https://i.postimg.cc/TPzkJYr9/Tel3futuro.png" group-title="PARAGUAY",PY |  TELEFUTURO HD ***
+http://45.170.130.224:8000/play/a014/index.m3u8
+
+#EXTINF:-1,tvg-id="" tvg-name="PY | TELEFUTURO HD **" tvg-logo="https://i.postimg.cc/TPzkJYr9/Tel3futuro.png" group-title="PARAGUAY",PY |  TELEFUTURO HD ***
+http://45.170.130.224:8000/play/a04x/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SNT.py" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="PARAGUAY",PY | SNT
