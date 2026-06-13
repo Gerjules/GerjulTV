@@ -20,10 +20,10 @@ http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/154285
 #EXTINF:-1 tvg-id="" tvg-name="PY | TELEFUTURO HD **" tvg-logo="https://i.postimg.cc/TPzkJYr9/Tel3futuro.png" group-title="PARAGUAY",PY |  TELEFUTURO HD **
 http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/154284
 
-#EXTINF:-1,tvg-id="" tvg-name="PY | TELEFUTURO SD **" tvg-logo="https://i.postimg.cc/TPzkJYr9/Tel3futuro.png" group-title="PARAGUAY",PY |  TELEFUTURO sD **
+#EXTINF:-1 tvg-id="" tvg-name="PY | TELEFUTURO SD **" tvg-logo="https://i.postimg.cc/TPzkJYr9/Tel3futuro.png" group-title="PARAGUAY",PY |  TELEFUTURO sD **
 http://45.170.130.224:8000/play/a014/index.m3u8
 
-#EXTINF:-1,tvg-id="" tvg-name="PY | TELEFUTURO HD ***" tvg-logo="https://i.postimg.cc/TPzkJYr9/Tel3futuro.png" group-title="PARAGUAY",PY |  TELEFUTURO HD ***
+#EXTINF:-1 tvg-id="" tvg-name="PY | TELEFUTURO HD ***" tvg-logo="https://i.postimg.cc/TPzkJYr9/Tel3futuro.png" group-title="PARAGUAY",PY |  TELEFUTURO HD ***
 http://45.170.130.224:8000/play/a04x/index.m3u8
 
 
