@@ -993,51 +993,38 @@ https://run-rt-ac.otteravision.com/run/rt_ac/rt_ac_720.m3u8
 
 
 #EXTINF:0 group-title="PELICULAS",PELIS | MY TIME ESPAÑA
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
 #EXTINF:0 group-title="PELICULAS",PELIS | MY TIME MEXICO
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 
 
 #EXTINF:0 group-title="PELICULAS",PELIS | AMC plex
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
+
 #EXTINF:0 group-title="PELICULAS",PELIS | Run:Time Comedia
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
+
 #EXTINF:0 group-title="PELICULAS",PELIS | Run:Time Triller
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
+
 #EXTINF:0 group-title="PELICULAS",PELIS | Run:Time  Crimen
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
+
 #EXTINF:0 group-title="PELICULAS",PELIS | Run:Time Clasico
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
 
 
 
 
 #EXTINF:0 group-title="PELICULAS",PELIS | Runtime Peliculas
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
+
 #EXTINF:0 group-title="PELICULAS",PELIS | Runtime Crimen
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://run-rucrl.otteravision.com/run/rucrl/rucrl_720.m3u8
+
 #EXTINF:0 group-title="PELICULAS",PELIS | Bjgtjme 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8?ads.wurl_channel=1251&ads.wurl_name=BjgtjmePeliculasGratis&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 
@@ -1049,204 +1036,43 @@ https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 #EXTINF:0 group-title="PELICULAS",PELIS | TIME MOVIES
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
 #EXTINF:0 group-title="PELICULAS",PELIS | MY TIME MOVIES 2
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 
 #EXTINF:0 group-title="PELICULAS",PELIS | COSMOS TV
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #EXTINF:0 group-title="PELICULAS",PELIS | Runtime Familia
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
 
 
 
 #EXTINF:0 group-title="PELICULAS",PELIS | REETRO PLAY TV
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 
 
 
 #EXTINF:0 group-title="PELICULAS",PELIS | CINE DRAMA (España)
-#EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a62c1-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99870be5-05f2-48d8-b695-39dfabde3232&userId=&serverSideAds=true
 
 
 #EXTINF:0 group-title="PELICULAS",PELIS | Kanal D Drama
-#EXTVLCOPT:network-caching=3000
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
+
 #EXTINF:0 group-title="PELICULAS",PELIS | Runtime Romance
-#EXTVLCOPT:network-caching=3000
 https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
 
 #EXTINF:0 group-title="PELICULAS",PELIS | CINE TERROR 2
-#EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31d6ed5a-e18e-40e7-86c3-072f2b86df3c&userId=&serverSideAds=true
 
 #EXTINF:0 group-title="PELICULAS",PELIS | Runtime Terror
-#EXTVLCOPT:network-caching=3000
 https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8
 
-
-
-
 #EXTINF:0 group-title="PELICULAS",PELIS | fusión fmtv
-#EXTVLCOPT:network-caching=3000
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W7R5Zac.png" group-title="INFANTIL",INF |   Batman (1992)
-http://gzytv.vip:8880/654329/rjgAbmEB7c/1115
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/cd/TheWayWeWere.jpg/revision/latest?cb=20190629174129&path-prefix=es" 16 Veranos
-http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/276.ts
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-
-
-#EXTINF:-1 tvg-logo="https://i.kym-cdn.com/photos/images/facebook/001/018/269/b21.png" group-title="SERIES",SER | THE THEORY OF BIG BANG
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/211?=-1
-
-#EXTINF:0 group-title="SERIES",SER | Pluto TV Novelas
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="SERIES",SER | Pluto TV Series
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde1317578340009b751d0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-
-
-#EXTINF:0 group-title="SERIES",SER | Pluto TV Series Latinas
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="SERIES",SER | Sony Novelas
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
-#EXTINF:0 group-title="SERIES",SER | TELEMUNDO NOVELAS
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=293d&deviceDNT=0&deviceModel=0&already_redirected=true
-#EXTINF:0 group-title="SERIES",SER | NOVELAS DE ROMANCE
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://d10xax7cor3zsm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0m7q1oxxje3uu-prod/dist/samsungtv/194/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:0 group-title="SERIES",SER | Pluto TV Series Retro
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="SERIES",SER | Sin Tetas No Hay Paraíso
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 group-title="SERIES",SER | Sony Novelas | HD | Estados Unidos
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
-#EXTINF:0 group-title="SERIES",SER | TELEMUNDO NOVELAS
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=293d&deviceDNT=0&deviceModel=0&already_redirected=true
-#EXTINF:0 group-title="SERIES",SER | NOVELAS DE ROMANCE
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://d10xax7cor3zsm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0m7q1oxxje3uu-prod/dist/samsungtv/194/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:0 group-title="SERIES",SER | NOVELAS DE ORO
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://d1jgsg6cns4jzy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ilvjz7r1nrgb-prod/dist/samsungtv/196/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:0 group-title="SERIES",SER | Televisa Novelas
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://a1a6e9e8871c44a291f1bf09a08aa5e2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Televisa/playlist.m3u8?ads.wurl_channel=819&ads.wurl_name=Televisa&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:0 group-title="SERIES",SER | SONY NOVELAS 
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
-
-
-#EXTINF:0 group-title="SERIES",SER | THE WALKING DEAD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a109b860-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=89e7768a-d856-44a6-ba93-5bff4d40757c&userId=&serverSideAds=true
-
-
-#EXTINF:-1 group-title="COCINA",COC | El Gourmet
-http://190.90.18.161:15082/play/a04j/index.m3u8
-#EXTINF:-1 group-title="COCINA",COC | El Gourmet HD
-http://190.90.18.161:15082/play/a050/index.m3u8
-
-#EXTINF:0 group-title="COCINA",COC | Pluto TV Cocina
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-
-
-#EXTINF:0 group-title="COCINA",COC | Tastemade
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:network-caching=3000
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-
-
-#EXTINF:0 group-title="COCINA",COC | Iron Chef
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/615b9855c6b58b000724477f-alt.m3u8
-
-
-#EXTINF:0 group-title="COCINA",COC | HELL'S KITCHEN EN ESPAÑOL
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://stitcher.pluto.tv/stitch/hls/channel/60492b2794116800073e32dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8ef6973d-ade6-11eb-930b-0242ac110002
-
-
-#EXTINF:0 group-title="COCINA",COC | PLUTO TV COCINA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02780-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8850b362-804f-4cf0-a920-4f711796663f&userId=&serverSideAds=true
-#EXTINF:0 group-title="COCINA",COC | PLUTO TV COCINA 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c801a80-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0e0dc4ab-902e-4ad1-a9d5-748727626eaa&userId=&serverSideAds=true
-#EXTINF:0 group-title="COCINA",COC | PLUTO TV COCINA (España)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4c6543-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1fc7e1c7-88d8-4d19-915b-02a6745f031d&userId=&serverSideAds=true
-#EXTINF:0 group-title="COCINA",COC | PLUTO TV RECETAS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609062295c2b8f0007199e7a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bb42e440-dea7-11eb-be60-3b6a118ac8ac&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ef972a2c-8672-41cf-b2e4-003e44fbe25a&userId=&serverSideAds=true
+https://s2.tvdatta.com:3307/hybrid/play.m3u
 
 
 
