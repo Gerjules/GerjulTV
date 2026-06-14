@@ -59,7 +59,7 @@ http://24.152.42.29:8000/play/a098/index.m3u8?hls
 https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/Hn6M4Sv/abc.png" group-title="PARAGUAY",PY | ABC TV
-http://45.184.109.31 :8000/play/a042/index.m3u8
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/Hn6M4Sv/abc.png" group-title="PARAGUAY",PY | ÑANDUTI
