@@ -789,6 +789,10 @@ https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
 https://edge19.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w271535189.m3u8
 
 
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="CINE | AMC FHD" tvg-logo="https://i.postimg.cc/pd34tTWq/AMC-FHD.png" group-title="❇ CINE PREMIUM ❇",CINE | AMC FHD
 http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1283
 
@@ -883,6 +887,71 @@ http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/626060
 #EXTINF:-1 tvg-id="" tvg-name="CINE HISPANO Test" tvg-logo="" group-title="❇ CINE PREMIUM ❇",CINE HISPANO Test
 http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/626063
 
+
+
+
+#EXTINF:0, group-title="PELICULAS",PELIS | Pluto TV Anime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
+#EXTINF:0, group-title="PELICULAS",PELIS | Pluto TV Anime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8
+#EXTINF:0, group-title="PELICULAS",PELIS | Pluto TV Aventura
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8
+#EXTINF:25, group-title="PELICULAS",PELIS | Pluto TV Cine Acción
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8
+#EXTINF:0, group-title="PELICULAS",PELIS | Pluto TV Cine Clásico
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8
+#EXTINF:0, group-title="PELICULAS",PELIS | Pluto TV Cine Comédia
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
+#EXTINF:0, group-title="PELICULAS",PELIS | Pluto TV Cine Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8
+#EXTINF:0, group-title="PELICULAS",PELIS | Pluto TV Cine Estelar
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
+#EXTINF:0, group-title="PELICULAS",PELIS | Pluto TV Cine Romántico
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
+#EXTINF:0, group-title="PELICULAS",PELIS | Pluto TV Cine Suspenso
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8
+
+#EXTINF:0, group-title="PELICULAS",PELIS | Pluto TV Comedia made in Spain
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
+#EXTINF:0, group-title="PELICULAS",PELIS | Pluto TV Comedy Movies
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8
+
+#EXTINF:0, group-title="PELICULAS",PELIS | Pluto TV Horror
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
+#EXTINF:0, group-title="PELICULAS",PELIS | Pluto TV Humor
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8
+
+
+#EXTINF:0, group-title="PELICULAS",PELIS | Pluto TV Sci-fi
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
+#EXTINF:0, group-title="PELICULAS",PELIS | Pluto TV Séries Comédia
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
+#EXTINF:0, group-title="PELICULAS",PELIS | Pluto TV Series Latinas
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
+#EXTINF:0, group-title="PELICULAS",PELIS | Pluto TV Series Retro
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
+
+#EXTINF:0, group-title="PELICULAS",PELIS | Pluto TV Telenovelas
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-60b4c06717da110007ee1af6.m3u8
 
 
 
@@ -1293,9 +1362,9 @@ http://tinyurl.com/tvespn1a
 #EXTINF:-1 group-title="DEPORTES",SPORT | ,SPORT |ESPN Opc. 2
 http://tinyurl.com/tvespn1b
 #EXTINF:-1 group-title="DEPORTES",SPORT | ,SPORT |ESPN 2 Opc. 1
-tinyurl.com/tvespn2a
+http://tinyurl.com/tvespn2a
 #EXTINF:-1 group-title="DEPORTES",SPORT | ,SPORT |ESPN 2 Opc. 2
-tinyurl.com/tvespn2b
+http://tinyurl.com/tvespn2b
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173110&path-prefix=es" group-title="DEPORTES",SPORT | ,SPORT | ESPN Premium SD
 http://181.13.252.102:8000/play/a078/index.m3u8
@@ -2008,6 +2077,59 @@ https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254Vsdxq-oz
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255pI40EkSbeQXBh8B_hFelg/m3u8
 #EXTINF:-1 tvg-logo="" group-title="MÚSICA",Karavana TV
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2561rYLnVzZmjTWNgA840ffy/m3u8
+
+
+
+
+#EXTINF:0, group-title="ENTRETENIMIENTO", Pluto TV Animales
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
+#EXTINF:0,  group-title="ENTRETENIMIENTO", Pluto TV Competencias
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dd6d935d000120009bc1132.m3u8
+#EXTINF:0,  group-title="ENTRETENIMIENTO", Pluto TV Deportes
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
+#EXTINF:0,  group-title="ENTRETENIMIENTO", Pluto TV Documentales
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ddc503ac7ef120009b101a2.m3u8
+#EXTINF:0,  group-title="ENTRETENIMIENTO", Pluto TV Historia (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8
+#EXTINF:0,  group-title="ENTRETENIMIENTO", Pluto TV Cocina
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
+#EXTINF:0,  group-title="ENTRETENIMIENTO", Pluto TV Kids Spain (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8
+#EXTINF:0,  group-title="ENTRETENIMIENTO", Pluto TV Motor
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-68ac51dede4a734954b5a67a.m3u8
+#EXTINF:0,  group-title="ENTRETENIMIENTO", Pluto TV MTV Classic (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
+#EXTINF:0,  group-title="ENTRETENIMIENTO", Pluto TV Naturaleza
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
+#EXTINF:0,  group-title="ENTRETENIMIENTO", Pluto TV Novelas
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
+#EXTINF:0,  group-title="ENTRETENIMIENTO", Pluto TV Peleas
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8
+#EXTINF:0,  group-title="ENTRETENIMIENTO", Pluto TV Investiga
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
+#EXTINF:0,  group-title="ENTRETENIMIENTO", Pluto TV Junior (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f8ecb336537e8000764a17f.m3u8
+#EXTINF:0,  group-title="ENTRETENIMIENTO", Pluto TV Velocidad
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8
+#EXTINF:0,  group-title="ENTRETENIMIENTO", Pluto TV Teen (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8
+
 #EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYTx_SEvZqoiFjDoZ1BbEj9ZcqAab0bZxFHBrtElLlsH.png" group-title="ENTRETENIMIENTO",MTV
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257jrxWYefk3ikdtqnurl4NK/m3u8
 #EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjXGNPJjvzP8B1N5AKf2ZLnfYunnXBpjf99vVCbo4-qnl.png" group-title="ENTRETENIMIENTO",Adult Swim
