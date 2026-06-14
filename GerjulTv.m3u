@@ -1249,10 +1249,58 @@ http://lamtv.site:8080/Arturo2025/arturito25/29695.ts
 #EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS PARAGUAY 2" tvg-logo="http://lamtv.site:8080/images/tigosportspy.png" group-title="⚡ TIGO SPORT",TIGO SPORTS PARAGUAY 2
 http://lamtv.site:8080/Arturo2025/arturito25/29696.ts
 
+
+
+
+#EXTINF:-1 group-title="DEPORTES",SPORT | ,SPORT | DSPORTS Opc. 1
+http://tinyurl.com/dsportsgo
+#EXTINF:-1 group-title="DEPORTES",SPORT | ,SPORT |DSPORTS Opc. 2
+http://tinyurl.com/dsportsgob
+#EXTINF:-1 group-title="DEPORTES",SPORT | ,SPORT |DSPORTS 2 Opc. 1
+http://tinyurl.com/dsportsgo2
+#EXTINF:-1 group-title="DEPORTES",SPORT | ,SPORT |DSPORTS 2 Opc. 2
+http://tinyurl.com/dsportsgo2b
+#EXTINF:-1 group-title="DEPORTES",SPORT | ,SPORT |TUDN Opc. 1
+http://tinyurl.com/tudnsports
+#EXTINF:-1 group-title="DEPORTES",SPORT | ,SPORT |TUDN Opc. 2
+http://tinyurl.com/tudnsports2
+#EXTINF:-1 group-title="DEPORTES",SPORT | ,SPORT |TYC SPORTS Opc. 1
+http://tinyurl.com/tycsportsar
+#EXTINF:-1 group-title="DEPORTES",SPORT | ,SPORT |TYC SPORTS Opc. 2
+http://tinyurl.com/tycsportsarb
+#EXTINF:-1 group-title="DEPORTES",SPORT | ,SPORT |DAZN Opc. 1
+http://tinyurl.com/daznsports
+#EXTINF:-1 group-title="DEPORTES",SPORT | ,SPORT |DAZN Opc. 2
+http://tinyurl.com/daznsportsb
+#EXTINF:-1 group-title="DEPORTES",SPORT | ,SPORT |TELEMUNDO Opc. 1
+http://tinyurl.com/telemundotva
+#EXTINF:-1 group-title="DEPORTES",SPORT | ,SPORT |TELEMUNDO Opc. 2
+http://tinyurl.com/telemundotvb
+#EXTINF:-1 group-title="DEPORTES",SPORT | ,SPORT |AZTECA 7 Opc. 1
+http://tinyurl.com/aztecatva
+#EXTINF:-1 group-title="DEPORTES",SPORT | ,SPORT |AZTECA 7 Opc. 2
+http://tinyurl.com/aztecatvb
+#EXTINF:-1 group-title="DEPORTES",SPORT | ,SPORT |AMÉRICA TV Opc. 1
+http://tinyurl.com/tvamerica
+#EXTINF:-1 group-title="DEPORTES",SPORT | ,SPORT |AMÉRICA TV Opc. 2
+http://tinyurl.com/tvamericab
+#EXTINF:-1 group-title="DEPORTES",SPORT | ,SPORT |CHILEVISIÓN Opc. 1
+http://tinyurl.com/tvchilevision
+#EXTINF:-1 group-title="DEPORTES",SPORT | ,SPORT |CHILEVISIÓN Opc. 2
+http://tinyurl.com/tvchilevis...
+#EXTINF:-1 group-title="DEPORTES",SPORT | ,SPORT |ESPN Opc. 1
+http://tinyurl.com/tvespn1a
+#EXTINF:-1 group-title="DEPORTES",SPORT | ,SPORT |ESPN Opc. 2
+http://tinyurl.com/tvespn1b
+#EXTINF:-1 group-title="DEPORTES",SPORT | ,SPORT |ESPN 2 Opc. 1
+tinyurl.com/tvespn2a
+#EXTINF:-1 group-title="DEPORTES",SPORT | ,SPORT |ESPN 2 Opc. 2
+tinyurl.com/tvespn2b
+
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173110&path-prefix=es" group-title="DEPORTES",SPORT | ,SPORT | ESPN Premium SD
 http://181.13.252.102:8000/play/a078/index.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/330px-TNT_Sports_Premium_%28Argentina%29.png"group-title="DEPORTES",SPORT | ,SPORT | TNT Sports
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/330px-TNT_Sports_Premium_%28Argentina%29.png" group-title="DEPORTES",SPORT | ,SPORT | TNT Sports
 http://181.209.37.74:8001/play/a06z/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/330px-TNT_Sports_Premium_%28Argentina%29.png" group-title="DEPORTES",SPORT | ,SPORT | TNT Sports SD
 http://181.13.252.102:8000/play/a0bc/index.m3u8
