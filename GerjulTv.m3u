@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="Gen.py" tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1" group-title="PARAGUAY",PY |  GEN TV
-https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_alta/master.m3u8
 
 
 #EXTINF:-1 tvg-id="Trece.py" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfKOWcmza3biSWSrLZMRhYP5Mb9DnSZu5qyQ&s" group-title="PARAGUAY",PY | TRECE
@@ -58,8 +56,6 @@ http://24.152.42.29:8000/play/a098/index.m3u8?hls
 #EXTINF:-1 group-title="PARAGUAY",PY| Popu TV
 https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/Hn6M4Sv/abc.png" group-title="PARAGUAY",PY | ABC TV
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/Hn6M4Sv/abc.png" group-title="PARAGUAY",PY | ÑANDUTI
@@ -267,8 +263,12 @@ http://159.203.148.226/live/farra_low.m3u8
 Http://45.170.130.224:8000/play/a04i/index.m3u8
 
 
+#EXTINF:-1 tvg-id="Gen.py" tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1" group-title="PARAGUAY",PY |  GEN TV
+https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_alta/master.m3u8
 
 
+#EXTINF:0 tvg-logo="https://i.ibb.co/Hn6M4Sv/abc.png" group-title="PARAGUAY",PY | ABC TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_TV_P%C3%BAblica_Digital.png" group-title="ARGENTINA",AR | TV PUBLICA   23.2
