@@ -788,124 +788,22 @@ https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://africa24tv.com/wp-content/uploads/2021/09/logo.png" group-title="NOTICIAS",NOT | AFRICA 24 ᴴᴰ
 https://edge19.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w271535189.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | A&E HD" tvg-logo="http://imgfz.com/i/mR0lHE3.png" group-title="❇ CINE PREMIUM ❇",CINE  | A&E HD
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | A&E HD 2" tvg-logo="http://imgfz.com/i/mR0lHE3.png" group-title="❇ CINE PREMIUM ❇",CINE  | A&E HD 2
-http://cdn1host.online:2999/xman1/899PBb5mwA/020
-http://m3u.tvcluboficial.com/m/m/5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | A&E SD" tvg-logo="http://imgfz.com/i/fyhe0NT.png" group-title="❇ CINE PREMIUM ❇",CINE  | A&E SD
-http://planettvweb.com:8091/PtaPta567/user8790/11609
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | A&E SD" tvg-logo="http://imgfz.com/i/fyhe0NT.png" group-title="❇ CINE PREMIUM ❇",CINE  | A&E SD
-http://planettvweb.com:8091/PtaPta567/user8790/11604
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | CINEMAX HD" tvg-logo="http://imgfz.com/i/T5rxYbe.png" group-title="❇ CINE PREMIUM ❇",CINE  | CINEMAX HD
-http://cdn1host.online:2999/xman1/899PBb5mwA/082
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | CINEMAX  SD" tvg-logo="http://imgfz.com/i/pSCqVg8.png" group-title="❇ CINE PREMIUM ❇",CINE  | CINEMAX  SD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/16.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | CINEMAX  SD" tvg-logo="http://imgfz.com/i/pSCqVg8.png" group-title="❇ CINE PREMIUM ❇",CINE  | CINEMAX  SD
-http://planettvweb.com:8091/PtaPta567/user8790/11673
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO  FHD" tvg-logo="https://i.postimg.cc/63S1Lw64/HBO-FHD.png" group-title="❇ CINE PREMIUM ❇",CINE | HBO  FHD
-http://cdn1host.online:2999/xman1/899PBb5mwA/120
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO HD" tvg-logo="https://i.postimg.cc/jj489PxT/HBO-HD.png" group-title="❇ CINE PREMIUM ❇",CINE | HBO HD
-http://planettvweb.com:8091/PtaPta567/user8790/11650
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO HD" tvg-logo="https://i.postimg.cc/jj489PxT/HBO-HD.png" group-title="❇ CINE PREMIUM ❇",CINE | HBO HD
-http://planettvweb.com:8091/PtaPta567/user8790/11649
-#EXTINF:-1 tvg-id="" tvg-name="CINE |  HBO 2  FHD" tvg-logo="https://i.postimg.cc/d3RXxXPH/HBO-2-FHD.png" group-title="❇ CINE PREMIUM ❇",CINE|HBO 2  FHD
-http://cdn1host.online:2999/xman1/899PBb5mwA/121
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | HBO 2  HD" tvg-logo="https://i.postimg.cc/CMCQYWXJ/HBO-2-HD.png" group-title="❇ CINE PREMIUM ❇",CINE |HBO 2  HD
-http://planettvweb.com:8091/PtaPta567/user8790/11656
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO 2  SD" tvg-logo="https://i.postimg.cc/Qxykrm80/HBO-2-SD.png" group-title="❇ CINE PREMIUM ❇",CINE | HBO 2  SD
-http://planettvweb.com:8091/PtaPta567/user8790/11654
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO 2  SD" tvg-logo="https://i.postimg.cc/Qxykrm80/HBO-2-SD.png" group-title="❇ CINE PREMIUM ❇",CINE | HBO 2  SD
-http://planettvweb.com:8091/PtaPta567/user8790/11645
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | HBO FAMILY  FHD" tvg-logo="https://i.postimg.cc/FK5qwh0y/HBO-FAMILY-FHD.png" group-title="❇ CINE PREMIUM ❇",CINE  | HBO FAMILY  FHD
-http://cdn1host.online:2999/xman1/899PBb5mwA/119
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO FAMILY  HD" tvg-logo="https://i.postimg.cc/MTtFcRN5/HBO-FAMILY-HD.png" group-title="❇ CINE PREMIUM ❇",CINE | HBO FAMILY  HD
-http://planettvweb.com:8091/PtaPta567/user8790/11653
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO FAMILY  SD" tvg-logo="https://i.postimg.cc/mkD67kGs/HBO-FAMILY-SD.png" group-title="❇ CINE PREMIUM ❇",CINE | HBO FAMILY  SD
-http://planettvweb.com:8091/PtaPta567/user8790/11652
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | HBO PLUS  HD" tvg-logo="https://i.postimg.cc/T1wyh8dF/HBO-PLUS-HD.png" group-title="❇ CINE PREMIUM ❇",CINE  | HBO PLUS  HD
-http://planettvweb.com:8091/PtaPta567/user8790/11647
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | HBO PLUS  SD" tvg-logo="https://i.postimg.cc/4xz3f4vn/HBO-PLUS-SD.png" group-title="❇ CINE PREMIUM ❇",CINE  | HBO PLUS  SD
-http://planettvweb.com:8091/PtaPta567/user8790/11646
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | HBO POP  FHD" tvg-logo="https://i.postimg.cc/ydwv3PnF/HBO-POP-FHD.png" group-title="❇ CINE PREMIUM ❇",CINE  | HBO POP  FHD
-http://cdn1host.online:2999/xman1/899PBb5mwA/117
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | HBO POP  HD" tvg-logo="https://i.postimg.cc/hvLbzqXB/HBO-POP-HD.png" group-title="❇ CINE PREMIUM ❇",CINE  | HBO POP  HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/38.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | HBO POP SD" tvg-logo="https://i.postimg.cc/9fsGLfT2/HBO-POP-SD.png" group-title="❇ CINE PREMIUM ❇",CINE  | HBO POP SD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1243
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | HBO SIGNATURE HD" tvg-logo="https://i.postimg.cc/J0gfJJ8m/HBO-SIGNATURE-HD.png" group-title="❇ CINE PREMIUM ❇",CINE  | HBO SIGNATURE HD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/45
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO SIGNATURE  SD" tvg-logo="https://i.postimg.cc/J4HV8T3h/HBO-SIGNATURE-SD.png" group-title="❇ CINE PREMIUM ❇",CINE | HBO SIGNATURE  SD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/46
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | HBO SIGNATURE HD" tvg-logo="https://i.postimg.cc/J0gfJJ8m/HBO-SIGNATURE-HD.png" group-title="❇ CINE PREMIUM ❇",CINE  | HBO SIGNATURE HD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/45
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO SIGNATURE  SD" tvg-logo="https://i.postimg.cc/J4HV8T3h/HBO-SIGNATURE-SD.png" group-title="❇ CINE PREMIUM ❇",CINE | HBO SIGNATURE  SD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/46
-❇",CINE  | HBO XTREME HD (DUAL)
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/47
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO XTREME  SD" tvg-logo="https://i.postimg.cc/pTjG77MN/HBO-XTREME-SD.png" group-title="❇ CINE PREMIUM ❇",CINE | HBO XTREME  SD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/48
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO MUNDI HD" tvg-logo="https://i.postimg.cc/4dpZH2Xg/HBO-MUNDI-HD.png" group-title="❇ CINE PREMIUM ❇",CINE | HBO MUNDI HD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/469437
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | TNT FHD" tvg-logo="https://i.postimg.cc/GpTMLVxc/TNT-FHD.png" group-title="❇ CINE PREMIUM ❇",CINE  | TNT FHD
-http://cdn1host.online:2999/xman1/899PBb5mwA/074
-#EXTINF:-1 tvg-id="TNT.co" tvg-name="CINE  | TNT HD" tvg-logo="https://i.postimg.cc/qqxDfKXy/TNT-HD.png" group-title="❇ CINE PREMIUM ❇",CINE  | TNT
-HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/93.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | TNT SD" tvg-logo="https://i.postimg.cc/SNV1DWKp/TNT-SD.png" group-title="❇ CINE PREMIUM ❇",CINE  | TNT SD
-http://planettvweb.com:8091/PtaPta567/user8790/11670
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX SD" tvg-logo="https://i.postimg.cc/8z4ydkCF/LOGOS-2025-edit-sd.png" group-title="❇ CINE PREMIUM ❇",CINEMAX SD
-http://cdn1host.online:2999/xman1/899PBb5mwA/082
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX SD" tvg-logo="https://i.postimg.cc/8z4ydkCF/LOGOS-2025-edit-sd.png" group-title="❇ CINE PREMIUM ❇",CINEMAX SD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/16.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX SD" tvg-logo="https://i.postimg.cc/8z4ydkCF/LOGOS-2025-edit-sd.png" group-title="❇ CINE PREMIUM ❇",CINEMAX SD
-http://planettvweb.com:8091/PtaPta567/user8790/11673
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | TN*T SERIES FHD" tvg-logo="https://i.postimg.cc/V6jDMthp/TNT-SERIES-FHD.png" group-title="❇ CINE PREMIUM ❇",CINE  | TN*T SERIES FHD
-http://cdn1host.online:2999/xman1/899PBb5mwA/033
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE | TNT SERIES HD" tvg-logo="https://i.postimg.cc/9f9p5Tc0/TNT-SERIES-HD.png" group-title="❇ CINE PREMIUM ❇",CINE | TNT SERIES HD
-http://planettvweb.com:8091/PtaPta567/user8790/11618
-#EXTINF:-1 tvg-id="" tvg-name="CINE |  TNT SERIES SD" tvg-logo="https://i.postimg.cc/HsS3QdSY/TNT-SERIES-SD.png" group-title="❇ CINE PREMIUM ❇",CINE |  TNT SERIES SD
-http://planettvweb.com:8091/PtaPta567/user8790/11613
-#EXTINF:-1 tvg-id="" tvg-name="CINE |  TNT SERIES SD" tvg-logo="https://i.postimg.cc/HsS3QdSY/TNT-SERIES-SD.png" group-title="❇ CINE PREMIUM ❇",CINE |  TNT SERIES SD
-http://planettvweb.com:8091/PtaPta567/user8790/11612
-#EXTINF:-1 tvg-id="" tvg-name="CINE |  TNT SERIES SD" tvg-logo="https://i.postimg.cc/HsS3QdSY/TNT-SERIES-SD.png" group-title="❇ CINE PREMIUM ❇",CINE |  TNT SERIES SD
-http://planettvweb.com:8091/PtaPta567/user8790/11611
 #EXTINF:-1 tvg-id="" tvg-name="CINE | AMC FHD" tvg-logo="https://i.postimg.cc/pd34tTWq/AMC-FHD.png" group-title="❇ CINE PREMIUM ❇",CINE | AMC FHD
 http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1283
-#EXTINF:-1 tvg-id="" tvg-name="CINE | AMC HD" tvg-logo="https://i.postimg.cc/TYq6qrdG/AMC-HD.png" group-title="❇ CINE PREMIUM ❇",CINE | AMC HD
-http://cdn1host.online:2999/xman1/899PBb5mwA/078
-#EXTINF:-1 tvg-id="" tvg-name="CINE | AMC SD" tvg-logo="https://i.postimg.cc/fLx2nfgR/AMC-SD.png" group-title="❇ CINE PREMIUM ❇",CINE | AMC SD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE | AXN FHD" tvg-logo="https://i.postimg.cc/XvXvpcrN/AXN-FHD.png" group-title="❇ CINE PREMIUM ❇",CINE | AXN FHD
-http://cdn1host.online:2999/xman1/899PBb5mwA/021
-#EXTINF:-1 tvg-id="" tvg-name="CINE | AXN HD" tvg-logo="https://i.postimg.cc/4dkTsztS/AXN-HD.png" group-title="❇ CINE PREMIUM ❇",CINE | AXN HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE | AXN SD" tvg-logo="https://i.postimg.cc/VvzQbmK9/AXN-SD.png" group-title="❇ CINE PREMIUM ❇",CINE | AXN SD
-http://planettvweb.com:8091/PtaPta567/user8790/11606
-#EXTINF:-1 tvg-id="" tvg-name="CINE | CINE LATINO HD" tvg-logo="https://i.postimg.cc/DyRkkN1L/CINE-LATINO-HD2.png" group-title="❇ CINE PREMIUM ❇",CINE | CINE LATINO HD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/100681
-#EXTINF:-1 tvg-id="" tvg-name="CINE | CINECANAL FHD" tvg-logo="https://i.postimg.cc/QNfczScS/CINE-CANAL-FHD.png" group-title="❇ CINE PREMIUM ❇",CINE | CINECANAL FHD
-http://cdn1host.online:2999/xman1/899PBb5mwA/073
-#EXTINF:-1 tvg-id="" tvg-name="CINE | CINECANAL HD" tvg-logo="https://i.postimg.cc/RFMnsnFj/CINE-CANAL-HD.png" group-title="❇ CINE PREMIUM ❇",CINE | CINECANAL HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/10.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="CINE | CINECANAL SD" tvg-logo="https://i.postimg.cc/RV3JDmSV/CINE-CANAL-SD.png" group-title="❇ CINE PREMIUM ❇",CINE | CINECANAL SD
 http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1253
-#EXTINF:-1 tvg-id="" tvg-name="CINE | FX  FHD" tvg-logo="https://i.postimg.cc/MpNdnFCG/FX-FHD.png" group-title="❇ CINE PREMIUM ❇",CINE | FX  FHD
-http://cdn1host.online:2999/xman1/899PBb5mwA/019
-#EXTINF:-1 tvg-id="" tvg-name="CINE | FX  HD" tvg-logo="https://i.postimg.cc/cHMm54rK/FX-HD.png" group-title="❇ CINE PREMIUM ❇",CINE | FX  HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/23.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="CINE | FX  SD" tvg-logo="https://i.postimg.cc/28Xxtt8x/FX-SD.png" group-title="❇ CINE PREMIUM ❇",CINE | FX  SD
 http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1276
-#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN  FHD" tvg-logo="https://i.postimg.cc/pXyfKBY5/GOLDEN-FHD.png" group-title="❇ CINE PREMIUM ❇",CINE | GOLDEN  FHD
-http://planettvweb.com:8091/PtaPta567/user8790/11705
+
 #EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN  HD" tvg-logo="https://i.postimg.cc/wjmDGTr6/GOLDEN-HD.png" group-title="❇ CINE PREMIUM ❇",CINE | GOLDEN  HD
 http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1287
 #EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN  SD" tvg-logo="https://i.postimg.cc/ZRT3nP5R/GOLDEN-SD.png" group-title="❇ CINE PREMIUM ❇",CINE | GOLDEN  SD
 http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1288
-#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN EDG  FHD" tvg-logo="https://i.postimg.cc/1zTXhpV2/GOLDEN-EDGE-FHD.png" group-title="❇ CINE PREMIUM ❇",CINE | GOLDEN EDG  FHD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1289
-#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN EDG  HD" tvg-logo="https://i.postimg.cc/MKKS5nvQ/GOLDEN-EDGE-HD.png" group-title="❇ CINE PREMIUM ❇",CINE | GOLDEN EDG  HD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1290
+
+
 #EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN EDG  SD" tvg-logo="https://i.postimg.cc/651Dhzkk/GOLDEN-EDGE-SD.png" group-title="❇ CINE PREMIUM ❇",CINE | GOLDEN EDG  SD
 http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1291
 #EXTINF:-1 tvg-id="" tvg-name="CINE GOLDEN PLUS FHD" tvg-logo="https://i.postimg.cc/V6YNWcvR/G-PLUS-FHD.png" group-title="❇ CINE PREMIUM ❇",CINE GOLDEN PLUS FHD
