@@ -791,101 +791,222 @@ https://edge19.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w271535189.m3
 
 
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE | AMC FHD" tvg-logo="https://i.postimg.cc/pd34tTWq/AMC-FHD.png" group-title="❇ CINE PREMIUM ❇",CINE | AMC FHD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1283
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE | CINECANAL SD" tvg-logo="https://i.postimg.cc/RV3JDmSV/CINE-CANAL-SD.png" group-title="❇ CINE PREMIUM ❇",CINE | CINECANAL SD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1253
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE | FX  SD" tvg-logo="https://i.postimg.cc/28Xxtt8x/FX-SD.png" group-title="❇ CINE PREMIUM ❇",CINE | FX  SD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1276
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN  HD" tvg-logo="https://i.postimg.cc/wjmDGTr6/GOLDEN-HD.png" group-title="❇ CINE PREMIUM ❇",CINE | GOLDEN  HD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1287
-#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN  SD" tvg-logo="https://i.postimg.cc/ZRT3nP5R/GOLDEN-SD.png" group-title="❇ CINE PREMIUM ❇",CINE | GOLDEN  SD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1288
-
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN EDG  SD" tvg-logo="https://i.postimg.cc/651Dhzkk/GOLDEN-EDGE-SD.png" group-title="❇ CINE PREMIUM ❇",CINE | GOLDEN EDG  SD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1291
-#EXTINF:-1 tvg-id="" tvg-name="CINE GOLDEN PLUS FHD" tvg-logo="https://i.postimg.cc/V6YNWcvR/G-PLUS-FHD.png" group-title="❇ CINE PREMIUM ❇",CINE GOLDEN PLUS FHD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/53940
-#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN PLUS HD" tvg-logo="https://i.postimg.cc/1R8KGxFP/G-PLUS-HD.png" group-title="❇ CINE PREMIUM ❇",CINE | GOLDEN PLUS HD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/53941
-#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN PLUS SD" tvg-logo="https://i.postimg.cc/gjyyxpwP/G-PLUS-SD.png" group-title="❇ CINE PREMIUM ❇",CINE | GOLDEN PLUS SD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/53942
-#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN PREMIER  FHD" tvg-logo="https://i.postimg.cc/FRW2nZfk/GOLDEN-PREMIER-FHD.png" group-title="❇ CINE PREMIUM ❇",CINE | GOLDEN PREMIER  FHD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1292
-#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN PREMIER  HD" tvg-logo="https://i.postimg.cc/0jzLgwmW/GOLDEN-PREMIER-HD.png" group-title="❇ CINE PREMIUM ❇",CINE | GOLDEN PREMIER  HD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1293
-#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN PREMIER  SD" tvg-logo="https://i.postimg.cc/gJTTK25v/GOLDEN-PREMIER-SD.png" group-title="❇ CINE PREMIUM ❇",CINE | GOLDEN PREMIER  SD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1294
-#EXTINF:-1 tvg-id="" tvg-name="CINE | PARAMOUNT CHANEL FHD" tvg-logo="https://i.postimg.cc/nLfLPxs7/PARAMOUNT-CHANNEL-FHD.png" group-title="❇ CINE PREMIUM ❇",CINE | PARAMOUNT CHANEL FHD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/53937
-#EXTINF:-1 tvg-id="" tvg-name="CINE | PARAMOUNT CHANEL HD" tvg-logo="https://i.postimg.cc/vZTQ2BHc/PARAMOUNT-CHANNEL-HD.png" group-title="❇ CINE PREMIUM ❇",CINE | PARAMOUNT CHANEL HD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/53938
-#EXTINF:-1 tvg-id="" tvg-name="CINE | PARAMOUNT CHANEL SD" tvg-logo="https://i.postimg.cc/3xq3sTd9/PARAMOUNT-CHANNEL-SD.png" group-title="❇ CINE PREMIUM ❇",CINE | PARAMOUNT CHANEL SD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/53939
-#EXTINF:-1 tvg-id="" tvg-name="CINE | SONY  HD" tvg-logo="https://i.postimg.cc/0Nd0WBJc/SONY-HD.png" group-title="❇ CINE PREMIUM ❇",CINE | SONY  HD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1263
-#EXTINF:-1 tvg-id="" tvg-name="CINE | SONY  SD" tvg-logo="https://i.postimg.cc/XvwsMvtK/SONY-SD.png" group-title="❇ CINE PREMIUM ❇",CINE | SONY  SD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1264
-#EXTINF:-1 tvg-id="" tvg-name="CINE | SONY FHD DUAL" tvg-logo="https://i.postimg.cc/vHJ7Qsr0/SONY-FHD.png" group-title="❇ CINE PREMIUM ❇",CINE | SONY FHD DUAL
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1261
-#EXTINF:-1 tvg-id="" tvg-name="CINE | SPACE CHANEL  FHD" tvg-logo="https://i.postimg.cc/GmzpXPmv/SPACE-FHD.png" group-title="❇ CINE PREMIUM ❇",CINE | SPACE CHANEL  FHD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1280
-#EXTINF:-1 tvg-id="" tvg-name="CINE | SPACE CHANEL  HD" tvg-logo="https://i.postimg.cc/WzMNggyF/SPACE-HD.png" group-title="❇ CINE PREMIUM ❇",CINE | SPACE CHANEL  HD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1281
-#EXTINF:-1 tvg-id="" tvg-name="CINE | SPACE CHANEL  SD" tvg-logo="https://i.postimg.cc/L4z2ykyh/SPACE-SD.png" group-title="❇ CINE PREMIUM ❇",CINE | SPACE CHANEL  SD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1282
-#EXTINF:-1 tvg-id="" tvg-name="CINE | SPACE CHANEL  SD" tvg-logo="https://i.postimg.cc/L4z2ykyh/SPACE-SD.png" group-title="❇ CINE PREMIUM ❇",CINE | SPACE CHANEL  SD
-http://elpapanatas.space:8080/SamuelChavez/9twPvGj8kvgR/58203
-#EXTINF:-1 tvg-id="" tvg-name="CINE | STAR CHANNEL  HD" tvg-logo="https://i.postimg.cc/63mygjwX/STAR-HD.png" group-title="❇ CINE PREMIUM ❇",CINE | STAR CHANNEL  HD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/30
-#EXTINF:-1 tvg-id="" tvg-name="CINE | STAR CHANNEL  SD" tvg-logo="https://i.postimg.cc/k5MNdHr6/STAR-SD.png" group-title="❇ CINE PREMIUM ❇",CINE | STAR CHANNEL  SD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/31
-#EXTINF:-1 tvg-id="" tvg-name="CINE | TCM FHD" tvg-logo="https://i.postimg.cc/7PQdn54b/TMC-FHD.png" group-title="❇ CINE PREMIUM ❇",CINE | TCM FHD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1265
-#EXTINF:-1 tvg-id="" tvg-name="CINE | TCM  HD" tvg-logo="https://i.postimg.cc/YS3yG98r/TMC-HD.png" group-title="❇ CINE PREMIUM ❇",CINE | TCM  HD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1266
-#EXTINF:-1 tvg-id="" tvg-name="CINE |  TCM SD" tvg-logo="https://i.postimg.cc/mDpXj50K/TMC-SD.png" group-title="❇ CINE PREMIUM ❇",CINE |  TCM SD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1267
-#EXTINF:-1 tvg-id="" tvg-name="CINE | UNIVERSAL CHANEL  HD" tvg-logo="https://i.postimg.cc/L4b4g403/UNIVERSAL-CHANNEL-HD.png" group-title="❇ CINE PREMIUM ❇",CINE | UNIVERSAL CHANEL  HD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1269
-#EXTINF:-1 tvg-id="" tvg-name="CINE | UNIVERSAL CHANEL  SD" tvg-logo="https://i.postimg.cc/cJ0dGvr0/UNIVERSAL-CHANNEL-SD.png" group-title="❇ CINE PREMIUM ❇",CINE | UNIVERSAL CHANEL  SD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1270
-#EXTINF:-1 tvg-id="" tvg-name="CINE | UNIVERSAL STUDIO HD" tvg-logo="https://i.postimg.cc/jjZZq1dC/STUDIO-HD.png" group-title="❇ CINE PREMIUM ❇",CINE | UNIVERSAL STUDIO HD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1268
-#EXTINF:-1 tvg-id="" tvg-name="CINE | WARNER  FHD" tvg-logo="https://i.postimg.cc/SNSFDB2t/WARNER-FHD.png" group-title="❇ CINE PREMIUM ❇",CINE | WARNER  FHD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1258
-#EXTINF:-1 tvg-id="" tvg-name="CINE | WARNER  HD" tvg-logo="https://i.postimg.cc/901k6fRg/WARNER-HD.png" group-title="❇ CINE PREMIUM ❇",CINE | WARNER  HD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1259
-#EXTINF:-1 tvg-id="" tvg-name="CINE | WARNER  SD" tvg-logo="https://i.postimg.cc/Y02nzwn6/WARNER-SD.png" group-title="❇ CINE PREMIUM ❇",CINE | WARNER  SD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/1260
-#EXTINF:-1 tvg-id="" tvg-name="P | UNIVERSAL CINEMA HD" tvg-logo="https://i.postimg.cc/7L0Sk4NF/UNIVERSAL-CINEMA-HD.png" group-title="❇ CINE PREMIUM ❇",P | UNIVERSAL CINEMA HD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/111421
-#EXTINF:-1 tvg-id="" tvg-name="P | UNIVERSAL COMEDY HD" tvg-logo="https://i.postimg.cc/kGnQsHKk/UNIVERSAL-COMEDY-HD.png" group-title="❇ CINE PREMIUM ❇",P | UNIVERSAL COMEDY HD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/111417
-#EXTINF:-1 tvg-id="" tvg-name="P | UNIVERSAL CRIMEN HD" tvg-logo="https://i.postimg.cc/Kz3wFRWZ/UNIVERSAL-CRIME.png" group-title="❇ CINE PREMIUM ❇",P | UNIVERSAL CRIMEN HD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/111422
-#EXTINF:-1 tvg-id="" tvg-name="P | UNIVERSAL PREMIER HD" tvg-logo="https://i.postimg.cc/JhGdcsMb/UNIVERSAL-PREMIER.png" group-title="❇ CINE PREMIUM ❇",P | UNIVERSAL PREMIER HD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/111419
-#EXTINF:-1 tvg-id="" tvg-name="P | UNIVERSAL REALITY HD dual audio" tvg-logo="https://i.postimg.cc/yNZy8c7r/UNIVERSAL-REALITY-HD.png" group-title="❇ CINE PREMIUM ❇",P | UNIVERSAL REALITY HD dual audio
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/111420
-#EXTINF:-1 tvg-id="" tvg-name="US SYFY HD" tvg-logo="https://i.postimg.cc/JnwFxmHV/SYFY-HD.png" group-title="❇ CINE PREMIUM ❇",US SYFY HD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/134418
-#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES HD" tvg-logo="https://i.postimg.cc/0Nd0WBJc/SONY-HD.png" group-title="❇ CINE PREMIUM ❇",SONY MOVIES HD
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/527569
-#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES HD" tvg-logo="https://i.postimg.cc/0Nd0WBJc/SONY-HD.png" group-title="❇ CINE PREMIUM ❇",SONY MOVIES HD
-http://elpapanatas.space:8080/SamuelChavez/9twPvGj8kvgR/58208
-#EXTINF:-1 tvg-id="" tvg-name="CINE FAMILIAR test" tvg-logo="" group-title="❇ CINE PREMIUM ❇",CINE FAMILIAR test
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/626057
-#EXTINF:-1 tvg-id="" tvg-name="CINE PREMIUM Test" tvg-logo="" group-title="❇ CINE PREMIUM ❇",CINE PREMIUM Test
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/626060
-#EXTINF:-1 tvg-id="" tvg-name="CINE HISPANO Test" tvg-logo="" group-title="❇ CINE PREMIUM ❇",CINE HISPANO Test
-http://flowzy.work:8080/Arce3682/cEGuVWH9dcMQ/626063
+#EXTINF:-1 group-title="NUEVOS",NEW | A&E HD
+http://181.78.4.250:8097/play/a07f/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | AMC HD
+http://181.78.4.250:8097/play/a07m/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | AXN HD
+http://181.78.4.250:8097/play/a08p/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Adult Swim
+http://181.78.4.250:8097/play/a0d5/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Animal Planet
+http://181.78.4.250:8097/play/a0bx/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Atres Series HD
+http://181.78.4.250:8097/play/a0bq/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Baby TV
+http://181.78.4.250:8097/play/a0bd/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Bethel TV
+http://181.78.4.250:8097/play/a0cu/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | CNN Espaæol
+http://181.78.4.250:8097/play/a0be/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Canal 24 Horas
+http://181.78.4.250:8097/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Canal Caracol
+http://181.78.4.250:8097/play/a0ad/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Canal Institucional
+http://181.78.4.250:8097/play/a09q/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Canal RCN
+http://181.78.4.250:8097/play/a0ae/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Canal Uno
+http://181.78.4.250:8097/play/a09o/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Canal del Congreso
+http://181.78.4.250:8097/play/a09r/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Capital
+http://181.78.4.250:8097/play/a09w/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Cartoon Network HD
+http://181.78.4.250:8097/play/a0bt/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Cartoonito
+http://181.78.4.250:8097/play/a0bn/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Cinecanal HD
+http://181.78.4.250:8097/play/a0c2/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Cinemax HD
+http://181.78.4.250:8097/play/a07o/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | City TV
+http://181.78.4.250:8097/play/a09v/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Clover
+http://181.78.4.250:8097/play/a0cg/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Comedy Central HD
+http://181.78.4.250:8097/play/a0cd/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | DHE HD
+http://181.78.4.250:8097/play/a0bw/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | DW Espaæol
+http://181.78.4.250:8097/play/a0bc/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | De PelŦcula
+http://181.78.4.250:8097/play/a09l/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Discovery Channel HD
+http://181.78.4.250:8097/play/a0by/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Discovery Kids HD
+http://181.78.4.250:8097/play/a0bl/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Discovery Science
+http://181.78.4.250:8097/play/a090/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Discovery Turbo
+http://181.78.4.250:8097/play/a0bf/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Disney Channel
+http://181.78.4.250:8097/play/a0c5/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Disney Jr.
+http://181.78.4.250:8097/play/a0cl/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | ESPN 2 HD
+http://181.78.4.250:8097/play/a0bp/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | ESPN 3 HD
+http://181.78.4.250:8097/play/a08o/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | ESPN 4 HD
+http://181.78.4.250:8097/play/a0c6/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | ESPN 5
+http://181.78.4.250:8097/play/a0d3/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | ESPN 6 HD
+http://181.78.4.250:8097/play/a0co/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | ESPN 7HD
+http://181.78.4.250:8097/play/a07k/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | ESPN HD
+http://181.78.4.250:8097/play/a0aa/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | ESPN Premium HD
+http://181.78.4.250:8097/play/a0cw/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | EWTN
+http://181.78.4.250:8097/play/a0bi/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | El Gourmet HD
+http://181.78.4.250:8097/play/a080/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Enlace
+http://181.78.4.250:8097/play/a0bj/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | FX HD
+http://181.78.4.250:8097/play/a0c7/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Food Network
+http://181.78.4.250:8097/play/a0bk/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Golden
+http://181.78.4.250:8097/play/a06s/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Golden Edge
+http://181.78.4.250:8097/play/a06r/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | HBO Family HD
+http://181.78.4.250:8097/play/a0db/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | HBO HD
+http://181.78.4.250:8097/play/a0da/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | HBO Mundi
+http://181.78.4.250:8097/play/a0d9/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | HGTV
+http://181.78.4.250:8097/play/a09j/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | HTV
+http://181.78.4.250:8097/play/a0ch/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | History 2
+http://181.78.4.250:8097/play/a0cf/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | History Channel HD
+http://181.78.4.250:8097/play/a0bz/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Home & Health HD
+http://181.78.4.250:8097/play/a0c9/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | ID HD
+http://181.78.4.250:8097/play/a0c3/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Kanal D Drama
+http://181.78.4.250:8097/play/a0cn/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Las Estrellas HD
+http://181.78.4.250:8097/play/a0bv/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Latina HD
+http://181.78.4.250:8097/play/a0b3/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Lifetime
+http://181.78.4.250:8097/play/a091/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Love Nature
+http://181.78.4.250:8097/play/a0b7/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | MEGA HD
+http://181.78.4.250:8097/play/a0cv/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | MTV HD
+http://181.78.4.250:8097/play/a0bs/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | NTN24
+http://181.78.4.250:8097/play/a0cs/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Nat Geo HD
+http://181.78.4.250:8097/play/a0c0/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Nick Jr.
+http://181.78.4.250:8097/play/a0b8/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Nickelodeon HD
+http://181.78.4.250:8097/play/a0cm/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | PARAVISION
+http://181.78.4.250:8097/play/a0a8/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Panamericana
+http://181.78.4.250:8097/play/a0ba/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Pasiones HD
+http://181.78.4.250:8097/play/a09c/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Plim Plim TV
+http://181.78.4.250:8097/play/a0b4/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Senal Colombia
+http://181.78.4.250:8097/play/a09s/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Sin Limites
+http://181.78.4.250:8097/play/a0cr/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Sony HD
+http://181.78.4.250:8097/play/a08q/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Sony Movies
+http://181.78.4.250:8097/play/a0bm/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Space HD
+http://181.78.4.250:8097/play/a0c4/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Star Channel HD
+http://181.78.4.250:8097/play/a0c8/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Stingray Concerts HD
+http://181.78.4.250:8097/play/a0b2/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Studio Universal HD
+http://181.78.4.250:8097/play/a07d/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | TCM
+http://181.78.4.250:8097/play/a0ca/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | TLC
+http://181.78.4.250:8097/play/a08z/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | TNT HD
+http://181.78.4.250:8097/play/a0c1/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | TNT Novelas HD
+http://181.78.4.250:8097/play/a08m/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | TNT Series HD
+http://181.78.4.250:8097/play/a0br/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | TNT Sports Premium SD
+http://181.78.4.250:8097/play/a0cp/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | TRO
+http://181.78.4.250:8097/play/a09t/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | TVE
+http://181.78.4.250:8097/play/a0bb/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Teleamazonas
+http://181.78.4.250:8097/play/a09p/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Teleantioquia
+http://181.78.4.250:8097/play/a09y/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Telecafe
+http://181.78.4.250:8097/play/a0a1/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Telecaribe
+http://181.78.4.250:8097/play/a0a0/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | TelefØ
+http://181.78.4.250:8097/play/a0b9/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Teleislas
+http://181.78.4.250:8097/play/a09u/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Telemundo
+http://181.78.4.250:8097/play/a0bg/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Telepacifico
+http://181.78.4.250:8097/play/a09z/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Tlnovelas
+http://181.78.4.250:8097/play/a0bu/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Tooncast
+http://181.78.4.250:8097/play/a0bh/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Trece
+http://181.78.4.250:8097/play/a0a2/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | TyC
+http://181.78.4.250:8097/play/a0ah/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | UNIVERSAL CHANNEL HD
+http://181.78.4.250:8097/play/a0bo/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | USA SD
+http://181.78.4.250:8097/play/a0cb/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | ViaX
+http://181.78.4.250:8097/play/a0aj/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | WIN HD
+http://181.78.4.250:8097/play/a0av/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Warner TV HD
+http://181.78.4.250:8097/play/a0cq/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Win
+http://181.78.4.250:8097/play/a0as/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Win Sports+ HD
+http://181.78.4.250:8097/play/a09m/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Zona Latina
+http://181.78.4.250:8097/play/a0ce/index.m3u8
+#EXTINF:-1 group-title="NUEVOS",NEW | Zoom
+http://181.78.4.250:8097/play/a0cc/index.m3u8
 
 
 
