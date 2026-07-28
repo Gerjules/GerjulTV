@@ -118,46 +118,7 @@ https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 #EXTINF:0 group-title="PARAGUAY",PY | Villa Elisa Radio TV (1080p)
 https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion
 
-#EXTINF:0 group-title="PARAGUAY",PY | CANAL PRO
-http://24.152.42.29:8000/play/a02k/index.m3u8?hls
 
-#EXTINF:0 group-title="PARAGUAY",PY | GUAIRA TV
-http://24.152.42.29:8000/play/a02m/index.m3u8?hls
-
-
-
-#EXTINF:0 group-title="PARAGUAY",PY | Republica 101.3 FM
-http://24.152.42.29:8000/play/a033/index.m3u8?hls
-
-
-
-
-#EXTINF:-1  group-title="PARAGUAY",PY | AGR C 7 Curuguaty
-http://24.152.42.29:8000/play/a034/index.m3u8?hls
-
-#EXTINF:0 group-title="PARAGUAY",PY | Tv Canindeyu
-http://24.152.42.29:8000/play/a091/index.m3u8?hls
-
-
-
-
-#EXTINF:-1 tvg-id="TVCamara.py" tvg-logo="http://imgfz.com/i/QTcoH5d.jpeg" group-title="PARAGUAY",PY | TV CAMARA
-http://24.152.42.29:8000/play/a02a/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="ParaguayTV.py" tvg-logo="https://i.ibb.co/pB0cvBG1/py-Tv-web-2.png" group-title="PARAGUAY",PY | PARAGUAY TV
-http://24.152.42.29:8000/play/a01q/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="E40.py" tvg-logo="https://i.ibb.co/jz9XkvP/e40.png" group-title="PARAGUAY",PY |  E40
-http://24.152.42.29:8000/play/a03a/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="FarraPlay.py" tvg-logo="https://i.imgur.com/bXWzstH.png" group-title="PARAGUAY",PY |  FARRA TV
-http://24.152.42.29:8000/play/a06a/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="PARAGUAY",PY | Venus Tv
-http://24.152.42.29:8000/play/a069/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/exbBCaessS5ew-F6NFy9u6u6Yy-K7kMZ1OOI9CtlxSC-CK1W6FZaD9j-OqQBv-piZeakhs1ayg=s160-c-k-c0x00ffffff-no-rj" group-title="PARAGUAY",PY | , POPU TV
-https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
 
 
 
@@ -167,8 +128,7 @@ https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?
 #EXTINF:-1 tvg-id="HEiNow.py" tvg-logo="https://radiosdeparaguay.com.py/wp-content/uploads/2020/09/Radio-Hei.jpg" group-title="PARAGUAY",PY |  HEI NOW
 https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
 
-#EXTINF:-1 tvg-id="MotorSurMedia.py" tvg-logo="https://i.postimg.cc/q761GQm6/motor-sur-media.png" group-title="PARAGUAY",PY |  MOTOR SUR MEDIA
-http://24.152.42.29:8000/play/a08z/index.m3u8?hls
+
 
 
 #EXTINF:-1 tvg-id="CaritasTV.py" tvg-logo="https://i.postimg.cc/P5nLVXQ2/caritas-tv.png" group-title="PARAGUAY",PY |  CÁRITAS TV
@@ -296,6 +256,48 @@ https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
 
 #EXTINF:0 group-title="PARAGUAY",PY | RQP Paraguay (1080i)
 https://alba-py-rqp-rqp.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:0 group-title="PARAGUAY",PY | CANAL PRO
+http://24.152.42.29:8000/play/a02k/index.m3u8?hls
+
+#EXTINF:0 group-title="PARAGUAY",PY | GUAIRA TV
+http://24.152.42.29:8000/play/a02m/index.m3u8?hls
+
+
+#EXTINF:0 group-title="PARAGUAY",PY | Republica 101.3 FM
+http://24.152.42.29:8000/play/a033/index.m3u8?hls
+
+
+#EXTINF:-1  group-title="PARAGUAY",PY | AGR C 7 Curuguaty
+http://24.152.42.29:8000/play/a034/index.m3u8?hls
+
+
+#EXTINF:0 group-title="PARAGUAY",PY | Tv Canindeyu
+http://24.152.42.29:8000/play/a091/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="TVCamara.py" tvg-logo="http://imgfz.com/i/QTcoH5d.jpeg" group-title="PARAGUAY",PY | TV CAMARA
+http://24.152.42.29:8000/play/a02a/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="ParaguayTV.py" tvg-logo="https://i.ibb.co/pB0cvBG1/py-Tv-web-2.png" group-title="PARAGUAY",PY | PARAGUAY TV
+http://24.152.42.29:8000/play/a01q/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="E40.py" tvg-logo="https://i.ibb.co/jz9XkvP/e40.png" group-title="PARAGUAY",PY |  E40
+http://24.152.42.29:8000/play/a03a/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="FarraPlay.py" tvg-logo="https://i.imgur.com/bXWzstH.png" group-title="PARAGUAY",PY |  FARRA TV
+http://24.152.42.29:8000/play/a06a/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="PARAGUAY",PY | Venus Tv
+http://24.152.42.29:8000/play/a069/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/exbBCaessS5ew-F6NFy9u6u6Yy-K7kMZ1OOI9CtlxSC-CK1W6FZaD9j-OqQBv-piZeakhs1ayg=s160-c-k-c0x00ffffff-no-rj" group-title="PARAGUAY",PY | , POPU TV
+https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
+
+#EXTINF:-1 tvg-id="MotorSurMedia.py" tvg-logo="https://i.postimg.cc/q761GQm6/motor-sur-media.png" group-title="PARAGUAY",PY |  MOTOR SUR MEDIA
+http://24.152.42.29:8000/play/a08z/index.m3u8?hls
+
 
 
 
