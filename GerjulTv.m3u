@@ -5,7 +5,6 @@
 https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8
 
 
-
 #EXTINF:-1 tvg-id="" tvg-name="PY | TELEFUTURO SD **" tvg-logo="https://i.postimg.cc/TPzkJYr9/Tel3futuro.png" group-title="PARAGUAY",PY |  TELEFUTURO sD **
 http://45.170.130.224:8000/play/a014/index.m3u8
 
@@ -37,12 +36,8 @@ https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
 
 
 
-
-
-
 #EXTINF:0 tvg-logo="https://i.ibb.co/Hn6M4Sv/abc.png" group-title="PARAGUAY",PY | ÑANDUTI
 https://copacogen.desdeparaguay.net/nandutitv/nandutitv_baja/index.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="http://181.233.124.53:80/images/6511d9ea85ac62d0f3e6e3cea7cff471.png" group-title="PARAGUAY",PY | Tigo Sports
