@@ -23,7 +23,7 @@ https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tva
 https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
 
 
-#EXTINF:0 group-title="PARAGUAY",PY | MEGA TV
+#EXTINF:-1 group-title="PARAGUAY",PY | MEGA TV
 https://www.desde-paraguay.com/mega.m3u8
 
 #EXTINF:-1 tvg-id="UnionTV.py" tvg-logo="https://i.ibb.co/HLvq6nfQ/logo-retina-01.png" group-title="PARAGUAY",PY |  UNION TV
@@ -43,6 +43,15 @@ https://copacogen.desdeparaguay.net/nandutitv/nandutitv_baja/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.233.124.53:80/images/6511d9ea85ac62d0f3e6e3cea7cff471.png" group-title="PARAGUAY",PY | Tigo Sports
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index_6.m3u8?z=b
 
+#EXTINF:60, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="PARAGUAY",PY |  - Tigo Sports (1080p)
+#EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=50000
+https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index_6.m3u8?z=b
+
+#EXTINF:11, group-title="PARAGUAY",PY | ,Tigo Sports+
+#EXTVLCOPT:network-caching=50000
+http://45.170.130.224:8000/play/a04i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/exbBCaessS5ew-F6NFy9u6u6Yy-K7kMZ1OOI9CtlxSC-CK1W6FZaD9j-OqQBv-piZeakhs1ayg=s160-c-k-c0x00ffffff-no-rj" group-title="PARAGUAY",PY | , POPU TV
 http://190.108.83.69:8000/play/a070/index.m3u8
@@ -177,12 +186,6 @@ https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 
 
 
-
-
-#EXTINF:0 tvg-logo=" " group-title="PARAGUAY",PY | Bruno Masi TV (720p)
-https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
-
-
 #EXTINF:0 group-title="PARAGUAY",PY | 4DmásNoticias TV (1080p)
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 
@@ -196,15 +199,11 @@ http://159.203.148.226/live/farra_low.m3u8
 
 
 
-
 #EXTINF:-1 tvg-id="Trece.py" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfKOWcmza3biSWSrLZMRhYP5Mb9DnSZu5qyQ&s" group-title="PARAGUAY",PY | TRECE
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9I0DPZntqtOUwPQxStX-muY
 
 #EXTINF:-1 tvg-id="Unicanal.py" tvg-logo="https://graph.facebook.com/Unicanal/picture?width=200&height=200" group-title="PARAGUAY",PY |  UNICANAL
 http://24.152.42.29:8000/play/a03h/index.m3u8?hls
-
-
-
 
 
 
